@@ -1,15 +1,17 @@
 // ==UserScript==
 // @name        Mangaupdates Groups Fix
-// @namespace   -
+// @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.2
+// @version     1.3
+// @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
+// @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
 // ==/UserScript==
 
 var groupID=document.URL.replace(/^.+id=/,'');
 var groupSite='';
 
-groups = {
+var groups = {
     "16" : "http://manga-fiends.cjb.net",
     "17" : "http://www.mangareaders.com",
     "18" : "http://tjo.one-liners.net/index.php",
