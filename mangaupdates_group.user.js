@@ -3370,7 +3370,6 @@ var groups = {
 };
 /* groupID < 5204 --> old */
 groupSite=groups[groupID];
-console.log(groupSite);
  
 var list = document.getElementsByClassName("text");
 var irc='';
