@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.4
+// @version     1.4.1
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -751,7 +751,7 @@ var groups = {
     "2199": "http://www.ggkthx.org/",
     "2201": "http://community.livejournal.com/perox2scans/profile",
     "2203": "http://sagakure.livejournal.com/",
-    "2204": "http://www.mangaupdates.com/series.html?id=50950",
+    "2204": "http://www.cxcscans.com/",
     "2206": "http://thinkinginhell.freevar.com/index.html",
     "2209": "http://www.fanelorn.net/kotatsuworks/",
     "221": "http://eien.fr/",
