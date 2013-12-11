@@ -342,7 +342,7 @@ var groups = {
     "1557": "http://community.livejournal.com/hanashinotsuyu/",
     "1560": "http://sakurascans.livejournal.com/",
     "1566": "http://hatsuharupeace.proboards82.com/",
-    "1568": "http://mahouxscans.wordpress.com/",
+    "1568": "http://mahouxscans.com/",
     "157": "http://www.hngotrans.net",
     "1570": "http://www.bakalicious.net/",
     "1571": "http://www.hdmanga.blogspot.com/",
