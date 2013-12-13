@@ -2435,7 +2435,7 @@ var groups = {
     "4625": "http://suiseiscans.wordpress.com/",
     "4627": "http://urabokuscanlations.wordpress.com/",
     "4628": "http://eliology.com/",
-    "4629": "http://roseliascans.blogspot.com/",
+    "4629": "http://www.roseliascans.com/",
     "4630": "http://ubazo.com/",
     "4631": "http://hanra.hannugi.com",
     "4632": "http://livingdolls.bookmunchies.com/",
