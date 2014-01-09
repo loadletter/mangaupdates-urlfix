@@ -1242,7 +1242,7 @@ var groups = {
     "2902": "http://community.livejournal.com/goldstarscans/",
     "2904": "http://sscans.livejournal.com",
     "2905": "http://community.livejournal.com/boysxboys/",
-    "2909": "http://omaris-sister.blogspot.com/",
+    "2909": "http://crimson-flower.blogspot.com/",
     "291": "http://www.yuuwatase.org",
     "2910": "http://projectenis.blogspot.com/",
     "2912": "http://freewebs.com/mywishing-star",
