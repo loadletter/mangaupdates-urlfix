@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.4.5
+// @version     1.4.6
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3100,9 +3100,11 @@ var groups = {
     "5765": "http://kiekie895.wix.com/otomescans",
     "5771": "http://hyouka-rangers.tumblr.com",
     "5776": "http://revolution.team.forumcommunity.net/",
+    "5796": "http://aizendesu.blogspot.com/",
     "580": "http://www.kymophobia.com",
     "581": "http://bluelittleone.livejournal.com/",
     "582": "http://community.livejournal.com/sakuragi_yaya/",
+    "5822": "http://v16translations.wordpress.com",
     "583": "http://ochibichan.net/",
     "584": "http://www.jinchuuriki.com",
     "585": "http://www.beck-mcs.org/indexen.php",
