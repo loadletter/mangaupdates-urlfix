@@ -3027,7 +3027,7 @@ var groups = {
     "5636": "http://sheraroxx.blogspot.com",
     "5637": "http://amscans.wordpress.com",
     "5638": "http://www.moonflower-scans.tk",
-    "5640": "http://pocketloli.blogspot.com/",
+    "5640": "http://www.pocketloli.com/",
     "5641": "http://snowsan.wordpress.com",
     "5644": "http://rottenscans.wordpress.com/",
     "5647": "http://baka-dumb-aho-scans.tumblr.com/",
