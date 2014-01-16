@@ -3042,7 +3042,7 @@ var groups = {
     "5658": "http://wneescanslations.blogspot.com/",
     "5659": "http://cm-scans.tumblr.com/",
     "566": "http://lamplighter.zukafuji.org/",
-    "5661": "http://pmpowa.blogspot.it",
+    "5661": "http://powermanga.org/",
     "5663": "http://karnoodle.tumblr.com",
     "5664": "http://day0dream.blogspot.com/",
     "5665": "http://konoerogaki.tumblr.com",
