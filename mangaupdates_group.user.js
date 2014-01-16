@@ -3402,7 +3402,7 @@ groupSite=groups[groupID];
 var list = document.getElementsByClassName("text");
 var irc='';
 var site = document.createElement('tr');
-site.innerHTML='<td class="text"><u>Site</u></td><td class="text"><a target="_blank" alt="" href="'+groupSite+'"><u>'+groupSite+'</u></a></td>';
+site.innerHTML='<td class="text"><u>Site</u><a href="#" onclick="openSuggBox();"> (Suggest an update)</a></td><td class="text"><a target="_blank" alt="" href="'+groupSite+'"><u>'+groupSite+'</u></a></td>';
 for (i=0; i<list.length; i++){
 	if (list[i].innerHTML == "<u>IRC</u>") {
 		if((irc=list[i].nextSibling.innerHTML) != "<i>No IRC</i>"){
@@ -3418,4 +3418,13 @@ for (i=0; i<list.length; i++){
 
 function insertAfter(referenceNode, newNode) {
     referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+}
+
+
+function openSuggBox()
+{
+    suggboxurl = "http://localhost:5000/form?group=" + groupID;
+    if(groupSite !== undefined)
+        suggboxurl += "&update=yes";
+    window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');
 }
