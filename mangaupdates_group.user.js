@@ -3402,6 +3402,7 @@ groupSite=groups[groupID];
 var list = document.getElementsByClassName("text");
 var irc='';
 var site = document.createElement('tr');
+window.openSuggBox = openSuggBox;
 site.innerHTML='<td class="text"><u>Site</u><a href="#" onclick="openSuggBox();"> (Suggest an update)</a></td><td class="text"><a target="_blank" alt="" href="'+groupSite+'"><u>'+groupSite+'</u></a></td>';
 for (i=0; i<list.length; i++){
 	if (list[i].innerHTML == "<u>IRC</u>") {
