@@ -8,7 +8,7 @@
 // @grant       none
 // ==/UserScript==
 
-var groupID=document.URL.replace(/^.+id=/,'');
+var groupID=document.URL.replace(/^.+id=/,'').replace('#', '');
 var groupSite='';
 
 var groups = {
@@ -3402,7 +3402,12 @@ groupSite=groups[groupID];
 var list = document.getElementsByClassName("text");
 var irc='';
 var site = document.createElement('tr');
-window.openSuggBox = openSuggBox;
+
+/* hack to make suggestionbox work on chrome part 1*/
+var oscript = document.createElement('script');
+oscript.appendChild(document.createTextNode('groupID=' + groupID + ';' + 'groupSite="' + groupSite + '";' + '('+ insertScript +')();'));
+(document.body || document.head || document.documentElement).appendChild(oscript);
+
 site.innerHTML='<td class="text"><u>Site</u><a href="#" onclick="openSuggBox();"> (Suggest an update)</a></td><td class="text"><a target="_blank" alt="" href="'+groupSite+'"><u>'+groupSite+'</u></a></td>';
 for (i=0; i<list.length; i++){
 	if (list[i].innerHTML == "<u>IRC</u>") {
@@ -3421,11 +3426,9 @@ function insertAfter(referenceNode, newNode) {
     referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
 }
 
-
-function openSuggBox()
+/* hack to make suggestionbox work on chrome part 2*/
+function insertScript()
 {
-    suggboxurl = "http://localhost:5000/form?group=" + groupID;
-    if(groupSite !== undefined)
-        suggboxurl += "&update=yes";
-    window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');
+	window.openSuggBox = function(){var suggboxurl = "http://localhost:5000/form?group=" + groupID; if(groupSite !== "undefined") suggboxurl += "&update=yes"; window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');};
 }
+
