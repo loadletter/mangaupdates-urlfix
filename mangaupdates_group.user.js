@@ -3429,6 +3429,6 @@ function insertAfter(referenceNode, newNode) {
 /* hack to make suggestionbox work on chrome part 2*/
 function insertScript()
 {
-	window.openSuggBox = function(){var suggboxurl = "http://localhost:5000/form?group=" + groupID; if(groupSite !== "undefined") suggboxurl += "&update=yes"; window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');};
+	window.openSuggBox = function(){var suggboxurl = "http://mufix.herokuapp.com/form?group=" + groupID; if(groupSite !== "undefined") suggboxurl += "&update=yes"; window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');};
 }
 
