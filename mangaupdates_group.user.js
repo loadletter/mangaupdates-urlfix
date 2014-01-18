@@ -8,9 +8,6 @@
 // @grant       none
 // ==/UserScript==
 
-var groupID=document.URL.replace(/^.+id=/,'').replace('#', '');
-var groupSite='';
-
 var groups = {
     "1000": "http://www.anime-gundam.com/",
     "1001": "http://www.animecouncil.net/",
@@ -3396,6 +3393,11 @@ var groups = {
     "998": "http://yatta-scans.aniartworks.com",
     "999": "http://www.onepiecehq.com/"
 };
+
+
+var groupID=document.URL.replace(/^.+id=/,'').replace('#', '');
+var groupSite='';
+
 /* groupID < 5204 --> old */
 groupSite=groups[groupID];
  
