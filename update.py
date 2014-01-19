@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import os, re, sys, urllib2, json, subprocess, StringIO
+import os, re, sys, urllib2, json, subprocess, tempfile
 
 
 WWWBROWSER = "firefox"
@@ -134,6 +134,10 @@ def row2dict(row, outdict={}):
 	outdict.update({row[1] : row[2]})
 	return outdict
 
+def tmpfile_object():
+	fdesc, path = tempfile.mkstemp()
+	return os.fdopen(fdesc, 'w'), path
+
 def updatefromdb():
 	print "Proceed? (y/n)"
 	answer = raw_input("[n]> ")
@@ -160,9 +164,12 @@ def updatefromdb():
 	
 	print "-------------------"
 	mergediff(currentgroups, gooddict)
-	changelog = StringIO.StringIO()
-	mergediff(currentgroups, gooddict, verbose=False, output=changelog)
 	print "-------------------"
+	
+	newver = incversion(currentversion)
+	changelog, changelogpath = tmpfile_object()
+	print >>changelog, "Release %s" % newver
+	mergediff(currentgroups, gooddict, verbose=False, output=changelog)
 	
 	print "Merge? (y/n)"
 	answer = raw_input("[n]> ")
@@ -171,7 +178,6 @@ def updatefromdb():
 	
 	mergedict(currentgroups, gooddict)
 	print "Done!"
-	newver = incversion(currentversion)
 	print "New version will be:", newver
 	
 	print "Save data? (y/n)"
