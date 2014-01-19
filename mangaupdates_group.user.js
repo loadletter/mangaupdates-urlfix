@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.0
+// @version     1.5.1
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -762,7 +762,7 @@ var groups = {
     "2220": "http://mellylemon.livejournal.com/",
     "2223": "http://www.sogifiers.info",
     "2225": "http://nonamescan.wordpress.com/",
-    "2226": "http://nerieru.com/wp/",
+    "2226": "http://nerieruscans.bl.ee/",
     "2227": "http://sugarcubescans.livejournal.com/",
     "223": "http://trapnest.scanlations.net/",
     "2232": "http://kazeyumi.livejournal.com",
@@ -3117,8 +3117,8 @@ var groups = {
     "5822": "http://v16translations.wordpress.com",
     "5823": "http://www.batoto.net/group/_/s/scan%E3%82%8A%E3%83%BCtions-r3857",
     "5824": "http://www.batoto.net/group/_/a/amadmanscans-r3240",
-    "5832": "http://www.batoto.net/group/_/d/disdeeee-r3849",
     "583": "http://ochibichan.net/",
+    "5832": "http://www.batoto.net/group/_/d/disdeeee-r3849",
     "584": "http://www.jinchuuriki.com",
     "585": "http://www.beck-mcs.org/indexen.php",
     "586": "http://unexpectedtimes.livejournal.com/",
@@ -3393,7 +3393,6 @@ var groups = {
     "998": "http://yatta-scans.aniartworks.com",
     "999": "http://www.onepiecehq.com/"
 };
-
 
 var groupID=document.URL.replace(/^.+id=/,'').replace('#', '');
 var groupSite='';
