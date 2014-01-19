@@ -1,9 +1,15 @@
 #!/usr/bin/env python
-import os, re, sys, urllib2, json, psycopg2, subprocess
-from dbconf import DSN
+import os, re, sys, urllib2, json, subprocess
+
 
 WWWBROWSER = "firefox"
 GROUPURL = "http://www.mangaupdates.com/groups.html?id=%i"
+CURRDIR = os.path.dirname(os.path.abspath(__file__))
+SRCDIR = os.path.join(CURRDIR, "src")
+
+if len(sys.argv) == 2 and sys.argv[1] == 'remotedb':
+	import psycopg2
+	from dbconf import DSN
 
 def jsonloadf(filename):
 	f = open(filename)
@@ -97,6 +103,22 @@ def actionrow(row, goodlist, badlist):
 		badlist.append(row)
 	return answer
 
+def incversion(ver):
+	""" look for the last sequence of number(s) in a string and increment """
+	lastnum = re.compile(r'(?:[^\d]*(\d+)[^\d]*)+')
+	res = lastnum.search(ver)
+	if res:
+		incnum = str(int(res.group(1))+1)
+		start, end = res.span(1)
+		ver = ver[:max(end - len(incnum), start)] + incnum + ver[end:]
+	return ver
 
+def main():
+	if len(sys.argv) < 2:
+		print "Missing argument\nUsage:"
+		print "update.py remotedb"
+		print "update.py localjson filename"
+		sys.exit(2)
+    
 if __name__ == '__main__':
     main()
