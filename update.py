@@ -239,7 +239,30 @@ def updatefromdb():
 	subprocess.call(gitargs, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr)
 	
 	#ask what to delete (nothing, bad, good, both)
-	#end
+	while True:
+		print "Delete from database?"
+		print "0) None"
+		print "1) Bad"
+		print "2) Good"
+		print "3) All"
+		answer = raw_input()
+		if answer not in ['0', '1', '2', '3']:
+			print "Error"
+			continue
+		break
+	answer = int(answer)
+	
+	if answer == 0:
+		sys.exit(0)
+	elif answer == 1:
+		deletelist = map(lambda x: x[0], bad)
+	elif answer == 2:
+		deletelist = map(lambda x: x[0], good)
+	elif answer == 3:
+		deletelist = map(lambda x: x[0], bad) + map(lambda x: x[0], good)
+		
+	deletequeued(deletelist)
+	os.remove(changelogpath)
 	
 def main():
 	if len(sys.argv) < 2:
@@ -247,6 +270,9 @@ def main():
 		print "update.py remotedb"
 		print "update.py localjson filename"
 		sys.exit(2)
+	
+	if sys.argv[1] == "remotedb":
+		updatefromdb()
     
 if __name__ == '__main__':
     main()
