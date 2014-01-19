@@ -87,7 +87,7 @@ def reviewqueue(data):
 	for row in data:
 		print "Loading:", repr(row)
 		muurl = GROUPURL % int(row[1])
-		browserargs = [WWWBROWSER, '"%s"' % muurl, '"%s"' % row[2].encode('utf-8')]
+		browserargs = [WWWBROWSER, muurl, row[2].encode('utf-8')]
 		subprocess.call(browserargs)
 		actionrow(row, goodlist, badlist)
 	
