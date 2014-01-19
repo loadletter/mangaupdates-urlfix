@@ -127,16 +127,16 @@ def mergediff(origin_dict, update_dict, verbose=True, output=sys.stdout):
 	for k, v in update_dict.iteritems():
 		if k in origin_dict and origin_dict[k] == v:
 			if verbose:
-				print >>output, "Unchanged {%i : %s}" % (k, v)
+				print >>output, "Unchanged {%s : %s}" % (k, v)
 		elif k in origin_dict and origin_dict[k] != v:
-			out = "Updated {%i : %s} ==> {%i : %s}" % (k, origin_dict[k], k, v) if verbose else "Updated %i" % k
+			out = "Updated {%s : %s} ==> {%s : %s}" % (k, origin_dict[k], k, v) if verbose else "Updated %s" % k
 			print >>output, out
 		else:
-			out = "Added {%i : %s}" % (k, v) if verbose else "Added %i" % k
+			out = "Added {%s : %s}" % (k, v) if verbose else "Added %s" % k
 			print >>output, out
 
 def row2dict(row, outdict={}):
-	outdict.update({row[1] : row[2]})
+	outdict.update({str(row[1]) : row[2]})
 	return outdict
 
 def tmpfile_object():
