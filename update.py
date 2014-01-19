@@ -4,22 +4,27 @@ import os, re, sys, urllib2, json, subprocess, tempfile
 
 WWWBROWSER = "firefox"
 GROUPURL = "http://www.mangaupdates.com/groups.html?id=%i"
+SCRIPTNAME = "mangaupdates_group.user.js"
 CURRDIR = os.path.dirname(os.path.abspath(__file__))
 SRCDIR = os.path.join(CURRDIR, "src")
 GROUPSJSON = os.path.join(SRCDIR, "groups.json")
 VERSIONJSON = os.path.join(SRCDIR, "version.json")
+SCRIPTEMPLATE = os.path.join(SRCDIR, SCRIPTNAME)
+USERSCRIPT = os.path.join(CURRDIR, SCRIPTNAME)
+METASCRIPT = os.path.join(CURRDIR, SCRIPTNAME.replace(".user.", ".meta."))
 
 if len(sys.argv) == 2 and sys.argv[1] == 'remotedb':
 	import psycopg2
 	from dbconf import DSN
 
 def jsonloadf(filename):
-	f = open(filename)
-	return json.load(f, 'utf-8')
+	with open(filename) as f:
+		data = json.load(f, 'utf-8')
+	return data
 
 def jsonsavef(filename, data):
-	f = open(filename, 'w')
-	json.dump(data, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
+	with open(filename, 'w') as f:
+		json.dump(data, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
 	
 def dumpqueue():
 	print "Connecting to database"
@@ -138,6 +143,26 @@ def tmpfile_object():
 	fdesc, path = tempfile.mkstemp()
 	return os.fdopen(fdesc, 'w'), path
 
+def fillheader(version):
+	with open(SCRIPTEMPLATE + ".head") as f:
+		data = f.read()
+	return data.replace('<!--VERSION_PLACEHOLDER--!>', version)
+
+def createuserscript(scriptheader, groups):
+	with open(SCRIPTEMPLATE + ".bottom") as fin:
+		bottom = fin.read()
+	
+	with open(USERSCRIPT, 'w') as f:
+		f.write(scriptheader)
+		f.write("var groups = ")
+		json.dump(groups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
+		f.write(";\n")
+		f.write(bottom)
+
+def createmetascript(scriptheader):
+	with open(METASCRIPT, 'w') as f:
+		f.write(scriptheader)
+
 def updatefromdb():
 	print "Proceed? (y/n)"
 	answer = raw_input("[n]> ")
@@ -165,11 +190,12 @@ def updatefromdb():
 	print "-------------------"
 	mergediff(currentgroups, gooddict)
 	print "-------------------"
-	
+	#create changelog file
 	newver = incversion(currentversion)
 	changelog, changelogpath = tmpfile_object()
 	print >>changelog, "Release %s" % newver
 	mergediff(currentgroups, gooddict, verbose=False, output=changelog)
+	changelog.close()
 	
 	print "Merge? (y/n)"
 	answer = raw_input("[n]> ")
@@ -185,15 +211,19 @@ def updatefromdb():
 	if answer != 'y':
 		sys.exit(0)
 
-	#generate userscript (user.js)
-	#generate userscript (meta.js)
+	print "Loading header..."
+	header = fillheader(newver)
+	print "Writing new userscript (user.js).."
+	createuserscript(header, currentgroups)
+	print "Writing new userscript (meta.js).."
+	createmetascript(header)
 	
 	print "Writing groups.."
 	jsonsavef(GROUPSJSON, currentgroups)
 	print "Writing version.."
 	jsonsavef(VERSIONJSON, newver)
 	
-	#git commit using version + changelog as message
+	#git commit using version + changelog as message (git commit -a -F changelogpath)
 	#ask what to delete (nothing, bad, good, both)
 	#end
 	
