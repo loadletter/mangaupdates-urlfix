@@ -113,6 +113,21 @@ def incversion(ver):
 		ver = ver[:max(end - len(incnum), start)] + incnum + ver[end:]
 	return ver
 
+def mergedict(origin_dict, update_dict):
+	origin_dict.update(update_dict)
+
+def mergediff(origin_dict, update_dict, verbose=True, output=sys.stdout):
+	for k, v in update_dict.iteritems():
+		if k in origin_dict and origin_dict[k] == v:
+			if verbose:
+				print >>output, "Unchanged {%i : %s}" % (k, v)
+		elif k in origin_dict and origin_dict[k] != v:
+			out = "Updated {%i : %s} ==> {%i : %s}" % (k, origin_dict[k], k, v) if verbose else "Updated %i" % k
+			print >>output, out
+		else:
+			out = "Added {%i : %s}" % (k, v) if verbose else "Added %i" % k
+			print >>output, out
+
 def main():
 	if len(sys.argv) < 2:
 		print "Missing argument\nUsage:"
