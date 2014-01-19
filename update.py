@@ -194,6 +194,7 @@ def updatefromdb():
 	newver = incversion(currentversion)
 	changelog, changelogpath = tmpfile_object()
 	print >>changelog, "Release %s" % newver
+	print >>changelog
 	mergediff(currentgroups, gooddict, verbose=False, output=changelog)
 	changelog.close()
 	
