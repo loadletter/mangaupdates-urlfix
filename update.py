@@ -1,11 +1,13 @@
 #!/usr/bin/env python
-import os, re, sys, urllib2, json, subprocess
+import os, re, sys, urllib2, json, subprocess, StringIO
 
 
 WWWBROWSER = "firefox"
 GROUPURL = "http://www.mangaupdates.com/groups.html?id=%i"
 CURRDIR = os.path.dirname(os.path.abspath(__file__))
 SRCDIR = os.path.join(CURRDIR, "src")
+GROUPSJSON = os.path.join(SRCDIR, "groups.json")
+VERSIONJSON = os.path.join(SRCDIR, "version.json")
 
 if len(sys.argv) == 2 and sys.argv[1] == 'remotedb':
 	import psycopg2
@@ -128,6 +130,67 @@ def mergediff(origin_dict, update_dict, verbose=True, output=sys.stdout):
 			out = "Added {%i : %s}" % (k, v) if verbose else "Added %i" % k
 			print >>output, out
 
+def row2dict(row, outdict={}):
+	outdict.update({row[1] : row[2]})
+	return outdict
+
+def updatefromdb():
+	print "Proceed? (y/n)"
+	answer = raw_input("[n]> ")
+	if answer != 'y':
+		sys.exit(0)
+	
+	print "Loading groups from file"
+	currentgroups = jsonloadf(GROUPSJSON)
+	currentversion = jsonloadf(VERSIONJSON)
+	print "Current version:", currentversion
+	
+	dbrows = dumpqueue()
+	printqueue(dbrows)
+	
+	print "Continue with browser review? (y/n)"
+	answer = raw_input("[n]> ")
+	if answer != 'y':
+		sys.exit(0)
+	
+	good, bad = reviewqueue(dbrows)
+	gooddict = {}
+	for r in good:
+		row2dict(r, gooddict)
+	
+	print "-------------------"
+	mergediff(currentgroups, gooddict)
+	changelog = StringIO.StringIO()
+	mergediff(currentgroups, gooddict, verbose=False, output=changelog)
+	print "-------------------"
+	
+	print "Merge? (y/n)"
+	answer = raw_input("[n]> ")
+	if answer != 'y':
+		sys.exit(0)
+	
+	mergedict(currentgroups, gooddict)
+	print "Done!"
+	newver = incversion(currentversion)
+	print "New version will be:", newver
+	
+	print "Save data? (y/n)"
+	answer = raw_input("[n]> ")
+	if answer != 'y':
+		sys.exit(0)
+
+	#generate userscript (user.js)
+	#generate userscript (meta.js)
+	
+	print "Writing groups.."
+	jsonsavef(GROUPSJSON, currentgroups)
+	print "Writing version.."
+	jsonsavef(VERSIONJSON, newver)
+	
+	#git commit using version + changelog as message
+	#ask what to delete (nothing, bad, good, both)
+	#end
+	
 def main():
 	if len(sys.argv) < 2:
 		print "Missing argument\nUsage:"
