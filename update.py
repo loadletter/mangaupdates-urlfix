@@ -222,8 +222,22 @@ def updatefromdb():
 	jsonsavef(GROUPSJSON, currentgroups)
 	print "Writing version.."
 	jsonsavef(VERSIONJSON, newver)
+	print "Done!"
+
+	print "Commit changes? (y/n)"
+	answer = raw_input("[n]> ")
+	if answer != 'y':
+		sys.exit(0)
 	
-	#git commit using version + changelog as message (git commit -a -F changelogpath)
+	#commit changes
+	print "Calling git commit.."
+	gitargs = ["git", "commit", "-a", "-F", changelogpath]
+	subprocess.call(gitargs, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr)
+	#tag
+	print "Calling git tag.."
+	gitargs = ["git", "tag", newver]
+	subprocess.call(gitargs, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr)
+	
 	#ask what to delete (nothing, bad, good, both)
 	#end
 	
