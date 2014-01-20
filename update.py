@@ -233,11 +233,17 @@ def updatefromdb():
 	#commit changes
 	print "Calling git commit.."
 	gitargs = ["git", "commit", "-a", "-F", changelogpath]
-	subprocess.call(gitargs, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr)
+	rc = subprocess.call(gitargs, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr)
+	if rc != 0:
+		print "Git returned %i, aborting.." % rc
+		sys.exit(1)
 	#tag
 	print "Calling git tag.."
 	gitargs = ["git", "tag", newver]
-	subprocess.call(gitargs, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr)
+	rc = subprocess.call(gitargs, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr)
+	if rc != 0:
+		print "Git returned %i, aborting.." % rc
+		sys.exit(1)
 	
 	#ask what to delete (nothing, bad, good, both)
 	while True:
