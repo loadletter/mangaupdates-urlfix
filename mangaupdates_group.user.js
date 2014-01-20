@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.1
+// @version     1.5.2
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3103,6 +3103,7 @@ var groups = {
     "5776": "http://revolution.team.forumcommunity.net/",
     "5781": "http://baggedmilkscans.tumblr.com/",
     "5787": "http://raggedtranslations.blogspot.com/",
+    "5788": "http://nattytranslations.wordpress.com/",
     "5793": "http://vocalations.com/",
     "5796": "http://aizendesu.blogspot.com/",
     "580": "http://www.kymophobia.com",
@@ -3118,6 +3119,7 @@ var groups = {
     "5823": "http://www.batoto.net/group/_/s/scan%E3%82%8A%E3%83%BCtions-r3857",
     "5824": "http://www.batoto.net/group/_/a/amadmanscans-r3240",
     "583": "http://ochibichan.net/",
+    "5831": "http://wannabescanlations.wordpress.com/",
     "5832": "http://www.batoto.net/group/_/d/disdeeee-r3849",
     "584": "http://www.jinchuuriki.com",
     "585": "http://www.beck-mcs.org/indexen.php",
