@@ -264,6 +264,8 @@ def updatefromdb():
 		
 	deletequeued(deletelist)
 	os.remove(changelogpath)
+	print "Done!"
+	print "Don't forget to push both commits and tags!!!"
 	
 def main():
 	if len(sys.argv) < 2:
