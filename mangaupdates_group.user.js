@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.2
+// @version     1.5.3
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3118,6 +3118,7 @@ var groups = {
     "5822": "http://v16translations.wordpress.com",
     "5823": "http://www.batoto.net/group/_/s/scan%E3%82%8A%E3%83%BCtions-r3857",
     "5824": "http://www.batoto.net/group/_/a/amadmanscans-r3240",
+    "5827": "http://nodatascans.wordpress.com/",
     "583": "http://ochibichan.net/",
     "5831": "http://wannabescanlations.wordpress.com/",
     "5832": "http://www.batoto.net/group/_/d/disdeeee-r3849",
