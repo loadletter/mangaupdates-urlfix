@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.3
+// @version     1.5.4
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2909,7 +2909,7 @@ var groups = {
     "537": "http://groups.yahoo.com/group/vanguard_bandits/",
     "5370": "http://tiger-and-bunny.livejournal.com/",
     "5371": "http://bl-gyaru.com/",
-    "5373": "http://summer-rain-scans.weebly.com/",
+    "5373": "http://summer-rain.info/",
     "5374": "http://fuwasyndrome.livejournal.com/",
     "5377": "http://leno-obscurum.livejournal.com/",
     "538": "http://shoujo-alliance.24ji.net/",
@@ -3108,6 +3108,7 @@ var groups = {
     "5796": "http://aizendesu.blogspot.com/",
     "580": "http://www.kymophobia.com",
     "5801": "http://www.vistrans.net/",
+    "5804": "http://www.crunchyroll.com/comics/manga",
     "5805": "http://www.batoto.net/group/_/b/bly-scanlations-r3393",
     "581": "http://bluelittleone.livejournal.com/",
     "5812": "http://www.batoto.net/group/_/n/necron99-r3834",
