@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.4
+// @version     1.5.5
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3124,7 +3124,13 @@ var groups = {
     "5831": "http://wannabescanlations.wordpress.com/",
     "5832": "http://www.batoto.net/group/_/d/disdeeee-r3849",
     "584": "http://www.jinchuuriki.com",
+    "5842": "http://mikagura-scans.tumblr.com/",
+    "5843": "http://norawgami.tumblr.com/",
+    "5845": "http://muninki.wordpress.com/",
+    "5849": "http://www.batoto.net/group/_/s/senpai-scans-r3908",
     "585": "http://www.beck-mcs.org/indexen.php",
+    "5852": "http://sleepingdragonslie.wordpress.com/",
+    "5854": "http://www.batoto.net/group/_/t/tg-scanlations-r3316",
     "586": "http://unexpectedtimes.livejournal.com/",
     "587": "http://www.sushiy.com/",
     "588": "http://promfret87.blogspot.com/",
