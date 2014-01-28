@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.6
+// @version     1.5.7
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -705,7 +705,7 @@ var groups = {
     "2139": "http://www.hajike.eu.tp/",
     "214": "http://www.bncscanlations.com/",
     "2144": "http://takariscans.zoushea.com",
-    "2145": "http://www.instantz.net/",
+    "2145": "http://inpowerz.com/forums/forumdisplay.php?63-INP-Mangaz-Latest-Scanlations",
     "2146": "http://nayukilove.wordpress.com/",
     "2147": "http://fireicescans.webs.com/",
     "2149": "http://perplexic.livejournal.com/",
@@ -2865,7 +2865,7 @@ var groups = {
     "5239": "http://bakeneko-scans.livejournal.com/",
     "525": "http://www.zomgfta.com/",
     "5252": "http://kiririn.me/",
-    "5255": "https://rkeg.wordpress.com/category/etc/deeltl-translation-works/",
+    "5255": "https://rkeg.wordpress.com/",
     "526": "http://www.otakusiris.com/forum/",
     "5260": "http://yaoislife.tumblr.com/",
     "5261": "http://underdogscan.blogspot.com/",
@@ -3132,6 +3132,7 @@ var groups = {
     "585": "http://www.beck-mcs.org/indexen.php",
     "5852": "http://sleepingdragonslie.wordpress.com/",
     "5854": "http://www.batoto.net/group/_/t/tg-scanlations-r3316",
+    "5857": "http://newtypeofworld.blogspot.com/",
     "586": "http://unexpectedtimes.livejournal.com/",
     "587": "http://www.sushiy.com/",
     "588": "http://promfret87.blogspot.com/",
