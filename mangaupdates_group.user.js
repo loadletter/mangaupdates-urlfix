@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.7
+// @version     1.5.8
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2184,7 +2184,7 @@ var groups = {
     "4274": "http://boukun-rashiku.livejournal.com/",
     "4276": "http://cafeotome.blogspot.com/",
     "4277": "http://lostdonut.livejournal.com/",
-    "4278": "https://s2scansblog.wordpress.com/",
+    "4278": "http://s2scanlations.com",
     "4279": "http://snowfag.blogspot.com/",
     "4282": "http://primitivescans.blogspot.com/",
     "4284": "http://istahire.livejournal.com/",
@@ -3079,7 +3079,7 @@ var groups = {
     "5723": "http://rapemanscans.wordpress.com/",
     "5724": "http://neetscans.wordpress.com/",
     "5726": "http://shackscans.blogspot.com",
-    "5729": "https://sites.google.com/site/cometscans/",
+    "5729": "http://cometscans.wordpress.com/",
     "573": "http://b.ethereal-wind.net/",
     "5734": "http://queen-2-hearts.ucoz.com/",
     "5735": "http://kimoi-group.tumblr.com/",
