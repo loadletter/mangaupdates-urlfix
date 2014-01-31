@@ -33,7 +33,7 @@ def dumpqueue():
 	
 	data = None
 	try:
-		cur.execute("SELECT id, groupid, groupwww, refer, remoteip, uagent FROM posts")
+		cur.execute("SELECT id, groupid, groupwww, refer, remoteip, uagent FROM posts ORDER BY id")
 		data = cur.fetchall()
 	except:
 		print "Database Error"
