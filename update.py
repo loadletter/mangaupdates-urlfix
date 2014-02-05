@@ -176,6 +176,13 @@ def updatefromdb():
 	
 	dbrows = dumpqueue()
 	printqueue(dbrows)
+	tmpdict = {}
+	for tr in dbrows:
+		row2dict(tr, tmpdict)
+	mergediff(currentgroups, tmpdict)
+	print
+	print "------------------------------------------------"
+	
 	
 	print "Continue with browser review? (y/n)"
 	answer = raw_input("[n]> ")
