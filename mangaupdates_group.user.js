@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.10
+// @version     1.5.11
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2209,6 +2209,7 @@ var groups = {
     "4313": "http://vortex-scans.com/blog/",
     "4314": "http://blue-eyesgirl.livejournal.com/",
     "4315": "http://daitai.tumblr.com",
+    "4316": "http://abyss.dark-matrix.net",
     "4317": "http://shinytranslations.wordpress.com/",
     "4318": "http://hakurei-scans.blogspot.com/",
     "4319": "https://sites.google.com/site/tbsscan/",
@@ -3104,6 +3105,7 @@ var groups = {
     "5771": "http://hyouka-rangers.tumblr.com",
     "5776": "http://revolution.team.forumcommunity.net/",
     "5781": "http://baggedmilkscans.tumblr.com/",
+    "5783": "http://hellstonenofansub.blogspot.mx/",
     "5787": "http://raggedtranslations.blogspot.com/",
     "5788": "http://nattytranslations.wordpress.com/",
     "5793": "http://vocalations.com/",
@@ -3141,7 +3143,9 @@ var groups = {
     "586": "http://unexpectedtimes.livejournal.com/",
     "5861": "http://www.batoto.net/group/_/l/low-gear-r3925",
     "587": "http://www.sushiy.com/",
+    "5876": "https://www.mangabox.me/",
     "588": "http://promfret87.blogspot.com/",
+    "5881": "http://imperfectscans.wordpress.com/",
     "589": "http://www.geocities.com/yaoimanga/",
     "59": "http://akatsuki.chupatz.com/",
     "590": "http://community.livejournal.com/tokudane/",
