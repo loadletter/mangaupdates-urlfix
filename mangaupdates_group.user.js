@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.11
+// @version     1.5.12
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2848,7 +2848,7 @@ var groups = {
     "52": "http://www.chaotixubs.com",
     "5200": "http://www.myblogyo.com",
     "5201": "http://bhhfc.blogspot.com/",
-    "5204": "http://lagscans.webs.com/",
+    "5204": "http://lagscans.wordpress.com/",
     "5205": "http://artemisproject.tumblr.com/",
     "5206": "http://malscans.blogspot.com/",
     "5207": "http://mtogroup.wordpress.com/",
@@ -3070,6 +3070,7 @@ var groups = {
     "5705": "http://forgotten--scans.weebly.com/",
     "5707": "http://salnar.wordpress.com/",
     "5708": "http://90percentzebra.wordpress.com/",
+    "5709": "http://project-torture.tumblr.com/",
     "571": "http://et-caetera.net/",
     "5710": "http://oyasumitranslations.wordpress.com",
     "5714": "http://backdoorscans.tumblr.com/",
@@ -3145,7 +3146,10 @@ var groups = {
     "587": "http://www.sushiy.com/",
     "5876": "https://www.mangabox.me/",
     "588": "http://promfret87.blogspot.com/",
+    "5880": "http://pepperanon.blogspot.com",
     "5881": "http://imperfectscans.wordpress.com/",
+    "5884": "http://jiheishouscans.blogspot.com/",
+    "5885": "http://kpohum.blogspot.com/",
     "589": "http://www.geocities.com/yaoimanga/",
     "59": "http://akatsuki.chupatz.com/",
     "590": "http://community.livejournal.com/tokudane/",
