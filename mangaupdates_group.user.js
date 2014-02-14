@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.12
+// @version     1.5.13
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2802,7 +2802,7 @@ var groups = {
     "5128": "http://sennenkinoyumescans.webs.com",
     "5130": "http://baradisescanlations.wordpress.com/",
     "5131": "http://lewdgrenadier.blogspot.ca/",
-    "5133": "http://www.mediafire.com/hyakko",
+    "5133": "https://mega.co.nz/#F!21p2SRiB!BunRvzcx8PklVsMIadR1LA",
     "5134": "http://cyborg009.livejournal.com/62469.html",
     "5135": "http://hardcorepleasurefantasy.wordpress.com/",
     "5136": "http://teatimescans.wordpress.com/",
@@ -3138,6 +3138,7 @@ var groups = {
     "5845": "http://muninki.wordpress.com/",
     "5849": "http://www.batoto.net/group/_/s/senpai-scans-r3908",
     "585": "http://www.beck-mcs.org/indexen.php",
+    "5851": "http://galacticascans.wordpress.com/",
     "5852": "http://sleepingdragonslie.wordpress.com/",
     "5854": "http://www.batoto.net/group/_/t/tg-scanlations-r3316",
     "5857": "http://newtypeofworld.blogspot.com/",
@@ -3151,6 +3152,8 @@ var groups = {
     "5884": "http://jiheishouscans.blogspot.com/",
     "5885": "http://kpohum.blogspot.com/",
     "589": "http://www.geocities.com/yaoimanga/",
+    "5890": "http://bokunomanga.org",
+    "5891": "http://aoc-translations.tumblr.com/",
     "59": "http://akatsuki.chupatz.com/",
     "590": "http://community.livejournal.com/tokudane/",
     "591": "http://a.sigh.org/",
