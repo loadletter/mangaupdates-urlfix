@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.13
+// @version     1.5.14
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1825,7 +1825,7 @@ var groups = {
     "3731": "http://community.livejournal.com/sg_scanlations",
     "3733": "http://dangoscans.wordpress.com/",
     "3734": "http://www.yurikai.com",
-    "3735": "http://kyonichi.blogspot.com/",
+    "3735": "http://14biq.wordpress.com/",
     "3737": "http://idlescans.blogspot.com/",
     "374": "http://www.harukodesignz.com/",
     "3740": "http://shibababa.wordpress.com/",
@@ -2863,6 +2863,7 @@ var groups = {
     "5228": "http://smdc-translations.com/",
     "523": "http://www.freewebs.com/ramsus-kun/",
     "5230": "https://www.facebook.com/SkyOfSnowScanlation",
+    "5232": "http://wearelostnfound.blogspot.com/",
     "5239": "http://bakeneko-scans.livejournal.com/",
     "525": "http://www.zomgfta.com/",
     "5252": "http://kiririn.me/",
@@ -3102,7 +3103,7 @@ var groups = {
     "5759": "http://pastebin.com/u/skythewood",
     "576": "http://fpscans.proboards92.com/index.cgi",
     "5763": "http://slightlysarcastic.weebly.com",
-    "5765": "http://kiekie895.wix.com/otomescans",
+    "5765": "http://otomescans.wordpress.com/",
     "5771": "http://hyouka-rangers.tumblr.com",
     "5776": "http://revolution.team.forumcommunity.net/",
     "5781": "http://baggedmilkscans.tumblr.com/",
@@ -3151,9 +3152,11 @@ var groups = {
     "5881": "http://imperfectscans.wordpress.com/",
     "5884": "http://jiheishouscans.blogspot.com/",
     "5885": "http://kpohum.blogspot.com/",
+    "5889": "http://www.decadencescans.blogspot.com/",
     "589": "http://www.geocities.com/yaoimanga/",
     "5890": "http://bokunomanga.org",
     "5891": "http://aoc-translations.tumblr.com/",
+    "5895": "http://hametsunomegami.blogspot.com/",
     "59": "http://akatsuki.chupatz.com/",
     "590": "http://community.livejournal.com/tokudane/",
     "591": "http://a.sigh.org/",
