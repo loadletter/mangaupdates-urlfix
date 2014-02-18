@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
-// @include     http://www.mangaupdates.com/groups.html?id=*
-// @version     1.5.14
+// @match       *://www.mangaupdates.com/groups.html?id=*
+// @version     1.6.1
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3157,6 +3157,7 @@ var groups = {
     "5890": "http://bokunomanga.org",
     "5891": "http://aoc-translations.tumblr.com/",
     "5895": "http://hametsunomegami.blogspot.com/",
+    "5899": "http://www.batoto.net/group/_/a/assassin-scans-r2656",
     "59": "http://akatsuki.chupatz.com/",
     "590": "http://community.livejournal.com/tokudane/",
     "591": "http://a.sigh.org/",
