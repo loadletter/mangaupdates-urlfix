@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.2
+// @version     1.6.3
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -699,6 +699,7 @@ var groups = {
     "2128": "http://curescans.livejournal.com/",
     "2129": "http://flowermemory.livejournal.com/",
     "213": "http://bleach7.com/",
+    "2130": "http://fateful-encounters.tainted-reverie.net/",
     "2132": "http://kawaii-shoujo.net/suzuran/wordpress/",
     "2133": "http://takejiro.blogspot.com/",
     "2134": "http://blank.zenaku.net/",
@@ -2428,7 +2429,7 @@ var groups = {
     "4616": "http://www.mediafire.com/?6luzylx6l3yd0",
     "4617": "http://nornir.fleeting-whisper.net/reader/",
     "4619": "http://dotrscans.wordpress.com/",
-    "4620": "http://wonderland.schala.net/",
+    "4620": "http://wonderlandtranslations.net/",
     "4621": "http://troikatrans.wordpress.com/",
     "4622": "http://meisakuworks.wordpress.com/",
     "4623": "http://sw.littlewhitebutterflies.net/",
@@ -2540,7 +2541,7 @@ var groups = {
     "4777": "http://adarshan-novels.livejournal.com/",
     "4778": "http://raynsandlele.wordpress.com/",
     "4779": "http://rabbitteam.livejournal.com/",
-    "4780": "http://www.batoto.net/group/_/s/seizon-scans-r1938",
+    "4780": "http://seizonscans.actionprinny.com/",
     "4782": "http://www.bondbirthmarks.info/",
     "4784": "http://pechanko.wordpress.com/",
     "4786": "http://boonscanlations.blogspot.de/",
@@ -2867,6 +2868,7 @@ var groups = {
     "5232": "http://wearelostnfound.blogspot.com/",
     "5239": "http://bakeneko-scans.livejournal.com/",
     "525": "http://www.zomgfta.com/",
+    "5251": "http://yuukimeganescans.tumblr.com/",
     "5252": "http://kiririn.me/",
     "5255": "https://rkeg.wordpress.com/",
     "526": "http://www.otakusiris.com/forum/",
@@ -2890,7 +2892,7 @@ var groups = {
     "53": "http://www.syuura.net/",
     "530": "http://hisa-chan.superbiae.net/",
     "5304": "http://nisepanlations.tumblr.com/",
-    "5309": "http://oppai-scans.tumblr.com/",
+    "5309": "http://www.oppai-scans.com/",
     "531": "http://www.livejournal.com/community/toko_kawai/",
     "5310": "http://shuuen-scans.tumblr.com/",
     "5312": "http://detectiveconanscans.wordpress.com/",
@@ -3180,6 +3182,7 @@ var groups = {
     "5851": "http://galacticascans.wordpress.com/",
     "5852": "http://sleepingdragonslie.wordpress.com/",
     "5854": "http://www.batoto.net/group/_/t/tg-scanlations-r3316",
+    "5855": "http://desperatescanners.weebly.com/",
     "5856": "http://alwayshere-scans.tumblr.com/",
     "5857": "http://newtypeofworld.blogspot.com/",
     "586": "http://unexpectedtimes.livejournal.com/",
@@ -3205,6 +3208,7 @@ var groups = {
     "59": "http://akatsuki.chupatz.com/",
     "590": "http://community.livejournal.com/tokudane/",
     "5901": "http://yukikazescans.wordpress.com/",
+    "5902": "http://guhehe.wordpress.com/",
     "591": "http://a.sigh.org/",
     "592": "http://vk.rinne.nu/",
     "593": "http://usu.forbidden-lover.net/",
