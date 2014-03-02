@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.4
+// @version     1.6.5
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3155,7 +3155,7 @@ var groups = {
     "581": "http://bluelittleone.livejournal.com/",
     "5811": "http://yander.es/",
     "5812": "http://www.batoto.net/group/_/n/necron99-r3834",
-    "5813": "http://www.batoto.net/group/_/c/cedr777-r3644",
+    "5813": "http://triplesevenscans.blogspot.com/",
     "5814": "http://lunox.us",
     "5815": "http://balikatanscans.uco.im/",
     "582": "http://community.livejournal.com/sakuragi_yaya/",
@@ -3209,9 +3209,10 @@ var groups = {
     "590": "http://community.livejournal.com/tokudane/",
     "5901": "http://yukikazescans.wordpress.com/",
     "5902": "http://guhehe.wordpress.com/",
-    "5903": "http://lolipopscans.wordpress.com/",
+    "5903": "https://lolipopscans.wordpress.com/",
     "5904": "http://blackinque.imgur.com/",
     "591": "http://a.sigh.org/",
+    "5910": "http://saranghachiscans.wordpress.com/",
     "592": "http://vk.rinne.nu/",
     "593": "http://usu.forbidden-lover.net/",
     "594": "http://archive.toukakoukan.com/index2.html",
