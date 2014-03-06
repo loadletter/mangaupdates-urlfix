@@ -1,6 +1,6 @@
-var groupsversion = "1.6.6";
+groupsversion = "1.6.6";
 
-var groups = {
+groups = {
     "1000": "http://www.anime-gundam.com/",
     "1001": "http://www.animecouncil.net/",
     "1002": "http://www.onamichan.com/",
@@ -3499,5 +3499,3 @@ var groups = {
     "999": "http://www.onepiecehq.com/"
 };
 
-window.groupsversion = groupsversion;
-window.groups = groups;
