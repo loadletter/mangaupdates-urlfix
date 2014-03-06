@@ -3498,3 +3498,6 @@ var groups = {
     "998": "http://yatta-scans.aniartworks.com",
     "999": "http://www.onepiecehq.com/"
 };
+
+window.groupsversion = groupsversion;
+window.groups = groups;
