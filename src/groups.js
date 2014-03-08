@@ -1,6 +1,4 @@
-groupsversion = "1.6.6";
-
-groups = {
+urlfix_grouplist = {
     "1000": "http://www.anime-gundam.com/",
     "1001": "http://www.animecouncil.net/",
     "1002": "http://www.onamichan.com/",
@@ -3498,4 +3496,3 @@ groups = {
     "998": "http://yatta-scans.aniartworks.com",
     "999": "http://www.onepiecehq.com/"
 };
-

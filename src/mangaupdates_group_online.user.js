@@ -44,11 +44,11 @@ function fix_irc() {
 /* all the stuff related to the website thing has been moved here,
  * since the groups variable can't be accessed from the usescript */
 function insertScript() {
-    window.groupID = document.URL.replace(/^.+id=/,'').replace('#', '');
-    window.groupSite = window.groups[window.groupID];
-    window.openSuggBox = function(){var suggboxurl = "http://mufix.herokuapp.com/form?group=" + groupID; if(groupSite !== "undefined") suggboxurl += "&update=yes"; window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');};
+    window.urlfix_groupID = document.URL.replace(/^.+id=/,'').replace('#', '');
+    window.urlfix_groupSite = window.urlfix_grouplist[window.urlfix_groupID];
+    window.urlfix_openSuggBox = function(){var suggboxurl = "http://mufix.herokuapp.com/form?group=" + urlfix_groupID; if(urlfix_groupSite !== "undefined") suggboxurl += "&update=yes"; window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');};
     var urlfix_site = document.createElement('tr');
-    urlfix_site.innerHTML = '<td class="text"><u>Site</u><a href="#" onclick="openSuggBox();"> (Suggest an update)</a></td><td class="text"><a target="_blank" alt="" href="'+groupSite+'"><u>'+groupSite+'</u></a></td>';
+    urlfix_site.innerHTML = '<td class="text"><u>Site</u><a href="#" onclick="urlfix_openSuggBox();"> (Suggest an update)</a></td><td class="text"><a target="_blank" alt="" href="' + urlfix_groupSite + '"><u>' + urlfix_groupSite + '</u></a></td>';
     var urlfix_irc_par = document.getElementById("fixed_irc_url").parentNode;
     urlfix_irc_par.parentNode.insertBefore(urlfix_site, urlfix_irc_par.nextSibling);
 }
