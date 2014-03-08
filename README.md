@@ -29,3 +29,5 @@ If you have installed the script directly you will need to uninstall it and rein
 ##(New) Missing/outdated/wrong links?
 Just click (Suggest an update), and you will be able to send a new url that will be added in the next updates!
 !['Sugggestion box'](http://s29.postimg.org/3jq7j4593/sugg.png)
+
+(Note: links are merged every 3~ days)
