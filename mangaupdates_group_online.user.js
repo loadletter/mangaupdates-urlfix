@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
+// @description Makes clickable links to scanlators websites: ONLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
 // @version     1.6.6
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
