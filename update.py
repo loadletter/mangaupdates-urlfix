@@ -8,6 +8,7 @@ SCRIPTNAME = "mangaupdates_group.user.js"
 CURRDIR = os.path.dirname(os.path.abspath(__file__))
 SRCDIR = os.path.join(CURRDIR, "src")
 GROUPSJSON = os.path.join(SRCDIR, "groups.json")
+GROUPSJSCRIPT = os.path.join(SRCDIR, "groups.js")
 VERSIONJSON = os.path.join(SRCDIR, "version.json")
 SCRIPTEMPLATE = os.path.join(SRCDIR, SCRIPTNAME)
 USERSCRIPT = os.path.join(CURRDIR, SCRIPTNAME)
@@ -163,6 +164,12 @@ def createmetascript(scriptheader):
 	with open(METASCRIPT, 'w') as f:
 		f.write(scriptheader)
 
+def createonlinegroups(groups):
+	with open(GROUPSJSCRIPT, 'w') as f:
+		f.write("var urlfix_grouplist = ")
+		json.dump(groups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
+		f.write(";\n")
+
 def updatefromdb():
 	print "Proceed? (y/n)"
 	answer = raw_input("[n]> ")
@@ -225,6 +232,8 @@ def updatefromdb():
 	createuserscript(header, currentgroups)
 	print "Writing new userscript (meta.js).."
 	createmetascript(header)
+	print "Writing new online groups (groups.js).."
+	createonlinegroups(currentgroups)
 	
 	print "Writing groups.."
 	jsonsavef(GROUPSJSON, currentgroups)
