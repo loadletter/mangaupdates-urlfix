@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.6
+// @version     1.6.7
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2906,7 +2906,7 @@ var groups = {
     "532": "http://individual.utoronto.ca/bradleygee/Manga/",
     "5321": "http://nightsky.ucoz.com/",
     "5323": "http://randomscans.blogspot.com/",
-    "5325": "http://takosekuhara.tumblr.com/",
+    "5325": "http://tsukareteru-tako.tumblr.com/",
     "5326": "http://chikiscans.com/",
     "5329": "http://tmnbe-scans.blogspot.com/",
     "5330": "https://gottoscanlates.wordpress.com/",
@@ -3183,6 +3183,7 @@ var groups = {
     "5813": "http://triplesevenscans.blogspot.com/",
     "5814": "http://lunox.us",
     "5815": "http://balikatanscans.uco.im/",
+    "5816": "http://www.batoto.net/group/_/a/anonymous-r3177",
     "582": "http://community.livejournal.com/sakuragi_yaya/",
     "5822": "http://v16translations.wordpress.com",
     "5823": "http://www.batoto.net/group/_/s/scan%E3%82%8A%E3%83%BCtions-r3857",
@@ -3240,6 +3241,7 @@ var groups = {
     "591": "http://a.sigh.org/",
     "5910": "http://saranghachiscans.wordpress.com/",
     "5912": "http://mangajoy.com",
+    "5913": "http://triplesevenscans.blogspot.com",
     "5914": "http://n04hs.blog.fc2.com/",
     "592": "http://vk.rinne.nu/",
     "593": "http://usu.forbidden-lover.net/",
