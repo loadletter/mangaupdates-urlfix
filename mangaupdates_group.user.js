@@ -2,7 +2,7 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.7
+// @version     1.6.8
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -12,7 +12,7 @@ var groups = {
     "1000": "http://www.anime-gundam.com/",
     "1001": "http://www.animecouncil.net/",
     "1002": "http://www.onamichan.com/",
-    "1003": "http://www.serenus-dreamers.com",
+    "1003": "http://www.serenus-dreamers.com/",
     "1004": "http://nzane2k.net/longbjs.html",
     "1005": "http://lyrebird.aithine.org/oriyaukyou/",
     "1006": "http://aether-scans.bravehost.com/",
