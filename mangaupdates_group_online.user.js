@@ -12,7 +12,7 @@
 fix_irc();
 var urlfix_groups = document.createElement('script');
 urlfix_groups.type = "text/javascript";
-urlfix_groups.src = "https://raw.github.com/loadletter/mangaupdates-urlfix/onlineGroups/src/groups.js";
+urlfix_groups.src = "https://raw.github.com/loadletter/mangaupdates-urlfix/master/src/groups.js";
 urlfix_groups.onreadystatechange = fix_url;
 urlfix_groups.onload = fix_url;
 (document.body || document.head || document.documentElement).appendChild(urlfix_groups);
