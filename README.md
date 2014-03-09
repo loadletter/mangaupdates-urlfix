@@ -4,26 +4,24 @@ mangaupdates-urlfix
 Userscript that adds urls and irc link back on the groups pages of mangaupdates.com
 
 ##Installation
-Link: ['mangaupdates_group.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js)
+Standard version: ['mangaupdates_group.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js)
+
+
+Online version (Uses directly the data from github, should be updated even if autoupdating doesn't work/isn't supported): ['mangaupdates_group_online.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js)
 
 
 ### Firefox:
 
-Make sure you have greasemonkey installed and just click on the previous link.
+Make sure you have greasemonkey installed and just click on one of the previous links.
 
-### Chrome/Chromium:
+### Chrome/Chromium/Opera:
 
-1. **Preferred** method: Install tampermonkey or equivalent and then just click on the previuos link.
+1. **Preferred** method: Install tampermonkey or equivalent and then just click on one of the previuos links.
 
-2. Other (Doesn't autoupdate): Save the previous link to a file (Right click> Save link as..), then open the folder where you downloaded it and drag the file to the Extensions page on Chrome.
+2. Other (Could be used with the online version): Save the previous link to a file (Right click> Save link as..), then open the folder where you downloaded it and drag the file to the Extensions page on Chrome.
 
-### Opera:
-
-Apparently default opera doesn't autoupdate, so install tampermonkey and use that.
-
-
-##Script not autoupdating on Opera/Chrome?
-If you have installed the script directly you will need to uninstall it and reinstall it with tampermonkey (or equivalent).
+##Script not autoupdating?
+Check your greasemonkey/tampermonkey/etc settings or try using the online version.
 
 
 ##(New) Missing/outdated/wrong links?
