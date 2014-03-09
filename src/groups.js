@@ -3281,7 +3281,7 @@ var urlfix_grouplist = {
     "651": "http://www.wangan-midnight.com/",
     "652": "http://oyasumi.aicoalition.com",
     "654": "http://yes-rhade-djs.livejournal.com/",
-    "656": "http://www.socool.tk",
+    "656": "http://www.socool.tk/",
     "658": "http://www.l33tmaster.com",
     "659": "http://groups.yahoo.com/group/chibitorascanlations/",
     "66": "http://www.shoujomagic.net/",
