@@ -16,6 +16,9 @@ METASCRIPT = os.path.join(CURRDIR, SCRIPTNAME.replace(".user.", ".meta."))
 
 if len(sys.argv) == 2 and sys.argv[1] == 'remotedb':
 	import psycopg2
+	import psycopg2.extensions
+	psycopg2.extensions.register_type(psycopg2.extensions.UNICODE)
+	psycopg2.extensions.register_type(psycopg2.extensions.UNICODEARRAY)
 	from dbconf import DSN
 
 def jsonloadf(filename):
