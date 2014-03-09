@@ -7,7 +7,7 @@ Userscript that adds urls and irc link back on the groups pages of mangaupdates.
 Standard version: ['mangaupdates_group.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js)
 
 
-Online version (Uses directly the data from github, should be updated even if autoupdating doesn't work/isn't supported): ['mangaupdates_group_online.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js)
+Online version (Uses directly the data from github, should be updated even if autoupdating doesn't work/isn't supported): ['mangaupdates_group_online.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group_online.user.js)
 
 
 ### Firefox:
