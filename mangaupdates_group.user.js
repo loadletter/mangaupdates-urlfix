@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.9
+// @version     1.6.10
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2179,7 +2179,7 @@ var groups = {
     "4262": "http://ohmyenel.blogspot.com/",
     "4263": "http://multitudes.livejournal.com/",
     "4264": "http://mogumogubakubaku.wordpress.com/",
-    "4266": "http://antisensescans.blogspot.com/",
+    "4266": "http://www.antisensescans.com/",
     "4267": "http://blackentitytranslations.blogspot.com/",
     "4269": "http://takai-tenshi-scanlations.blogspot.com/",
     "4272": "http://koidanoscans.blogspot.com/",
@@ -2272,7 +2272,7 @@ var groups = {
     "4397": "http://9th-ave.blogspot.com",
     "4398": "http://taihenzombii.blogspot.com/",
     "4399": "http://mangaherescans.blogspot.com/",
-    "44": "http://www.mangaworld.org",
+    "44": "http://solaris-manga.org/",
     "4400": "http://kaidanblog.blogspot.com",
     "4402": "http://crystallisscans.wordpress.com/",
     "4404": "http://chengongandfriends.blogspot.com",
@@ -2474,7 +2474,7 @@ var groups = {
     "4677": "http://yukina.weebly.com/",
     "4678": "http://darkorderscan.com/",
     "468": "http://pdreams.overpopulatedearth.com",
-    "4681": "http://transientmirage.com/",
+    "4681": "http://transientmirage.blogspot.com/",
     "4683": "http://razuriscans.livejournal.com/",
     "4688": "http://www.yukipo.com/",
     "4689": "http://imoutoliciouslnt.blogspot.com/",
@@ -3224,6 +3224,7 @@ var groups = {
     "5881": "http://imperfectscans.wordpress.com/",
     "5884": "http://jiheishouscans.blogspot.com/",
     "5885": "http://kpohum.blogspot.com/",
+    "5887": "http://mmi-scans.livejournal.com/",
     "5889": "http://www.decadencescans.blogspot.com/",
     "589": "http://www.geocities.com/yaoimanga/",
     "5890": "http://bokunomanga.org",
@@ -3242,8 +3243,10 @@ var groups = {
     "591": "http://a.sigh.org/",
     "5910": "http://saranghachiscans.wordpress.com/",
     "5912": "http://mangajoy.com",
-    "5913": "http://triplesevenscans.blogspot.com",
+    "5913": "http://triplesevenscans.blogspot.com/",
     "5914": "http://n04hs.blog.fc2.com/",
+    "5915": "http://kurousagi-translations.tumblr.com/",
+    "5916": "https://dinaramint.wordpress.com/",
     "592": "http://vk.rinne.nu/",
     "593": "http://usu.forbidden-lover.net/",
     "594": "http://archive.toukakoukan.com/index2.html",
