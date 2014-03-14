@@ -2848,7 +2848,7 @@ var urlfix_grouplist = {
     "5210": "http://junnasscans.tumblr.com/",
     "5212": "http://www.kira-fansub.com/",
     "5215": "http://alscans.wordpress.com",
-    "5217": "http://mangacow.in/",
+    "5217": "http://mngacow.com/",
     "5223": "http://s2scanlations.com/",
     "5226": "http://prozessh.blogspot.de/",
     "5227": "http://bunny26a3.blogspot.com/",
