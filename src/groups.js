@@ -3237,6 +3237,8 @@ var urlfix_grouplist = {
     "5915": "http://kurousagi-translations.tumblr.com/",
     "5916": "https://dinaramint.wordpress.com/",
     "592": "http://vk.rinne.nu/",
+    "5925": "http://onmyodoscans.co.nf/",
+    "5928": "http://tsundereservice.blogspot.com/",
     "593": "http://usu.forbidden-lover.net/",
     "594": "http://archive.toukakoukan.com/index2.html",
     "596": "http://ttreasures.caithion.net/",

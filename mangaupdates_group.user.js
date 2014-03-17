@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.11
+// @version     1.6.12
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3248,6 +3248,8 @@ var groups = {
     "5915": "http://kurousagi-translations.tumblr.com/",
     "5916": "https://dinaramint.wordpress.com/",
     "592": "http://vk.rinne.nu/",
+    "5925": "http://onmyodoscans.co.nf/",
+    "5928": "http://tsundereservice.blogspot.com/",
     "593": "http://usu.forbidden-lover.net/",
     "594": "http://archive.toukakoukan.com/index2.html",
     "596": "http://ttreasures.caithion.net/",
