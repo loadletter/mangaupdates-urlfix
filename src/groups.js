@@ -2846,7 +2846,7 @@ var urlfix_grouplist = {
     "5207": "http://mtogroup.wordpress.com/",
     "521": "http://xmasmanga15.forumer.com",
     "5210": "http://junnasscans.tumblr.com/",
-    "5212": "http://www.kira-fansub.com/",
+    "5212": "http://kira-manga.tumblr.com/",
     "5215": "http://alscans.wordpress.com",
     "5217": "http://mngacow.com/",
     "5223": "http://s2scanlations.com/",

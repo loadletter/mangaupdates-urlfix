@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.12
+// @version     1.6.13
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2857,7 +2857,7 @@ var groups = {
     "5207": "http://mtogroup.wordpress.com/",
     "521": "http://xmasmanga15.forumer.com",
     "5210": "http://junnasscans.tumblr.com/",
-    "5212": "http://www.kira-fansub.com/",
+    "5212": "http://kira-manga.tumblr.com/",
     "5215": "http://alscans.wordpress.com",
     "5217": "http://mngacow.com/",
     "5223": "http://s2scanlations.com/",
