@@ -27,7 +27,7 @@ def jsonloadf(filename):
 	return data
 
 def jsonsavef(filename, data):
-	with open(filename, 'w') as f:
+	with open(filename, 'wb') as f:
 		json.dump(data, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
 	
 def dumpqueue():
@@ -145,7 +145,7 @@ def row2dict(row, outdict={}):
 
 def tmpfile_object():
 	fdesc, path = tempfile.mkstemp()
-	return os.fdopen(fdesc, 'w'), path
+	return os.fdopen(fdesc, 'wb'), path
 
 def fillheader(version):
 	with open(SCRIPTEMPLATE + ".head") as f:
@@ -156,7 +156,7 @@ def createuserscript(scriptheader, groups):
 	with open(SCRIPTEMPLATE + ".bottom") as fin:
 		bottom = fin.read()
 	
-	with open(USERSCRIPT, 'w') as f:
+	with open(USERSCRIPT, 'wb') as f:
 		f.write(scriptheader)
 		f.write("var groups = ")
 		json.dump(groups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
@@ -164,11 +164,11 @@ def createuserscript(scriptheader, groups):
 		f.write(bottom)
 
 def createmetascript(scriptheader):
-	with open(METASCRIPT, 'w') as f:
+	with open(METASCRIPT, 'wb') as f:
 		f.write(scriptheader)
 
 def createonlinegroups(groups):
-	with open(GROUPSJSCRIPT, 'w') as f:
+	with open(GROUPSJSCRIPT, 'wb') as f:
 		f.write("var urlfix_grouplist = ")
 		json.dump(groups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
 		f.write(";\n")
