@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.13
+// @version     1.6.14
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1073,7 +1073,7 @@ var groups = {
     "2687": "http://nowloading.byethost7.com/",
     "269": "http://www.seaofmirrors.com/",
     "2690": "http://d-moonchild.livejournal.com/",
-    "2691": "http://biribiri.eu/",
+    "2691": "http://biribiri.fakku.net/",
     "2692": "http://sakurasckns.wordpress.com/",
     "2694": "http://community.livejournal.com/shinobi_life/",
     "2697": "http://mangahelpers.com/s/rbc",
@@ -2862,7 +2862,7 @@ var groups = {
     "5217": "http://mngacow.com/",
     "5223": "http://s2scanlations.com/",
     "5226": "http://prozessh.blogspot.de/",
-    "5227": "http://bunny26a3.blogspot.com/",
+    "5227": "http://bns.shounen-ai.net/",
     "5228": "http://smdc-translations.com/",
     "523": "http://www.freewebs.com/ramsus-kun/",
     "5230": "https://www.facebook.com/SkyOfSnowScanlation",
@@ -3248,9 +3248,14 @@ var groups = {
     "5915": "http://kurousagi-translations.tumblr.com/",
     "5916": "https://dinaramint.wordpress.com/",
     "592": "http://vk.rinne.nu/",
+    "5920": "http://www.batoto.net/group/_/k/kimchicrackers-team-r4044",
+    "5921": "http://www.batoto.net/group/_/q/quest-r3366",
     "5925": "http://onmyodoscans.co.nf/",
     "5928": "http://tsundereservice.blogspot.com/",
     "593": "http://usu.forbidden-lover.net/",
+    "5931": "http://divina126.livejournal.com/",
+    "5933": "http://lianruru.tumblr.com/",
+    "5934": "http://comic-walker.com/",
     "594": "http://archive.toukakoukan.com/index2.html",
     "596": "http://ttreasures.caithion.net/",
     "597": "http://www.shinrin.ic.cz/fscans.html",
