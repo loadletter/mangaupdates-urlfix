@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.14
+// @version     1.6.15
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3256,7 +3256,9 @@ var groups = {
     "5931": "http://divina126.livejournal.com/",
     "5933": "http://lianruru.tumblr.com/",
     "5934": "http://comic-walker.com/",
+    "5935": "https://kakuzakiseira.wordpress.com/",
     "594": "http://archive.toukakoukan.com/index2.html",
+    "5941": "http://mangaordersbros.eu/",
     "596": "http://ttreasures.caithion.net/",
     "597": "http://www.shinrin.ic.cz/fscans.html",
     "599": "http://liquideros.com/",
