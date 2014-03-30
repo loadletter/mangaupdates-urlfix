@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.15
+// @version     1.6.16
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2907,6 +2907,7 @@ var groups = {
     "532": "http://individual.utoronto.ca/bradleygee/Manga/",
     "5321": "http://nightsky.ucoz.com/",
     "5323": "http://randomscans.blogspot.com/",
+    "5324": "http://symphogear.blogspot.com/",
     "5325": "http://tsukareteru-tako.tumblr.com/",
     "5326": "http://chikiscans.com/",
     "5329": "http://tmnbe-scans.blogspot.com/",
@@ -2980,7 +2981,7 @@ var groups = {
     "5457": "http://www.silentsky-scans.net/",
     "5459": "http://cielscans.wordpress.com/",
     "546": "http://chikansneverdie.wordpress.com/",
-    "5462": "http://kameden.blogspot.com/",
+    "5462": "http://kamedenscans.wordpress.com/",
     "5463": "http://rinruritrans.x.fc2.com",
     "5464": "http://mangaordersbros.co.nf/",
     "5465": "http://mangaordersbros.co.nf/",
@@ -3102,6 +3103,7 @@ var groups = {
     "567": "http://www.hackthemainstream.com/projects/project_tyrant.htm",
     "5670": "http://ninjaswithoutborders.com/",
     "5671": "http://fateburnfamily.wordpress.com/",
+    "5673": "https://sites.google.com/site/mk42dragonscanlations/",
     "5674": "http://bokusekiset.tumblr.com",
     "5677": "http://reapers-scans.blogspot.com/",
     "5679": "http://teamspecialscans.com/",
@@ -3142,7 +3144,7 @@ var groups = {
     "5734": "http://queen-2-hearts.ucoz.com/",
     "5735": "http://kimoi-group.tumblr.com/",
     "5736": "http://mnemeaa.wordpress.com/",
-    "5737": "http://afrodhi.org/",
+    "5737": "http://eng.afrodhi.org",
     "5738": "http://yummymanga.wordpress.com/",
     "574": "http://community.livejournal.com/wttsn/",
     "5741": "http://narascans.blogspot.com",
@@ -3199,6 +3201,7 @@ var groups = {
     "5837": "http://www.batoto.net/group/_/p/p-mistress-scans-r3755",
     "5838": "http://inuboku-scans.tumblr.com/",
     "584": "http://www.jinchuuriki.com",
+    "5840": "http://www.batoto.net/group/_/t/temper-trans-r3455",
     "5842": "http://mikagura-scans.tumblr.com/",
     "5843": "http://norawgami.tumblr.com/",
     "5844": "http://kakoimamirai.wordpress.com/",
@@ -3215,6 +3218,7 @@ var groups = {
     "586": "http://unexpectedtimes.livejournal.com/",
     "5860": "https://isolarium.wordpress.com/",
     "5861": "http://www.batoto.net/group/_/l/low-gear-r3925",
+    "5865": "http://www.batoto.net/group/_/c/cerberus-chihuahua-r3724",
     "587": "http://www.sushiy.com/",
     "5872": "http://kotatsuscans.tumblr.com/",
     "5876": "https://www.mangabox.me/",
@@ -3239,6 +3243,7 @@ var groups = {
     "5902": "http://guhehe.wordpress.com/",
     "5903": "https://lolipopscans.wordpress.com/",
     "5904": "http://blackinque.imgur.com/",
+    "5905": "http://royalhearts.net/",
     "5907": "https://ricoriconiko.wordpress.com/",
     "591": "http://a.sigh.org/",
     "5910": "http://saranghachiscans.wordpress.com/",
@@ -3256,9 +3261,10 @@ var groups = {
     "5931": "http://divina126.livejournal.com/",
     "5933": "http://lianruru.tumblr.com/",
     "5934": "http://comic-walker.com/",
-    "5935": "https://kakuzakiseira.wordpress.com/",
+    "5935": "http://kakuzakiseira.wordpress.com/",
     "594": "http://archive.toukakoukan.com/index2.html",
     "5941": "http://mangaordersbros.eu/",
+    "5942": "http://trilobitescans.wordpress.com",
     "596": "http://ttreasures.caithion.net/",
     "597": "http://www.shinrin.ic.cz/fscans.html",
     "599": "http://liquideros.com/",
