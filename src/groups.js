@@ -3245,6 +3245,7 @@ var urlfix_grouplist = {
     "5920": "http://www.batoto.net/group/_/k/kimchicrackers-team-r4044",
     "5921": "http://www.batoto.net/group/_/q/quest-r3366",
     "5925": "http://onmyodoscans.co.nf/",
+    "5926": "http://thefaiienscans.weebly.com/",
     "5928": "http://tsundereservice.blogspot.com/",
     "593": "http://usu.forbidden-lover.net/",
     "5931": "http://divina126.livejournal.com/",

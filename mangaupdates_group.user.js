@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.16
+// @version     1.6.17
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3256,6 +3256,7 @@ var groups = {
     "5920": "http://www.batoto.net/group/_/k/kimchicrackers-team-r4044",
     "5921": "http://www.batoto.net/group/_/q/quest-r3366",
     "5925": "http://onmyodoscans.co.nf/",
+    "5926": "http://thefaiienscans.weebly.com/",
     "5928": "http://tsundereservice.blogspot.com/",
     "593": "http://usu.forbidden-lover.net/",
     "5931": "http://divina126.livejournal.com/",
