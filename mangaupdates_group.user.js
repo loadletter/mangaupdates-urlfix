@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.18
+// @version     1.6.19
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3268,6 +3268,9 @@ var groups = {
     "5941": "http://mangaordersbros.eu/",
     "5942": "http://trilobitescans.wordpress.com",
     "5949": "http://mangabandits.net/",
+    "5951": "http://watisdisidonteven.blogspot.com/",
+    "5952": "http://sweetmelodyscans.wordpress.com/",
+    "5954": "http://www.batoto.net/group/_/m/morkie-r4143",
     "596": "http://ttreasures.caithion.net/",
     "597": "http://www.shinrin.ic.cz/fscans.html",
     "599": "http://liquideros.com/",
