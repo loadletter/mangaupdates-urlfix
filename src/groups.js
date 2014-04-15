@@ -2729,7 +2729,7 @@ var urlfix_grouplist = {
     "5042": "http://dropmanga.webs.com/",
     "5043": "http://rovscans.wordpress.com/",
     "5044": "http://ginironochou.wordpress.com/",
-    "5045": "http://xcxscans.wordpress.com/",
+    "5045": "http://xcxscans.blogspot.com/",
     "5046": "http://kuro-hachi.tumblr.com/",
     "5047": "http://cswordreleases.blogspot.com",
     "5048": "http://springephemeral.wordpress.com/",

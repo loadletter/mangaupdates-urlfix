@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.20
+// @version     1.6.21
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2740,7 +2740,7 @@ var groups = {
     "5042": "http://dropmanga.webs.com/",
     "5043": "http://rovscans.wordpress.com/",
     "5044": "http://ginironochou.wordpress.com/",
-    "5045": "http://xcxscans.wordpress.com/",
+    "5045": "http://xcxscans.blogspot.com/",
     "5046": "http://kuro-hachi.tumblr.com/",
     "5047": "http://cswordreleases.blogspot.com",
     "5048": "http://springephemeral.wordpress.com/",
