@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.21
+// @version     1.6.22
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3260,6 +3260,7 @@ var groups = {
     "5925": "http://onmyodoscans.co.nf/",
     "5926": "http://thefaiienscans.weebly.com/",
     "5928": "http://tsundereservice.blogspot.com/",
+    "5929": "https://endscans.wordpress.com/",
     "593": "http://usu.forbidden-lover.net/",
     "5931": "http://divina126.livejournal.com/",
     "5933": "http://lianruru.tumblr.com/",
@@ -3268,6 +3269,7 @@ var groups = {
     "594": "http://archive.toukakoukan.com/index2.html",
     "5941": "http://mangaordersbros.eu/",
     "5942": "http://trilobitescans.wordpress.com",
+    "5946": "http://mekamekasubs.tumblr.com/",
     "5949": "http://mangabandits.net/",
     "5951": "http://watisdisidonteven.blogspot.com/",
     "5952": "http://sweetmelodyscans.wordpress.com/",
@@ -3275,6 +3277,8 @@ var groups = {
     "5957": "http://bhhscans.com/",
     "5958": "http://ihoshiku.tumblr.com/",
     "596": "http://ttreasures.caithion.net/",
+    "5963": "http://blog.livedoor.jp/burninglovescans",
+    "5964": "http://sadtranslations.blogspot.com/",
     "597": "http://www.shinrin.ic.cz/fscans.html",
     "599": "http://liquideros.com/",
     "600": "http://sevenstarstories.blogspot.com/",
