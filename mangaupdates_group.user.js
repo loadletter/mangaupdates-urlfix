@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.22
+// @version     1.6.23
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3183,7 +3183,7 @@ var groups = {
     "5809": "http://jaescans.blogspot.com/",
     "581": "http://bluelittleone.livejournal.com/",
     "5811": "http://yander.es/",
-    "5812": "http://www.batoto.net/group/_/n/necron99-r3834",
+    "5812": "http://necron99scans.com",
     "5813": "http://triplesevenscans.blogspot.com/",
     "5814": "http://lunox.us",
     "5815": "http://balikatanscans.uco.im/",
@@ -3279,6 +3279,7 @@ var groups = {
     "596": "http://ttreasures.caithion.net/",
     "5963": "http://blog.livedoor.jp/burninglovescans",
     "5964": "http://sadtranslations.blogspot.com/",
+    "5966": "http://kobatochandaisuki.wordpress.com",
     "597": "http://www.shinrin.ic.cz/fscans.html",
     "599": "http://liquideros.com/",
     "600": "http://sevenstarstories.blogspot.com/",
