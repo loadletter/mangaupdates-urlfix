@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.23
+// @version     1.6.24
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3281,6 +3281,7 @@ var groups = {
     "5964": "http://sadtranslations.blogspot.com/",
     "5966": "http://kobatochandaisuki.wordpress.com",
     "597": "http://www.shinrin.ic.cz/fscans.html",
+    "5971": "http://springtimescans.weebly.com/",
     "599": "http://liquideros.com/",
     "600": "http://sevenstarstories.blogspot.com/",
     "601": "http://lovenana4ever.cjb.net/",
