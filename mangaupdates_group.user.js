@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.24
+// @version     1.6.25
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2380,7 +2380,7 @@ var groups = {
     "4537": "http://theredrabbits.wordpress.com/",
     "4539": "http://lunatictranslations.wordpress.com/",
     "4541": "http://giraffecorps.liamak.net/",
-    "4542": "http://mangaholic.org/blog/",
+    "4542": "http://mangaholic.org/",
     "4545": "http://rottenpeanuts.blogspot.com",
     "4547": "http://themysteriouskingdomscans.blogspot.com/",
     "4550": "http://atxalchemy.wordpress.com/",
@@ -3282,6 +3282,8 @@ var groups = {
     "5966": "http://kobatochandaisuki.wordpress.com",
     "597": "http://www.shinrin.ic.cz/fscans.html",
     "5971": "http://springtimescans.weebly.com/",
+    "5973": "http://www.oneora.net/",
+    "5974": "http://lastchapterof.mangamatters.com/blog/",
     "599": "http://liquideros.com/",
     "600": "http://sevenstarstories.blogspot.com/",
     "601": "http://lovenana4ever.cjb.net/",
