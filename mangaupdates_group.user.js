@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.25
+// @version     1.6.26
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1936,7 +1936,7 @@ var groups = {
     "3894": "http://photonlab.blogspot.com/",
     "3896": "http://shoujo-addiction.jimdo.com/",
     "3898": "http://www.mediafire.com/?9tknjryf8rjx4",
-    "3899": "http://kokuhaku.ephemeraleternity.com/",
+    "3899": "http://kokuhaku.eternicity.net/",
     "39": "http://www.orangeday.net/soul-society",
     "390": "http://eternal-yaoi.cjb.net/",
     "3900": "http://mypersonalscan.blogspot.com/",
@@ -2754,7 +2754,7 @@ var groups = {
     "5056": "http://munin-blog.blogspot.com",
     "5057": "http://en.nightow.net/",
     "5061": "http://serendipitymanga.blogspot.ro/",
-    "5065": "http://asdfscans.net/",
+    "5065": "site has been deleted, and group is now IRC-only",
     "5066": "http://mangashouten.wordpress.com/",
     "5067": "https://www.mediafire.com/folder/xz3uihajr2qq9/Scanlations",
     "5070": "http://www.twistedhelscans.com/",
@@ -3269,6 +3269,7 @@ var groups = {
     "594": "http://archive.toukakoukan.com/index2.html",
     "5941": "http://mangaordersbros.eu/",
     "5942": "http://trilobitescans.wordpress.com",
+    "5945": "http://kimagurescansub.wordpress.com/",
     "5946": "http://mekamekasubs.tumblr.com/",
     "5949": "http://mangabandits.net/",
     "5951": "http://watisdisidonteven.blogspot.com/",
@@ -3284,6 +3285,8 @@ var groups = {
     "5971": "http://springtimescans.weebly.com/",
     "5973": "http://www.oneora.net/",
     "5974": "http://lastchapterof.mangamatters.com/blog/",
+    "5980": "http://ozphscans.blogspot.com/",
+    "5982": "Zeus7Ex.wordpress.com",
     "599": "http://liquideros.com/",
     "600": "http://sevenstarstories.blogspot.com/",
     "601": "http://lovenana4ever.cjb.net/",
