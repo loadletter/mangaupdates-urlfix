@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.26
+// @version     1.6.27
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -57,7 +57,7 @@ var groups = {
     "1058": "http://lostheaven-sc.livejournal.com/",
     "106": "http://www.ignition-one.org/",
     "1062": "http://goldie.livejournal.com/",
-    "1065": "http://conan.thetrogdor.com/",
+    "1065": "http://www.dctp.ws/",
     "1068": "http://www.completely-oblivious.net",
     "107": "http://nakamanga.com/",
     "1070": "http://community.livejournal.com/hp_scanlation/",
@@ -766,7 +766,7 @@ var groups = {
     "2220": "http://mellylemon.livejournal.com/",
     "2223": "http://www.sogifiers.info",
     "2225": "http://nonamescan.wordpress.com/",
-    "2226": "http://nerieruscans.bl.ee/",
+    "2226": "http://nerieru-scans.com/",
     "2227": "http://sugarcubescans.livejournal.com/",
     "223": "http://trapnest.scanlations.net/",
     "2232": "http://kazeyumi.livejournal.com",
@@ -3287,6 +3287,8 @@ var groups = {
     "5974": "http://lastchapterof.mangamatters.com/blog/",
     "5980": "http://ozphscans.blogspot.com/",
     "5982": "Zeus7Ex.wordpress.com",
+    "5983": "http://www.horizonscans.com/",
+    "5988": "http://almond-cream.tumblr.com",
     "599": "http://liquideros.com/",
     "600": "http://sevenstarstories.blogspot.com/",
     "601": "http://lovenana4ever.cjb.net/",
