@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.27
+// @version     1.6.28
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1918,6 +1918,7 @@ var groups = {
     "3859": "http://pokespeproject.blogspot.com/",
     "3861": "http://nfnet.wordpress.com",
     "3864": "http://mlsculptor.blogspot.com/",
+    "3865": "http://xscansx.forummotion.com/",
     "3866": "http://mmsscans.wordpress.com/",
     "3868": "http://evetaku.com/blog/",
     "387": "http://akomp.sajt.org/",
@@ -2386,7 +2387,7 @@ var groups = {
     "4550": "http://atxalchemy.wordpress.com/",
     "4551": "http://seiscans.blogspot.com/",
     "4552": "http://ichimarshmallow.wordpress.com/",
-    "4554": "http://nanachanscans.wordpress.com/",
+    "4554": "http://terrabane.wordpress.com/",
     "4555": "http://magalingscans.wordpress.com",
     "4556": "http://asmodeatranslations.blogspot.com/",
     "4557": "http://bara-blogger.blogspot.com/",
@@ -2578,7 +2579,7 @@ var groups = {
     "4828": "http://redsky-scenlations.blogspot.com/",
     "4830": "http://shirayukiscans.tumblr.com/",
     "4832": "http://Goldenrozescans.wordpress.com",
-    "4834": "http://thelustyladyproject.com/",
+    "4834": "http://thelustyladyproject.blogspot.com/",
     "4835": "http://tigerlovetranslations.blogspot.com/",
     "4836": "http://pleasant-memories.com/",
     "4837": "http://silvery-storm.livejournal.com/",
@@ -3290,7 +3291,12 @@ var groups = {
     "5983": "http://www.horizonscans.com/",
     "5988": "http://almond-cream.tumblr.com",
     "599": "http://liquideros.com/",
+    "5991": "http://meridianscans.wordpress.com/",
+    "5992": "http://xfengyujiutian.tumblr.com/manhua",
+    "5998": "http://nanachanscans.wordpress.com/",
     "600": "http://sevenstarstories.blogspot.com/",
+    "6002": "http://the-end-manga.livejournal.com/",
+    "6004": "http://www.batoto.net/group/_/e/entente-r3838",
     "601": "http://lovenana4ever.cjb.net/",
     "602": "http://www.emsmanga.com/",
     "603": "http://www.myspace.com/hanmabaki",
