@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.28
+// @version     1.6.29
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1648,7 +1648,7 @@ var groups = {
     "3471": "http://anonscanlations.blogspot.com/",
     "3472": "http://newevolteam.altervista.org/",
     "3473": "http://www.mediafire.com/zawanons",
-    "3477": "http://egscans.org/",
+    "3477": "http://egscans.com/",
     "3479": "http://theturtlehermit.wordpress.com/",
     "348": "http://smexybs.iroppoi.net/",
     "3482": "http://www.eternalheart.net/",
@@ -3287,7 +3287,7 @@ var groups = {
     "5973": "http://www.oneora.net/",
     "5974": "http://lastchapterof.mangamatters.com/blog/",
     "5980": "http://ozphscans.blogspot.com/",
-    "5982": "Zeus7Ex.wordpress.com",
+    "5982": "http://zeus7ex.wordpress.com/",
     "5983": "http://www.horizonscans.com/",
     "5988": "http://almond-cream.tumblr.com",
     "599": "http://liquideros.com/",
