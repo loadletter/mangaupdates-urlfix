@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.30
+// @version     1.6.31
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2579,7 +2579,7 @@ var groups = {
     "4828": "http://redsky-scenlations.blogspot.com/",
     "4830": "http://shirayukiscans.tumblr.com/",
     "4832": "http://Goldenrozescans.wordpress.com",
-    "4834": "http://thelustyladyproject.blogspot.com/",
+    "4834": "http://thelustyladyproject.com/",
     "4835": "http://tigerlovetranslations.blogspot.com/",
     "4836": "http://pleasant-memories.com/",
     "4837": "http://silvery-storm.livejournal.com/",
@@ -2727,7 +2727,7 @@ var groups = {
     "5021": "http://ak-scans.wikia.com/wiki/The_/ak/_Wiki",
     "5023": "http://oresamascans.wordpress.com",
     "5026": "http://buttonscity.blogspot.com",
-    "5027": "http://bentoland.wordpress.com/",
+    "5027": "http://bento-scans.mokkori.fr/",
     "5029": "http://devil-castle.livejournal.com/",
     "5033": "http://dear-marionette.livejournal.com/",
     "5034": "http://darkmurmur.com/",
@@ -3289,6 +3289,7 @@ var groups = {
     "5980": "http://ozphscans.blogspot.com/",
     "5982": "http://zeus7ex.wordpress.com/",
     "5983": "http://www.horizonscans.com/",
+    "5987": "http://ochimusha.wordpress.com/",
     "5988": "http://almond-cream.tumblr.com",
     "599": "http://liquideros.com/",
     "5991": "http://meridianscans.wordpress.com/",
@@ -3296,8 +3297,10 @@ var groups = {
     "5995": "http://lily-ros3.livejournal.com/",
     "5998": "http://nanachanscans.wordpress.com/",
     "600": "http://sevenstarstories.blogspot.com/",
+    "6000": "http://luxiufer.livejournal.com/",
     "6002": "http://the-end-manga.livejournal.com/",
     "6004": "http://www.batoto.net/group/_/e/entente-r3838",
+    "6008": "http://cafescans.tumblr.com/",
     "601": "http://lovenana4ever.cjb.net/",
     "602": "http://www.emsmanga.com/",
     "603": "http://www.myspace.com/hanmabaki",
