@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.31
+// @version     1.6.32
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -137,7 +137,7 @@ var groups = {
     "1200": "http://jelations.wordpress.com/",
     "1201": "http://konnichiwa.teake.net/",
     "1202": "http://azure.freehostia.com/",
-    "1204": "http://offtopia.11.forumer.com/",
+    "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "1205": "http://community.livejournal.com/todokanai_gw/",
     "1207": "http://dakkumanga.bravehost.com/",
     "1211": "http://www.divine-sanctuary.net/",
@@ -1201,7 +1201,7 @@ var groups = {
     "2847": "http://eikouscans.wordpress.com/",
     "2849": "http://mangahelpers.com/s/matsuda",
     "285": "http://dragonfly.gestaltzerfall.com/",
-    "2850": "http://offtopia.eberth.de/",
+    "2850": "http://offtopia.11.forumer.com/",
     "2851": "http://somedaysoon.co.cc/",
     "2852": "http://community.livejournal.com/tsuderascans/",
     "2854": "http://mangahelpers.com/s/manga-release",
@@ -2725,6 +2725,7 @@ var groups = {
     "5018": "http://loequality.blogspot.ca/",
     "502": "http://www.BleachWork.com",
     "5021": "http://ak-scans.wikia.com/wiki/The_/ak/_Wiki",
+    "5022": "http://www.suzuran-high.com/forum/index.php",
     "5023": "http://oresamascans.wordpress.com",
     "5026": "http://buttonscity.blogspot.com",
     "5027": "http://bento-scans.mokkori.fr/",
@@ -3302,6 +3303,8 @@ var groups = {
     "6004": "http://www.batoto.net/group/_/e/entente-r3838",
     "6008": "http://cafescans.tumblr.com/",
     "601": "http://lovenana4ever.cjb.net/",
+    "6011": "http://yuriinwonderland.wordpress.com/",
+    "6013": "http://visualnovel.deviantart.com/",
     "602": "http://www.emsmanga.com/",
     "603": "http://www.myspace.com/hanmabaki",
     "605": "http://yuki-scans.tk/",
