@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.32
+// @version     1.6.33
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2534,7 +2534,7 @@ var groups = {
     "4766": "http://farhadfriends.wordpress.com/",
     "4767": "http://lemonpielovers.webs.com/",
     "4768": "http://quickiescans.wordpress.com/",
-    "4769": "http://ddsol.site40.net/",
+    "4769": "https://www.facebook.com/CWT762",
     "477": "http://members.lycos.co.uk/drahal/",
     "4770": "http://fujoshigeneration.com/",
     "4771": "http://sy-scanlations.livejournal.com/",
@@ -2677,7 +2677,7 @@ var groups = {
     "4956": "http://supremecream.wordpress.com/",
     "4957": "http://subdesu-h.net/",
     "4959": "http://kanashii-anime.blogspot.com/",
-    "4960": "http://www.vistrans.net/",
+    "4960": "http://www.batoto.net/group/_/v/vistrans-r2296",
     "4963": "http://cosmiquescans.blogspot.ca/",
     "4965": "http://foo7890.wordpress.com/",
     "4966": "http://tako-luka.blogspot.com/",
@@ -2862,6 +2862,7 @@ var groups = {
     "5210": "http://junnasscans.tumblr.com/",
     "5212": "http://kira-manga.tumblr.com/",
     "5215": "http://alscans.wordpress.com",
+    "5216": "http://bishounenlove.wordpress.com/",
     "5217": "http://mngacow.com/",
     "5223": "http://s2scanlations.com/",
     "5226": "http://prozessh.blogspot.de/",
@@ -3249,6 +3250,7 @@ var groups = {
     "5904": "http://blackinque.imgur.com/",
     "5905": "http://royalhearts.net/",
     "5907": "https://ricoriconiko.wordpress.com/",
+    "5909": "http://harroe.tumblr.com/",
     "591": "http://a.sigh.org/",
     "5910": "http://saranghachiscans.wordpress.com/",
     "5912": "http://mangajoy.com",
@@ -3305,6 +3307,7 @@ var groups = {
     "601": "http://lovenana4ever.cjb.net/",
     "6011": "http://yuriinwonderland.wordpress.com/",
     "6013": "http://visualnovel.deviantart.com/",
+    "6014": "http://finella.nemissa.info/",
     "602": "http://www.emsmanga.com/",
     "603": "http://www.myspace.com/hanmabaki",
     "605": "http://yuki-scans.tk/",
