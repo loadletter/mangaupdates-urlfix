@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.34
+// @version     1.6.35
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1274,7 +1274,7 @@ var groups = {
     "2944": "http://www.doujin-moe.us/main.html",
     "2946": "http://kyousuimoon.wordpress.com",
     "2947": "http://mangahelpers.com/s/mangascan",
-    "2948": "http://maigoscans.blogspot.ca/",
+    "2948": "http://maigo.us",
     "295": "http://www.forever-rain.com/touch/",
     "2950": "http://not4dawgz.blogspot.com/",
     "2951": "http://kappascans.livejournal.com/",
@@ -2872,6 +2872,7 @@ var groups = {
     "5230": "https://www.facebook.com/SkyOfSnowScanlation",
     "5232": "http://wearelostnfound.blogspot.com/",
     "5239": "http://bakeneko-scans.livejournal.com/",
+    "5248": "http://hereticlnt.blogspot.com/",
     "525": "http://www.zomgfta.com/",
     "5251": "http://yuukimeganescans.tumblr.com/",
     "5252": "http://kiririn.me/",
@@ -2899,7 +2900,7 @@ var groups = {
     "5301": "https://ceiphiedknightandbanditsplight.wordpress.com/",
     "5304": "http://nisepanlations.tumblr.com/",
     "5308": "http://erscans.blogspot.de/",
-    "5309": "http://www.oppai-scans.com/",
+    "5309": "http://oppai-scans.tumblr.com/",
     "531": "http://www.livejournal.com/community/toko_kawai/",
     "5310": "http://shuuen-scans.tumblr.com/",
     "5312": "http://detectiveconanscans.wordpress.com/",
@@ -3126,7 +3127,7 @@ var groups = {
     "570": "http://mobot-city.net/",
     "5700": "http://ganbarinofansub.blogspot.com/",
     "5701": "http://tb-scans.tumblr.com/",
-    "5705": "http://forgotten--scans.weebly.com/",
+    "5705": "http://fos-scans.com/",
     "5707": "http://salnar.wordpress.com/",
     "5708": "http://90percentzebra.wordpress.com/",
     "5709": "http://project-torture.tumblr.com/",
@@ -3312,6 +3313,7 @@ var groups = {
     "6021": "http://panisal.livejournal.com/",
     "6022": "http://artificialdemons.boards.net/",
     "6023": "http://ss-scans.blogspot.com/",
+    "6027": "http://tinyurl.com/animango-scans",
     "603": "http://www.myspace.com/hanmabaki",
     "605": "http://yuki-scans.tk/",
     "607": "http://www.soompi.com",
