@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.35
+// @version     1.6.36
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2995,6 +2995,7 @@ var groups = {
     "547": "http://narutotrad.com/",
     "5470": "http://horobosu-scans.livejournal.com/",
     "5472": "http://200wpms.wordpress.com/",
+    "5474": "http://bienenstich.livejournal.com/",
     "5478": "http://mangaordersbros.co.nf/",
     "5479": "http://impatientscan.blogspot.com/",
     "5486": "https://fairylandera.wordpress.com/",
@@ -3309,12 +3310,20 @@ var groups = {
     "6011": "http://yuriinwonderland.wordpress.com/",
     "6013": "http://visualnovel.deviantart.com/",
     "6014": "http://finella.nemissa.info/",
+    "6015": "http://dh5alpha.blogspot.com/",
     "602": "http://www.emsmanga.com/",
+    "6020": "http://hui3r.wordpress.com/",
     "6021": "http://panisal.livejournal.com/",
     "6022": "http://artificialdemons.boards.net/",
     "6023": "http://ss-scans.blogspot.com/",
+    "6024": "http://www.batoto.net/group/_/r/rpapo-r4326",
     "6027": "http://tinyurl.com/animango-scans",
     "603": "http://www.myspace.com/hanmabaki",
+    "6031": "http://editorfag.wordpress.com/",
+    "6032": "http://rinshankaihouscans.wordpress.com/",
+    "6034": "http://tsukikagescans.blogspot.com/",
+    "6035": "http://shonanjunaigumi.weebly.com/",
+    "6036": "http://kirikowildlife.wordpress.com/",
     "605": "http://yuki-scans.tk/",
     "607": "http://www.soompi.com",
     "609": "http://geocities.com/rtmanga/",
