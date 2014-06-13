@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.36
+// @version     1.6.37
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -116,7 +116,7 @@ var groups = {
     "1174": "http://bakemono.info/",
     "1176": "http://whatever-project.com/",
     "1177": "http://liliy.net/daradara",
-    "1178": "http://dustballs.hosterbox.net/",
+    "1178": "http://dustballs.nutang.com/",
     "1179": "http://mangaabyss.webs.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1180": "http://www.freewebs.com/mmmdraco",
@@ -2288,7 +2288,7 @@ var groups = {
     "4413": "http://psychosodascans.livejournal.com/",
     "4414": "http://hingablabla.wordpress.com/",
     "4415": "http://brainscans.wordpress.com/",
-    "4416": "http://manprudbloempje.tumblr.com",
+    "4416": "http://manginaflower.tumblr.com/",
     "4418": "http://starwulfen.livejournal.com/tag/scanlation",
     "4419": "http://imperialscans.com/",
     "442": "http://www.thor-hammer.com/",
@@ -3324,6 +3324,7 @@ var groups = {
     "6034": "http://tsukikagescans.blogspot.com/",
     "6035": "http://shonanjunaigumi.weebly.com/",
     "6036": "http://kirikowildlife.wordpress.com/",
+    "6040": "http://teamgomi.tumblr.com/",
     "605": "http://yuki-scans.tk/",
     "607": "http://www.soompi.com",
     "609": "http://geocities.com/rtmanga/",
