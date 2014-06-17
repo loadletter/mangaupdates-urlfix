@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.37
+// @version     1.6.38
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2756,7 +2756,7 @@ var groups = {
     "5056": "http://munin-blog.blogspot.com",
     "5057": "http://en.nightow.net/",
     "5061": "http://serendipitymanga.blogspot.ro/",
-    "5065": "site has been deleted, and group is now IRC-only",
+    "5065": "http://asdfscans.mokkori.fr/",
     "5066": "http://mangashouten.wordpress.com/",
     "5067": "https://www.mediafire.com/folder/xz3uihajr2qq9/Scanlations",
     "5070": "http://www.twistedhelscans.com/",
@@ -2886,7 +2886,7 @@ var groups = {
     "5276": "http://gurennoheyakara.blogspot.it/",
     "5279": "http://tak3z0.livejournal.com/",
     "528": "http://www.eternalsleep.xoder.com",
-    "5282": "http://megu-scans.blogspot.com/",
+    "5282": "http://meguscans.wordpress.com/",
     "5283": "http://zqscans2013.wordpress.com/",
     "5285": "http://arainamiscans.wordpress.com/",
     "5286": "http://pastebin.com/f2B6mpf3",
@@ -3021,7 +3021,7 @@ var groups = {
     "5522": "http://sweet-temptation-scans.blogspot.com/",
     "5529": "http://www.dragonandgriffin.com",
     "5531": "http://agrypniascan.blogspot.com/",
-    "5533": "http://mangaichiscans.blogspot.com/",
+    "5533": "http://mangaichiscans.mokkori.fr/",
     "5534": "http://weiberregiment.livejournal.com/",
     "5538": "http://dourkout.blogspot.com/",
     "5539": "http://frostscans.wordpress.com/",
@@ -3317,6 +3317,7 @@ var groups = {
     "6022": "http://artificialdemons.boards.net/",
     "6023": "http://ss-scans.blogspot.com/",
     "6024": "http://www.batoto.net/group/_/r/rpapo-r4326",
+    "6026": "http://thecatscans.wordpress.com/",
     "6027": "http://tinyurl.com/animango-scans",
     "603": "http://www.myspace.com/hanmabaki",
     "6031": "http://editorfag.wordpress.com/",
@@ -3325,6 +3326,8 @@ var groups = {
     "6035": "http://shonanjunaigumi.weebly.com/",
     "6036": "http://kirikowildlife.wordpress.com/",
     "6040": "http://teamgomi.tumblr.com/",
+    "6042": "http://rolybearpress.blogspot.com/",
+    "6045": "http://divulge-scans.tumblr.com",
     "605": "http://yuki-scans.tk/",
     "607": "http://www.soompi.com",
     "609": "http://geocities.com/rtmanga/",
