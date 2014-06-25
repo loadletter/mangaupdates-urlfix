@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.38
+// @version     1.6.39
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3329,6 +3329,7 @@ var groups = {
     "6042": "http://rolybearpress.blogspot.com/",
     "6045": "http://divulge-scans.tumblr.com",
     "605": "http://yuki-scans.tk/",
+    "6055": "http://silentwolfie.deviantart.com/",
     "607": "http://www.soompi.com",
     "609": "http://geocities.com/rtmanga/",
     "61": "http://koreanmanhwa.free.fr/",
