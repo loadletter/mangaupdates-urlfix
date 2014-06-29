@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.39
+// @version     1.6.40
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1192,7 +1192,7 @@ var groups = {
     "2838": "http://nigihana.com/",
     "2839": "http://mangahelpers.com/s/prowider",
     "284": "http://shinsen-subs.org",
-    "2840": "http://mangahelpers.com/s/kibate",
+    "2840": "http://vaasitranslation.blogspot.com/",
     "2841": "http://lolly-popps.livejournal.com/",
     "2842": "http://impatientmanga.wordpress.com/",
     "2843": "http://vaane.wordpress.com/",

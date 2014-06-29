@@ -1181,7 +1181,7 @@ var urlfix_grouplist = {
     "2838": "http://nigihana.com/",
     "2839": "http://mangahelpers.com/s/prowider",
     "284": "http://shinsen-subs.org",
-    "2840": "http://mangahelpers.com/s/kibate",
+    "2840": "http://vaasitranslation.blogspot.com/",
     "2841": "http://lolly-popps.livejournal.com/",
     "2842": "http://impatientmanga.wordpress.com/",
     "2843": "http://vaane.wordpress.com/",
