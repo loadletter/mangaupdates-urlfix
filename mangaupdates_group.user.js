@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.40
+// @version     1.6.41
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2959,6 +2959,7 @@ var groups = {
     "541": "http://blogs.cjb.net/tententen/",
     "5410": "http://sachy-a.livejournal.com/",
     "5412": "http://madmanscanlation.blogspot.com",
+    "5413": "http://saltyhometown.blogspot.com/",
     "5415": "http://squalo-scans.livejournal.com/",
     "5417": "http://sarumi-project.livejournal.com/",
     "5418": "http://dragonballremastered.wordpress.com",
@@ -3263,6 +3264,7 @@ var groups = {
     "592": "http://vk.rinne.nu/",
     "5920": "http://www.batoto.net/group/_/k/kimchicrackers-team-r4044",
     "5921": "http://www.batoto.net/group/_/q/quest-r3366",
+    "5924": "https://c2team.wordpress.com/",
     "5925": "http://onmyodoscans.co.nf/",
     "5926": "http://thefaiienscans.weebly.com/",
     "5928": "http://tsundereservice.blogspot.com/",
@@ -3275,6 +3277,7 @@ var groups = {
     "594": "http://archive.toukakoukan.com/index2.html",
     "5941": "http://mangaordersbros.eu/",
     "5942": "http://trilobitescans.wordpress.com",
+    "5943": "http://www.batoto.net/group/_/g/gangking-fansub-r3714",
     "5945": "http://kimagurescansub.wordpress.com/",
     "5946": "http://mekamekasubs.tumblr.com/",
     "5949": "http://mangabandits.net/",
@@ -3286,6 +3289,7 @@ var groups = {
     "596": "http://ttreasures.caithion.net/",
     "5963": "http://blog.livedoor.jp/burninglovescans",
     "5964": "http://sadtranslations.blogspot.com/",
+    "5965": "http://www.batoto.net/group/_/l/leo-r4075",
     "5966": "http://kobatochandaisuki.wordpress.com",
     "597": "http://www.shinrin.ic.cz/fscans.html",
     "5971": "http://springtimescans.weebly.com/",
@@ -3294,6 +3298,7 @@ var groups = {
     "5980": "http://ozphscans.blogspot.com/",
     "5982": "http://zeus7ex.wordpress.com/",
     "5983": "http://www.horizonscans.com/",
+    "5985": "http://www.batoto.net/group/_/b/burger-scans-r4236",
     "5987": "http://ochimusha.wordpress.com/",
     "5988": "http://almond-cream.tumblr.com",
     "599": "http://liquideros.com/",
@@ -3322,13 +3327,20 @@ var groups = {
     "603": "http://www.myspace.com/hanmabaki",
     "6031": "http://editorfag.wordpress.com/",
     "6032": "http://rinshankaihouscans.wordpress.com/",
+    "6033": "https://thenonames512.wordpress.com/",
     "6034": "http://tsukikagescans.blogspot.com/",
     "6035": "http://shonanjunaigumi.weebly.com/",
     "6036": "http://kirikowildlife.wordpress.com/",
+    "6037": "http://www.batoto.net/group/_/p/project-b-r4293",
     "6040": "http://teamgomi.tumblr.com/",
+    "6041": "http://www.batoto.net/group/_/r/reine-scans-r4286",
     "6042": "http://rolybearpress.blogspot.com/",
+    "6043": "http://www.batoto.net/group/_/t/to-aru-universe-r4202",
     "6045": "http://divulge-scans.tumblr.com",
     "605": "http://yuki-scans.tk/",
+    "6050": "http://nijiyoake.tumblr.com/",
+    "6051": "http://mion-sakamaki.tumblr.com/",
+    "6052": "http://koutonori.tumblr.com/",
     "6055": "http://silentwolfie.deviantart.com/",
     "607": "http://www.soompi.com",
     "609": "http://geocities.com/rtmanga/",
