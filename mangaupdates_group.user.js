@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.41
+// @version     1.6.42
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1587,6 +1587,7 @@ var groups = {
     "3375": "http://my-scanlations.blogspot.com/",
     "3376": "http://mangahelpers.com/s/manga-il",
     "3378": "http://www.zetmanga.com/",
+    "338": "http://hiyokonogao.wordpress.com/",
     "3382": "http://opp.roddyi.com/",
     "3383": "http://internalscans.blogspot.com/",
     "3384": "http://acacia15.co.cc/",
@@ -3342,7 +3343,13 @@ var groups = {
     "6051": "http://mion-sakamaki.tumblr.com/",
     "6052": "http://koutonori.tumblr.com/",
     "6055": "http://silentwolfie.deviantart.com/",
+    "6064": "http://zettaitranslation.blogspot.com/",
+    "6066": "http://fixitinposttat.blogspot.com/",
+    "6069": "http://www.lenovels.net/saintscans/",
     "607": "http://www.soompi.com",
+    "6072": "https://sacredscans.wordpress.com/",
+    "6074": "http://kawascans.wordpress.com/",
+    "6076": "http://m.webtoons.com",
     "609": "http://geocities.com/rtmanga/",
     "61": "http://koreanmanhwa.free.fr/",
     "611": "http://www.xamayon.org/",
