@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.42
+// @version     1.6.43
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2775,7 +2775,7 @@ var groups = {
     "5086": "http://paradiselovescanlations.wordpress.com/",
     "5087": "http://asiaisaru.livejournal.com/",
     "5088": "http://rockinghorsescans.blogspot.com/",
-    "5089": "http://destinyscanz.weebly.com/",
+    "5089": "http://seafoodbuffetscans.wordpress.com/",
     "509": "http://www.remnantwarriors.com/",
     "5090": "http://www.pokemon-originals.org",
     "5091": "http://imachscans.wordpress.com/",
@@ -3334,7 +3334,7 @@ var groups = {
     "6036": "http://kirikowildlife.wordpress.com/",
     "6037": "http://www.batoto.net/group/_/p/project-b-r4293",
     "6040": "http://teamgomi.tumblr.com/",
-    "6041": "http://www.batoto.net/group/_/r/reine-scans-r4286",
+    "6041": "http://dynasty-scans.com/scanlators/reine_scans",
     "6042": "http://rolybearpress.blogspot.com/",
     "6043": "http://www.batoto.net/group/_/t/to-aru-universe-r4202",
     "6045": "http://divulge-scans.tumblr.com",
@@ -3345,11 +3345,14 @@ var groups = {
     "6055": "http://silentwolfie.deviantart.com/",
     "6064": "http://zettaitranslation.blogspot.com/",
     "6066": "http://fixitinposttat.blogspot.com/",
+    "6068": "http://lonemanga.com/",
     "6069": "http://www.lenovels.net/saintscans/",
     "607": "http://www.soompi.com",
     "6072": "https://sacredscans.wordpress.com/",
     "6074": "http://kawascans.wordpress.com/",
-    "6076": "http://m.webtoons.com",
+    "6075": "http://fuku-shuu.tumblr.com/",
+    "6076": "http://www.webtoons.com/",
+    "6087": "http://solitarytranslation.wordpress.com/",
     "609": "http://geocities.com/rtmanga/",
     "61": "http://koreanmanhwa.free.fr/",
     "611": "http://www.xamayon.org/",
