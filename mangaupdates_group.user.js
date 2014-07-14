@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.43
+// @version     1.6.44
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3352,7 +3352,10 @@ var groups = {
     "6074": "http://kawascans.wordpress.com/",
     "6075": "http://fuku-shuu.tumblr.com/",
     "6076": "http://www.webtoons.com/",
+    "6080": "http://great-blaster.tumblr.com/",
+    "6085": "http://ostnt.wordpress.com/",
     "6087": "http://solitarytranslation.wordpress.com/",
+    "6088": "http://comiplex.com/",
     "609": "http://geocities.com/rtmanga/",
     "61": "http://koreanmanhwa.free.fr/",
     "611": "http://www.xamayon.org/",
