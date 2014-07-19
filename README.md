@@ -3,14 +3,14 @@ mangaupdates-urlfix
 
 Userscript that adds urls and irc link back on the groups pages of mangaupdates.com
 
-##Installation (tl;dr online version is probably better for most people)
-
+##Installation
+(tl;dr online version is probably better for most people)
 - Online version (Never outdated): ['mangaupdates_group_online.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group_online.user.js)
 - Standard version (Faster loading, unreliable update): ['mangaupdates_group.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js)
 
 ### Firefox:
 
-Make sure you have greasemonkey installed and just click on one of the previous links.
+1. Make sure you have greasemonkey installed and just click on one of the previous links.
 
 ### Chrome/Chromium/Opera:
 
