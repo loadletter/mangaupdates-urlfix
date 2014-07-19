@@ -3,12 +3,10 @@ mangaupdates-urlfix
 
 Userscript that adds urls and irc link back on the groups pages of mangaupdates.com
 
-##Installation
-Standard version: ['mangaupdates_group.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js)
+##Installation (tl;dr online version is probably better for most people)
 
-
-Online version (Uses directly the data from github, should have the latest groups even if autoupdate isn't supported/working): ['mangaupdates_group_online.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group_online.user.js)
-
+- Online version (Never outdated): ['mangaupdates_group_online.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group_online.user.js)
+- Standard version (Faster loading, unreliable update): ['mangaupdates_group.user.js'](https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js)
 
 ### Firefox:
 
@@ -16,12 +14,12 @@ Make sure you have greasemonkey installed and just click on one of the previous 
 
 ### Chrome/Chromium/Opera:
 
-1. **Preferred** method: Install tampermonkey or equivalent and then just click on one of the previuos links.
+1. **Preferred** method: Install tampermonkey/violentmonkey or equivalent and then just click on one of the previuos links.
 
-2. Other (Could be used with the online version): Save the previous link to a file (Right click> Save link as..), then open the folder where you downloaded it and drag the file to the Extensions page on Chrome.
+2. Save the online version link to a file (Right click> Save link as..), then open the folder where you downloaded it and drag the file to the Extensions page on Chrome.
 
 ##Script not autoupdating?
-- Check your greasemonkey/tampermonkey/etc settings or try using the online version.
+- Use the oline version or check your greasemonkey/tampermonkey/etc settings.
 - With the online version the groups are external, so the version number is lower than the standard version.
 
 ##(New) Missing/outdated/wrong links?
