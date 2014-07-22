@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.45
+// @version     1.6.46
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -303,7 +303,7 @@ var groups = {
     "1485": "http://celeasdiele.livejournal.com/",
     "1487": "http://groups.yahoo.com/group/delirium_scans/",
     "1488": "http://www.operation-boredom.com/",
-    "1489": "http://kfctranslations.wordpress.com/",
+    "1489": "https://kfctranslations.wordpress.com/",
     "149": "http://fupoki.fu.funpic.org/",
     "1490": "http://rabbitrepublic.wordpress.com/",
     "1493": "http://hyde.nyaatorrents.org/",
@@ -3360,6 +3360,8 @@ var groups = {
     "6088": "http://comiplex.com/",
     "609": "http://geocities.com/rtmanga/",
     "61": "http://koreanmanhwa.free.fr/",
+    "6101": "http://www.batoto.net/group/_/m/mangacurse%E6%94%B9-r4488",
+    "6105": "http://gto14dis.blogspot.com/",
     "611": "http://www.xamayon.org/",
     "612": "http://www.h-night.com/",
     "614": "http://deliciouspenguins.akujind.com/",
