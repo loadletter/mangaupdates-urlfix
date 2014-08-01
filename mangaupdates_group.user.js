@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.47
+// @version     1.6.48
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1011,7 +1011,7 @@ var groups = {
     "2607": "http://failmanga.wordpress.com",
     "2609": "http://pewpewscans.wordpress.com/",
     "261": "http://www.thehellsingproject.org",
-    "2613": "http://www.stilettoheelsteam.com/",
+    "2613": "http://www.stilettoheelsteam.net/",
     "2614": "http://mangahelpers.com/s/runte",
     "2615": "http://manga.rayout.org/",
     "2616": "http://starbomberman.livejournal.com/",
@@ -3200,7 +3200,7 @@ var groups = {
     "5815": "http://balikatanscans.uco.im/",
     "5816": "http://www.batoto.net/group/_/a/anonymous-r3177",
     "582": "http://community.livejournal.com/sakuragi_yaya/",
-    "5822": "http://v16translations.wordpress.com",
+    "5822": "http://v16.mokkori.fr/",
     "5823": "http://www.batoto.net/group/_/s/scan%E3%82%8A%E3%83%BCtions-r3857",
     "5824": "http://amadmanscans.blogspot.be/",
     "5825": "https://puddingheart.wordpress.com/",
@@ -3350,6 +3350,7 @@ var groups = {
     "6055": "http://silentwolfie.deviantart.com/",
     "6064": "http://zettaitranslation.blogspot.com/",
     "6066": "http://fixitinposttat.blogspot.com/",
+    "6067": "http://soldier-hero.tumblr.com/",
     "6068": "http://lonemanga.com/",
     "6069": "http://www.lenovels.net/saintscans/",
     "607": "http://www.soompi.com",
@@ -3373,6 +3374,7 @@ var groups = {
     "612": "http://www.h-night.com/",
     "6120": "http://tokkimori.weebly.com/",
     "6122": "http://nyahafuckingha.tumblr.com/",
+    "6129": "http://anarzeescan.wordpress.com/",
     "614": "http://deliciouspenguins.akujind.com/",
     "615": "http://kawaru-enishi.2u.se/",
     "616": "http://liquideros.com/",
