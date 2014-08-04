@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.48
+// @version     1.6.49
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3375,6 +3375,7 @@ var groups = {
     "6120": "http://tokkimori.weebly.com/",
     "6122": "http://nyahafuckingha.tumblr.com/",
     "6129": "http://anarzeescan.wordpress.com/",
+    "6132": "http://breadingbad.tumblr.com/",
     "614": "http://deliciouspenguins.akujind.com/",
     "615": "http://kawaru-enishi.2u.se/",
     "616": "http://liquideros.com/",

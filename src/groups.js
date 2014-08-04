@@ -3364,6 +3364,7 @@ var urlfix_grouplist = {
     "6120": "http://tokkimori.weebly.com/",
     "6122": "http://nyahafuckingha.tumblr.com/",
     "6129": "http://anarzeescan.wordpress.com/",
+    "6132": "http://breadingbad.tumblr.com/",
     "614": "http://deliciouspenguins.akujind.com/",
     "615": "http://kawaru-enishi.2u.se/",
     "616": "http://liquideros.com/",
