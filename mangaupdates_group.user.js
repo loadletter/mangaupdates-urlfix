@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.49
+// @version     1.6.50
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -582,6 +582,7 @@ var groups = {
     "1930": "http://forums.graalonline.com/",
     "1931": "http://twilightdreamsscans.darkbb.com/",
     "1932": "http://chikuwamanga.blogspot.com",
+    "1935": "http://verdelish.tumblr.com/",
     "1938": "http://tanjou.rocktarts.com/",
     "194": "http://www.mugen-anime.net",
     "1941": "http://dorkyhobbit.livejournal.com/",
@@ -3079,7 +3080,7 @@ var groups = {
     "5617": "http://bltranslation.blogspot.com",
     "5618": "http://tacticsacademy.blogspot.com/",
     "5619": "http://fujoshibitchs.livejournal.com/",
-    "5620": "http://moustachescans.wordpress.com/",
+    "5620": "http://moustachescans.com/",
     "5622": "http://amatoempire.livejournal.com/",
     "5623": "https://www.facebook.com/Watami.Scanlations",
     "5627": "http://halfassscans.wordpress.com/",
@@ -3233,7 +3234,7 @@ var groups = {
     "5865": "http://www.batoto.net/group/_/c/cerberus-chihuahua-r3724",
     "587": "http://www.sushiy.com/",
     "5872": "http://kotatsuscans.tumblr.com/",
-    "5876": "https://www.mangabox.me/",
+    "5876": "https://www.mangabox.me/reader/en/",
     "5877": "http://randomsnarfle.tumblr.com/",
     "588": "http://promfret87.blogspot.com/",
     "5880": "http://pepperanon.blogspot.com",
@@ -3329,6 +3330,7 @@ var groups = {
     "6024": "http://www.batoto.net/group/_/r/rpapo-r4326",
     "6026": "http://thecatscans.wordpress.com/",
     "6027": "http://tinyurl.com/animango-scans",
+    "6028": "http://cicada-scans.tumblr.com/",
     "603": "http://www.myspace.com/hanmabaki",
     "6031": "http://editorfag.wordpress.com/",
     "6032": "http://rinshankaihouscans.wordpress.com/",
@@ -3359,6 +3361,7 @@ var groups = {
     "6075": "http://fuku-shuu.tumblr.com/",
     "6076": "http://www.webtoons.com/",
     "6080": "http://great-blaster.tumblr.com/",
+    "6082": "http://pyralisa.tumblr.com",
     "6085": "http://ostnt.wordpress.com/",
     "6087": "http://solitarytranslation.wordpress.com/",
     "6088": "http://comiplex.com/",
@@ -3376,6 +3379,7 @@ var groups = {
     "6122": "http://nyahafuckingha.tumblr.com/",
     "6129": "http://anarzeescan.wordpress.com/",
     "6132": "http://breadingbad.tumblr.com/",
+    "6139": "http://ojougakuenscans.tumblr.com/",
     "614": "http://deliciouspenguins.akujind.com/",
     "615": "http://kawaru-enishi.2u.se/",
     "616": "http://liquideros.com/",
