@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.50
+// @version     1.6.51
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3001,6 +3001,7 @@ var groups = {
     "5469": "http://newchie.blogspot.com/",
     "547": "http://narutotrad.com/",
     "5470": "http://horobosu-scans.livejournal.com/",
+    "5471": "https://godmovement.wordpress.com/",
     "5472": "http://200wpms.wordpress.com/",
     "5474": "http://bienenstich.livejournal.com/",
     "5478": "http://mangaordersbros.co.nf/",
@@ -3058,6 +3059,7 @@ var groups = {
     "5581": "http://hikaritoyamiscanlation.blogspot.com.au/",
     "5582": "http://kamisamascans.wordpress.com",
     "5583": "http://sakurahonyaku.wordpress.com/",
+    "5584": "http://flames.halofight.com/",
     "5587": "http://www.shitbread.com",
     "5588": "http://yurihou.se/",
     "559": "http://japflap.com",
@@ -3092,7 +3094,7 @@ var groups = {
     "5635": "http://ochinchinpartyscans.tumblr.com/",
     "5636": "http://sheraroxx.blogspot.com",
     "5637": "http://amscans.wordpress.com",
-    "5638": "http://www.moonflower-scans.tk",
+    "5638": "http://moonflower-scans.weebly.com/",
     "5640": "http://www.pocketloli.com/",
     "5641": "http://snowsan.wordpress.com",
     "5642": "http://www.batoto.net/group/_/d/desuchan-scans-r3467",
@@ -3379,6 +3381,7 @@ var groups = {
     "6122": "http://nyahafuckingha.tumblr.com/",
     "6129": "http://anarzeescan.wordpress.com/",
     "6132": "http://breadingbad.tumblr.com/",
+    "6134": "http://onetimescans.com/",
     "6139": "http://ojougakuenscans.tumblr.com/",
     "614": "http://deliciouspenguins.akujind.com/",
     "615": "http://kawaru-enishi.2u.se/",
