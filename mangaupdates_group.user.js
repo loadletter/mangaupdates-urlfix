@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.51
+// @version     1.6.52
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1414,7 +1414,7 @@ var groups = {
     "3128": "http://trinitybakuma.com/",
     "3135": "http://mangahelpers.com/s/lone-scan",
     "3137": "http://crowsxworst.com/forum/phpBB3/viewtopic.php?f=7&t=123",
-    "3138": "http://midnightmoon-scans.webs.com/",
+    "3138": "http://www.winter-translations.tumblr.com/",
     "3139": "http://www.voodooscans.webs.com",
     "314": "http://www.raygungeisha.com/nekohana",
     "3141": "http://mugematic.wordpress.com/",
@@ -3306,6 +3306,7 @@ var groups = {
     "5980": "http://ozphscans.blogspot.com/",
     "5982": "http://zeus7ex.wordpress.com/",
     "5983": "http://www.horizonscans.com/",
+    "5984": "http://indigoscanlations.co.vu/",
     "5985": "http://www.batoto.net/group/_/b/burger-scans-r4236",
     "5987": "http://ochimusha.wordpress.com/",
     "5988": "http://almond-cream.tumblr.com",
@@ -3374,6 +3375,7 @@ var groups = {
     "6105": "http://gto14dis.blogspot.com/",
     "6106": "http://sugarsprayscans.tumblr.com/",
     "611": "http://www.xamayon.org/",
+    "6116": "http://crownprincetranslations.tumblr.com/",
     "6117": "http://soukascans.blogspot.com",
     "6119": "http://flamenco-scanlations.tumblr.com/",
     "612": "http://www.h-night.com/",
@@ -3385,6 +3387,7 @@ var groups = {
     "6139": "http://ojougakuenscans.tumblr.com/",
     "614": "http://deliciouspenguins.akujind.com/",
     "615": "http://kawaru-enishi.2u.se/",
+    "6154": "http://pinkstarbepinkasane.blogspot.com/",
     "616": "http://liquideros.com/",
     "618": "http://www.freewebs.com/ucrumble/",
     "619": "http://mangaart.us/",
