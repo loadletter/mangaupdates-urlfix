@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.52
+// @version     1.6.53
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2875,7 +2875,7 @@ var groups = {
     "523": "http://www.freewebs.com/ramsus-kun/",
     "5230": "https://www.facebook.com/SkyOfSnowScanlation",
     "5232": "http://wearelostnfound.blogspot.com/",
-    "5239": "http://bakeneko-scans.livejournal.com/",
+    "5239": "http://bakenekoscanlation.shounen-ai.net/",
     "5248": "http://hereticlnt.blogspot.com/",
     "525": "http://www.zomgfta.com/",
     "5251": "http://yuukimeganescans.tumblr.com/",
@@ -3348,6 +3348,7 @@ var groups = {
     "6043": "http://www.batoto.net/group/_/t/to-aru-universe-r4202",
     "6045": "http://divulge-scans.tumblr.com",
     "6047": "https://azurevoid.wordpress.com/",
+    "6049": "http://tateyamaa.tumblr.com/",
     "605": "http://yuki-scans.tk/",
     "6050": "http://nijiyoake.tumblr.com/",
     "6051": "http://mion-sakamaki.tumblr.com/",
@@ -3388,7 +3389,11 @@ var groups = {
     "614": "http://deliciouspenguins.akujind.com/",
     "615": "http://kawaru-enishi.2u.se/",
     "6154": "http://pinkstarbepinkasane.blogspot.com/",
+    "6156": "http://renaiscans.tumblr.com/",
     "616": "http://liquideros.com/",
+    "6160": "http://cannighoul.tumblr.com/",
+    "6161": "http://krytykal.m-chan.org/",
+    "6164": "http://paperdollsproject.wordpress.com/",
     "618": "http://www.freewebs.com/ucrumble/",
     "619": "http://mangaart.us/",
     "62": "http://atoz.reikou.net/",
