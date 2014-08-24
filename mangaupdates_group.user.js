@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.53
+// @version     1.6.54
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2716,7 +2716,7 @@ var groups = {
     "5005": "http://www.sleepyscans.blogspot.com",
     "5006": "http://j.mp/projectbody",
     "5007": "http://schierkescans.livejournal.com/",
-    "5008": "http://seinenscans.blogspot.co.uk",
+    "5008": "http://seinenxscansxprojects.blogspot.com/",
     "501": "http://illuminati-manga.com/",
     "5010": "http://scorpion1d3x.livejournal.com/",
     "5011": "http://meo23.livejournal.com/",
@@ -3392,8 +3392,10 @@ var groups = {
     "6156": "http://renaiscans.tumblr.com/",
     "616": "http://liquideros.com/",
     "6160": "http://cannighoul.tumblr.com/",
-    "6161": "http://krytykal.m-chan.org/",
+    "6161": "http://krytykal.org/",
     "6164": "http://paperdollsproject.wordpress.com/",
+    "6166": "http://yakushitemitta.tumblr.com/",
+    "6167": "http://shiroscanlations.wordpress.com/",
     "618": "http://www.freewebs.com/ucrumble/",
     "619": "http://mangaart.us/",
     "62": "http://atoz.reikou.net/",
