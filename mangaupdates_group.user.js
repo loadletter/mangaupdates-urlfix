@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.54
+// @version     1.6.55
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3390,12 +3390,14 @@ var groups = {
     "615": "http://kawaru-enishi.2u.se/",
     "6154": "http://pinkstarbepinkasane.blogspot.com/",
     "6156": "http://renaiscans.tumblr.com/",
+    "6157": "http://finemang.comuf.com/",
     "616": "http://liquideros.com/",
     "6160": "http://cannighoul.tumblr.com/",
     "6161": "http://krytykal.org/",
     "6164": "http://paperdollsproject.wordpress.com/",
     "6166": "http://yakushitemitta.tumblr.com/",
     "6167": "http://shiroscanlations.wordpress.com/",
+    "6175": "http://sakurapoolscans.tumblr.com/",
     "618": "http://www.freewebs.com/ucrumble/",
     "619": "http://mangaart.us/",
     "62": "http://atoz.reikou.net/",
