@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.55
+// @version     1.6.56
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -227,7 +227,7 @@ var groups = {
     "1359": "http://mangahelpers.com/s/fayte",
     "136": "http://www.zeonic-republic.net/",
     "1360": "http://pawprints.reverein.net/",
-    "1362": "http://community.livejournal.com/bangaqua/",
+    "1362": "http://bangaqua.com/",
     "1364": "http://shoujokiss.blogspot.com",
     "1365": "http://community.livejournal.com/supreme_sugar/",
     "1368": "http://www.celestial-delinquent.com/",
@@ -2934,7 +2934,7 @@ var groups = {
     "5347": "http://sinbad-dream.livejournal.com/",
     "5351": "http://boards.4chan.org/a/",
     "5354": "http://redvodkatranslations.blogspot.com/",
-    "5357": "http://kagerouscans.tumblr.com/",
+    "5357": "https://kagerouscans.wordpress.com/",
     "5358": "http://we_scans.livejournal.com/",
     "5359": "http://peek-a-yaoi.tumblr.com/",
     "536": "http://www.hongfire.com/forum/showthread.php?t=32317&amp;page=1&amp;pp=10",
@@ -3099,7 +3099,7 @@ var groups = {
     "5641": "http://snowsan.wordpress.com",
     "5642": "http://www.batoto.net/group/_/d/desuchan-scans-r3467",
     "5644": "http://rottenscans.wordpress.com/",
-    "5647": "http://baka-dumb-aho-scans.tumblr.com/",
+    "5647": "http://bakadumbaho.tumblr.com/",
     "5649": "http://aka2kuro.wordpress.com/",
     "565": "http://akumayuki.com/badhabit/",
     "5652": "http://risinggodsoftheeastscans.tumblr.com/",
@@ -3354,6 +3354,7 @@ var groups = {
     "6051": "http://mion-sakamaki.tumblr.com/",
     "6052": "http://koutonori.tumblr.com/",
     "6055": "http://silentwolfie.deviantart.com/",
+    "6059": "http://www.hengao-scans.tk/",
     "6064": "http://zettaitranslation.blogspot.com/",
     "6066": "http://fixitinposttat.blogspot.com/",
     "6067": "http://soldier-hero.tumblr.com/",
@@ -3397,8 +3398,10 @@ var groups = {
     "6164": "http://paperdollsproject.wordpress.com/",
     "6166": "http://yakushitemitta.tumblr.com/",
     "6167": "http://shiroscanlations.wordpress.com/",
+    "6170": "http://dontknowmescans.tumblr.com/",
     "6175": "http://sakurapoolscans.tumblr.com/",
     "618": "http://www.freewebs.com/ucrumble/",
+    "6181": "http://kubera-tn.weebly.com/",
     "619": "http://mangaart.us/",
     "62": "http://atoz.reikou.net/",
     "620": "http://www.manga4otaku.com",
