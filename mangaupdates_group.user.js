@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.56
+// @version     1.6.57
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -1265,7 +1265,7 @@ var groups = {
     "2927": "http://genshisairairesurrection.wordpress.com/",
     "2929": "http://community.livejournal.com/buusagi_gumi/",
     "293": "http://www.sd-manga.com/",
-    "2930": "http://amazuki.endless-days.org/",
+    "2930": "https://blastcomicscans.wordpress.com/",
     "2931": "http://www.ipitydafoo.com/",
     "2933": "http://niisamatredits.wordpress.com/",
     "2934": "http://illacrimoimber.wordpress.com/",
@@ -3110,7 +3110,7 @@ var groups = {
     "566": "http://lamplighter.zukafuji.org/",
     "5661": "http://powermanga.org/",
     "5663": "http://karnoodle.tumblr.com",
-    "5664": "http://day0dream.blogspot.com/",
+    "5664": "http://bhscans.blogspot.de/",
     "5665": "http://konoerogaki.tumblr.com",
     "5666": "http://www.futatsunotsuki.blogspot.mx/",
     "5668": "http://siniyzerkalo.wordpress.com/",
@@ -3353,6 +3353,7 @@ var groups = {
     "6050": "http://nijiyoake.tumblr.com/",
     "6051": "http://mion-sakamaki.tumblr.com/",
     "6052": "http://koutonori.tumblr.com/",
+    "6054": "http://itsdaletos.tumblr.com/",
     "6055": "http://silentwolfie.deviantart.com/",
     "6059": "http://www.hengao-scans.tk/",
     "6064": "http://zettaitranslation.blogspot.com/",
@@ -3398,11 +3399,15 @@ var groups = {
     "6164": "http://paperdollsproject.wordpress.com/",
     "6166": "http://yakushitemitta.tumblr.com/",
     "6167": "http://shiroscanlations.wordpress.com/",
+    "6169": "http://setsuna86blog.wordpress.com/",
     "6170": "http://dontknowmescans.tumblr.com/",
     "6175": "http://sakurapoolscans.tumblr.com/",
+    "6179": "https://docs.google.com/document/d/1ljoXDy-ti5N7ZYPbzDsj5kvYFl3lEWaJ1l3Lzv1cuuM/preview?pli=1",
     "618": "http://www.freewebs.com/ucrumble/",
     "6181": "http://kubera-tn.weebly.com/",
+    "6186": "http://tensaitranslations.wordpress.com",
     "619": "http://mangaart.us/",
+    "6192": "http://www.webtoonsreader.com/",
     "62": "http://atoz.reikou.net/",
     "620": "http://www.manga4otaku.com",
     "621": "http://www.4shared.com/dir/321844/57db8749/sharing.html",
