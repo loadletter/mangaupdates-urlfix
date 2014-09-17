@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.57
+// @version     1.6.58
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3355,6 +3355,7 @@ var groups = {
     "6052": "http://koutonori.tumblr.com/",
     "6054": "http://itsdaletos.tumblr.com/",
     "6055": "http://silentwolfie.deviantart.com/",
+    "6057": "http://mypacescans.wordpress.com/",
     "6059": "http://www.hengao-scans.tk/",
     "6064": "http://zettaitranslation.blogspot.com/",
     "6066": "http://fixitinposttat.blogspot.com/",
@@ -3382,7 +3383,7 @@ var groups = {
     "6117": "http://soukascans.blogspot.com",
     "6119": "http://flamenco-scanlations.tumblr.com/",
     "612": "http://www.h-night.com/",
-    "6120": "http://tokkimori.weebly.com/",
+    "6120": "http://tokkimori-scans.net/",
     "6122": "http://nyahafuckingha.tumblr.com/",
     "6129": "http://anarzeescan.wordpress.com/",
     "6132": "http://breadingbad.tumblr.com/",
@@ -3408,6 +3409,7 @@ var groups = {
     "6186": "http://tensaitranslations.wordpress.com",
     "619": "http://mangaart.us/",
     "6192": "http://www.webtoonsreader.com/",
+    "6194": "http://argovia2012.wix.com/skyearth",
     "62": "http://atoz.reikou.net/",
     "620": "http://www.manga4otaku.com",
     "621": "http://www.4shared.com/dir/321844/57db8749/sharing.html",
