@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.58
+// @version     1.6.59
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3325,6 +3325,7 @@ var groups = {
     "6013": "http://visualnovel.deviantart.com/",
     "6014": "http://finella.nemissa.info/",
     "6015": "http://dh5alpha.blogspot.com/",
+    "6016": "http://sl-llian.livejournal.com/",
     "602": "http://www.emsmanga.com/",
     "6020": "http://hui3r.wordpress.com/",
     "6021": "http://panisal.livejournal.com/",
