@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.59
+// @version     1.6.60
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -54,6 +54,7 @@ var groups = {
     "105": "http://ephd.pixiefetish.net/",
     "1051": "http://rainingmangas.awardspace.com/",
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",
+    "1054": "http://loversdreams.wordpress.com",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "106": "http://www.ignition-one.org/",
     "1062": "http://goldie.livejournal.com/",
@@ -1914,7 +1915,7 @@ var groups = {
     "3850": "http://community.livejournal.com/doumekiwatanuki/",
     "3851": "http://tiuscan.wordpress.com/",
     "3852": "http://cyberakuma.livejournal.com/",
-    "3853": "http://gteam.fakku.net/",
+    "3853": "http://phoenixsyndicate.fakku.net/",
     "3854": "http://gao-subs.com/",
     "3856": "http://anotsuu.livejournal.com/",
     "3857": "http://maplescans.ucoz.com",
@@ -2884,7 +2885,7 @@ var groups = {
     "5257": "http://shincodezeroblog.wordpress.com/",
     "526": "http://www.otakusiris.com/forum/",
     "5260": "http://yaoislife.tumblr.com/",
-    "5261": "http://underdogscan.blogspot.com/",
+    "5261": "https://underdogscans.wordpress.com/",
     "5263": "http://mankitsuscans.wordpress.com/",
     "5264": "http://wolfchildrenameandyuki.blogspot.com/",
     "527": "http://taruby.gamerkun.com/",
@@ -3073,7 +3074,7 @@ var groups = {
     "560": "http://www.ko-scans.com",
     "5600": "http://kadavra-scanlation.blogspot.com/",
     "5603": "http://ichinkoscans.tumblr.com/",
-    "5606": "http://suzakutheknight.livejournal.com/",
+    "5606": "http://stk-scanlations.tumblr.com/",
     "5611": "http://elision-scans.net",
     "5612": "http://lycheescans.blogspot.ca",
     "5613": "http://greenlighttranslations.tumblr.com/",
@@ -3357,7 +3358,7 @@ var groups = {
     "6054": "http://itsdaletos.tumblr.com/",
     "6055": "http://silentwolfie.deviantart.com/",
     "6057": "http://mypacescans.wordpress.com/",
-    "6059": "http://www.hengao-scans.tk/",
+    "6059": "http://www.hengao.tk/",
     "6064": "http://zettaitranslation.blogspot.com/",
     "6066": "http://fixitinposttat.blogspot.com/",
     "6067": "http://soldier-hero.tumblr.com/",
@@ -3386,11 +3387,14 @@ var groups = {
     "612": "http://www.h-night.com/",
     "6120": "http://tokkimori-scans.net/",
     "6122": "http://nyahafuckingha.tumblr.com/",
+    "6123": "http://hq-scans.tumblr.com/",
     "6129": "http://anarzeescan.wordpress.com/",
     "6132": "http://breadingbad.tumblr.com/",
     "6134": "http://onetimescans.com/",
+    "6135": "http://mustbeendless.tumblr.com",
     "6139": "http://ojougakuenscans.tumblr.com/",
     "614": "http://deliciouspenguins.akujind.com/",
+    "6144": "https://irstland.wordpress.com/",
     "615": "http://kawaru-enishi.2u.se/",
     "6154": "http://pinkstarbepinkasane.blogspot.com/",
     "6156": "http://renaiscans.tumblr.com/",
@@ -3407,12 +3411,14 @@ var groups = {
     "6179": "https://docs.google.com/document/d/1ljoXDy-ti5N7ZYPbzDsj5kvYFl3lEWaJ1l3Lzv1cuuM/preview?pli=1",
     "618": "http://www.freewebs.com/ucrumble/",
     "6181": "http://kubera-tn.weebly.com/",
-    "6186": "http://tensaitranslations.wordpress.com",
+    "6186": "https://tensaitranslations.wordpress.com/",
     "619": "http://mangaart.us/",
     "6192": "http://www.webtoonsreader.com/",
     "6194": "http://argovia2012.wix.com/skyearth",
+    "6198": "http://bato.to/group/_/t/tsuki-to-chikyuu-translations-r4673",
     "62": "http://atoz.reikou.net/",
     "620": "http://www.manga4otaku.com",
+    "6201": "http://bakahou.wordpress.com/",
     "621": "http://www.4shared.com/dir/321844/57db8749/sharing.html",
     "622": "http://s4.invisionfree.com/Yummilicious_Pantsu/index.php",
     "624": "http://www.gs-x.xamayon.org/",
