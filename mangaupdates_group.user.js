@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.60
+// @version     1.6.61
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -3174,7 +3174,7 @@ var groups = {
     "5756": "http://2qscans.wordpress.com",
     "5757": "https://asagichou.wordpress.com/",
     "5758": "http://fabled-pepper.blogspot.com/",
-    "5759": "http://pastebin.com/u/skythewood",
+    "5759": "http://skythewood.blogspot.com/",
     "576": "http://fpscans.proboards92.com/index.cgi",
     "5760": "http://nekona.wordpress.com/",
     "5761": "http://yue-shirosaki.livejournal.com/",

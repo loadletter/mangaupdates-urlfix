@@ -3163,7 +3163,7 @@ var urlfix_grouplist = {
     "5756": "http://2qscans.wordpress.com",
     "5757": "https://asagichou.wordpress.com/",
     "5758": "http://fabled-pepper.blogspot.com/",
-    "5759": "http://pastebin.com/u/skythewood",
+    "5759": "http://skythewood.blogspot.com/",
     "576": "http://fpscans.proboards92.com/index.cgi",
     "5760": "http://nekona.wordpress.com/",
     "5761": "http://yue-shirosaki.livejournal.com/",
