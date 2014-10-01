@@ -18,6 +18,7 @@ Userscript that adds urls and irc link back on the groups pages of mangaupdates.
 
 ##(New) Missing/outdated/wrong links?
 Just click (Suggest an update), and you will be able to send a new url that will be added in the next updates!
+
 !['Sugggestion box'](http://s29.postimg.org/3jq7j4593/sugg.png)
 
 (Note: links are merged every 3~ days, queue can be checked on http://mufix.herokuapp.com/)
