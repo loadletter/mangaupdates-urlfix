@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites: STANDARD aka OFFLINE VERSION
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.61
+// @version     1.6.62
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_group.meta.js
 // @grant       none
@@ -2501,7 +2501,7 @@ var groups = {
     "4710": "http://aeida.tumblr.com/",
     "4711": "http://pknoctis.tumblr.com/",
     "4712": "http://wolfyscans.blogspot.com/",
-    "4714": "http://mysticiris.info/",
+    "4714": "https://mysticirisscans.wordpress.com/",
     "4715": "http://ckmscans.halofight.com/",
     "4716": "http://yukis0ra.livejournal.com/",
     "4719": "http://infinityscanlation.wix.com/the-is",
@@ -3009,6 +3009,7 @@ var groups = {
     "5479": "http://impatientscan.blogspot.com/",
     "5486": "https://fairylandera.wordpress.com/",
     "5488": "http://closetspaces.blogspot.com/",
+    "549": "http://z15.invisionfree.com/nbmanga/",
     "5493": "http://love-manhwa.blogspot.com/",
     "5495": "http://mangalism.blogspot.com/",
     "5496": "http://anontamer.blogspot.com/",
@@ -3036,7 +3037,7 @@ var groups = {
     "5539": "http://frostscans.wordpress.com/",
     "554": "http://mrdummy.net/dummysub/",
     "5540": "http://www.seaofnumbers.com/index.php?board=36.0",
-    "5542": "http://substitutescans.wordpress.com/",
+    "5542": "http://substitutescans.com/",
     "5544": "http://ecchibaka.blogspot.com/",
     "5545": "http://mangaattheendoftime.tumblr.com/",
     "5546": "http://gin-kin.tumblr.com/",
@@ -3083,7 +3084,7 @@ var groups = {
     "5617": "http://bltranslation.blogspot.com",
     "5618": "http://tacticsacademy.blogspot.com/",
     "5619": "http://fujoshibitchs.livejournal.com/",
-    "5620": "http://moustachescans.com/",
+    "5620": "http://moustachescans.pw/",
     "5622": "http://amatoempire.livejournal.com/",
     "5623": "https://www.facebook.com/Watami.Scanlations",
     "5627": "http://halfassscans.wordpress.com/",
@@ -3412,6 +3413,7 @@ var groups = {
     "618": "http://www.freewebs.com/ucrumble/",
     "6181": "http://kubera-tn.weebly.com/",
     "6186": "https://tensaitranslations.wordpress.com/",
+    "6187": "http://becscans.wordpress.com/",
     "619": "http://mangaart.us/",
     "6192": "http://www.webtoonsreader.com/",
     "6194": "http://argovia2012.wix.com/skyearth",
