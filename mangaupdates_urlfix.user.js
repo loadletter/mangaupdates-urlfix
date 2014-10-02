@@ -23,7 +23,6 @@ function inject_groups() {
 }
 
 function fix_url() {
-    /* hack to make suggestionbox work on chrome part 1*/
     var oscript = document.createElement('script');
     oscript.appendChild(document.createTextNode('('+ insertScript +')();'));
     (document.body || document.head || document.documentElement).appendChild(oscript);
@@ -34,7 +33,7 @@ function fix_irc() {
     var irc='';
     
     for (i=0; i<list.length; i++){
-        if (list[i].innerHTML == "<u>IRC</u>") {
+        if(list[i].innerHTML == "<u>IRC</u>") {
             list[i].id = "fixed_irc_url";
             if((irc=list[i].nextSibling.innerHTML) != "<i>No IRC</i>") {
                 var a = irc.replace(/^.+@/,'');
@@ -45,13 +44,23 @@ function fix_irc() {
     }
 }
 
-/* hack to make suggestionbox work on chrome part 2 */
-
 /* all the stuff related to the website thing has been moved here,
  * since the groups variable can't be accessed from the usescript */
 function insertScript() {
-    window.urlfix_groupID = document.URL.replace(/^.+id=/,'').replace('#', '');
-    window.urlfix_groupSite = window.urlfix_grouplist[window.urlfix_groupID];
+    window.urlfix_groupID = parseInt(document.URL.replace(/^.+id=/,'').replace('#', '')) || 0;
+    var urlfix_local;
+    var urlfix_local_name = "loadletter.urlfix.groups." + (window.urlfix_groupID % 20);
+    /*TODO: cleanup this mess and test it*/
+    if(typeof(localStorage) !== "undefined"
+        && typeof(urlfix_grouplist_shard) === "undefined"
+        && (urlfix_local = localStorage.getItem(urlfix_local_name))) {
+        window.urlfix_groupSite = JSON.parse(urlfix_local)[window.urlfix_groupID];
+    } else {
+        window.urlfix_groupSite = window.urlfix_grouplist[window.urlfix_groupID]; /*TODO: convert .js files to use integer instead of strings as key*/
+        if(window.urlfix_grouplist && typeof(localStorage) !== "undefined") {
+            localStorage.setItem(urlfix_local_name, JSON.stringify(window.urlfix_grouplist));
+        }
+    }
     window.urlfix_openSuggBox = function(){var suggboxurl = "http://mufix.herokuapp.com/form?group=" + urlfix_groupID; if(urlfix_groupSite !== "undefined") suggboxurl += "&update=yes"; window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');};
     var urlfix_site_fixed = document.getElementById('fixed_group_url_plus_suggestion');
     var urlfix_site = urlfix_site_fixed || document.createElement('tr');
