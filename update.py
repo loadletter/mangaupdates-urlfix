@@ -10,16 +10,12 @@ SRCDIR = os.path.join(CURRDIR, "src")
 GROUPSJSON = os.path.join(SRCDIR, "groups.json")
 GROUPSJSCRIPT = os.path.join(SRCDIR, "groups.js")
 VERSIONJSON = os.path.join(SRCDIR, "version.json")
-SCRIPTEMPLATE = os.path.join(SRCDIR, SCRIPTNAME)
-USERSCRIPT = os.path.join(CURRDIR, SCRIPTNAME)
-METASCRIPT = os.path.join(CURRDIR, SCRIPTNAME.replace(".user.", ".meta."))
 
-if len(sys.argv) == 2 and sys.argv[1] == 'remotedb':
-	import psycopg2
-	import psycopg2.extensions
-	psycopg2.extensions.register_type(psycopg2.extensions.UNICODE)
-	psycopg2.extensions.register_type(psycopg2.extensions.UNICODEARRAY)
-	from dbconf import DSN
+import psycopg2
+import psycopg2.extensions
+psycopg2.extensions.register_type(psycopg2.extensions.UNICODE)
+psycopg2.extensions.register_type(psycopg2.extensions.UNICODEARRAY)
+from dbconf import DSN
 
 def jsonloadf(filename):
 	with open(filename) as f:
@@ -147,26 +143,6 @@ def tmpfile_object():
 	fdesc, path = tempfile.mkstemp()
 	return os.fdopen(fdesc, 'wb'), path
 
-def fillheader(version):
-	with open(SCRIPTEMPLATE + ".head") as f:
-		data = f.read()
-	return data.replace('<!--VERSION_PLACEHOLDER--!>', version)
-
-def createuserscript(scriptheader, groups):
-	with open(SCRIPTEMPLATE + ".bottom") as fin:
-		bottom = fin.read()
-	
-	with open(USERSCRIPT, 'wb') as f:
-		f.write(scriptheader)
-		f.write("var groups = ")
-		json.dump(groups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
-		f.write(";\n")
-		f.write(bottom)
-
-def createmetascript(scriptheader):
-	with open(METASCRIPT, 'wb') as f:
-		f.write(scriptheader)
-
 def createonlinegroups(groups):
 	with open(GROUPSJSCRIPT, 'wb') as f:
 		f.write("var urlfix_grouplist = ")
@@ -192,7 +168,6 @@ def updatefromdb():
 	mergediff(currentgroups, tmpdict)
 	print
 	print "------------------------------------------------"
-	
 	
 	print "Continue with browser review? (y/n)"
 	answer = raw_input("[n]> ")
@@ -229,12 +204,6 @@ def updatefromdb():
 	if answer != 'y':
 		sys.exit(0)
 
-	print "Loading header..."
-	header = fillheader(newver)
-	print "Writing new userscript (user.js).."
-	createuserscript(header, currentgroups)
-	print "Writing new userscript (meta.js).."
-	createmetascript(header)
 	print "Writing new online groups (groups.js).."
 	createonlinegroups(currentgroups)
 	
@@ -293,14 +262,7 @@ def updatefromdb():
 	print "Don't forget to push both commits (to gh-pages too) and tags!!!"
 	
 def main():
-	if len(sys.argv) < 2:
-		print "Missing argument\nUsage:"
-		print "update.py remotedb"
-		print "update.py localjson filename"
-		sys.exit(2)
-	
-	if sys.argv[1] == "remotedb":
-		updatefromdb()
+	updatefromdb()
     
 if __name__ == '__main__':
     main()
