@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 import os, re, sys, urllib2, json, subprocess, tempfile
 
-
 WWWBROWSER = "firefox"
 GROUPURL = "http://www.mangaupdates.com/groups.html?id=%i"
 SCRIPTNAME = "mangaupdates_group.user.js"
@@ -10,6 +9,8 @@ SRCDIR = os.path.join(CURRDIR, "src")
 GROUPSJSON = os.path.join(SRCDIR, "groups.json")
 GROUPSJSCRIPT = os.path.join(SRCDIR, "groups.js")
 VERSIONJSON = os.path.join(SRCDIR, "version.json")
+NUMSHARDS = 20
+GROUPSDIR = os.path.join(SRCDIR, 'groups')
 
 import psycopg2
 import psycopg2.extensions
@@ -149,6 +150,17 @@ def createonlinegroups(groups):
 		json.dump(groups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
 		f.write(";\n")
 
+def creategroupshards(groups):
+	for i in range(NUMSHARDS):
+		shardpath = os.path.join(GROUPSDIR, "%i.js" % i)
+		with open(shardpath, 'wb') as f:
+			shardgroups = dict(filter(lambda x: int(x[0]) % NUMSHARDS == i, groups.iteritems()))
+			f.write("var urlfix_grouplist_shard = %i;\n" % i)
+			f.write("var urlfix_grouplist = ")
+			json.dump(shardgroups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
+			f.write(";\n")
+			print i,
+
 def updatefromdb():
 	print "Proceed? (y/n)"
 	answer = raw_input("[n]> ")
@@ -206,6 +218,9 @@ def updatefromdb():
 
 	print "Writing new online groups (groups.js).."
 	createonlinegroups(currentgroups)
+	print "Writing new new online groups (",
+	creategroupshards(currentgroups)
+	print ").."
 	
 	print "Writing groups.."
 	jsonsavef(GROUPSJSON, currentgroups)

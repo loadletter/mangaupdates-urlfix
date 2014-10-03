@@ -56,7 +56,7 @@ function insertScript() {
         && (urlfix_local = localStorage.getItem(urlfix_local_name))) {
         window.urlfix_groupSite = JSON.parse(urlfix_local)[window.urlfix_groupID];
     } else {
-        window.urlfix_groupSite = window.urlfix_grouplist[window.urlfix_groupID]; /*TODO: convert .js files to use integer instead of strings as key*/
+        window.urlfix_groupSite = window.urlfix_grouplist[String(window.urlfix_groupID)];
         if(window.urlfix_grouplist && typeof(localStorage) !== "undefined") {
             localStorage.setItem(urlfix_local_name, JSON.stringify(window.urlfix_grouplist));
         }
