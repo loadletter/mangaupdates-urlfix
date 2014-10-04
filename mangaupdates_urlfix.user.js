@@ -74,7 +74,7 @@ function insertScript() {
     var urlfix_site_fixed = document.getElementById('fixed_group_url_plus_suggestion');
     var urlfix_site = urlfix_site_fixed || document.createElement('tr');
     urlfix_site.id = "fixed_group_url_plus_suggestion";
-    urlfix_site.innerHTML = '<td class="text"><u>Site</u><a href="#" onclick="urlfix_openSuggBox();"> (Suggest an update)</a></td><td class="text">' + (urlfix_groupSite === undefined ? '<u>No Info</u>' : ('<a target="_blank" alt="" href="' + urlfix_groupSite + '"><u>' + urlfix_groupSite + '</u></a>')) + '</td>';
+    urlfix_site.innerHTML = '<td class="text"><u>Site</u><a href="#" onclick="urlfix_openSuggBox();"> (Suggest an update)</a></td><td class="text">' + (urlfix_groupSite === undefined ? '<i>No Info</i>' : ('<a target="_blank" alt="" href="' + urlfix_groupSite + '"><u>' + urlfix_groupSite + '</u></a>')) + '</td>';
     if(!urlfix_site_fixed) {
         var urlfix_irc_par = document.getElementById("fixed_irc_url").parentNode;
         urlfix_irc_par.parentNode.insertBefore(urlfix_site, urlfix_irc_par.nextSibling);
