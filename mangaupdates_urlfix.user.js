@@ -10,15 +10,17 @@
 // ==/UserScript==
 
 fix_irc();
-inject_groups();
+fix_url();
+update_groups();
 
-function inject_groups() {
+function update_groups() {
     var urlfix_groups = document.createElement('script');
     var urlfix_groupshard = parseInt(document.URL.replace(/^.+id=/,'').replace('#', '')) % 20 || 0; /* magic value */
     urlfix_groups.type = "text/javascript";
     urlfix_groups.src = "//loadletter.github.io/mangaupdates-urlfix/src/groups/" + urlfix_groupshard + ".js";
     urlfix_groups.onreadystatechange = fix_url;
     urlfix_groups.onload = fix_url;
+    urlfix_groups.onerror = fix_url; /* Why not */
     (document.body || document.head || document.documentElement).appendChild(urlfix_groups);
 }
 
@@ -61,7 +63,14 @@ function insertScript() {
             localStorage.setItem(urlfix_local_name, JSON.stringify(window.urlfix_grouplist));
         }
     }
-    window.urlfix_openSuggBox = function(){var suggboxurl = "http://mufix.herokuapp.com/form?group=" + urlfix_groupID; if(urlfix_groupSite !== "undefined") suggboxurl += "&update=yes"; window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');};
+    window.urlfix_openSuggBox = function() {
+        if(typeof(urlfix_grouplist_shard) === "undefined")
+            alert("Could not fetch latest info, the website might be outdated, consider refreshing the page before submitting a new entry");
+        var suggboxurl = "http://mufix.herokuapp.com/form?group=" + urlfix_groupID;
+        if(urlfix_groupSite !== "undefined")
+            suggboxurl += "&update=yes";
+        window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');
+    };
     var urlfix_site_fixed = document.getElementById('fixed_group_url_plus_suggestion');
     var urlfix_site = urlfix_site_fixed || document.createElement('tr');
     urlfix_site.id = "fixed_group_url_plus_suggestion";
