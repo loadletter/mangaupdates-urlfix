@@ -51,16 +51,16 @@ function fix_irc() {
 function insertScript() {
     window.urlfix_groupID = parseInt(document.URL.replace(/^.+id=/,'').replace('#', '')) || 0;
     var urlfix_local;
-    var urlfix_local_name = "loadletter.urlfix.groups." + (window.urlfix_groupID % 20);
-    /*TODO: cleanup this mess and test it*/
-    if(typeof(localStorage) !== "undefined"
-        && typeof(urlfix_grouplist_shard) === "undefined"
-        && (urlfix_local = localStorage.getItem(urlfix_local_name))) {
-        window.urlfix_groupSite = JSON.parse(urlfix_local)[window.urlfix_groupID];
-    } else {
+    var urlfix_local_name = "loadletter.urlfix.groups." + (window.urlfix_groupID % 20);    
+    if(typeof(window.urlfix_grouplist) !== "undefined") {
         window.urlfix_groupSite = window.urlfix_grouplist[String(window.urlfix_groupID)];
-        if(window.urlfix_grouplist && typeof(localStorage) !== "undefined") {
+        if(typeof(localStorage) !== "undefined")
             localStorage.setItem(urlfix_local_name, JSON.stringify(window.urlfix_grouplist));
+    } else {
+        if(typeof(localStorage) !== "undefined" && (urlfix_local = localStorage.getItem(urlfix_local_name))) {
+            window.urlfix_groupSite = JSON.parse(urlfix_local)[window.urlfix_groupID];
+        } else {
+            window.urlfix_groupSite = undefined;
         }
     }
     window.urlfix_openSuggBox = function() {
