@@ -66,7 +66,7 @@ var urlfix_grouplist = {
     "294": "http://ribon.haneoka.net/",
     "2954": "http://mangatopia.net/",
     "2974": "http://mangahelpers.com/s/-iraito-the-freelancer-scanlator-",
-    "2994": "http://mangahelpers.com/s/kamina-sama",
+    "2994": "http://snowraven-scans.blogspot.com/",
     "3014": "http://www.colonydrop.com/",
     "3034": "http://thrashin1988thrashin.blogspot.com/",
     "3054": "http://doujinayane.blogspot.com/",

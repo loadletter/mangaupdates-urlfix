@@ -172,6 +172,7 @@ var urlfix_grouplist = {
     "6057": "http://mypacescans.wordpress.com/",
     "6117": "http://soukascans.blogspot.com",
     "6157": "http://finemang.comuf.com/",
+    "6217": "http://krytykal.org/nekama/",
     "637": "http://community.livejournal.com/gokujyou_relief/",
     "677": "http://wai-yeng.livejournal.com/",
     "697": "http://syruptitiously.livejournal.com/",

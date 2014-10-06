@@ -93,7 +93,7 @@ var urlfix_grouplist = {
     "3849": "http://scarletmoon.dasaku.net/",
     "3889": "http://www.lazyass-scans.org/",
     "389": "http://www.abstract-muse.net/miracle/",
-    "3909": "http://scans.kouhi.me/",
+    "3909": "http://blog.kouhi.me",
     "3929": "http://community.livejournal.com/queensbutlerfrm/",
     "3949": "http://www.nyaatorrents.org/?page=torrents&amp;user=83201",
     "4009": "http://mangarule.altervista.org/",
