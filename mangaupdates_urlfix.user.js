@@ -3,7 +3,7 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites
 // @match       *://www.mangaupdates.com/groups.html?id=*
-// @version     1.6.10
+// @version     1.7.0
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @grant       none
