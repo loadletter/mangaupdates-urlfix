@@ -38,7 +38,7 @@ var urlfix_grouplist = {
     "205": "http://neh.scanlation.com/",
     "2105": "http://community.livejournal.com/gintama/",
     "2125": "http://ddadain.wordpress.com/",
-    "2145": "http://inpowerz.com/forums/forumdisplay.php?63-INP-Mangaz-Latest-Scanlations",
+    "2145": "http://inpowerz.com/forums/forumdisplay.php?48-INP-Mangaz",
     "2165": "http://elementalise.wordpress.com/",
     "2185": "http://projectnoir.net/",
     "2225": "http://nonamescan.wordpress.com/",

@@ -172,6 +172,7 @@ var urlfix_grouplist = {
     "6120": "http://tokkimori-scans.net/",
     "6160": "http://cannighoul.tumblr.com/",
     "620": "http://www.manga4otaku.com",
+    "6220": "http://niconii.wordpress.com/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",
