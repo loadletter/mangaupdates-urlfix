@@ -177,6 +177,7 @@ var urlfix_grouplist = {
     "6064": "http://zettaitranslation.blogspot.com/",
     "6144": "https://irstland.wordpress.com/",
     "6164": "http://paperdollsproject.wordpress.com/",
+    "6204": "http://strawberrytimescanlations.wordpress.com/",
     "624": "http://www.gs-x.xamayon.org/",
     "64": "http://www.manga-sketchbook.org/",
     "684": "http://www.townsocks.net",

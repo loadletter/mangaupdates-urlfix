@@ -181,6 +181,7 @@ var urlfix_grouplist = {
     "6134": "http://onetimescans.com/",
     "614": "http://deliciouspenguins.akujind.com/",
     "6154": "http://pinkstarbepinkasane.blogspot.com/",
+    "6174": "http://stormlight-scans.weebly.com/",
     "6194": "http://argovia2012.wix.com/skyearth",
     "6214": "http://saki-scans.tumblr.com/",
     "634": "http://himitsu.50webs.com/",
