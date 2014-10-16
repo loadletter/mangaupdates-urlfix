@@ -64,7 +64,7 @@ var urlfix_grouplist = {
     "2806": "http://mangahelpers.com/s/ftv",
     "2846": "http://community.livejournal.com/asakuralove/",
     "286": "http://sasuxnaruislove.snowfaerie.net/index.php",
-    "2866": "http://yags-fansub.blogspot.com.au/",
+    "2866": "http://yags-fansub.blogspot.com/",
     "2886": "http://mangahelpers.com/s/theend",
     "2926": "http://mangahelpers.com/s/peebs",
     "2946": "http://kyousuimoon.wordpress.com",

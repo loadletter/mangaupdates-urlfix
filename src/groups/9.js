@@ -170,6 +170,7 @@ var urlfix_grouplist = {
     "609": "http://geocities.com/rtmanga/",
     "6129": "http://anarzeescan.wordpress.com/",
     "6169": "http://setsuna86blog.wordpress.com/",
+    "6229": "http://yoraikun.wordpress.com/",
     "649": "http://www.zeldalegends.net/index.php?n=manga",
     "689": "http://mangahelpers.com/forum/index.php?topic=3974.0",
     "729": "http://community.livejournal.com/hxh_doujinshi/",

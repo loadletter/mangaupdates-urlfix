@@ -174,7 +174,7 @@ var urlfix_grouplist = {
     "6122": "http://nyahafuckingha.tumblr.com/",
     "62": "http://atoz.reikou.net/",
     "622": "http://s4.invisionfree.com/Yummilicious_Pantsu/index.php",
-    "6222": "http://pandaheroxx.blogspot.fr/",
+    "6222": "http://pandaheroxx.blogspot.com/",
     "642": "http://tnkp.twoday.net/",
     "682": "http://www.keiichianimeforever.com",
     "722": "http://in2k2.digital-takeout.net/",

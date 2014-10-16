@@ -162,6 +162,7 @@ var urlfix_grouplist = {
     "6028": "http://cicada-scans.tumblr.com/",
     "6068": "http://lonemanga.com/",
     "6088": "http://comiplex.com/",
+    "6208": "https://drive.google.com/folderview?id=0B7PIRwu9hTEFODllMFFRemljMGc&usp=sharing",
     "6228": "http://horriblesubs.info/category/scans/",
     "628": "http://www.eastofsanity.com/index.html",
     "648": "http://zeldalegends.net/",

@@ -143,7 +143,7 @@ var urlfix_grouplist = {
     "5498": "http://sexymamascanlations.tumblr.com",
     "5538": "http://dourkout.blogspot.com/",
     "5558": "https://www.dropbox.com/sh/vjwerlviukmajjj/6wiyzDhGtg",
-    "5578": "http://friedsquid.tk",
+    "5578": "http://friedsquid.weebly.com/",
     "5598": "http://www.yaoiotaku.com",
     "5618": "http://tacticsacademy.blogspot.com/",
     "5638": "http://moonflower-scans.weebly.com/",

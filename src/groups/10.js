@@ -163,6 +163,7 @@ var urlfix_grouplist = {
     "5910": "http://saranghachiscans.wordpress.com/",
     "6050": "http://nijiyoake.tumblr.com/",
     "6170": "http://dontknowmescans.tumblr.com/",
+    "6210": "http://ouzoku-scans.tumblr.com/",
     "630": "http://www.baka-tsuki.org/",
     "650": "http://alizionmanga.googlepages.com",
     "670": "http://www.sakuracities.com/yaoigames/",

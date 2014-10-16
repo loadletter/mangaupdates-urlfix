@@ -159,7 +159,7 @@ var urlfix_grouplist = {
     "5592": "http://mangaordersbros.co.nf/",
     "5612": "http://lycheescans.blogspot.ca",
     "5632": "http://w11.zetaboards.com/Tekken_Chinmi/site/",
-    "5652": "http://risinggodsoftheeastscans.tumblr.com/",
+    "5652": "http://gsscans.tumblr.com/",
     "572": "http://www.sbm.blahsoft.com/",
     "5752": "http://lazylily.electrochef.us",
     "5812": "http://necron99scans.com",

@@ -184,6 +184,7 @@ var urlfix_grouplist = {
     "6174": "http://stormlight-scans.weebly.com/",
     "6194": "http://argovia2012.wix.com/skyearth",
     "6214": "http://saki-scans.tumblr.com/",
+    "6234": "http://epithetic.wordpress.com",
     "634": "http://himitsu.50webs.com/",
     "654": "http://yes-rhade-djs.livejournal.com/",
     "674": "http://www.esthetique-realm.net/",
