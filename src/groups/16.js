@@ -172,6 +172,8 @@ var urlfix_grouplist = {
     "6116": "http://crownprincetranslations.tumblr.com/",
     "6156": "http://renaiscans.tumblr.com/",
     "616": "http://liquideros.com/",
+    "6196": "http://famatg.wordpress.com/",
+    "6216": "http://blog.draggle.org/",
     "636": "http://gokujyou-doujinshi.tripod.com/index.html",
     "656": "http://www.socool.tk/",
     "676": "http://www.zelda-infinite.com/",

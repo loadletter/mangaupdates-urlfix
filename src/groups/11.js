@@ -67,7 +67,7 @@ var urlfix_grouplist = {
     "2951": "http://kappascans.livejournal.com/",
     "2971": "http://shonenjump0998.blogspot.in/",
     "2991": "http://community.livejournal.com/distaff_side",
-    "3011": "http://mangahelpers.com/s/bloody-tears-scans",
+    "3011": "http://chinjufu.tk/",
     "3071": "http://www.colormehappy.co.cc/",
     "3091": "http://mangahelpers.com/s/mscans",
     "31": "http://www.megkf.net",

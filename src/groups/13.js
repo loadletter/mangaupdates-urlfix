@@ -64,7 +64,7 @@ var urlfix_grouplist = {
     "293": "http://www.sd-manga.com/",
     "2933": "http://niisamatredits.wordpress.com/",
     "2953": "http://noscans.wordpress.com/",
-    "3013": "http://mangahelpers.com/s/mangastation",
+    "3013": "http://maiden-lane-translations.tumblr.com/",
     "3053": "http://prankster.vndv.com/",
     "3153": "http://www.mediafire.com/allowed-scans",
     "3173": "http://forever-ion.deviantart.com/",
