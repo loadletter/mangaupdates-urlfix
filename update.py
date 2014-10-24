@@ -11,6 +11,7 @@ GROUPSJSCRIPT = os.path.join(SRCDIR, "groups.js")
 VERSIONJSON = os.path.join(SRCDIR, "version.json")
 NUMSHARDS = 20
 GROUPSDIR = os.path.join(SRCDIR, 'groups')
+UPGRADEWARNING = '''(function () {if(typeof(localStorage) !== "undefined" && !localStorage.getItem('loadletter.urlfix.onlinedeprecated')) {alert("The version of mangaupdates-urlfix you're using is old, if you're getting this message you should probably reinstall it using the latest and faster version from https://github.com/loadletter/mangaupdates-urlfix"); localStorage.setItem('loadletter.urlfix.onlinedeprecated', 'true');} })();\n'''
 
 import psycopg2
 import psycopg2.extensions
@@ -146,6 +147,7 @@ def tmpfile_object():
 
 def createonlinegroups(groups):
 	with open(GROUPSJSCRIPT, 'wb') as f:
+		f.write(UPGRADEWARNING)
 		f.write("var urlfix_grouplist = ")
 		json.dump(groups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
 		f.write(";\n")
