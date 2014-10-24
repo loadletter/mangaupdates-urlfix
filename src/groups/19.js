@@ -160,6 +160,7 @@ var urlfix_grouplist = {
     "5899": "http://www.batoto.net/group/_/a/assassin-scans-r2656",
     "59": "http://akatsuki.chupatz.com/",
     "599": "http://liquideros.com/",
+    "6039": "http://w0jt1.blogspot.com/",
     "6059": "http://www.hengao.tk/",
     "6099": "http://key-and-cravat.tumblr.com/",
     "6119": "http://flamenco-scanlations.tumblr.com/",

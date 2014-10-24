@@ -177,6 +177,7 @@ var urlfix_grouplist = {
     "612": "http://www.h-night.com/",
     "6132": "http://breadingbad.tumblr.com/",
     "6192": "https://www.webtoonsreader.com/",
+    "6212": "http://suika.moe/",
     "652": "http://oyasumi.aicoalition.com",
     "692": "http://s-kojika.com/PKR/",
     "72": "http://www.jankenpon.de/",

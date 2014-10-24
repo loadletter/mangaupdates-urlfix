@@ -138,7 +138,7 @@ var urlfix_grouplist = {
     "5093": "http://casanovascans.com/",
     "5113": "http://suzakutheknight.livejournal.com/",
     "5133": "https://mega.co.nz/#F!21p2SRiB!BunRvzcx8PklVsMIadR1LA",
-    "5153": "http://psylockescans.wordpress.com",
+    "5153": "http://psylockescans.wordpress.com/",
     "5173": "http://arwynl.wordpress.com/",
     "5193": "http://spinybackwebdesign.com/",
     "5293": "http://chichan54.tumblr.com/",

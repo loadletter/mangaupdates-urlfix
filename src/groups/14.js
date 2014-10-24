@@ -64,7 +64,7 @@ var urlfix_grouplist = {
     "2894": "http://community.livejournal.com/silver_liningx",
     "2934": "http://illacrimoimber.wordpress.com/",
     "294": "http://ribon.haneoka.net/",
-    "2954": "http://mangatopia.net/",
+    "2954": "http://mangatopia.net/main/",
     "2974": "http://mangahelpers.com/s/-iraito-the-freelancer-scanlator-",
     "2994": "http://snowraven-scans.blogspot.com/",
     "3014": "http://www.colonydrop.com/",

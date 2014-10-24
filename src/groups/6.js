@@ -126,7 +126,7 @@ var urlfix_grouplist = {
     "4846": "http://www.seguisa.com/",
     "486": "http://www.tatsu-ryu.com/ET/",
     "4866": "http://www.akashiscans.com",
-    "4926": "http://shoujosense.wordpress.com/",
+    "4926": "http://shoujosense.com/",
     "4946": "http://suckerpunchscanlations.blogspot.com/",
     "4966": "http://tako-luka.blogspot.com/",
     "4986": "http://aboredtamer.blogspot.com/",
