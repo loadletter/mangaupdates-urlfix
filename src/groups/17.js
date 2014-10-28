@@ -170,7 +170,7 @@ var urlfix_grouplist = {
     "597": "http://www.shinrin.ic.cz/fscans.html",
     "6037": "http://www.batoto.net/group/_/p/project-b-r4293",
     "6057": "http://mypacescans.wordpress.com/",
-    "6117": "http://soukascans.blogspot.com",
+    "6117": "http://www.reddit.com/r/Souka/",
     "6157": "http://finemang.comuf.com/",
     "6217": "http://krytykal.org/nekama/",
     "637": "http://community.livejournal.com/gokujyou_relief/",

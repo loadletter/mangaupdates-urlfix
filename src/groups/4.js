@@ -7,7 +7,7 @@ var urlfix_grouplist = {
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
-    "1264": "http://www.sahadou.com/",
+    "1264": "http://sahadou.com/",
     "1284": "http://www.puripurineko.com/",
     "1324": "http://shoku-dan.org",
     "1344": "http://www.arigatomina.com/",

@@ -127,7 +127,7 @@ var urlfix_grouplist = {
     "4441": "http://staredownthesun.blogspot.com/",
     "4461": "http://kamikakushitranslations.wordpress.com/",
     "4541": "http://giraffecorps.liamak.net/",
-    "4581": "http://www.redhawkscans.com/",
+    "4581": "http://www.redhawkscans.com/content.php",
     "4621": "http://troikatrans.wordpress.com/",
     "4641": "http://scantanga.blogspot.com/",
     "4681": "http://transientmirage.blogspot.com/",

@@ -106,7 +106,7 @@ var urlfix_grouplist = {
     "4278": "http://s2scanlations.com",
     "4298": "http://niko-neko-scans.webs.com/",
     "4318": "http://hakurei-scans.blogspot.com/",
-    "4338": "http://japanzai.com/",
+    "4338": "https://japanzai.com/",
     "4378": "http://nuvolagroup.blogspot.com/",
     "438": "http://groups.yahoo.com/group/w-julietfans",
     "4398": "http://taihenzombii.blogspot.com/",
