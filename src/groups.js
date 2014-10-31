@@ -3433,6 +3433,7 @@ var urlfix_grouplist = {
     "6234": "http://epithetic.wordpress.com",
     "6238": "http://oofuri-baka.tumblr.com/tagged/releases",
     "624": "http://www.gs-x.xamayon.org/",
+    "6242": "http://lasolistia.com/haruparty/",
     "6250": "http://manga0205.wordpress.com/",
     "6252": "http://spherescans.blogspot.com/",
     "628": "http://www.eastofsanity.com/index.html",
