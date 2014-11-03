@@ -121,8 +121,6 @@ def reviewqueue(data, curgroups):
 def urlcleanup(row):
 	originalurl = row[2]
 	url = row[2]
-	#make everything lowercase
-	url = url.lower()
 	#add protocol string if missing
 	if not (url.startswith('http://') or url.startswith('https://')):
 		url = 'http://' + url
@@ -130,12 +128,18 @@ def urlcleanup(row):
 	if '.blogspot.' in url:
 		#url = re.sub('blogspot(\.[A-Za-z]{2,6})+', 'blogspot.com', url) #preserve everything after tld
 		url = re.sub('blogspot(\.[A-Za-z]{2,6})+(/|$)', 'blogspot.com/', url) #always add slash
+	rval = []
 	if url != originalurl:
 		#make a list because tuple doesn't support item assignment
 		newrow = list(row)
 		newrow[2] = url
-		return [tuple(newrow)]
-	return []
+		rval += [tuple(newrow)]
+	if url.lower() != url:
+		#lowercase isn't always correct, so provide another url
+		newrow_l = list(row)
+		newrow_l[2] = url.lower()
+		rval += [tuple(newrow_l)]
+	return rval
 
 def incversion(ver):
 	""" look for the last sequence of number(s) in a string and increment """
