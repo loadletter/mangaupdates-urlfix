@@ -169,6 +169,7 @@ var urlfix_grouplist = {
     "6016": "http://sl-llian.livejournal.com/",
     "6036": "http://kirikowildlife.wordpress.com/",
     "6076": "http://www.webtoons.com/",
+    "6096": "http://janeypeixes.tumblr.com/",
     "6116": "http://crownprincetranslations.tumblr.com/",
     "6156": "http://renaiscans.tumblr.com/",
     "616": "http://liquideros.com/",

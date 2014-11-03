@@ -186,6 +186,7 @@ var urlfix_grouplist = {
     "6043": "http://www.batoto.net/group/_/t/to-aru-universe-r4202",
     "6123": "http://hq-scans.tumblr.com/",
     "6163": "https://www.shotachan.net/translations/",
+    "6203": "http://darksequence.wordpress.com/",
     "63": "http://www.possible-soup.net",
     "643": "http://www.ju-ni.net",
     "663": "http://shoujo-manga.org/",

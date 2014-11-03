@@ -179,6 +179,7 @@ var urlfix_grouplist = {
     "6164": "http://paperdollsproject.rocks/",
     "6204": "http://strawberrytimescanlations.wordpress.com/",
     "624": "http://www.gs-x.xamayon.org/",
+    "6244": "http://yaoidesirerevolution.blogspot.com/",
     "64": "http://www.manga-sketchbook.org/",
     "684": "http://www.townsocks.net",
     "704": "http://www.yaoi.ca/drten/index.php",

@@ -167,6 +167,7 @@ var urlfix_grouplist = {
     "5949": "http://mangabandits.net/",
     "6049": "http://tateyamaa.tumblr.com/",
     "6069": "http://www.lenovels.net/saintscans/",
+    "6089": "http://pokenobuscanlations.tumblr.com/",
     "609": "http://geocities.com/rtmanga/",
     "6129": "http://anarzeescan.wordpress.com/",
     "6169": "http://setsuna86blog.wordpress.com/",
