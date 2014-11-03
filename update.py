@@ -32,7 +32,6 @@ def dumpqueue():
 	print "Connecting to database"
 	conn = psycopg2.connect(DSN)
 	cur = conn.cursor()
-	
 	data = None
 	try:
 		cur.execute("SELECT id, groupid, groupwww, refer, remoteip, uagent FROM posts ORDER BY id")
@@ -46,7 +45,6 @@ def dumpqueue():
 		sys.exit(0)
 	
 	print "Got %i rows" % len(data)
-	
 	conn.commit()
 	cur.close()
 	conn.close()
@@ -57,7 +55,6 @@ def deletequeued(id_list):
 	print "Connecting to database"
 	conn = psycopg2.connect(DSN)
 	cur = conn.cursor()
-	
 	delete_list = map(lambda x: (x,), id_list)
 	try:
 		cur.executemany("DELETE FROM posts WHERE id = %s", delete_list)
@@ -69,7 +66,6 @@ def deletequeued(id_list):
 		return
 	
 	print "Deleted %i rows" % len(id_list)
-	
 	conn.commit()
 	cur.close()
 	conn.close()
@@ -83,34 +79,63 @@ def printqueue(data):
 	print
 	print "------------------------------------------------"
 	
-def reviewqueue(data):
-	goodlist = []
-	badlist = []
+def reviewqueue(data, curgroups):
+	datadict = {}
+	good = []
+	#make a dictionary with group as key and a list of rows as value
 	for row in data:
-		print "Loading:", repr(row)
-		muurl = GROUPURL % int(row[1])
-		browserargs = [WWWBROWSER, muurl, row[2].encode('utf-8')]
-		subprocess.call(browserargs)
-		actionrow(row, goodlist, badlist)
-	
-	return goodlist, badlist
-
-def actionrow(row, goodlist, badlist):
-	while True:
-		print "1) Accept"
-		print "2) Ignore"
-		print "3) Delete"
-		answer = raw_input()
-		if answer not in ['1', '2', '3']:
-			print "Error"
+		gid = row[1]
+		if str(gid) in curgroups and curgroups[str(gid)] == row[2]:
+			print "Ignored unchanged:", gid
 			continue
-		break
-	answer = int(answer)
-	if answer == 1:
-		goodlist.append(row)
-	elif answer == 3:
-		badlist.append(row)
-	return answer
+		cleanedurl = urlcleanup(row)
+		if gid in datadict:
+			datadict[gid].append(row)
+			datadict[gid].extend(cleanedurl)
+		else:
+			datadict[gid] = [row] + cleanedurl
+	#do review
+	for k, v in datadict.iteritems():
+		print "Loading group:", k
+		muurl = GROUPURL % int(k)
+		urls = map(lambda x: x[2].encode('utf-8'), v)
+		browserargs = [WWWBROWSER, muurl] + urls
+		subprocess.call(browserargs)
+		while True:
+			print "I) Ignore"
+			for c in range(len(v)):
+				print "%i)" % c, repr(v[c])
+			r = raw_input('> ')
+			if r.upper() == 'I':
+				break
+			try:
+				ir = int(r)
+				assert(0 <= ir < len(v))
+			except (ValueError, AssertionError):
+				print "Wrong choice"
+			else:
+				good.append(v[ir])
+				break
+	return good
+
+def urlcleanup(row):
+	originalurl = row[2]
+	url = row[2]
+	#make everything lowercase
+	url = url.lower()
+	#add protocol string if missing
+	if not (url.startswith('http://') or url.startswith('https://')):
+		url = 'http://' + url
+	#replace the various blogspot tld with generic .com
+	if '.blogspot.' in url:
+		#url = re.sub('blogspot(\.[A-Za-z]{2,6})+', 'blogspot.com', url) #preserve everything after tld
+		url = re.sub('blogspot(\.[A-Za-z]{2,6})+(/|$)', 'blogspot.com/', url) #always add slash
+	if url != originalurl:
+		#make a list because tuple doesn't support item assignment
+		newrow = list(row)
+		newrow[2] = url
+		return [tuple(newrow)]
+	return []
 
 def incversion(ver):
 	""" look for the last sequence of number(s) in a string and increment """
@@ -188,7 +213,7 @@ def updatefromdb():
 	if answer != 'y':
 		sys.exit(0)
 	
-	good, bad = reviewqueue(dbrows)
+	good = reviewqueue(dbrows, currentgroups)
 	gooddict = {}
 	for r in good:
 		row2dict(r, gooddict)
@@ -249,31 +274,12 @@ def updatefromdb():
 	if rc != 0:
 		print "Git returned %i, aborting.." % rc
 		sys.exit(1)
+	#delete
+	print "Delete from database? (y/n)"
+	answer = raw_input("[y]>" )
+	if answer != 'n':
+		deletequeued(map(lambda x: x[0], dbrows))
 	
-	#ask what to delete (nothing, bad, good, both)
-	while True:
-		print "Delete from database?"
-		print "0) None"
-		print "1) Bad"
-		print "2) Good"
-		print "3) All"
-		answer = raw_input()
-		if answer not in ['0', '1', '2', '3']:
-			print "Error"
-			continue
-		break
-	answer = int(answer)
-	
-	if answer == 0:
-		sys.exit(0)
-	elif answer == 1:
-		deletelist = map(lambda x: x[0], bad)
-	elif answer == 2:
-		deletelist = map(lambda x: x[0], good)
-	elif answer == 3:
-		deletelist = map(lambda x: x[0], bad) + map(lambda x: x[0], good)
-		
-	deletequeued(deletelist)
 	os.remove(changelogpath)
 	print "Done!"
 	print "Don't forget to push both commits (to gh-pages too) and tags!!!"
