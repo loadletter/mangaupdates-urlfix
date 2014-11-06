@@ -173,6 +173,7 @@ var urlfix_grouplist = {
     "6160": "http://cannighoul.tumblr.com/",
     "620": "http://www.manga4otaku.com",
     "6220": "http://niconii.wordpress.com/",
+    "6260": "http://www.oni-scans.blogspot.com/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",
