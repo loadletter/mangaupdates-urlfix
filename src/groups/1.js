@@ -181,6 +181,8 @@ var urlfix_grouplist = {
     "6181": "http://kubera-tn.weebly.com/",
     "6201": "http://bakahou.wordpress.com/",
     "621": "http://www.4shared.com/dir/321844/57db8749/sharing.html",
+    "6241": "http://silvereaglescans.blogspot.com/",
+    "6261": "http://tapastic.com/",
     "641": "http://Janime.info",
     "661": "http://rikkaidai.org/",
     "681": "http://community.livejournal.com/afascinante/",

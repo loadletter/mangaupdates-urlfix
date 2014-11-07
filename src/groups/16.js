@@ -175,6 +175,8 @@ var urlfix_grouplist = {
     "616": "http://liquideros.com/",
     "6196": "http://famatg.wordpress.com/",
     "6216": "http://blog.draggle.org/",
+    "6236": "http://blackswanscans.tumblr.com/",
+    "6256": "http://divine-squids.livejournal.com/",
     "636": "http://gokujyou-doujinshi.tripod.com/index.html",
     "656": "http://www.socool.tk/",
     "676": "http://www.zelda-infinite.com/",

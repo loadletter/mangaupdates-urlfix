@@ -178,6 +178,7 @@ var urlfix_grouplist = {
     "6132": "http://breadingbad.tumblr.com/",
     "6192": "https://www.webtoonsreader.com/",
     "6212": "http://suika.moe/",
+    "6232": "http://www.detectiveconanworld.com",
     "6252": "http://spherescans.blogspot.com/",
     "652": "http://oyasumi.aicoalition.com",
     "692": "http://s-kojika.com/PKR/",

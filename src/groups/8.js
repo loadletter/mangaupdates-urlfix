@@ -164,6 +164,7 @@ var urlfix_grouplist = {
     "6088": "http://comiplex.com/",
     "6208": "https://drive.google.com/folderview?id=0B7PIRwu9hTEFODllMFFRemljMGc&usp=sharing",
     "6228": "http://horriblesubs.info/category/scans/",
+    "6268": "http://theplotthief.tumblr.com/",
     "628": "http://www.eastofsanity.com/index.html",
     "648": "http://zeldalegends.net/",
     "668": "http://freelance-manga.com/",

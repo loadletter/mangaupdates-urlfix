@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "6179": "https://docs.google.com/document/d/1ljoXDy-ti5N7ZYPbzDsj5kvYFl3lEWaJ1l3Lzv1cuuM/preview?pli=1",
     "619": "http://mangaart.us/",
     "6219": "https://drive.google.com/folderview?id=0ByPeaKaqUsGFQVAxUEM2bUI0R0E",
+    "6239": "http://bato.to/group/_/i/illuminated-scans-r4174",
     "6259": "http://dattedaisuki.tumblr.com/",
     "659": "http://groups.yahoo.com/group/chibitorascanlations/",
     "679": "http://secretgarden-sc.livejournal.com/",
