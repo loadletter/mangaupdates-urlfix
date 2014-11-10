@@ -164,6 +164,7 @@ var urlfix_grouplist = {
     "5816": "http://www.batoto.net/group/_/a/anonymous-r3177",
     "5856": "http://alwayshere-scans.tumblr.com/",
     "5876": "https://www.mangabox.me/reader/en/",
+    "5896": "http://missdream.org/",
     "5916": "https://dinaramint.wordpress.com/",
     "596": "http://ttreasures.caithion.net/",
     "6016": "http://sl-llian.livejournal.com/",
