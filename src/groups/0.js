@@ -172,6 +172,7 @@ var urlfix_grouplist = {
     "6120": "http://tokkimori-scans.net/",
     "6160": "http://cannighoul.tumblr.com/",
     "620": "http://www.manga4otaku.com",
+    "6200": "http://bato.to/group/_/f/fire-nation-scans-r4704",
     "6220": "http://niconii.wordpress.com/",
     "6260": "http://www.oni-scans.blogspot.com/",
     "700": "http://www.compman44.com/",

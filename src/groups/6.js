@@ -157,6 +157,7 @@ var urlfix_grouplist = {
     "5826": "http://battlebrave.co.vu/",
     "5846": "http://renna-translations.tumblr.com/",
     "586": "http://unexpectedtimes.livejournal.com/",
+    "5866": "http://spluuuuurt.tumblr.com/",
     "5926": "http://thefaiienscans.weebly.com/",
     "5946": "http://mekamekasubs.tumblr.com/",
     "5966": "http://kobatochandaisuki.wordpress.com",

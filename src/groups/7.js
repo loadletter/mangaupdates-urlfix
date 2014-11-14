@@ -166,6 +166,7 @@ var urlfix_grouplist = {
     "607": "http://www.soompi.com",
     "6087": "http://solitarytranslation.wordpress.com/",
     "6127": "http://black7bleach.livejournal.com/",
+    "6147": "https://twitter.com/batmanscans",
     "6167": "http://shiroscanlations.wordpress.com/",
     "6187": "http://becscans.wordpress.com/",
     "6207": "http://big-money-rustlas.tumblr.com/",

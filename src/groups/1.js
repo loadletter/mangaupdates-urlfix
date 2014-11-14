@@ -150,6 +150,7 @@ var urlfix_grouplist = {
     "5201": "http://bhhfc.blogspot.com/",
     "521": "http://xmasmanga15.forumer.com",
     "5261": "http://underdogscans.wordpress.com/",
+    "5281": "http://luffynotomo.livejournal.com/",
     "5301": "https://ceiphiedknightandbanditsplight.wordpress.com/",
     "5321": "http://nightsky.ucoz.com/",
     "5361": "http://fragmentedhollow.wordpress.com/",
