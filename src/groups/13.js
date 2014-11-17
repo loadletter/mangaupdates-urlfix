@@ -165,6 +165,7 @@ var urlfix_grouplist = {
     "5973": "http://www.oneora.net/",
     "6013": "http://visualnovel.deviantart.com/",
     "6033": "https://thenonames512.wordpress.com/",
+    "6153": "http://lurondo.tumblr.com/",
     "6213": "http://bato.to/group/_/k/kaneki-scans-r4691",
     "6253": "http://lovesick-udunno.tumblr.com/",
     "633": "http://community.livejournal.com/pms_manga/",

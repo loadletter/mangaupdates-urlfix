@@ -170,6 +170,7 @@ var urlfix_grouplist = {
     "6167": "http://shiroscanlations.wordpress.com/",
     "6187": "http://becscans.wordpress.com/",
     "6207": "http://big-money-rustlas.tumblr.com/",
+    "6247": "http://marisemiu.tumblr.com/",
     "6267": "http://bato.to/group/_/b/betterthannothing-r4802",
     "67": "http://www.mangacity.net/",
     "687": "http://binktopia.org/",

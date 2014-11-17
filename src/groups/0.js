@@ -93,7 +93,7 @@ var urlfix_grouplist = {
     "380": "http://yuecchi.blogspot.com/",
     "3800": "http://sassytranslation.wordpress.com",
     "3820": "http://mimantranslations.blogspot.com/",
-    "3840": "http://www.facepalmscans.com/",
+    "3840": "http://www.facepalm.moe/",
     "3900": "http://mypersonalscan.blogspot.com/",
     "3920": "http://community.livejournal.com/shazamscans/",
     "3940": "http://www.onepiecefag.blogspot.com/",

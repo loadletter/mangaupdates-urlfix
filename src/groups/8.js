@@ -62,7 +62,7 @@ var urlfix_grouplist = {
     "2988": "http://raizoo.wordpress.com/",
     "3008": "http://medakatp.wordpress.com",
     "3028": "http://zoku88.blogsome.com/",
-    "3068": "http://mangahelpers.com/s/anaoj",
+    "3068": "http://noitl.blogspot.com/",
     "3108": "http://alotlikevegaz.livejournal.com/",
     "3128": "http://trinitybakuma.com/",
     "3148": "http://sciperschake.livejournal.com/",
