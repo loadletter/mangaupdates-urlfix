@@ -61,7 +61,7 @@ var urlfix_grouplist = {
     "300": "http://sky.oaai.org/index.php",
     "3000": "http://argentique.livejournal.com/",
     "3020": "http://cookiedough.pinkmimi.net",
-    "3040": "http://mangahelpers.com/s/magicalbum",
+    "3040": "http://freewheeling-x-scans.tumblr.com/",
     "3060": "http://www.le-cygne.blogspot.com/",
     "3100": "http://mangahelpers.com/s/seiran",
     "3120": "http://zetsurin.ryuutama.com/",

@@ -183,6 +183,7 @@ var urlfix_grouplist = {
     "6105": "http://gto14dis.blogspot.com/",
     "6125": "http://hikarusora.tumblr.com/",
     "6265": "http://namasuki.tumblr.com/",
+    "6285": "http://yaoi-blcd.tumblr.com/",
     "645": "http://www.kindan-no-aku.com/",
     "65": "http://kotonoha.monkey-pirate.com/",
     "685": "http://groups.msn.com/DragonGuard/scanlationbranch.msnw",

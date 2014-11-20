@@ -135,7 +135,7 @@ var urlfix_grouplist = {
     "5079": "http://bloodybutterflyscans.blogspot.ca/",
     "5099": "http://kumoris.blogspot.com/",
     "5159": "http://q-ksubs.blogspot.mx/",
-    "5179": "http://manga.displaynone.us/",
+    "5179": "https://manga.displaynone.us/",
     "5199": "http://hoshi-kuzuu.livejournal.com/",
     "5239": "http://bakenekoscanlation.shounen-ai.net/",
     "5279": "http://tak3z0.livejournal.com/",

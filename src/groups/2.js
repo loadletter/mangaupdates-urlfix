@@ -135,7 +135,7 @@ var urlfix_grouplist = {
     "4702": "http://kamigamiscans.wordpress.com/",
     "4722": "http://jump-into-the-labyrinth.blogspot.com/",
     "4782": "http://www.bondbirthmarks.info/",
-    "4802": "http://www.kuudere.com",
+    "4802": "http://kuudere2.wordpress.com/",
     "4842": "http://pikachikako.blogspot.com/",
     "4882": "http://bakkinbakkingamu.com/",
     "4902": "http://mahomahoscans.wordpress.com/",

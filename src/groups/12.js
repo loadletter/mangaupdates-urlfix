@@ -128,7 +128,7 @@ var urlfix_grouplist = {
     "4772": "http://ilovesensei.wordpress.com/",
     "4812": "http://peek-a-yaoi.tumblr.com/",
     "4832": "http://Goldenrozescans.wordpress.com",
-    "4852": "http://deadfrog.us/profile.html?name=caterpillar",
+    "4852": "https://deadfrog.me/profile.html?name=caterpillar",
     "4912": "http://kandjscans.blogspot.ca/",
     "492": "http://ambrosia.digital-takeout.net/",
     "4932": "http://10tscans.webs.com",
