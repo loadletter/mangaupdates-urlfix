@@ -68,7 +68,7 @@ var urlfix_grouplist = {
     "2971": "http://shonenjump0998.blogspot.in/",
     "2991": "http://community.livejournal.com/distaff_side",
     "3011": "http://chinjufu.tk/",
-    "3071": "http://www.colormehappy.co.cc/",
+    "3071": "http://stcon.wordpress.com/",
     "3091": "http://mangahelpers.com/s/mscans",
     "31": "http://www.megkf.net",
     "3111": "http://loveloveshigeyoshi.blogspot.com/",

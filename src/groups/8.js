@@ -166,6 +166,7 @@ var urlfix_grouplist = {
     "6228": "http://horriblesubs.info/category/scans/",
     "6268": "http://theplotthief.tumblr.com/",
     "628": "http://www.eastofsanity.com/index.html",
+    "6288": "http://jawztranslations.blogspot.com/",
     "648": "http://zeldalegends.net/",
     "668": "http://freelance-manga.com/",
     "68": "http://two.guestbook.de/gb.cgi?gid=785692&amp;prot=lemcdp",
