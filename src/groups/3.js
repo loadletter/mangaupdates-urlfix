@@ -190,6 +190,7 @@ var urlfix_grouplist = {
     "6223": "http://penumbrale.livejournal.com/",
     "6243": "http://aria-dc-al-fine.livejournal.com/",
     "6263": "http://shinkirouscans.wordpress.com/",
+    "6283": "http://silver-garden.eigenreality.net/",
     "63": "http://www.possible-soup.net",
     "643": "http://www.ju-ni.net",
     "663": "http://shoujo-manga.org/",

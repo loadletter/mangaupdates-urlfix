@@ -181,6 +181,7 @@ var urlfix_grouplist = {
     "6232": "http://www.detectiveconanworld.com",
     "6252": "http://spherescans.blogspot.com/",
     "6272": "http://nijimurashuuzo.tumblr.com/translationmasterlist",
+    "6292": "http://www.firststepsscans.tumblr.com/",
     "652": "http://oyasumi.aicoalition.com",
     "692": "http://s-kojika.com/PKR/",
     "72": "http://www.jankenpon.de/",

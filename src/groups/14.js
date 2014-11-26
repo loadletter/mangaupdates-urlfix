@@ -139,7 +139,7 @@ var urlfix_grouplist = {
     "4854": "http://lesbaignoires.wordpress.com",
     "4874": "http://desperateleaf.tk/",
     "4894": "http://oriolidaeandsparviero.blogspot.com/",
-    "4934": "http://roankun.wordpress.com",
+    "4934": "http://roankun.wordpress.com/",
     "494": "http://www.asphodelshaven.com/translations/mirage/",
     "4954": "http://mangapirate.me/",
     "4974": "http://captainba.tumblr.com",

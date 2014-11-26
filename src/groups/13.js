@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "6153": "http://lurondo.tumblr.com/",
     "6213": "http://bato.to/group/_/k/kaneki-scans-r4691",
     "6253": "http://lovesick-udunno.tumblr.com/",
+    "6293": "https://sites.google.com/site/sekaigameoredake/",
     "633": "http://community.livejournal.com/pms_manga/",
     "673": "http://www.nightsail.net/crackpot/uttercorn.htm",
     "733": "http://fairyfly.org",

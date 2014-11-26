@@ -172,6 +172,7 @@ var urlfix_grouplist = {
     "6207": "http://big-money-rustlas.tumblr.com/",
     "6247": "http://marisemiu.tumblr.com/",
     "6267": "http://bato.to/group/_/b/betterthannothing-r4802",
+    "6287": "http://009godswar.dreamwidth.org/",
     "67": "http://www.mangacity.net/",
     "687": "http://binktopia.org/",
     "727": "http://www.myspace.com/kurisuscans",
