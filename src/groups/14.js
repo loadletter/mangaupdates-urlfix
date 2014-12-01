@@ -186,6 +186,7 @@ var urlfix_grouplist = {
     "6214": "http://saki-scans.tumblr.com/",
     "6234": "http://epithetic.wordpress.com",
     "6274": "http://shincodezeroblog.wordpress.com/",
+    "6294": "http://bato.to/group/_/b/biamam-scans-r4871",
     "634": "http://himitsu.50webs.com/",
     "654": "http://yes-rhade-djs.livejournal.com/",
     "674": "http://www.esthetique-realm.net/",

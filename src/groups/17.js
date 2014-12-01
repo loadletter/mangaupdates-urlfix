@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "6117": "http://www.reddit.com/r/Souka/",
     "6157": "http://finemang.comuf.com/",
     "6217": "http://krytykal.org/alice-tale/",
+    "6297": "https://hatoken.wordpress.com/",
     "637": "http://community.livejournal.com/gokujyou_relief/",
     "677": "http://wai-yeng.livejournal.com/",
     "697": "http://syruptitiously.livejournal.com/",
