@@ -175,6 +175,7 @@ var urlfix_grouplist = {
     "6200": "http://bato.to/group/_/f/fire-nation-scans-r4704",
     "6220": "http://niconii.wordpress.com/",
     "6260": "http://www.oni-scans.blogspot.com/",
+    "6300": "http://himetranslations.tumblr.com/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",

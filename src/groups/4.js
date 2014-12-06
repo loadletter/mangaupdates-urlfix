@@ -68,7 +68,7 @@ var urlfix_grouplist = {
     "2924": "http://hayamakotono.lolis.net/",
     "2944": "http://www.doujin-moe.us/main.html",
     "2964": "http://mangahelpers.com/s/amh-scans",
-    "2984": "http://mangahelpers.com/s/celest",
+    "2984": "http://thelostlight.funeralofsmiles.com/",
     "3004": "http://redbarns.wordpress.com/",
     "304": "http://flatspace.org/gravity/",
     "3044": "http://community.livejournal.com/nge_yaoi/",

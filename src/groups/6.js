@@ -169,6 +169,7 @@ var urlfix_grouplist = {
     "6246": "http://iseetooclearscanlations.tumblr.com/",
     "6266": "http://aisheteru-scans.blogspot.com/",
     "6286": "http://summertimescans.tumblr.com/",
+    "6306": "http://gkamateurs.tumblr.com/",
     "646": "http://shlikah.free.fr/",
     "66": "http://www.shoujomagic.net/",
     "666": "http://www.makimakimanga.com/",

@@ -62,7 +62,7 @@ var urlfix_grouplist = {
     "2995": "http://wunzyscans.blogspot.com/",
     "3015": "http://www.nanofate.us/",
     "3055": "http://kaidaten.wordpress.com/",
-    "3095": "http://mangahelpers.com/s/bo-bobo-fan-project",
+    "3095": "https://hatoken.wordpress.com/",
     "3115": "http://community.livejournal.com/ebil_trio/",
     "3135": "http://mangahelpers.com/s/lone-scan",
     "3155": "http://mangahelpers.com/s/cat-professor-scans",
