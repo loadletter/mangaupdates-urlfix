@@ -69,7 +69,7 @@ var urlfix_grouplist = {
     "2991": "http://community.livejournal.com/distaff_side",
     "3011": "http://chinjufu.tk/",
     "3071": "http://stcon.wordpress.com/",
-    "3091": "http://mangahelpers.com/s/mscans",
+    "3091": "https://kamitranslation.wordpress.com/",
     "31": "http://www.megkf.net",
     "3111": "http://loveloveshigeyoshi.blogspot.com/",
     "3151": "http://grazie-manga.blogspot.com/",

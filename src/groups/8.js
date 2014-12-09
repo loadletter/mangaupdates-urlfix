@@ -111,7 +111,7 @@ var urlfix_grouplist = {
     "4448": "http://gentlelovescans.blogspot.com/",
     "4468": "http://apothe.net/",
     "448": "http://www.cafealpha.org/",
-    "4488": "http://TempusEdaxRerumTL.wordpress.com",
+    "4488": "http://tempusedaxrerumtl.com/",
     "4588": "http://www.mangainn.com/",
     "4608": "http://colorfulscans.blogspot.com/",
     "4628": "http://eliology.com/",

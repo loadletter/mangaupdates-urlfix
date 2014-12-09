@@ -169,6 +169,7 @@ var urlfix_grouplist = {
     "6270": "http://dimethylbenzene.tumblr.com/",
     "6290": "http://valandra.tumblr.com/",
     "630": "http://www.baka-tsuki.org/",
+    "6310": "http://neeyuki.tumblr.com/",
     "650": "http://alizionmanga.googlepages.com",
     "670": "http://www.sakuracities.com/yaoigames/",
     "690": "http://tsubusu.atspace.com/",
