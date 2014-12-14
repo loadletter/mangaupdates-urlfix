@@ -166,6 +166,7 @@ var urlfix_grouplist = {
     "6215": "http://freescanlations.tumblr.com/",
     "6275": "http://www.reddit.com/r/bravefrontier/",
     "6295": "http://bato.to/group/_/n/nihilsciens-r4879",
+    "6315": "http://jayminator.blogspot.com/",
     "635": "http://www.otaku-relief.com/indexx2.html",
     "675": "http://www.cotrj.com/md-sd/index.php",
     "695": "http://kh.beyondeternal.com/",
