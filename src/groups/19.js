@@ -172,6 +172,7 @@ var urlfix_grouplist = {
     "6239": "http://bato.to/group/_/i/illuminated-scans-r4174",
     "6259": "http://dattedaisuki.tumblr.com/",
     "6279": "http://ask-mirajane-strauss.tumblr.com/",
+    "6319": "http://mangacosmoenglish.blogspot.com/",
     "659": "http://groups.yahoo.com/group/chibitorascanlations/",
     "679": "http://secretgarden-sc.livejournal.com/",
     "699": "http://pbhm.kiriau.net",

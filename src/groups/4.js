@@ -181,6 +181,7 @@ var urlfix_grouplist = {
     "624": "http://www.gs-x.xamayon.org/",
     "6244": "http://yaoidesirerevolution.blogspot.com/",
     "6284": "http://wingfril.livejournal.com/",
+    "6324": "http://wartdf.wordpress.com/",
     "64": "http://www.manga-sketchbook.org/",
     "684": "http://www.townsocks.net",
     "704": "http://www.yaoi.ca/drten/index.php",
