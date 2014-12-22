@@ -72,7 +72,7 @@ var urlfix_grouplist = {
     "3052": "http://sucre-rose.livejournal.com/",
     "3072": "http://rehwynscans.blogspot.com/",
     "3092": "http://mastersca.nz/",
-    "3112": "http://mangahelpers.com/s/ayawasgi",
+    "3112": "http://shatteredscans.wordpress.com/",
     "3152": "http://mangahelpers.com/s/reaching-you-scans",
     "3192": "http://fad2raptor.wordpress.com/",
     "32": "http://www.animewaves.net",

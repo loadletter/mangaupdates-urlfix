@@ -156,7 +156,7 @@ var urlfix_grouplist = {
     "5998": "http://nanachanscans.wordpress.com/",
     "6178": "http://frecklegirl.dreamwidth.org/",
     "618": "http://www.freewebs.com/ucrumble/",
-    "6198": "http://bato.to/group/_/t/tsuki-to-chikyuu-translations-r4673",
+    "6198": "https://twitter.com/TtCTranslations",
     "6238": "http://oofuri-baka.tumblr.com/tagged/releases",
     "638": "http://translationtexts.cjb.net/",
     "658": "http://www.l33tmaster.com",

@@ -162,6 +162,7 @@ var urlfix_grouplist = {
     "590": "http://community.livejournal.com/tokudane/",
     "5910": "http://saranghachiscans.wordpress.com/",
     "5950": "http://yakudou.com/",
+    "6010": "http://ink-herpes.blogspot.com/",
     "6050": "http://nijiyoake.tumblr.com/",
     "6170": "http://dontknowmescans.tumblr.com/",
     "6210": "http://ouzoku-scans.tumblr.com/",

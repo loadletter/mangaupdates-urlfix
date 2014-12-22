@@ -64,7 +64,7 @@ var urlfix_grouplist = {
     "296": "http://in2k2.digital-takeout.net/",
     "2976": "http://tarahbeescans.wordpress.com/",
     "2996": "http://mangahelpers.com/s/liberty-scantrad-team",
-    "3036": "http://mangahelpers.com/s/organization-xiii",
+    "3036": "http://tokkyuuressha.tumblr.com/",
     "3056": "http://mangahelpers.com/s/donscans",
     "3076": "http://mangahelpers.com/s/-compartilhando-",
     "3096": "http://seraphscans.blogspot.com/",
