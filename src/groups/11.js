@@ -166,6 +166,7 @@ var urlfix_grouplist = {
     "6051": "http://mion-sakamaki.tumblr.com/",
     "611": "http://www.xamayon.org/",
     "6291": "http://yourewelcomescans.wordpress.com/",
+    "6331": "http://variationa.tumblr.com/",
     "651": "http://www.wangan-midnight.com/",
     "671": "http://www.higurashi.host.sk/",
     "71": "http://mangatranslation.com/",

@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "628": "http://www.eastofsanity.com/index.html",
     "6288": "http://jawztranslations.blogspot.com/",
     "6308": "http://gospel.\u307f\u3093\u306a/",
+    "6328": "http://www.wuxiaworld.com/",
     "648": "http://zeldalegends.net/",
     "668": "http://freelance-manga.com/",
     "68": "http://two.guestbook.de/gb.cgi?gid=785692&amp;prot=lemcdp",
