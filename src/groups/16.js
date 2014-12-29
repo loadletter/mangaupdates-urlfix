@@ -124,7 +124,7 @@ var urlfix_grouplist = {
     "4716": "http://yukis0ra.livejournal.com/",
     "4736": "http://strangescans.blogspot.com/",
     "476": "http://mitsux3.secret-moon.net/",
-    "4776": "http://robofaget.tumblr.com/",
+    "4776": "http://duratrans.tumblr.com/",
     "4796": "http://untuned-strings.blogspot.com/",
     "4816": "http://mittens-220.livejournal.com/",
     "4836": "http://pleasant-memories.com/",

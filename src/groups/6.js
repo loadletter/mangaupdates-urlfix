@@ -161,6 +161,7 @@ var urlfix_grouplist = {
     "5926": "http://thefaiienscans.weebly.com/",
     "5946": "http://mekamekasubs.tumblr.com/",
     "5966": "http://kobatochandaisuki.wordpress.com",
+    "5986": "http://armageddonscans.blogspot.com/",
     "6026": "http://thecatscans.wordpress.com/",
     "6066": "http://fixitinposttat.wordpress.com/",
     "6106": "http://sugarsprayscans.tumblr.com/",

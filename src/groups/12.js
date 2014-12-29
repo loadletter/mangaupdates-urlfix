@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "6032": "http://rinshankaihouscans.wordpress.com/",
     "6052": "http://koutonori.tumblr.com/",
     "6072": "http://sacredbladeenglish.wordpress.com/",
+    "6112": "http://nfp.is/",
     "612": "http://www.h-night.com/",
     "6132": "http://breadingbad.tumblr.com/",
     "6192": "http://www.webtoonsreader.com/",
