@@ -76,7 +76,7 @@ var urlfix_grouplist = {
     "3083": "http://zefiberyl.blogspot.com/",
     "3103": "http://pure-scans.blogspot.com/",
     "3123": "http://sidoohproject.wordpress.com/",
-    "3143": "http://mangahelpers.com/s/teaparty",
+    "3143": "http://lazyfag.wordpress.com/",
     "3163": "http://mangahelpers.com/s/anime-manga-paradise",
     "3183": "http://mangahelpers.com/s/yorozuya-hayate",
     "323": "http://www.kakyoku.org/fctranslations",

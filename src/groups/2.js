@@ -170,6 +170,7 @@ var urlfix_grouplist = {
     "602": "http://www.emsmanga.com/",
     "6022": "http://artificialdemons.boards.net/",
     "6042": "http://rolybearpress.blogspot.com/",
+    "6062": "http://yudy-arzachel.blogspot.com/",
     "6082": "http://pyralisa.tumblr.com",
     "6122": "http://nyahafuckingha.tumblr.com/",
     "62": "http://atoz.reikou.net/",

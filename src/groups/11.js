@@ -154,7 +154,7 @@ var urlfix_grouplist = {
     "5771": "http://hyouka-rangers.tumblr.com",
     "5811": "http://yander.es/",
     "5831": "http://wannabescanlations.wordpress.com/",
-    "5851": "http://galacticascans.wordpress.com/",
+    "5851": "http://galacticascans.com/",
     "5891": "http://aoc-translations.tumblr.com/",
     "591": "http://a.sigh.org/",
     "5931": "http://divina126.livejournal.com/",
