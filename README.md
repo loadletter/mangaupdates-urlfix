@@ -9,11 +9,8 @@ Userscript that adds urls and irc link back on the groups pages of mangaupdates.
 
 - Firefox: Make sure you have greasemonkey installed and just click on the previous link.
  
-- Chrome/Chromium/Opera/Other:
+- Chrome/Chromium/Opera/Other: Install tampermonkey(chrome)/violentmonkey(opera) or equivalent and then just click on the previous link.
  
- 1. **Preferred** way: Install tampermonkey(chrome)/violentmonkey(opera) or equivalent and then just click on the previous link.
-
- 2. Save the online version link to a file (Right click> Save link as..), then open the folder where you downloaded it and drag the file to the Extensions page on Chrome.
 - Safari: Make sure you have ninjakit installed and just click on the previous link.
 
 ##(New) Missing/outdated/wrong links?
