@@ -3,15 +3,12 @@ import os, re, sys, urllib2, json, subprocess, tempfile
 
 WWWBROWSER = "firefox"
 GROUPURL = "http://www.mangaupdates.com/groups.html?id=%i"
-SCRIPTNAME = "mangaupdates_group.user.js"
 CURRDIR = os.path.dirname(os.path.abspath(__file__))
 SRCDIR = os.path.join(CURRDIR, "src")
 GROUPSJSON = os.path.join(SRCDIR, "groups.json")
-GROUPSJSCRIPT = os.path.join(SRCDIR, "groups.js")
 VERSIONJSON = os.path.join(SRCDIR, "version.json")
 NUMSHARDS = 20
 GROUPSDIR = os.path.join(SRCDIR, 'groups')
-UPGRADEWARNING = '''(function () {if(typeof(localStorage) !== "undefined" && !localStorage.getItem('loadletter.urlfix.onlinedeprecated')) {alert("The version of mangaupdates-urlfix you're using is old, if you're getting this message you should probably reinstall it using the latest and faster version from https://github.com/loadletter/mangaupdates-urlfix"); localStorage.setItem('loadletter.urlfix.onlinedeprecated', 'true');} })();\n'''
 
 import psycopg2
 import psycopg2.extensions
@@ -174,13 +171,6 @@ def tmpfile_object():
 	fdesc, path = tempfile.mkstemp()
 	return os.fdopen(fdesc, 'wb'), path
 
-def createonlinegroups(groups):
-	with open(GROUPSJSCRIPT, 'wb') as f:
-		f.write(UPGRADEWARNING)
-		f.write("var urlfix_grouplist = ")
-		json.dump(groups, f, sort_keys=True, indent=4, separators=(',', ': '), encoding='utf-8')
-		f.write(";\n")
-
 def creategroupshards(groups):
 	for i in range(NUMSHARDS):
 		shardpath = os.path.join(GROUPSDIR, "%i.js" % i)
@@ -247,9 +237,7 @@ def updatefromdb():
 	if answer != 'y':
 		sys.exit(0)
 
-	print "Writing new online groups (groups.js).."
-	createonlinegroups(currentgroups)
-	print "Writing new new online groups (",
+	print "Writing new online groups (",
 	creategroupshards(currentgroups)
 	print ").."
 	
