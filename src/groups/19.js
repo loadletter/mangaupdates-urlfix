@@ -166,7 +166,7 @@ var urlfix_grouplist = {
     "6119": "http://flamenco-scanlations.tumblr.com/",
     "6139": "http://ojougakuenscans.tumblr.com/",
     "6159": "http://azurillturtle.blogspot.com/",
-    "6179": "https://docs.google.com/document/d/1ljoXDy-ti5N7ZYPbzDsj5kvYFl3lEWaJ1l3Lzv1cuuM/preview?pli=1",
+    "6179": "https://docs.google.com/document/d/1ljoXDy-ti5N7ZYPbzDsj5kvYFl3lEWaJ1l3Lzv1cuuM/pub",
     "619": "http://mangaart.us/",
     "6219": "https://drive.google.com/folderview?id=0ByPeaKaqUsGFQVAxUEM2bUI0R0E",
     "6239": "http://bato.to/group/_/i/illuminated-scans-r4174",
