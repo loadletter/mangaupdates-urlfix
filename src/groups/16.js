@@ -143,7 +143,7 @@ var urlfix_grouplist = {
     "5216": "http://bishounenlove.wordpress.com/",
     "5276": "http://gurennoheyakara.blogspot.it/",
     "5296": "http://krizalidtranslations.wordpress.com/",
-    "5316": "http://pastebin.com/f78v5YkR",
+    "5316": "http://pastebin.com/Lxhm6PBz",
     "5336": "http://arascans.blogspot.com/",
     "536": "http://www.hongfire.com/forum/showthread.php?t=32317&amp;page=1&amp;pp=10",
     "5436": "http://yefione.tumblr.com/",

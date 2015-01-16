@@ -178,7 +178,7 @@ var urlfix_grouplist = {
     "6222": "http://pandaheroxx.blogspot.com/",
     "6242": "http://lasolistia.com/haruparty/",
     "6262": "http://akagamins.tumblr.com/",
-    "6282": "https://drive.google.com/folderview?id=0B3aOWWYsBgx9T0xGdi11RzJfSnM&usp=sharing",
+    "6282": "https://binhjamin.wordpress.com/",
     "6322": "https://birdycephonaltera.wordpress.com/",
     "642": "http://tnkp.twoday.net/",
     "682": "http://www.keiichianimeforever.com",

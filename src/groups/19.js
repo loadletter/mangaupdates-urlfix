@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "6279": "http://ask-mirajane-strauss.tumblr.com/",
     "6319": "http://mangacosmoenglish.blogspot.com/",
     "6339": "https://eihscans.wordpress.com/",
+    "6359": "http://fehyesvintagemanga.tumblr.com/scanalations",
     "659": "http://groups.yahoo.com/group/chibitorascanlations/",
     "679": "http://secretgarden-sc.livejournal.com/",
     "699": "http://pbhm.kiriau.net",

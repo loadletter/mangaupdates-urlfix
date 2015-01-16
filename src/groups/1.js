@@ -186,6 +186,7 @@ var urlfix_grouplist = {
     "6261": "http://tapastic.com/",
     "6301": "http://luciarose.info/",
     "6341": "http://kurotsuki-novel.blogspot.com/",
+    "6361": "http://popiscans.com/",
     "641": "http://Janime.info",
     "661": "http://rikkaidai.org/",
     "681": "http://community.livejournal.com/afascinante/",

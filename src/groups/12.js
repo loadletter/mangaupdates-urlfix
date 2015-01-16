@@ -183,6 +183,7 @@ var urlfix_grouplist = {
     "6252": "http://spherescans.blogspot.com/",
     "6272": "http://nijimurashuuzo.tumblr.com/translationmasterlist",
     "6292": "http://www.firststepsscans.tumblr.com/",
+    "6312": "http://bato.to/group/_/o/operation-gst%C3%B6rte-esel-r4927",
     "652": "http://oyasumi.aicoalition.com",
     "692": "http://s-kojika.com/PKR/",
     "72": "http://www.jankenpon.de/",

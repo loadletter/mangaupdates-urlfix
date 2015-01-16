@@ -182,6 +182,7 @@ var urlfix_grouplist = {
     "6085": "http://ostnt.wordpress.com/",
     "6105": "http://gto14dis.blogspot.com/",
     "6125": "http://hikarusora.tumblr.com/",
+    "6205": "http://www.xpunkcion.blogspot.com/",
     "6265": "http://namasuki.tumblr.com/",
     "6285": "http://yaoi-blcd.tumblr.com/",
     "6305": "http://bato.to/group/_/p/peach-scanlations-r4897",
