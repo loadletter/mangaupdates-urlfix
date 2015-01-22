@@ -173,6 +173,7 @@ var urlfix_grouplist = {
     "6313": "http://memory-lane-scans.blogspot.com/",
     "633": "http://community.livejournal.com/pms_manga/",
     "6353": "http://valryssian.wordpress.com/",
+    "6373": "https://oniichanyamete.wordpress.com/",
     "673": "http://www.nightsail.net/crackpot/uttercorn.htm",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",

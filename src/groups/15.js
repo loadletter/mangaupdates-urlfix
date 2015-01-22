@@ -64,7 +64,7 @@ var urlfix_grouplist = {
     "3055": "http://kaidaten.wordpress.com/",
     "3095": "https://hatoken.wordpress.com/",
     "3115": "http://community.livejournal.com/ebil_trio/",
-    "3135": "http://mangahelpers.com/s/lone-scan",
+    "3135": "https://rapidswitchextra.wordpress.com/",
     "3155": "http://mangahelpers.com/s/cat-professor-scans",
     "3195": "http://www.timesink-scanlations.org/",
     "3235": "http://jote-jote.livejournal.com",
