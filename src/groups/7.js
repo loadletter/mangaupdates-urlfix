@@ -62,7 +62,7 @@ var urlfix_grouplist = {
     "2847": "http://eikouscans.wordpress.com/",
     "287": "http://www.fighting-dreamers.org",
     "2927": "http://genshisairairesurrection.wordpress.com/",
-    "2947": "http://mangahelpers.com/s/mangascan",
+    "2947": "http://www.hetarchive.net/scanlations/worldstars.php",
     "2967": "http://sexyboi.wordpress.com/",
     "2987": "http://studiofennec.wordpress.com/fennec-scans/",
     "3067": "http://s1.webstarts.com/faithscan/",

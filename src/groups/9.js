@@ -172,7 +172,7 @@ var urlfix_grouplist = {
     "6129": "http://anarzeescan.wordpress.com/",
     "6169": "http://setsuna86blog.wordpress.com/",
     "6209": "http://bato.to/group/_/h/horsey-the-puny-r4725",
-    "6229": "http://yoraikun.wordpress.com/",
+    "6229": "https://yoraikun.wordpress.com/",
     "6269": "http://radionoisescans.blogspot.com/",
     "649": "http://www.zeldalegends.net/index.php?n=manga",
     "689": "http://mangahelpers.com/forum/index.php?topic=3974.0",
