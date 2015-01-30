@@ -170,7 +170,7 @@ var urlfix_grouplist = {
     "5884": "http://jiheishouscans.blogspot.com/",
     "5904": "http://blackinque.imgur.com/",
     "5924": "https://c2team.wordpress.com/",
-    "5964": "http://sadtranslations.blogspot.com/",
+    "5964": "http://sexyakibadetectives.tumblr.com/",
     "5984": "http://indigoscanlations.co.vu/",
     "6004": "http://www.batoto.net/group/_/e/entente-r3838",
     "6024": "http://www.batoto.net/group/_/r/rpapo-r4326",

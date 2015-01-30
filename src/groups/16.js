@@ -180,6 +180,7 @@ var urlfix_grouplist = {
     "6256": "http://divine-squids.livejournal.com/",
     "6296": "http://ohanashimi.wordpress.com/",
     "636": "http://gokujyou-doujinshi.tripod.com/index.html",
+    "6396": "https://www.mangaholics.net",
     "656": "http://www.socool.tk/",
     "676": "http://www.zelda-infinite.com/",
     "716": "http://anime-theatre.com/",

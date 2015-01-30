@@ -176,6 +176,7 @@ var urlfix_grouplist = {
     "6220": "http://niconii.wordpress.com/",
     "6260": "http://oni-scans.blogspot.com/",
     "6300": "http://himetranslations.tumblr.com/",
+    "6380": "http://breadscans.tk/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",

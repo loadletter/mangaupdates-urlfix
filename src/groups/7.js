@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "6267": "http://bato.to/group/_/b/betterthannothing-r4802",
     "6287": "http://009godswar.dreamwidth.org/",
     "6307": "http://bato.to/group/_/j/jeff-r3023",
+    "6387": "https://arkmachinetranslations.wordpress.com/",
     "67": "http://www.mangacity.net/",
     "687": "http://binktopia.org/",
     "727": "http://www.myspace.com/kurisuscans",

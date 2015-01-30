@@ -63,7 +63,7 @@ var urlfix_grouplist = {
     "2997": "http://yaoipower.wordpress.com/",
     "3057": "http://wackyonion.com/scans/",
     "3097": "http://dragonnest.ulmb.com/",
-    "3137": "http://crowsxworst.com/forum/phpBB3/viewtopic.php?f=7&t=123",
+    "3137": "http://www.suzuran-high.com/forum/viewtopic.php?f=8&t=35",
     "3157": "http://sjump-forum.livejournal.com/",
     "317": "http://www.birubox.com/",
     "3197": "http://theanimelounge.com/",

@@ -159,6 +159,7 @@ var urlfix_grouplist = {
     "6198": "https://twitter.com/TtCTranslations",
     "6238": "http://oofuri-baka.tumblr.com/tagged/releases",
     "6338": "http://mangadolls.wordpress.com/",
+    "6358": "https://seiaiscans.wordpress.com/",
     "638": "http://translationtexts.cjb.net/",
     "658": "http://www.l33tmaster.com",
     "678": "http://www.shin-getter.info/",

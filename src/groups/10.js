@@ -172,6 +172,8 @@ var urlfix_grouplist = {
     "630": "http://www.baka-tsuki.org/",
     "6310": "http://neeyuki.tumblr.com/",
     "6350": "https://hellotranslations.wordpress.com/",
+    "6370": "http://dead-scans.blogspot.com/",
+    "6390": "https://wakga.wordpress.com/",
     "650": "http://alizionmanga.googlepages.com",
     "670": "http://www.sakuracities.com/yaoigames/",
     "690": "http://tsubusu.atspace.com/",
