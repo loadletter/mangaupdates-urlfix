@@ -159,7 +159,7 @@ var urlfix_grouplist = {
     "5729": "http://cometscans.wordpress.com/",
     "5789": "http://www.nami-tl.com/",
     "5809": "http://jaescans.blogspot.com/",
-    "5849": "http://senpai-scans.blogspot.com.au/",
+    "5849": "http://senpai-scans.tumblr.com/",
     "5889": "http://www.decadencescans.blogspot.com/",
     "589": "http://www.geocities.com/yaoimanga/",
     "5909": "http://harroe.tumblr.com/",

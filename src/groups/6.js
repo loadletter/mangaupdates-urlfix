@@ -173,6 +173,7 @@ var urlfix_grouplist = {
     "6306": "http://gkamateurs.tumblr.com/",
     "6326": "http://yaoitoshokan.com/english-projects",
     "6346": "https://yetiscanlations.wordpress.com",
+    "6406": "https://nightraccoon.wordpress.com/",
     "646": "http://shlikah.free.fr/",
     "66": "http://www.shoujomagic.net/",
     "666": "http://www.makimakimanga.com/",

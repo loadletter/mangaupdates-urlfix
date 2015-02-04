@@ -160,7 +160,7 @@ var urlfix_grouplist = {
     "5887": "http://mmi-scans.livejournal.com/",
     "5907": "https://ricoriconiko.wordpress.com/",
     "5987": "http://ochimusha.wordpress.com/",
-    "6027": "http://tinyurl.com/animango-scans",
+    "6027": "http://tsugumo.moe/",
     "6047": "https://azurevoid.wordpress.com/",
     "6067": "http://soldier-hero.tumblr.com/",
     "607": "http://www.soompi.com",

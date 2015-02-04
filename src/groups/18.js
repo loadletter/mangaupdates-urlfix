@@ -103,7 +103,7 @@ var urlfix_grouplist = {
     "418": "http://www.datenshi-blue.net",
     "4198": "http://anonscans.blogspot.com/",
     "4218": "http://mujakinakoede.blogspot.com/",
-    "4278": "http://s2scanlations.com",
+    "4278": "http://s2smanga.com/",
     "4298": "http://niko-neko-scans.webs.com/",
     "4318": "http://hakurei-scans.blogspot.com/",
     "4338": "http://japanzai.com/",

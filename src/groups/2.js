@@ -181,6 +181,7 @@ var urlfix_grouplist = {
     "6282": "https://binhjamin.wordpress.com/",
     "6322": "https://birdycephonaltera.wordpress.com/",
     "6382": "http://wizscans.co.vu/",
+    "6402": "http://demonicscans.blogspot.com/",
     "642": "http://tnkp.twoday.net/",
     "682": "http://www.keiichianimeforever.com",
     "722": "http://in2k2.digital-takeout.net/",

@@ -150,7 +150,7 @@ var urlfix_grouplist = {
     "5204": "http://lagscans.wordpress.com/",
     "5264": "http://wolfchildrenameandyuki.blogspot.com/",
     "5304": "http://nisepanlations.tumblr.com/",
-    "5324": "http://symphogear.blogspot.com/",
+    "5324": "http://zoid9000.tumblr.com/",
     "5364": "http://chocobananascans.tumblr.com",
     "5424": "https://xsuzuranx.wordpress.com/",
     "5464": "http://mangaordersbros.co.nf/",
