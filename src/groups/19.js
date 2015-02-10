@@ -176,6 +176,7 @@ var urlfix_grouplist = {
     "6339": "https://eihscans.wordpress.com/",
     "6359": "http://fehyesvintagemanga.tumblr.com/scanalations",
     "6379": "http://traumereiscans.tumblr.com/",
+    "6399": "http://michi.yujo.over-blog.com/",
     "659": "http://groups.yahoo.com/group/chibitorascanlations/",
     "679": "http://secretgarden-sc.livejournal.com/",
     "699": "http://pbhm.kiriau.net",

@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "6350": "https://hellotranslations.wordpress.com/",
     "6370": "http://dead-scans.blogspot.com/",
     "6390": "https://wakga.wordpress.com/",
+    "6410": "http://avertranslation.wordpress.com/",
     "650": "http://alizionmanga.googlepages.com",
     "670": "http://www.sakuracities.com/yaoigames/",
     "690": "http://tsubusu.atspace.com/",

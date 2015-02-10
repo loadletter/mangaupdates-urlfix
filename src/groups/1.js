@@ -188,6 +188,8 @@ var urlfix_grouplist = {
     "6321": "http://dis-use.tumblr.com/",
     "6341": "http://kurotsuki-novel.blogspot.com/",
     "6361": "http://popiscans.com/",
+    "6381": "http://nekojiru.webs.com/",
+    "6401": "http://michinoakio.blogspot.com/",
     "641": "http://Janime.info",
     "661": "http://rikkaidai.org/",
     "681": "http://community.livejournal.com/afascinante/",

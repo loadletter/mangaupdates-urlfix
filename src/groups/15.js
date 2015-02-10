@@ -66,7 +66,7 @@ var urlfix_grouplist = {
     "3115": "http://community.livejournal.com/ebil_trio/",
     "3135": "https://rapidswitchextra.wordpress.com/",
     "3155": "http://mangahelpers.com/s/cat-professor-scans",
-    "3195": "http://www.timesink-scanlations.org/",
+    "3195": "http://ainoharuscans.tumblr.com",
     "3235": "http://jote-jote.livejournal.com",
     "3255": "http://www.eidenyaku.com/",
     "3275": "http://crimsonaquascans.wordpress.com/",
