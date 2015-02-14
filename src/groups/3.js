@@ -195,6 +195,7 @@ var urlfix_grouplist = {
     "6303": "http://pirateyoshi.wordpress.com/",
     "6323": "https://defiring.wordpress.com/",
     "6383": "http://277k.tumblr.com/",
+    "6423": "https://silvermanga.wordpress.com/",
     "643": "http://www.ju-ni.net",
     "663": "http://shoujo-manga.org/",
     "683": "http://community.livejournal.com/ptfjaguar/",
