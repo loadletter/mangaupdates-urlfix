@@ -121,7 +121,7 @@ var urlfix_grouplist = {
     "4726": "http://krossnetsu.blogspot.com/",
     "4766": "http://farhadfriends.wordpress.com/",
     "4786": "http://boonscanlations.blogspot.de/",
-    "4806": "http://cocobees.livejournal.com/",
+    "4806": "http://cocobees.tumblr.com/",
     "4826": "http://monstermusume.blisswater.info/",
     "4846": "http://www.seguisa.com/",
     "486": "http://www.tatsu-ryu.com/ET/",

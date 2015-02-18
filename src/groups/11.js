@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "6291": "http://yourewelcomescans.wordpress.com/",
     "6331": "http://variationa.tumblr.com/",
     "6351": "http://fast-moon.tumblr.com/",
+    "6431": "https://littlemochii.wordpress.com/category/faery-scans/",
     "651": "http://www.wangan-midnight.com/",
     "671": "http://www.higurashi.host.sk/",
     "71": "http://mangatranslation.com/",
