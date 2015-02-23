@@ -129,7 +129,7 @@ var urlfix_grouplist = {
     "4908": "http://mangarave.com",
     "4928": "http://lupajenge.livejournal.com/",
     "4948": "http://amiserablepileofscans.tumblr.com/",
-    "5008": "https://plus.google.com/101586986045562971803/posts",
+    "5008": "http://seinenxscansxprojects.blogspot.com/",
     "5048": "http://springephemeral.wordpress.com/",
     "508": "http://www.hanashi-translations.com/",
     "5088": "http://rockinghorsescans.blogspot.com/",

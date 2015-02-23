@@ -162,6 +162,7 @@ var urlfix_grouplist = {
     "6358": "https://seiaiscans.wordpress.com/",
     "638": "http://translationtexts.cjb.net/",
     "6398": "http://inferiorscans.blogspot.com/",
+    "6418": "http://thenakedsol.blogspot.com/",
     "658": "http://www.l33tmaster.com",
     "678": "http://www.shin-getter.info/",
     "698": "http://jenniyah.cjb.net/",

@@ -176,6 +176,7 @@ var urlfix_grouplist = {
     "6269": "http://radionoisescans.blogspot.com/",
     "6409": "http://bato.to/group/_/n/nest-traducciones-r4597",
     "6429": "https://itranslateln.wordpress.com/",
+    "6449": "http://bato.to/group/_/c/celery-r5144",
     "649": "http://www.zeldalegends.net/index.php?n=manga",
     "689": "http://mangahelpers.com/forum/index.php?topic=3974.0",
     "729": "http://community.livejournal.com/hxh_doujinshi/",

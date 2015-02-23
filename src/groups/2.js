@@ -183,6 +183,7 @@ var urlfix_grouplist = {
     "6382": "http://wizscans.co.vu/",
     "6402": "http://demonicscans.blogspot.com/",
     "642": "http://tnkp.twoday.net/",
+    "6442": "http://kcountdown.tumblr.com/",
     "682": "http://www.keiichianimeforever.com",
     "722": "http://in2k2.digital-takeout.net/",
     "762": "http://www.hikaru-no-go-world.new.fr/",
