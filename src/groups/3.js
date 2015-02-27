@@ -197,6 +197,7 @@ var urlfix_grouplist = {
     "6383": "http://277k.tumblr.com/",
     "6423": "https://silvermanga.wordpress.com/",
     "643": "http://www.ju-ni.net",
+    "6463": "https://otakunotsuki.wordpress.com/",
     "663": "http://shoujo-manga.org/",
     "683": "http://community.livejournal.com/ptfjaguar/",
     "743": "http://deph.edwardk.info/",

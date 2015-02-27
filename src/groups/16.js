@@ -142,7 +142,7 @@ var urlfix_grouplist = {
     "5196": "http://bamboo-feathers.livejournal.com/",
     "5216": "http://bishounenlove.wordpress.com/",
     "5276": "http://gurennoheyakara.blogspot.it/",
-    "5296": "http://krizalidtranslations.wordpress.com/",
+    "5296": "http://www.krizalidtranslations.com/",
     "5316": "http://pastebin.com/Lxhm6PBz",
     "5336": "http://arascans.blogspot.com/",
     "536": "http://www.hongfire.com/forum/showthread.php?t=32317&amp;page=1&amp;pp=10",
