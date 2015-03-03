@@ -176,6 +176,7 @@ var urlfix_grouplist = {
     "6390": "https://wakga.wordpress.com/yuusha-trap/",
     "6410": "http://avertranslation.wordpress.com/",
     "6450": "http://a0132.blogspot.com/",
+    "6470": "https://shintranslations.wordpress.com/",
     "650": "http://alizionmanga.googlepages.com",
     "670": "http://www.sakuracities.com/yaoigames/",
     "690": "http://tsubusu.atspace.com/",

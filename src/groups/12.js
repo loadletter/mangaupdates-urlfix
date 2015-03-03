@@ -161,7 +161,7 @@ var urlfix_grouplist = {
     "5632": "http://w11.zetaboards.com/Tekken_Chinmi/site/",
     "5652": "http://gsscans.tumblr.com/",
     "572": "http://www.sbm.blahsoft.com/",
-    "5752": "http://lazylily.electrochef.us",
+    "5752": "http://lazylily.moe/",
     "5812": "http://necron99scans.com",
     "5832": "http://www.batoto.net/group/_/d/disdeeee-r3849",
     "5852": "http://sleepingdragonslie.wordpress.com/",

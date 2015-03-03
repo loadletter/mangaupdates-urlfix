@@ -167,6 +167,7 @@ var urlfix_grouplist = {
     "5824": "http://amadmanscans.blogspot.be/",
     "584": "http://www.jinchuuriki.com",
     "5844": "http://kakoimamirai.wordpress.com/",
+    "5864": "http://megatentranslations.tumblr.com/",
     "5884": "http://jiheishouscans.blogspot.com/",
     "5904": "http://blackinque.imgur.com/",
     "5924": "https://c2team.wordpress.com/",
