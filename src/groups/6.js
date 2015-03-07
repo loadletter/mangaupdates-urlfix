@@ -75,7 +75,7 @@ var urlfix_grouplist = {
     "3066": "http://distro.jjhosting.org/tashi/",
     "3106": "http://www.enonimes.com/",
     "3126": "http://furiscans.squeezies.net",
-    "3146": "https://hotchocolatescans.wordpress.com/",
+    "3146": "http://hotchocolatescans.mokkori.fr/",
     "3206": "http://community.livejournal.com/peachbutts",
     "3246": "http://kenjiquan.livejournal.com/",
     "3286": "http://fishballnoodle.livejournal.com/",

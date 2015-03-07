@@ -84,7 +84,7 @@ var urlfix_grouplist = {
     "3285": "http://www.metroid-database.com/",
     "3305": "http://community.livejournal.com/",
     "3325": "http://www.mediafire.com/anonymousstem",
-    "3345": "http://ssa-scans.net/",
+    "3345": "https://i7scans.wordpress.com/",
     "3365": "http://www.soba-scans.com/",
     "3385": "http://mangahelpers.com/s/fullmetal-chibi",
     "3405": "http://monochrome-dreams.yolasite.com/",

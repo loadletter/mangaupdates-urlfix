@@ -177,6 +177,7 @@ var urlfix_grouplist = {
     "6387": "http://arkmachinetranslations.com/",
     "6407": "http://skdscans-english.tumblr.com/",
     "6447": "http://pegasusfarts.blogspot.com/",
+    "6467": "http://www.readmanga.today/",
     "67": "http://www.mangacity.net/",
     "687": "http://binktopia.org/",
     "727": "http://www.myspace.com/kurisuscans",
