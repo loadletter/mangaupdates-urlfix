@@ -169,6 +169,7 @@ var urlfix_grouplist = {
     "6331": "http://variationa.tumblr.com/",
     "6351": "http://fast-moon.tumblr.com/",
     "6431": "https://faeryscans.wordpress.com/",
+    "6451": "http://dreamskye7.tumblr.com/",
     "651": "http://www.wangan-midnight.com/",
     "671": "http://www.higurashi.host.sk/",
     "71": "http://mangatranslation.com/",

@@ -88,6 +88,7 @@ var urlfix_grouplist = {
     "3695": "http://mitsurutranslation.blogspot.com",
     "3715": "http://www.shochan.org",
     "3735": "http://14biq.wordpress.com/",
+    "3775": "https://tokyoespscans.wordpress.com/",
     "3795": "http://onigiriscanlations.webs.com/",
     "3815": "http://la-corda-music-life.blogspot.com/",
     "3875": "http://crimsonscanlations.blogspot.com/",

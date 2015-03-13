@@ -184,6 +184,7 @@ var urlfix_grouplist = {
     "6272": "http://nijimurashuuzo.tumblr.com/translationmasterlist",
     "6292": "http://www.firststepsscans.tumblr.com/",
     "6312": "http://bato.to/group/_/o/operation-gst%C3%B6rte-esel-r4927",
+    "6332": "https://www.mediafire.com/hidamarimanga",
     "6372": "http://sushiscans.tumblr.com/",
     "652": "http://oyasumi.aicoalition.com",
     "692": "http://s-kojika.com/PKR/",

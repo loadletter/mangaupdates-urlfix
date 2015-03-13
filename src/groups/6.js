@@ -175,6 +175,7 @@ var urlfix_grouplist = {
     "6346": "https://yetiscanlations.wordpress.com",
     "6386": "http://yummyanime.wix.com/purple-citrus-scans",
     "6406": "https://nightraccoon.wordpress.com/",
+    "6446": "http://vargil.livejournal.com/",
     "646": "http://shlikah.free.fr/",
     "66": "http://www.shoujomagic.net/",
     "666": "http://www.makimakimanga.com/",
