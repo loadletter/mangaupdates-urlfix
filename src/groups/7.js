@@ -108,7 +108,7 @@ var urlfix_grouplist = {
     "4327": "http://www.sakicow.com/",
     "4347": "http://kagehimescans.blogspot.com/",
     "4367": "http://isthatyoumoatilliatta.wordpress.com/",
-    "4387": "http://life4kaoru.wordpress.com/",
+    "4387": "http://lifeforkaoru.com/",
     "4407": "http://kurumichiscans.blogspot.com/",
     "4427": "http://arc-manga.blogspot.com/",
     "4447": "http://forum.nihonomaru.com/yaoi-yuri/253923-merciless-lover-mujihi-na-anata-sakuraga-mei.html",
