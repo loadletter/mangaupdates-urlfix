@@ -191,7 +191,7 @@ var urlfix_grouplist = {
     "634": "http://himitsu.50webs.com/",
     "6394": "http://gravitytranslations.com/",
     "6414": "https://mega.co.nz/#F!bVR3zaxT!RjSMENKFIUwKg5yyQN-woA",
-    "6474": "https://kptranslations.wordpress.com/",
+    "6474": "https://hydratranslations1.wordpress.com/",
     "654": "http://yes-rhade-djs.livejournal.com/",
     "674": "http://www.esthetique-realm.net/",
     "694": "http://jump-scans.pillars-gaming.com/",

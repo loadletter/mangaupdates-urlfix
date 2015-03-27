@@ -176,7 +176,7 @@ var urlfix_grouplist = {
     "6217": "http://krytykal.org/alice-tale/",
     "6297": "https://hatoken.wordpress.com/",
     "6337": "https://spaminsubs.wordpress.com/",
-    "6357": "http://sousetsuka.blogspot.com/",
+    "6357": "http://www.sousetsuka.com/",
     "637": "http://community.livejournal.com/gokujyou_relief/",
     "6377": "http://bato.to/group/_/r/rooftop-jazz-r3208",
     "6397": "http://archangelscans.tk/wordpress/",
