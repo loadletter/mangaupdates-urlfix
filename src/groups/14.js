@@ -96,7 +96,7 @@ var urlfix_grouplist = {
     "3734": "http://www.yurikai.com",
     "374": "http://www.harukodesignz.com/",
     "3754": "http://vescas.livejournal.com/",
-    "3794": "http://candesceres.livejournal.com/",
+    "3794": "http://mysterymeat3translations.blogspot.com/",
     "3814": "http://xmistervx.blogspot.ca/",
     "3834": "http://kawaii.ca/",
     "3854": "http://gao-subs.com/",

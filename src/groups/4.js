@@ -187,6 +187,7 @@ var urlfix_grouplist = {
     "6384": "http://giancarlo.co.vu/",
     "64": "http://www.manga-sketchbook.org/",
     "6424": "http://icarustranslations.net/",
+    "6584": "https://signerstranslations.wordpress.com/",
     "684": "http://www.townsocks.net",
     "704": "http://www.yaoi.ca/drten/index.php",
     "724": "http://lyrebird.aithine.org/halfbaked/",

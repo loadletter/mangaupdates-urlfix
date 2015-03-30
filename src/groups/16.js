@@ -185,6 +185,7 @@ var urlfix_grouplist = {
     "6476": "http://www.cdscans.com.br/",
     "6536": "https://voidtranslations.wordpress.com/",
     "656": "http://www.socool.tk/",
+    "6576": "http://nightbreezetranslations.wordpress.com/",
     "676": "http://www.zelda-infinite.com/",
     "716": "http://anime-theatre.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",

@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "633": "http://community.livejournal.com/pms_manga/",
     "6353": "http://valryssian.wordpress.com/",
     "6373": "https://oniichanyamete.wordpress.com/",
+    "6413": "https://tsaltranslation.wordpress.com/",
     "6453": "http://bato.to/group/_/g/glorious-scanlations-r5103",
     "6473": "http://worldofwatermelons.com/",
     "673": "http://www.nightsail.net/crackpot/uttercorn.htm",

@@ -163,6 +163,7 @@ var urlfix_grouplist = {
     "638": "http://translationtexts.cjb.net/",
     "6398": "http://inferiorscans.blogspot.com/",
     "6418": "http://thenakedsol.blogspot.com/",
+    "6578": "http://bato.to/group/_/i/its-not-gay-if-its-cute-scans-r5232",
     "658": "http://www.l33tmaster.com",
     "678": "http://www.shin-getter.info/",
     "698": "http://jenniyah.cjb.net/",
