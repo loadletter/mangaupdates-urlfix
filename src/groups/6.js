@@ -177,6 +177,7 @@ var urlfix_grouplist = {
     "6406": "https://nightraccoon.wordpress.com/",
     "6446": "http://vargil.livejournal.com/",
     "646": "http://shlikah.free.fr/",
+    "6466": "https://midnightsunscans.wordpress.com/",
     "66": "http://www.shoujomagic.net/",
     "666": "http://www.makimakimanga.com/",
     "686": "http://www.hanazuke.tk/",
