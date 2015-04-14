@@ -177,6 +177,7 @@ var urlfix_grouplist = {
     "6413": "https://tsaltranslation.wordpress.com/",
     "6453": "http://bato.to/group/_/g/glorious-scanlations-r5103",
     "6473": "http://worldofwatermelons.com/",
+    "6613": "https://potatoslaves.wordpress.com/",
     "673": "http://www.nightsail.net/crackpot/uttercorn.htm",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",

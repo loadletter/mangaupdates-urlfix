@@ -77,7 +77,7 @@ var urlfix_grouplist = {
     "3001": "http://kissthellama.blogspot.com",
     "301": "http://www.townl.com",
     "3021": "http://kisascans.wordpress.com/",
-    "3041": "http://orionwave.blog.com/",
+    "3041": "http://orionwave.tumblr.com/",
     "3121": "http://vhskid1.blogspot.com/",
     "3141": "http://mugematic.wordpress.com/",
     "3161": "http://www.dicescans.com/",

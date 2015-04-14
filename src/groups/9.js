@@ -95,7 +95,7 @@ var urlfix_grouplist = {
     "389": "http://www.abstract-muse.net/miracle/",
     "3909": "http://blog.kouhi.me",
     "3929": "http://community.livejournal.com/queensbutlerfrm/",
-    "3949": "http://www.nyaatorrents.org/?page=torrents&amp;user=83201",
+    "3949": "https://aoiscans.wordpress.com/",
     "4009": "http://mangarule.altervista.org/",
     "4029": "http://kibitou4life.wordpress.com/",
     "4049": "http://jyasuten.co.cc/",

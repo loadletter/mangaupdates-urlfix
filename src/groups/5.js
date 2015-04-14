@@ -194,6 +194,7 @@ var urlfix_grouplist = {
     "65": "http://kotonoha.monkey-pirate.com/",
     "6565": "http://junichiro-kun.tumblr.com/",
     "6585": "http://akahoshiscans.blogspot.com/",
+    "6625": "http://clickyclicktranslation.blogspot.com/",
     "685": "http://groups.msn.com/DragonGuard/scanlationbranch.msnw",
     "705": "http://z13.invisionfree.com/Phoenix_Scans/",
     "725": "http://ossu.maximum7.net/",

@@ -96,6 +96,7 @@ var urlfix_grouplist = {
     "3806": "http://xposedscanlations.wordpress.com/",
     "3846": "http://bahno.4fan.cz/manga/",
     "3866": "http://mmsscans.wordpress.com/",
+    "3906": "http://troubadour-phat.tumblr.com/",
     "3986": "http://heartcrusadescans.wordpress.com/",
     "4006": "http://atv-oni-ota.blogspot.com/",
     "4026": "http://skuldydrabble.livejournal.com/",

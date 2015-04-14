@@ -138,7 +138,7 @@ var urlfix_grouplist = {
     "5168": "http://starburstscans.ucoz.com",
     "5188": "http://kyakka.wordpress.com/",
     "5228": "http://smdc-translations.com/",
-    "5248": "http://hereticlnt.blogspot.com/",
+    "5248": "http://hellping.org/",
     "528": "http://www.eternalsleep.xoder.com",
     "5308": "http://erscans.blogspot.de/",
     "5388": "http://hentai-kun-projects.blogspot.com/",

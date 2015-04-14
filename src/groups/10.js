@@ -173,7 +173,7 @@ var urlfix_grouplist = {
     "6310": "http://neeyuki.tumblr.com/",
     "6350": "https://hellotranslations.wordpress.com/",
     "6370": "http://dead-scans.blogspot.com/",
-    "6390": "https://wakga.wordpress.com/yuusha-trap/",
+    "6390": "https://wakga.wordpress.com/",
     "6410": "http://avertranslation.wordpress.com/",
     "6450": "http://a0132.blogspot.com/",
     "6470": "https://shintranslations.wordpress.com/",
