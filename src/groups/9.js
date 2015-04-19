@@ -178,6 +178,7 @@ var urlfix_grouplist = {
     "6429": "https://itranslateln.wordpress.com/",
     "6449": "http://bato.to/group/_/c/celery-r5144",
     "649": "http://www.zeldalegends.net/index.php?n=manga",
+    "6629": "https://risingdragons.wordpress.com/",
     "689": "http://mangahelpers.com/forum/index.php?topic=3974.0",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "749": "http://withthewill.net",

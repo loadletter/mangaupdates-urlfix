@@ -171,7 +171,7 @@ var urlfix_grouplist = {
     "635": "http://www.otaku-relief.com/indexx2.html",
     "6435": "http://yukinascans.blogspot.com/",
     "6455": "http://bato.to/group/_/c/capsusingshift-r5147",
-    "6495": "http://tototr.com/",
+    "6495": "http://totobro.com/",
     "675": "http://www.cotrj.com/md-sd/index.php",
     "695": "http://kh.beyondeternal.com/",
     "735": "http://nyarscans.livejournal.com/",

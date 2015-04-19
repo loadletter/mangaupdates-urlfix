@@ -192,6 +192,7 @@ var urlfix_grouplist = {
     "6401": "http://michinoakio.blogspot.com/",
     "641": "http://Janime.info",
     "6561": "https://natsutl.wordpress.com/",
+    "6581": "http://bato.to/group/_/h/hyakkiyakou-r4185",
     "661": "http://rikkaidai.org/",
     "681": "http://community.livejournal.com/afascinante/",
     "701": "http://www.bearpu.be/",

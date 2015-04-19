@@ -106,6 +106,7 @@ var urlfix_grouplist = {
     "4004": "http://somnia-garden.blogspot.com/",
     "4024": "http://anynameplease.blogspot.com/",
     "404": "http://amberlovepj.livejournal.com/",
+    "4044": "http://kaiyuikurosaki.imgur.com/",
     "4064": "http://www.tearsandrainbow.webs.com",
     "4104": "http://oneclash.co.cc",
     "4124": "https://lemonscans.wordpress.com/",

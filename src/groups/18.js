@@ -93,7 +93,7 @@ var urlfix_grouplist = {
     "3858": "http://scan.lolilicious.info",
     "3878": "http://twitter.com/seitokaiyakuin",
     "3898": "http://www.mediafire.com/?9tknjryf8rjx4",
-    "3918": "http://mangacurse.info/",
+    "3918": "https://hotcocoatranslations.wordpress.com/",
     "398": "http://manga7heaven.6.forumer.com/index.php",
     "3998": "http://1121scans.wordpress.com/",
     "4018": "http://pandascans.blogspot.com",

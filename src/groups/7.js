@@ -179,6 +179,7 @@ var urlfix_grouplist = {
     "6447": "http://pegasusfarts.blogspot.com/",
     "6467": "http://www.readmanga.today/",
     "6507": "https://mega.co.nz/#F!gc8wQK5I!hVxuyo35hkuR9Ao_9nrYmA",
+    "6627": "https://flowerbridgetoo.wordpress.com/table-of-contents/",
     "67": "http://www.mangacity.net/",
     "687": "http://binktopia.org/",
     "727": "http://www.myspace.com/kurisuscans",
