@@ -142,7 +142,7 @@ var urlfix_grouplist = {
     "4904": "http://mangaresound.blogspot.com/",
     "4944": "http://whiteflowertranslations.tumblr.com/",
     "4984": "http://www.bulsajo-scans.com/",
-    "5004": "http://eromangagirls.blogspot.ca/",
+    "5004": "http://eromangagirls.tumblr.com/",
     "504": "http://yaoiness.net/",
     "5044": "http://ginironochou.wordpress.com/",
     "5104": "http://joyk.co.cc/",

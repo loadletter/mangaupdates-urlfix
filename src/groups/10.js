@@ -92,7 +92,7 @@ var urlfix_grouplist = {
     "3790": "http://www.payapaya-scans.com",
     "3810": "http://kagedreams.livejournal.com/",
     "3830": "http://samick-chan.livejournal.com/",
-    "3850": "http://community.livejournal.com/doumekiwatanuki/",
+    "3850": "https://jaiminisboxscans.wordpress.com/",
     "390": "http://eternal-yaoi.cjb.net/",
     "3930": "http://hand-of-time.livejournal.com/",
     "3970": "http://goalscanlation.blogspot.com/",

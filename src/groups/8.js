@@ -136,7 +136,7 @@ var urlfix_grouplist = {
     "5108": "http://anni-fiesta.livejournal.com/",
     "5128": "http://sennenkinoyumescans.webs.com",
     "5168": "http://starburstscans.ucoz.com",
-    "5188": "http://kyakka.wordpress.com/",
+    "5188": "https://kyakka.wordpress.com/",
     "5228": "http://smdc-translations.com/",
     "5248": "http://hellping.org/",
     "528": "http://www.eternalsleep.xoder.com",
