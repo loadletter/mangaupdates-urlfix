@@ -192,6 +192,7 @@ var urlfix_grouplist = {
     "6424": "http://icarustranslations.net/",
     "6584": "https://signerstranslations.wordpress.com/",
     "6604": "http://kaezartranslations.blogspot.com/",
+    "6624": "http://ls-scan.livejournal.com/",
     "684": "http://www.townsocks.net",
     "704": "http://www.yaoi.ca/drten/index.php",
     "724": "http://lyrebird.aithine.org/halfbaked/",

@@ -114,7 +114,7 @@ var urlfix_grouplist = {
     "4041": "http://truescans.tk/",
     "41": "http://www.toriyamaworld.com",
     "4101": "https://dl.dropbox.com/u/10017992/mixini.html",
-    "4121": "http://usual-translations.blogspot.com/",
+    "4121": "http://medkand.tumblr.com/",
     "4141": "http://betsuender.wordpress.com/",
     "4181": "http://badassscanlator.blog.com/",
     "4201": "http://sukebei.nyaa.eu/?page=torrents&amp;user=65826",

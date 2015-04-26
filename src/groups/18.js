@@ -166,6 +166,8 @@ var urlfix_grouplist = {
     "6438": "http://starryskyscans.livejournal.com/",
     "6578": "http://bato.to/group/_/i/its-not-gay-if-its-cute-scans-r5232",
     "658": "http://www.l33tmaster.com",
+    "6618": "http://mononasan.tumblr.com/",
+    "6638": "http://donotmindmethearmy.tumblr.com/",
     "678": "http://www.shin-getter.info/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",

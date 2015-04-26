@@ -187,6 +187,7 @@ var urlfix_grouplist = {
     "6332": "https://www.mediafire.com/hidamarimanga",
     "6372": "http://sushiscans.tumblr.com/",
     "652": "http://oyasumi.aicoalition.com",
+    "6632": "http://akfrssgifts.tumblr.com/",
     "692": "http://s-kojika.com/PKR/",
     "72": "http://www.jankenpon.de/",
     "792": "http://kaze-hime.deviantart.com",

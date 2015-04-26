@@ -178,6 +178,7 @@ var urlfix_grouplist = {
     "6300": "http://himetranslations.tumblr.com/",
     "6380": "http://breadscans.tk/",
     "6400": "https://3829worksonstuff.wordpress.com/",
+    "6640": "https://loliquent.wordpress.com/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",
