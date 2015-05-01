@@ -91,7 +91,7 @@ var urlfix_grouplist = {
     "3799": "http://webcity-road.blogspot.com",
     "3819": "http://www.thcmpny.com/",
     "3859": "http://pokespeproject.blogspot.com/",
-    "3899": "https://lewdwanibootleggers.wordpress.com/",
+    "3899": "http://lewdwanibootleggers.blogspot.com/",
     "39": "http://www.orangeday.net/soul-society",
     "399": "http://nameless-scans.blogspot.com/",
     "4039": "http://edmxtranslations.wordpress.com/",

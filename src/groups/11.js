@@ -173,6 +173,7 @@ var urlfix_grouplist = {
     "6491": "http://xcrossj.blogspot.com/",
     "651": "http://www.wangan-midnight.com/",
     "6631": "http://oshix3.tumblr.com/",
+    "6651": "https://isekaimahou.wordpress.com/",
     "671": "http://www.higurashi.host.sk/",
     "71": "http://mangatranslation.com/",
     "711": "http://mangahelpers.com/forum/index.php?topic=4995.0",
