@@ -202,6 +202,7 @@ var urlfix_grouplist = {
     "6583": "http://shslscans.tumblr.com/",
     "6623": "https://choukun.wordpress.com/",
     "663": "http://shoujo-manga.org/",
+    "6643": "https://neettranslations.wordpress.com/",
     "683": "http://community.livejournal.com/ptfjaguar/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",

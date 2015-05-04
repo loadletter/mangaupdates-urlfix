@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "658": "http://www.l33tmaster.com",
     "6618": "http://mononasan.tumblr.com/",
     "6638": "http://donotmindmethearmy.tumblr.com/",
+    "6658": "https://omegaharem.wordpress.com/",
     "678": "http://www.shin-getter.info/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",

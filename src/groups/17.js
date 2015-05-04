@@ -185,6 +185,7 @@ var urlfix_grouplist = {
     "6497": "http://mokkachi.tumblr.com/",
     "6517": "https://unexpectedscans.wordpress.com/",
     "6617": "http://amaitsumi.tumblr.com/",
+    "6657": "http://bato.to/group/_/m/mirai-scanlations-r5314",
     "677": "http://wai-yeng.livejournal.com/",
     "697": "http://syruptitiously.livejournal.com/",
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",

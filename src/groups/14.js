@@ -195,6 +195,7 @@ var urlfix_grouplist = {
     "654": "http://yes-rhade-djs.livejournal.com/",
     "6614": "https://shokyuutranslations.wordpress.com/",
     "6634": "http://ebonytear.tumblr.com/",
+    "6654": "http://azureskytls.blogspot.com/",
     "674": "http://www.esthetique-realm.net/",
     "694": "http://jump-scans.pillars-gaming.com/",
     "714": "http://shanelone7.coolfreepage.com/",

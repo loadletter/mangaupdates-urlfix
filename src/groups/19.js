@@ -180,6 +180,7 @@ var urlfix_grouplist = {
     "6459": "https://palmereapscans.wordpress.com/",
     "6579": "http://rhinabolla.wordpress.com",
     "659": "http://groups.yahoo.com/group/chibitorascanlations/",
+    "6659": "https://theworsttranslation.wordpress.com/",
     "679": "http://secretgarden-sc.livejournal.com/",
     "699": "http://pbhm.kiriau.net",
     "719": "http://minkyleigh.livejournal.com/",

@@ -181,6 +181,7 @@ var urlfix_grouplist = {
     "650": "http://alizionmanga.googlepages.com",
     "6610": "http://daomubiji.tumblr.com/",
     "6630": "https://koongkoongtranslations.wordpress.com/",
+    "6650": "http://splinterinq.tumblr.com",
     "670": "http://www.sakuracities.com/yaoigames/",
     "690": "http://tsubusu.atspace.com/",
     "730": "http://www.animeco.org/",
