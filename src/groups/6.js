@@ -182,6 +182,7 @@ var urlfix_grouplist = {
     "66": "http://www.shoujomagic.net/",
     "6626": "http://comicseoul.com/",
     "666": "http://www.makimakimanga.com/",
+    "6686": "http://bato.to/group/_/r/raptor-scans-r5299",
     "686": "http://www.hanazuke.tk/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",

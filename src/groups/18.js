@@ -169,6 +169,7 @@ var urlfix_grouplist = {
     "6618": "http://mononasan.tumblr.com/",
     "6638": "http://donotmindmethearmy.tumblr.com/",
     "6658": "https://omegaharem.wordpress.com/",
+    "6678": "http://natsume.apocalypsecheesecake.com/?page_id=4559",
     "678": "http://www.shin-getter.info/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",

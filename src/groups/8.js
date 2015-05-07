@@ -173,6 +173,7 @@ var urlfix_grouplist = {
     "6388": "https://mahoutsuki.wordpress.com/",
     "648": "http://zeldalegends.net/",
     "6608": "http://legendmastermanga.blogspot.com/",
+    "6668": "http://otonashi-diva.livejournal.com/",
     "668": "http://freelance-manga.com/",
     "68": "http://two.guestbook.de/gb.cgi?gid=785692&amp;prot=lemcdp",
     "708": "http://central-library.livejournal.com/",

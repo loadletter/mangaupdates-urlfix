@@ -182,6 +182,8 @@ var urlfix_grouplist = {
     "6610": "http://daomubiji.tumblr.com/",
     "6630": "https://koongkoongtranslations.wordpress.com/",
     "6650": "http://splinterinq.tumblr.com",
+    "6670": "http://kyou-kara-maou.livejournal.com/",
+    "6690": "https://thatguywhosthere.wordpress.com/",
     "670": "http://www.sakuracities.com/yaoigames/",
     "690": "http://tsubusu.atspace.com/",
     "730": "http://www.animeco.org/",

@@ -180,6 +180,8 @@ var urlfix_grouplist = {
     "649": "http://www.zeldalegends.net/index.php?n=manga",
     "6629": "http://www.risingdragonstranslation.com/",
     "6649": "http://istlovesu.blogspot.com/",
+    "6669": "http://kannnichtfranz.livejournal.com/",
+    "6689": "https://lorcromwell.wordpress.com/",
     "689": "http://mangahelpers.com/forum/index.php?topic=3974.0",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "749": "http://withthewill.net",
