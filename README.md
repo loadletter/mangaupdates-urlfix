@@ -18,4 +18,4 @@ Just click (Suggest an update), and you will be able to send a new url that will
 
 !['Sugggestion box'](http://s29.postimg.org/3jq7j4593/sugg.png)
 
-(Note: links are merged every 3~ days, queue can be checked on http://mufix.herokuapp.com/)
+(Note: links are merged every 3~ days)
