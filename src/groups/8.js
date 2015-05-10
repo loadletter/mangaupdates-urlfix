@@ -158,7 +158,7 @@ var urlfix_grouplist = {
     "5888": "http://damn-feels.com/",
     "5928": "http://www.tsundere.services/",
     "5988": "http://almond-cream.tumblr.com",
-    "6008": "http://cafescans.tumblr.com/",
+    "6008": "http://www.cafescans.info/",
     "6028": "http://cicada-scans.tumblr.com/",
     "6068": "http://lonemanga.com/",
     "6088": "http://comiplex.com/",

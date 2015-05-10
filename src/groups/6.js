@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "6306": "http://gkamateurs.tumblr.com/",
     "6326": "http://yaoitoshokan.com/english-projects",
     "6346": "https://yetiscanlations.wordpress.com",
+    "6366": "http://senpainoticemescans.tumblr.com/",
     "6386": "http://yummyanime.wix.com/purple-citrus-scans",
     "6406": "https://nightraccoon.wordpress.com/",
     "6446": "http://vargil.livejournal.com/",

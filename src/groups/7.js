@@ -180,6 +180,7 @@ var urlfix_grouplist = {
     "6467": "http://www.readmanga.today/",
     "6507": "https://mega.co.nz/#F!gc8wQK5I!hVxuyo35hkuR9Ao_9nrYmA",
     "6627": "http://flowerbridgetoo.wordpress.com",
+    "6647": "http://otterspacetranslation.wordpress.com",
     "6667": "http://lrenne.livejournal.com/",
     "6687": "https://henoujikun.wordpress.com/",
     "67": "http://www.mangacity.net/",

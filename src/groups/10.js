@@ -102,7 +102,7 @@ var urlfix_grouplist = {
     "4070": "http://community.livejournal.com/fdelights/",
     "4090": "http://epdscans.livejournal.com",
     "4110": "http://tattletalks.wordpress.com/",
-    "4150": "http://www.elusivescans.net/",
+    "4150": "https://gimmemanga.wordpress.com/",
     "4210": "http://tetsuwanbirdy.blogspot.com/",
     "4250": "http://esperancia-scanlation.blogspot.com/",
     "430": "http://www.mangarebels.com",
