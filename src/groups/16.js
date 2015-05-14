@@ -190,6 +190,7 @@ var urlfix_grouplist = {
     "6636": "http://www.wuxiatranslations.com/",
     "6656": "https://unchainedtranslation.wordpress.com/",
     "6676": "https://miraclesmay.wordpress.com/",
+    "6696": "http://www.reddit.com/user/TLekc",
     "676": "http://www.zelda-infinite.com/",
     "716": "http://anime-theatre.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
