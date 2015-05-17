@@ -180,6 +180,7 @@ var urlfix_grouplist = {
     "6400": "https://3829worksonstuff.wordpress.com/",
     "6560": "https://putttytranslations.wordpress.com/",
     "6640": "https://loliquent.wordpress.com/",
+    "6680": "http://onesnowshoe.tumblr.com/",
     "6700": "https://insigniapierce.wordpress.com/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",

@@ -196,6 +196,7 @@ var urlfix_grouplist = {
     "6614": "https://shokyuutranslations.wordpress.com/",
     "6634": "http://ebonytear.tumblr.com/",
     "6654": "http://azureskytls.blogspot.com/",
+    "6674": "http://kingaden.dreamwidth.org/",
     "6694": "http://www.whimsicalland.com/",
     "674": "http://www.esthetique-realm.net/",
     "694": "http://jump-scans.pillars-gaming.com/",

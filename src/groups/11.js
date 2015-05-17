@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "651": "http://www.wangan-midnight.com/",
     "6631": "http://oshix3.tumblr.com/",
     "6651": "https://isekaimahou.wordpress.com/",
+    "6671": "http://macimoci.livejournal.com/",
     "6691": "https://zmunjali.wordpress.com/",
     "671": "http://www.higurashi.host.sk/",
     "71": "http://mangatranslation.com/",

@@ -69,7 +69,7 @@ var urlfix_grouplist = {
     "2883": "http://wtdnd.wordpress.com/",
     "2923": "http://caelimane.livejournal.com",
     "2943": "http://yuidreamjournal.blogspot.com/",
-    "2963": "http://mysticmizuki.tumblr.com/",
+    "2963": "http://mysticmizuki.blogspot.com/",
     "2983": "http://TsundereTranslations.Blogspot.com",
     "3043": "http://purulelu.org/wspi/",
     "3063": "http://community.livejournal.com/deadman_w/",

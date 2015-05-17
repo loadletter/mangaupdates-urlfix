@@ -188,6 +188,7 @@ var urlfix_grouplist = {
     "6502": "https://trippingoverwn.wordpress.com/",
     "6542": "http://bato.to/group/_/c/cat-r5214",
     "6622": "https://hajiko.wordpress.com/",
+    "6642": "http://bluemangoscans.tumblr.com/",
     "6662": "http://thundertranslations.wordpress.com/",
     "6682": "http://www.lingson.com/",
     "6702": "https://egaoscans.wordpress.com/",
