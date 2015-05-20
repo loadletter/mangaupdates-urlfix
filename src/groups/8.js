@@ -175,6 +175,7 @@ var urlfix_grouplist = {
     "6608": "http://legendmastermanga.blogspot.com/",
     "6668": "http://otonashi-diva.livejournal.com/",
     "668": "http://freelance-manga.com/",
+    "6708": "https://reddragontranslations.wordpress.com/",
     "68": "http://two.guestbook.de/gb.cgi?gid=785692&amp;prot=lemcdp",
     "708": "http://central-library.livejournal.com/",
     "728": "http://www.hyuu-scans.com",

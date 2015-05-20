@@ -184,6 +184,7 @@ var urlfix_grouplist = {
     "6667": "http://lrenne.livejournal.com/",
     "6687": "https://henoujikun.wordpress.com/",
     "67": "http://www.mangacity.net/",
+    "6707": "http://s3ri.livejournal.com/",
     "687": "http://binktopia.org/",
     "727": "http://www.myspace.com/kurisuscans",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",

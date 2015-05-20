@@ -174,7 +174,7 @@ var urlfix_grouplist = {
     "6350": "https://hellotranslations.wordpress.com/",
     "6370": "http://dead-scans.blogspot.com/",
     "6390": "https://wakga.wordpress.com/",
-    "6410": "http://avertranslation.wordpress.com/",
+    "6410": "http://avertranslation.org/",
     "6450": "http://a0132.blogspot.com/",
     "6470": "https://shintranslations.wordpress.com/",
     "6490": "http://www.shirohato-scans.com/",
