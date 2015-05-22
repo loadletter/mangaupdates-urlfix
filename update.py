@@ -218,7 +218,7 @@ def updatefromdb():
 	#create changelog file
 	newver = incversion(currentversion)
 	changelog, changelogpath = tmpfile_object()
-	print >>changelog, "Release %s" % newver
+	print >>changelog, "Revision %s" % newver.split('.')[-1]
 	print >>changelog
 	mergediff(currentgroups, gooddict, verbose=False, output=changelog)
 	changelog.close()
