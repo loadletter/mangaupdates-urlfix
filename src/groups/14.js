@@ -189,7 +189,7 @@ var urlfix_grouplist = {
     "6294": "http://bato.to/group/_/b/biamam-scans-r4871",
     "6334": "https://happymerchants.wordpress.com/",
     "634": "http://himitsu.50webs.com/",
-    "6394": "http://gravitytranslations.com/",
+    "6394": "http://gravitytales.com/",
     "6414": "https://mega.co.nz/#F!bVR3zaxT!RjSMENKFIUwKg5yyQN-woA",
     "6474": "https://hydratranslations1.wordpress.com/",
     "654": "http://yes-rhade-djs.livejournal.com/",

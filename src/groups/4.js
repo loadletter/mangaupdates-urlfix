@@ -187,7 +187,7 @@ var urlfix_grouplist = {
     "6284": "http://wingfril.livejournal.com/",
     "6324": "http://wartdf.wordpress.com/",
     "6364": "http://bubblemilkgreenteascans.blogspot.com/",
-    "6384": "http://giancarlo.co.vu/",
+    "6384": "http://kurose.co.vu/",
     "64": "http://www.manga-sketchbook.org/",
     "6424": "http://icarustranslations.net/",
     "6584": "https://signerstranslations.wordpress.com/",

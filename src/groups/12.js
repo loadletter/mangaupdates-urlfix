@@ -191,6 +191,7 @@ var urlfix_grouplist = {
     "6632": "http://akfrssgifts.tumblr.com/",
     "6652": "https://isekaimahou.wordpress.com/",
     "6672": "http://conradxyuuri.livejournal.com/",
+    "6712": "http://www.chibi-fansub.com/",
     "692": "http://s-kojika.com/PKR/",
     "72": "http://www.jankenpon.de/",
     "792": "http://kaze-hime.deviantart.com",
