@@ -175,6 +175,7 @@ var urlfix_grouplist = {
     "6615": "http://doushinojikan.tumblr.com/",
     "6635": "https://scryatranslations.wordpress.com/",
     "6675": "http://tigercandy.tumblr.com/",
+    "6715": "https://sylver135.wordpress.com/",
     "675": "http://www.cotrj.com/md-sd/index.php",
     "695": "http://kh.beyondeternal.com/",
     "735": "http://nyarscans.livejournal.com/",

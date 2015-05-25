@@ -196,6 +196,7 @@ var urlfix_grouplist = {
     "6585": "http://akahoshiscans.blogspot.com/",
     "6625": "http://clickyclicktranslation.blogspot.com/",
     "6645": "https://ruzetranslations.wordpress.com/",
+    "6665": "http://bato.to/group/_/b/bahboh-r5288",
     "6685": "https://darkfishoftherevolution.wordpress.com/",
     "6705": "https://calicoxtabby.wordpress.com/",
     "685": "http://groups.msn.com/DragonGuard/scanlationbranch.msnw",

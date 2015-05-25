@@ -184,6 +184,7 @@ var urlfix_grouplist = {
     "6659": "https://theworsttranslation.wordpress.com/",
     "6679": "http://bato.to/group/_/c/cf-translations-r4811",
     "6699": "http://www.spcnet.tv/forums/showthread.php/38495-Swallowed-Star#.VVAPepOJ3Dc",
+    "6719": "http://dreadfuldecoding.blogspot.com/",
     "679": "http://secretgarden-sc.livejournal.com/",
     "699": "http://pbhm.kiriau.net",
     "719": "http://minkyleigh.livejournal.com/",
