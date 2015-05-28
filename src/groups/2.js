@@ -186,7 +186,7 @@ var urlfix_grouplist = {
     "6442": "http://kcountdown.tumblr.com/",
     "6482": "https://netblazer.wordpress.com/",
     "6502": "https://trippingoverwn.wordpress.com/",
-    "6542": "http://bato.to/group/_/c/cat-r5214",
+    "6542": "http://catscanlations.tumblr.com/",
     "6622": "https://hajiko.wordpress.com/",
     "6642": "http://bluemangoscans.tumblr.com/",
     "6662": "http://thundertranslations.wordpress.com/",

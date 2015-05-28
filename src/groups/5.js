@@ -199,6 +199,7 @@ var urlfix_grouplist = {
     "6665": "http://bato.to/group/_/b/bahboh-r5288",
     "6685": "https://darkfishoftherevolution.wordpress.com/",
     "6705": "https://calicoxtabby.wordpress.com/",
+    "6725": "https://translationraven.wordpress.com/",
     "685": "http://groups.msn.com/DragonGuard/scanlationbranch.msnw",
     "705": "http://z13.invisionfree.com/Phoenix_Scans/",
     "725": "http://ossu.maximum7.net/",

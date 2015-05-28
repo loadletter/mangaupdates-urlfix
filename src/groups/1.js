@@ -197,6 +197,7 @@ var urlfix_grouplist = {
     "6641": "https://lordofscrubs.wordpress.com/",
     "6681": "https://wcctranslation.wordpress.com/",
     "6701": "https://kerambitnosakki.wordpress.com/",
+    "6721": "http://pigeonscans.tumblr.com/",
     "681": "http://community.livejournal.com/afascinante/",
     "701": "http://www.bearpu.be/",
     "721": "http://kenshinscans.anxious-anime.com/",

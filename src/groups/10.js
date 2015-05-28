@@ -186,6 +186,7 @@ var urlfix_grouplist = {
     "6690": "https://thatguywhosthere.wordpress.com/",
     "670": "http://www.sakuracities.com/yaoigames/",
     "6710": "https://asherahbluenotebook.wordpress.com/",
+    "6730": "https://durasama.wordpress.com/",
     "690": "http://tsubusu.atspace.com/",
     "730": "http://www.animeco.org/",
     "830": "http://digimonhimitsu.com/",

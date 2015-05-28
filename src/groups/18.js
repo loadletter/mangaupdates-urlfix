@@ -171,6 +171,7 @@ var urlfix_grouplist = {
     "6658": "https://omegaharem.wordpress.com/",
     "6678": "http://natsume.apocalypsecheesecake.com/?page_id=4559",
     "6698": "http://manhuajia.tumblr.com/",
+    "6718": "http://randomassscans.blogspot.com/",
     "678": "http://www.shin-getter.info/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",
