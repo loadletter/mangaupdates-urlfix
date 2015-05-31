@@ -192,6 +192,7 @@ var urlfix_grouplist = {
     "6662": "http://thundertranslations.wordpress.com/",
     "6682": "http://www.lingson.com/",
     "6702": "https://egaoscans.wordpress.com/",
+    "6742": "http://sakura-moge.tumblr.com/",
     "682": "http://www.keiichianimeforever.com",
     "722": "http://in2k2.digital-takeout.net/",
     "762": "http://www.hikaru-no-go-world.new.fr/",

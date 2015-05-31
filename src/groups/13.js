@@ -185,6 +185,7 @@ var urlfix_grouplist = {
     "6673": "http://kkm-wolframfans.livejournal.com/",
     "6713": "https://larvyde.wordpress.com/",
     "673": "http://www.nightsail.net/crackpot/uttercorn.htm",
+    "6733": "https://sotranslations.wordpress.com/",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",

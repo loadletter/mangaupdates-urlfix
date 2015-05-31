@@ -200,6 +200,7 @@ var urlfix_grouplist = {
     "6674": "http://kingaden.dreamwidth.org/",
     "6694": "http://www.whimsicalland.com/",
     "6714": "https://youtsubasilver.wordpress.com/",
+    "6734": "http://akarikos.tumblr.com/",
     "674": "http://www.esthetique-realm.net/",
     "694": "http://jump-scans.pillars-gaming.com/",
     "714": "http://shanelone7.coolfreepage.com/",

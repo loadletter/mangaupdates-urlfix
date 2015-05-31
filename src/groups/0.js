@@ -183,6 +183,7 @@ var urlfix_grouplist = {
     "6680": "http://onesnowshoe.tumblr.com/",
     "6700": "https://insigniapierce.wordpress.com/",
     "6720": "https://kirileaves.wordpress.com/",
+    "6740": "http://ladder-chan.tumblr.com/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",
