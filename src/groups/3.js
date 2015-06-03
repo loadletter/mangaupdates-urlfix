@@ -82,7 +82,7 @@ var urlfix_grouplist = {
     "323": "http://www.kakyoku.org/fctranslations",
     "3263": "http://community.livejournal.com/moy_moe_scans/",
     "3283": "http://pearsehillock.blogspot.com/",
-    "3303": "http://sebastions-manga-scanlations.webs.com/",
+    "3303": "http://tetsu-scans.blogspot.com/",
     "3323": "http://mangahelpers.com/s/5-elementos-team",
     "3343": "http://isolationthirst.livejournal.com/",
     "3363": "http://nemuiscans.com/",
