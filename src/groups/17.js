@@ -190,6 +190,7 @@ var urlfix_grouplist = {
     "6697": "https://vinceled.wordpress.com/",
     "6717": "http://delicousdungeondmscans.wordpress.com/",
     "6737": "https://shinkirouscans.wordpress.com/",
+    "6757": "http://kaminotescans.blogspot.com/",
     "677": "http://wai-yeng.livejournal.com/",
     "697": "http://syruptitiously.livejournal.com/",
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",

@@ -201,6 +201,7 @@ var urlfix_grouplist = {
     "6705": "https://calicoxtabby.wordpress.com/",
     "6725": "https://translationraven.wordpress.com/",
     "6745": "http://bato.to/group/_/c/carolusmengus-r5374",
+    "6765": "http://jakehercy.tumblr.com/",
     "685": "http://groups.msn.com/DragonGuard/scanlationbranch.msnw",
     "705": "http://z13.invisionfree.com/Phoenix_Scans/",
     "725": "http://ossu.maximum7.net/",

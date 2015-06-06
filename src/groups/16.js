@@ -192,6 +192,7 @@ var urlfix_grouplist = {
     "6676": "https://miraclesmay.wordpress.com/",
     "6696": "http://tlekc.blogspot.com/",
     "6716": "http://bato.to/group/_/w/ws-scan-r5357",
+    "6756": "https://fudgetranslations.wordpress.com/",
     "676": "http://www.zelda-infinite.com/",
     "716": "http://anime-theatre.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
