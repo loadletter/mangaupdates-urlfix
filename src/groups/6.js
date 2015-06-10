@@ -188,6 +188,7 @@ var urlfix_grouplist = {
     "6686": "https://raptorscans.wordpress.com/",
     "6706": "https://linkedtl.wordpress.com/",
     "6726": "http://dreamsleeper87.blogspot.com/",
+    "6766": "https://rebirthonlinelightnovel.wordpress.com/",
     "686": "http://www.hanazuke.tk/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",

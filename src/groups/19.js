@@ -180,7 +180,7 @@ var urlfix_grouplist = {
     "6459": "https://palmereapscans.wordpress.com/",
     "6579": "http://rhinabolla.wordpress.com",
     "659": "http://groups.yahoo.com/group/chibitorascanlations/",
-    "6619": "http://pandafuqtranslations.wordpress.com/",
+    "6619": "http://pandatranslations.net/",
     "6659": "https://theworsttranslation.wordpress.com/",
     "6679": "http://bato.to/group/_/c/cf-translations-r4811",
     "6699": "http://www.spcnet.tv/forums/showthread.php/38495-Swallowed-Star#.VVAPepOJ3Dc",

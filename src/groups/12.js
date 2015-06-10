@@ -194,6 +194,7 @@ var urlfix_grouplist = {
     "6712": "http://www.chibi-fansub.com/",
     "6732": "https://darktranslations.wordpress.com/",
     "6752": "http://eggyscans.tumblr.com/",
+    "6772": "http://shiroyukitranslations.com/",
     "692": "http://s-kojika.com/PKR/",
     "72": "http://www.jankenpon.de/",
     "792": "http://kaze-hime.deviantart.com",
