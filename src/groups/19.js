@@ -186,6 +186,7 @@ var urlfix_grouplist = {
     "6699": "http://www.spcnet.tv/forums/showthread.php/38495-Swallowed-Star#.VVAPepOJ3Dc",
     "6719": "http://dreadfuldecoding.blogspot.com/",
     "6739": "http://tokyo-fujoshi.tumblr.com/",
+    "6779": "http://ddprogress.tumblr.com/",
     "679": "http://secretgarden-sc.livejournal.com/",
     "699": "http://pbhm.kiriau.net",
     "719": "http://minkyleigh.livejournal.com/",

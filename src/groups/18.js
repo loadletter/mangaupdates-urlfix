@@ -173,6 +173,8 @@ var urlfix_grouplist = {
     "6698": "http://manhuajia.tumblr.com/",
     "6718": "http://randomassscans.blogspot.com/",
     "6738": "http://minapoly-sama.tumblr.com/",
+    "6758": "http://bato.to/group/_/t/tt-r5411",
+    "6778": "https://forgetfuldreamer.wordpress.com",
     "678": "http://www.shin-getter.info/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",

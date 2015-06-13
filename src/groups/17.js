@@ -192,6 +192,7 @@ var urlfix_grouplist = {
     "6737": "https://shinkirouscans.wordpress.com/",
     "6757": "http://kaminotescans.blogspot.com/",
     "677": "http://wai-yeng.livejournal.com/",
+    "6777": "http://jnmbs.blogspot.com/",
     "697": "http://syruptitiously.livejournal.com/",
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",
     "737": "http://pinoyotaku.com/index.html",

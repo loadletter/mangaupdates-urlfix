@@ -190,7 +190,7 @@ var urlfix_grouplist = {
     "6334": "https://happymerchants.wordpress.com/",
     "634": "http://himitsu.50webs.com/",
     "6394": "http://gravitytales.com/",
-    "6414": "https://mega.co.nz/#F!bVR3zaxT!RjSMENKFIUwKg5yyQN-woA",
+    "6414": "http://mach20.org/",
     "6474": "https://hydratranslations1.wordpress.com/",
     "6494": "http://baeconscans.tumblr.com/",
     "654": "http://yes-rhade-djs.livejournal.com/",
