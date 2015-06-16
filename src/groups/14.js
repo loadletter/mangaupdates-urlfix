@@ -204,6 +204,7 @@ var urlfix_grouplist = {
     "674": "http://www.esthetique-realm.net/",
     "6754": "https://alcsel.wordpress.com/",
     "6774": "http://cnovels.bookbychapters.com/",
+    "6794": "https://sorotrans.wordpress.com/",
     "694": "http://jump-scans.pillars-gaming.com/",
     "714": "http://shanelone7.coolfreepage.com/",
     "734": "http://www.aizuwinter.bravehost.com",

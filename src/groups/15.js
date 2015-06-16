@@ -179,6 +179,7 @@ var urlfix_grouplist = {
     "6735": "http://veloyay.tumblr.com/",
     "675": "http://www.cotrj.com/md-sd/index.php",
     "6755": "https://ensjtrans.wordpress.com/",
+    "6775": "http://bato.to/group/_/a/ace-of-diamond-brigade-r5389",
     "695": "http://kh.beyondeternal.com/",
     "735": "http://nyarscans.livejournal.com/",
     "75": "http://orangetangerine.cjb.net",

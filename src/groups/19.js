@@ -98,7 +98,7 @@ var urlfix_grouplist = {
     "4059": "http://community.livejournal.com/emerald_dreamar/",
     "4099": "http://community.livejournal.com/spicyscans/",
     "4119": "http://in-tuition.blogspot.com/",
-    "4139": "http://forteatrox.afterglow.nu/",
+    "4139": "http://www.papermoonwosagashite.tumblr.com/",
     "4159": "http://pineapplesrus.fakku.net/",
     "4199": "http://smgscanlations.wordpress.com/",
     "4239": "http://makingmangascans.blogspot.com/",

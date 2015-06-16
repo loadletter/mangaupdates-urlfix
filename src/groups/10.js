@@ -188,6 +188,7 @@ var urlfix_grouplist = {
     "6710": "https://asherahbluenotebook.wordpress.com/",
     "6730": "https://durasama.wordpress.com/",
     "6750": "http://bato.to/group/_/t/tobias-r5408",
+    "6790": "https://paragonscanlations.wordpress.com/",
     "690": "http://tsubusu.atspace.com/",
     "730": "http://www.animeco.org/",
     "830": "http://digimonhimitsu.com/",
