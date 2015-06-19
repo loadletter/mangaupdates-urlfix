@@ -176,6 +176,7 @@ var urlfix_grouplist = {
     "6758": "http://bato.to/group/_/t/tt-r5411",
     "6778": "https://forgetfuldreamer.wordpress.com",
     "678": "http://www.shin-getter.info/",
+    "6798": "https://secretninjaempire.wordpress.com/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",
     "738": "http://www.newnede.com/",

@@ -195,6 +195,7 @@ var urlfix_grouplist = {
     "6742": "http://sakura-moge.tumblr.com/",
     "6762": "http://yukulele.tumblr.com/tagged/onemanscans",
     "6782": "http://kokuhaku.eternicity.net/",
+    "6802": "https://qkz9.wordpress.com/",
     "682": "http://www.keiichianimeforever.com",
     "722": "http://in2k2.digital-takeout.net/",
     "762": "http://www.hikaru-no-go-world.new.fr/",

@@ -188,6 +188,7 @@ var urlfix_grouplist = {
     "6739": "http://tokyo-fujoshi.tumblr.com/",
     "6779": "http://ddprogress.tumblr.com/",
     "679": "http://secretgarden-sc.livejournal.com/",
+    "6799": "https://infinitenoveltranslations.wordpress.com/",
     "699": "http://pbhm.kiriau.net",
     "719": "http://minkyleigh.livejournal.com/",
     "759": "http://reverie.esmartkid.com/",
