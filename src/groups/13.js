@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "6013": "http://visualnovel.deviantart.com/",
     "6033": "https://thenonames512.wordpress.com/",
     "6153": "http://lurondo.tumblr.com/",
+    "6173": "http://www.batoto.net/group/_/h/hazue-ishin-r3590",
     "6213": "http://bato.to/group/_/k/kaneki-scans-r4691",
     "6253": "http://lovesick-udunno.tumblr.com/",
     "6293": "https://sites.google.com/site/sekaigameoredake/",

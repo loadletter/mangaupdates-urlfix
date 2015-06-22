@@ -203,6 +203,7 @@ var urlfix_grouplist = {
     "6745": "http://bato.to/group/_/c/carolusmengus-r5374",
     "6765": "http://jakehercy.tumblr.com/",
     "6785": "http://petrovnascans.livejournal.com/",
+    "6805": "http://bato.to/group/_/t/tribuo-scans-r5350",
     "685": "http://groups.msn.com/DragonGuard/scanlationbranch.msnw",
     "705": "http://z13.invisionfree.com/Phoenix_Scans/",
     "725": "http://ossu.maximum7.net/",

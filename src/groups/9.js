@@ -185,6 +185,7 @@ var urlfix_grouplist = {
     "6729": "https://undecentlnt.wordpress.com/",
     "6769": "https://superpotatotrans.wordpress.com/",
     "6789": "https://shikkakutranslations.wordpress.com/",
+    "6809": "http://justblthings.weebly.com/",
     "689": "http://mangahelpers.com/forum/index.php?topic=3974.0",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "749": "http://withthewill.net",
