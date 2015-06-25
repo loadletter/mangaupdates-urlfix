@@ -181,6 +181,7 @@ var urlfix_grouplist = {
     "6731": "http://courage-a-word-of-justice.tumblr.com/",
     "6751": "http://kuroshionofansub.blogspot.com/",
     "6771": "http://manga.aoitenshi.com/",
+    "6811": "http://bato.to/group/_/m/mariofan215-r5305",
     "71": "http://mangatranslation.com/",
     "711": "http://mangahelpers.com/forum/index.php?topic=4995.0",
     "731": "http://paizuriteam.free.fr/index.php",

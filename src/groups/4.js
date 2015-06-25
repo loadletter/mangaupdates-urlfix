@@ -179,6 +179,7 @@ var urlfix_grouplist = {
     "6004": "http://www.batoto.net/group/_/e/entente-r3838",
     "6024": "http://www.batoto.net/group/_/r/rpapo-r4326",
     "6064": "http://zettaitranslation.blogspot.com/",
+    "6124": "http://www.batoto.net/group/_/s/sunrise-scans-r4470",
     "6144": "https://irstland.wordpress.com/",
     "6164": "http://paperdollsproject.rocks/",
     "6204": "http://strawberrytimescanlations.wordpress.com/",

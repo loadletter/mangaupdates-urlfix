@@ -179,7 +179,7 @@ var urlfix_grouplist = {
     "6236": "http://blackswanscans.tumblr.com/",
     "6256": "http://divine-squids.livejournal.com/",
     "6296": "http://ohanashimi.wordpress.com/",
-    "6316": "http://melllllly.tumblr.com/",
+    "6316": "http://lucy-dorkneel.tumblr.com/",
     "636": "http://gokujyou-doujinshi.tripod.com/index.html",
     "6396": "https://www.mangaholics.net",
     "6476": "http://www.cdscans.com.br/",

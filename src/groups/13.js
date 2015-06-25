@@ -190,6 +190,7 @@ var urlfix_grouplist = {
     "6753": "http://mangalator.ch/?page=user&user=13251",
     "6773": "https://wwyxhqc.wordpress.com/",
     "6793": "https://defan752.wordpress.com/",
+    "6813": "https://tallgirltranslations.wordpress.com/",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",
