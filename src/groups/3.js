@@ -207,6 +207,8 @@ var urlfix_grouplist = {
     "6663": "http://bato.to/group/_/i/inter681-r5321",
     "6683": "https://madospicy.wordpress.com/",
     "6703": "https://bureidanworks.wordpress.com/",
+    "6723": "http://bato.to/group/_/h/heavenly-scans-r5240",
+    "6823": "https://novicetranslator.wordpress.com",
     "683": "http://community.livejournal.com/ptfjaguar/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",

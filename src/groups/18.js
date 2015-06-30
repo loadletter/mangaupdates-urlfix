@@ -177,6 +177,8 @@ var urlfix_grouplist = {
     "6778": "https://forgetfuldreamer.wordpress.com",
     "678": "http://www.shin-getter.info/",
     "6798": "https://secretninjaempire.wordpress.com/",
+    "6818": "http://turb0translation.blogspot.com/",
+    "6838": "https://tomorolls.wordpress.com/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",
     "738": "http://www.newnede.com/",

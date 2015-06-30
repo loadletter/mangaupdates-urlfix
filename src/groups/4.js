@@ -201,6 +201,7 @@ var urlfix_grouplist = {
     "6764": "http://drrrtranslations.tumblr.com/",
     "6784": "http://aterriblethought.tumblr.com/",
     "6804": "http://salsscans.wordpress.com/",
+    "6824": "http://bato.to/group/_/a/arentastic-translations-r5472",
     "684": "http://www.townsocks.net",
     "704": "http://www.yaoi.ca/drten/index.php",
     "724": "http://lyrebird.aithine.org/halfbaked/",

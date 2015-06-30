@@ -188,6 +188,7 @@ var urlfix_grouplist = {
     "6727": "http://tony-yon-ka.blogspot.com/",
     "6747": "http://erosworkshop.blogspot.com/",
     "6767": "https://reantoanna.wordpress.com/",
+    "6827": "http://snowtimeff.weebly.com/",
     "687": "http://binktopia.org/",
     "727": "http://www.myspace.com/kurisuscans",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",

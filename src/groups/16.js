@@ -195,6 +195,7 @@ var urlfix_grouplist = {
     "6756": "https://fudgetranslations.wordpress.com/",
     "676": "http://www.zelda-infinite.com/",
     "6776": "http://nobodyelsescanlation.blogspot.com/",
+    "6836": "http://dracaena-scans.net/en/",
     "716": "http://anime-theatre.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
     "796": "http://www.proxy-scans.com",

@@ -190,6 +190,7 @@ var urlfix_grouplist = {
     "6726": "http://dreamsleeper87.blogspot.com/",
     "6766": "https://rebirthonlinelightnovel.wordpress.com/",
     "6786": "https://www.dropbox.com/sh/5zitrv2tcub050v/AABq0k_nYzPZh6JZvI7U8R_ya?dl=0",
+    "6826": "https://noone2246.wordpress.com/",
     "686": "http://www.hanazuke.tk/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",

@@ -189,6 +189,7 @@ var urlfix_grouplist = {
     "6779": "http://ddprogress.tumblr.com/",
     "679": "http://secretgarden-sc.livejournal.com/",
     "6799": "https://infinitenoveltranslations.wordpress.com/",
+    "6819": "http://sentimientoyaoi.blogspot.com/",
     "699": "http://pbhm.kiriau.net",
     "719": "http://minkyleigh.livejournal.com/",
     "759": "http://reverie.esmartkid.com/",
