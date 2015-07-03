@@ -153,6 +153,7 @@ var urlfix_grouplist = {
     "5606": "http://stk-scanlations.tumblr.com/",
     "566": "http://lamplighter.zukafuji.org/",
     "5666": "http://www.futatsunotsuki.blogspot.mx/",
+    "5706": "http://vgperson.tumblr.com",
     "5726": "http://shackscans.blogspot.com",
     "5786": "http://tumblr.rkitsune.com/",
     "5826": "http://battlebrave.co.vu/",

@@ -183,6 +183,7 @@ var urlfix_grouplist = {
     "6669": "http://kannnichtfranz.livejournal.com/",
     "6689": "https://lorcromwell.wordpress.com/",
     "6729": "https://undecentlnt.wordpress.com/",
+    "6749": "https://zoengsaiwaa.wordpress.com/",
     "6769": "https://superpotatotrans.wordpress.com/",
     "6789": "https://shikkakutranslations.wordpress.com/",
     "6809": "http://justblthings.weebly.com/",
