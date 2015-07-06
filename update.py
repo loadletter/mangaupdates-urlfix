@@ -91,6 +91,18 @@ def reviewqueue(data, curgroups):
 			datadict[gid].extend(cleanedurl)
 		else:
 			datadict[gid] = [row] + cleanedurl
+	#autoselect if ip is whitelisted
+	if len(sys.argv[1:]) > 0:
+		for k, v in datadict.items():
+			for c, vv in enumerate(v):
+				submit_ip = vv[4].encode('utf-8')
+				if submit_ip in sys.argv[1:]:
+					for wc, wvv in enumerate(v):
+						print "%i)" % wc, repr(wvv)
+					print "Autoselected %i (IP: %s)" % (c, submit_ip)
+					good.append(vv)
+					del datadict[k]
+					break				
 	#do review
 	for k, v in datadict.iteritems():
 		print "Loading group:", k
@@ -100,8 +112,8 @@ def reviewqueue(data, curgroups):
 		subprocess.call(browserargs)
 		while True:
 			print "I) Ignore"
-			for c in range(len(v)):
-				print "%i)" % c, repr(v[c])
+			for c, vv in enumerate(v):
+				print "%i)" % c, repr(vv)
 			r = raw_input('> ')
 			if r.upper() == 'I':
 				break
@@ -183,11 +195,6 @@ def creategroupshards(groups):
 			print i,
 
 def updatefromdb():
-	print "Proceed? (y/n)"
-	answer = raw_input("[n]> ")
-	if answer != 'y':
-		sys.exit(0)
-	
 	print "Loading groups from file"
 	currentgroups = jsonloadf(GROUPSJSON)
 	currentversion = jsonloadf(VERSIONJSON)
@@ -201,7 +208,9 @@ def updatefromdb():
 	mergediff(currentgroups, tmpdict)
 	print
 	print "------------------------------------------------"
-	
+
+	if len(sys.argv) > 1:
+		print "IP whitelist:", repr(sys.argv[1:])
 	print "Continue with browser review? (y/n)"
 	answer = raw_input("[n]> ")
 	if answer != 'y':
