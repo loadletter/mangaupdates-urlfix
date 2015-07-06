@@ -157,6 +157,7 @@ var urlfix_grouplist = {
     "5679": "http://teamspecialscans.com/",
     "5719": "http://shinballscanlations.tumblr.com/",
     "5759": "http://skythewood.blogspot.com/",
+    "5819": "http://www.batoto.net/group/_/t/team-pixie-dust-r2915",
     "5899": "http://www.batoto.net/group/_/a/assassin-scans-r2656",
     "59": "http://akatsuki.chupatz.com/",
     "599": "http://liquideros.com/",

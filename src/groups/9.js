@@ -178,6 +178,7 @@ var urlfix_grouplist = {
     "6429": "https://itranslateln.wordpress.com/",
     "6449": "http://bato.to/group/_/c/celery-r5144",
     "649": "http://www.zeldalegends.net/index.php?n=manga",
+    "6589": "http://kaitoujokerscans.tumblr.com/",
     "6629": "http://www.risingdragonstranslation.com/",
     "6649": "http://istlovesu.blogspot.com/",
     "6669": "http://kannnichtfranz.livejournal.com/",

@@ -182,6 +182,7 @@ var urlfix_grouplist = {
     "646": "http://shlikah.free.fr/",
     "6466": "https://midnightsunscans.wordpress.com/",
     "66": "http://www.shoujomagic.net/",
+    "6606": "http://idolhellscans.tumblr.com/",
     "6626": "http://comicseoul.com/",
     "6646": "https://pummels.wordpress.com/",
     "666": "http://www.makimakimanga.com/",

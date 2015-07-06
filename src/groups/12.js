@@ -188,6 +188,7 @@ var urlfix_grouplist = {
     "6372": "http://sushiscans.tumblr.com/",
     "652": "http://oyasumi.aicoalition.com",
     "6532": "https://bingnovels.wordpress.com/",
+    "6592": "http://leviloveseren.co.vu/",
     "6612": "http://carrot-s-cross-station.tumblr.com/",
     "6632": "http://akfrssgifts.tumblr.com/",
     "6652": "https://isekaimahou.wordpress.com/",

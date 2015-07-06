@@ -184,6 +184,7 @@ var urlfix_grouplist = {
     "6633": "https://alyschu.wordpress.com/",
     "6653": "https://aflappyteddybird.wordpress.com/",
     "6673": "http://kkm-wolframfans.livejournal.com/",
+    "6693": "http://wordswithoutborders.org/",
     "6713": "https://larvyde.wordpress.com/",
     "673": "http://www.nightsail.net/crackpot/uttercorn.htm",
     "6733": "https://sotranslations.wordpress.com/",
