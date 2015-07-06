@@ -137,6 +137,8 @@ def urlcleanup(row):
 	if '.blogspot.' in url:
 		#url = re.sub('blogspot(\.[A-Za-z]{2,6})+', 'blogspot.com', url) #preserve everything after tld
 		url = re.sub('blogspot(\.[A-Za-z]{2,6})+(/|$)', 'blogspot.com/', url) #always add slash
+	elif '//www.batoto.net/' in url:
+		url = url.replace('//www.batoto.net/', '//bato.to/')
 	rval = []
 	if url != originalurl:
 		#make a list because tuple doesn't support item assignment
