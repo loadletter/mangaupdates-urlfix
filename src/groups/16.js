@@ -16,6 +16,7 @@ var urlfix_grouplist = {
     "1456": "http://www.pink-panzer.com/",
     "1496": "http://community.livejournal.com/hiiro_reiichi/",
     "1536": "http://4chan.biz/",
+    "156": "http://bato.to/group/_/e/eternal-blue-r437",
     "16": "http://manga-fiends.cjb.net",
     "1676": "http://flobberworm.com",
     "1696": "http://standalonescans.com/",
@@ -47,6 +48,7 @@ var urlfix_grouplist = {
     "2456": "http://owlscans.clanteam.com/",
     "2476": "http://community.livejournal.com/wonderloop/",
     "2536": "http://js-scans.blogspot.com/",
+    "256": "http://bato.to/group/_/v/vgm-r820",
     "2576": "http://bchan.onnacafe.com/index.html",
     "2616": "http://starbomberman.livejournal.com/",
     "2636": "http://mangahelpers.com/s/kakashi-guy",
@@ -203,5 +205,6 @@ var urlfix_grouplist = {
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",
-    "956": "http://straysscans.net/"
+    "956": "http://straysscans.net/",
+    "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

@@ -188,6 +188,7 @@ var urlfix_grouplist = {
     "6372": "http://sushiscans.tumblr.com/",
     "652": "http://oyasumi.aicoalition.com",
     "6532": "https://bingnovels.wordpress.com/",
+    "6552": "http://enigmaticflame.tumblr.com/",
     "6592": "http://leviloveseren.co.vu/",
     "6612": "http://carrot-s-cross-station.tumblr.com/",
     "6632": "http://akfrssgifts.tumblr.com/",
@@ -206,6 +207,7 @@ var urlfix_grouplist = {
     "832": "http://erobeat.hafio.net/",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",
+    "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "932": "http://www.lostinscanlation.com/",
     "972": "http://tarngation.net/nhk"
 };

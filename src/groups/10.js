@@ -179,6 +179,7 @@ var urlfix_grouplist = {
     "6470": "https://shintranslations.wordpress.com/",
     "6490": "http://www.shirohato-scans.com/",
     "650": "http://alizionmanga.googlepages.com",
+    "6550": "http://aki00113.tumblr.com/",
     "6610": "http://daomubiji.tumblr.com/",
     "6630": "https://koongkoongtranslations.wordpress.com/",
     "6650": "http://splinterinq.tumblr.com",
@@ -195,6 +196,7 @@ var urlfix_grouplist = {
     "730": "http://www.animeco.org/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
+    "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",
     "930": "http://sailorspazz.livejournal.com/",
     "950": "http://kast.freehostia.com"

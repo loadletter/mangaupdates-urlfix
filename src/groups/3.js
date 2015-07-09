@@ -9,6 +9,7 @@ var urlfix_grouplist = {
     "1123": "http://shounennoyorokobi.blogspot.com/",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
     "1223": "http://twinkle-dust.deadly-desire.org/",
+    "123": "http://bato.to/group/_/u/ushi-r43",
     "1243": "http://community.livejournal.com/kkm_manga/",
     "1263": "http://zawazawamanga.wordpress.com/",
     "1283": "http://community.livejournal.com/frozencitrus/",

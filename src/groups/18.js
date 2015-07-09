@@ -164,6 +164,7 @@ var urlfix_grouplist = {
     "6398": "http://inferiorscans.blogspot.com/",
     "6418": "http://thenakedsol.blogspot.com/",
     "6438": "http://starryskyscans.livejournal.com/",
+    "6558": "http://apollonblue.tumblr.com/",
     "6578": "http://bato.to/group/_/i/its-not-gay-if-its-cute-scans-r5232",
     "658": "http://www.l33tmaster.com",
     "6618": "http://mononasan.tumblr.com/",
@@ -182,6 +183,7 @@ var urlfix_grouplist = {
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",
     "738": "http://www.newnede.com/",
+    "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
@@ -190,5 +192,6 @@ var urlfix_grouplist = {
     "918": "http://www.bleachbuzz.com/",
     "938": "http://forum.purekanjou.com",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",
+    "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"
 };

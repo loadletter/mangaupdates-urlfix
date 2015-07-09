@@ -27,6 +27,7 @@ var urlfix_grouplist = {
     "1819": "http://a-trill.livejournal.com/",
     "1859": "http://vilani.livejournal.com/",
     "1899": "http://bizunatchi.livejournal.com/",
+    "19": "http://bato.to/group/_/w/wehatemanga-r1453",
     "1919": "http://ragsubs.blogspot.com/",
     "1959": "http://alicedreams.do.am/",
     "2019": "http://kh.beyondeternal.com/",
