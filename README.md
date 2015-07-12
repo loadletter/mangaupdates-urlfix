@@ -1,7 +1,7 @@
 mangaupdates-urlfix
 ===================
 
-Userscript that adds urls and irc link back on the groups pages of mangaupdates.com
+Userscript that adds website and IRC links on the groups pages of mangaupdates.com
 
 ##Installation
 
