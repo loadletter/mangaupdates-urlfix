@@ -135,7 +135,7 @@ var urlfix_grouplist = {
     "4911": "http://omascans.wordpress.com/",
     "4971": "http://www.mediafire.com/ningenshiken",
     "5011": "http://meo23.livejournal.com/",
-    "5051": "http://rapidswitch.wordpress.com/",
+    "5051": "http://rapidswitch.me/",
     "5071": "http://yankeeshigh.webs.com/",
     "5091": "http://imachscans.wordpress.com/",
     "511": "http://animanganetwork.hostanime.com/",

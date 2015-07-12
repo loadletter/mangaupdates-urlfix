@@ -193,6 +193,7 @@ var urlfix_grouplist = {
     "6773": "https://wwyxhqc.wordpress.com/",
     "6793": "https://defan752.wordpress.com/",
     "6813": "https://tallgirltranslations.wordpress.com/",
+    "6853": "http://bato.to/group/_/l/little-o-r5475",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",

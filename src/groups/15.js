@@ -187,6 +187,7 @@ var urlfix_grouplist = {
     "6775": "http://bato.to/group/_/a/ace-of-diamond-brigade-r5389",
     "6815": "http://gurotranslation.blogspot.com/",
     "6835": "https://thevelia.wordpress.com/",
+    "6855": "https://sabertranslations.wordpress.com/",
     "695": "http://kh.beyondeternal.com/",
     "735": "http://nyarscans.livejournal.com/",
     "75": "http://orangetangerine.cjb.net",

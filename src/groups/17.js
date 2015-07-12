@@ -198,6 +198,7 @@ var urlfix_grouplist = {
     "677": "http://wai-yeng.livejournal.com/",
     "6777": "http://jnmbs.blogspot.com/",
     "6797": "http://bato.to/group/_/u/uncharted-scanlations-r5432",
+    "6857": "https://lovelystrangedark.wordpress.com/",
     "697": "http://syruptitiously.livejournal.com/",
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",
     "737": "http://pinoyotaku.com/index.html",

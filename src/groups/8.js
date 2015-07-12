@@ -183,6 +183,7 @@ var urlfix_grouplist = {
     "68": "http://two.guestbook.de/gb.cgi?gid=785692&amp;prot=lemcdp",
     "6808": "http://royaltls.blogspot.com/",
     "6828": "https://lygartranslations.wordpress.com/",
+    "6848": "http://niflheim.x10host.com/",
     "708": "http://central-library.livejournal.com/",
     "728": "http://www.hyuu-scans.com",
     "768": "http://xxx.yokubou.org/",
