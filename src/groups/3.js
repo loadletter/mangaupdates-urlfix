@@ -212,6 +212,7 @@ var urlfix_grouplist = {
     "6763": "http://smallish-violet.livejournal.com/",
     "6823": "https://novicetranslator.wordpress.com",
     "683": "http://community.livejournal.com/ptfjaguar/",
+    "6863": "https://diwasteman.wordpress.com/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",

@@ -207,6 +207,7 @@ var urlfix_grouplist = {
     "6824": "http://bato.to/group/_/a/arentastic-translations-r5472",
     "684": "http://www.townsocks.net",
     "6844": "http://teammoe.haruha.ru/",
+    "6864": "http://kitteninspaghetti.tumblr.com/",
     "704": "http://www.yaoi.ca/drten/index.php",
     "724": "http://lyrebird.aithine.org/halfbaked/",
     "784": "http://tracker.danomac.org/i-z/",

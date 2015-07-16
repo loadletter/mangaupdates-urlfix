@@ -196,6 +196,7 @@ var urlfix_grouplist = {
     "6826": "https://noone2246.wordpress.com/",
     "6846": "http://musundescans.blogspot.com/",
     "686": "http://www.hanazuke.tk/",
+    "6866": "https://yellawlaw.wordpress.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",
