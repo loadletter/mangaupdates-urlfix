@@ -181,6 +181,7 @@ var urlfix_grouplist = {
     "6818": "http://turb0translation.blogspot.com/",
     "6838": "https://tomorolls.wordpress.com/",
     "6858": "https://thedefend.wordpress.com/",
+    "6878": "http://cielwong.tumblr.com/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",
     "738": "http://www.newnede.com/",

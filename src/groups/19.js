@@ -194,6 +194,7 @@ var urlfix_grouplist = {
     "6819": "http://sentimientoyaoi.blogspot.com/",
     "6839": "https://bunnyscans.wordpress.com/",
     "6859": "http://eldura.tumblr.com/",
+    "6879": "http://doujinshicrazedscans.tumblr.com/",
     "699": "http://pbhm.kiriau.net",
     "719": "http://minkyleigh.livejournal.com/",
     "759": "http://reverie.esmartkid.com/",

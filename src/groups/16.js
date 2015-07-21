@@ -200,6 +200,7 @@ var urlfix_grouplist = {
     "6776": "http://nobodyelsescanlation.blogspot.com/",
     "6836": "http://dracaena-scans.net/en/",
     "6856": "https://kedelu.wordpress.com/",
+    "6876": "http://ichigo-day.tumblr.com/",
     "716": "http://anime-theatre.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
     "796": "http://www.proxy-scans.com",

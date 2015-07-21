@@ -180,6 +180,7 @@ var urlfix_grouplist = {
     "6300": "http://himetranslations.tumblr.com/",
     "6380": "http://breadscans.tk/",
     "6400": "https://3829worksonstuff.wordpress.com/",
+    "6440": "http://bato.to/group/_/p/p106-r5083",
     "6560": "https://putttytranslations.wordpress.com/",
     "6640": "https://loliquent.wordpress.com/",
     "6660": "http://bato.to/group/_/i/insti-r5318",

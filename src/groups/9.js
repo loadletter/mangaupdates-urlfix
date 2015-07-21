@@ -194,6 +194,7 @@ var urlfix_grouplist = {
     "6809": "http://justblthings.weebly.com/",
     "6829": "https://nohohontranslations.wordpress.com/",
     "6849": "https://omgitsaray.wordpress.com/",
+    "6869": "http://tmicscans.tumblr.com/",
     "689": "http://mangahelpers.com/forum/index.php?topic=3974.0",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "749": "http://withthewill.net",

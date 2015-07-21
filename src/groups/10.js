@@ -193,6 +193,7 @@ var urlfix_grouplist = {
     "6810": "http://srscans.blogspot.com/",
     "6830": "http://snoozingscans.tumblr.com/",
     "6850": "https://thyaeria.wordpress.com/",
+    "6870": "http://choco-vani.blogspot.com/",
     "690": "http://tsubusu.atspace.com/",
     "730": "http://www.animeco.org/",
     "830": "http://digimonhimitsu.com/",

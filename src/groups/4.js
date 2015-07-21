@@ -197,7 +197,7 @@ var urlfix_grouplist = {
     "6604": "http://kaezartranslations.blogspot.com/",
     "6624": "http://ls-scan.livejournal.com/",
     "6664": "http://bato.to/group/_/g/gdaff-r5325",
-    "6684": "https://pikatranslations.wordpress.com/",
+    "6684": "http://pikatranslations.com/",
     "6704": "http://turtleduck.org/",
     "6724": "http://bepsikara-scans.tumblr.com/",
     "6744": "http://heartsfragrance.tumblr.com/",

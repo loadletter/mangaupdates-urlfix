@@ -165,7 +165,7 @@ var urlfix_grouplist = {
     "6047": "https://azurevoid.wordpress.com/",
     "6067": "http://soldier-hero.tumblr.com/",
     "607": "http://www.soompi.com",
-    "6087": "http://solitarytranslation.wordpress.com/",
+    "6087": "https://jntranslation.wordpress.com/",
     "6127": "http://black7bleach.livejournal.com/",
     "6147": "https://twitter.com/batmanscans",
     "6167": "http://shiroscanlations.wordpress.com/",
