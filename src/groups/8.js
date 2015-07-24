@@ -172,6 +172,7 @@ var urlfix_grouplist = {
     "6348": "http://bato.to/group/_/m/mms-mechanical-scans-r4972",
     "6388": "https://mahoutsuki.wordpress.com/",
     "648": "http://zeldalegends.net/",
+    "6528": "http://tosakaa.tumblr.com/",
     "6548": "http://undertheseaside.tumblr.com/",
     "6608": "http://legendmastermanga.blogspot.com/",
     "6668": "http://otonashi-diva.livejournal.com/",

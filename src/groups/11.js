@@ -172,6 +172,7 @@ var urlfix_grouplist = {
     "6451": "http://dreamskye7.tumblr.com/",
     "6491": "http://xcrossj.blogspot.com/",
     "651": "http://www.wangan-midnight.com/",
+    "6531": "http://noragamis.tumblr.com/",
     "6611": "http://yes-rhade-djs.livejournal.com/",
     "6631": "http://oshix3.tumblr.com/",
     "6651": "https://isekaimahou.wordpress.com/",

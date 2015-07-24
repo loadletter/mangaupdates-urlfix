@@ -186,6 +186,7 @@ var urlfix_grouplist = {
     "6477": "https://xahkun.wordpress.com/",
     "6497": "http://mokkachi.tumblr.com/",
     "6517": "https://unexpectedscans.wordpress.com/",
+    "6537": "http://bato.to/group/_/q/quinctl-r5215",
     "6557": "http://kurobasu-comics.tumblr.com/",
     "6577": "http://blacksky-scans.livejournal.com/487.html",
     "6617": "http://amaitsumi.tumblr.com/",

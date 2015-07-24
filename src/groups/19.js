@@ -180,6 +180,8 @@ var urlfix_grouplist = {
     "6379": "http://traumereiscans.blogspot.com/",
     "6399": "http://michi.yujo.over-blog.com/",
     "6459": "https://palmereapscans.wordpress.com/",
+    "6519": "http://onizenmaru.tumblr.com/",
+    "6539": "https://web.archive.org/web/20150323020015/http://venevargas.tumblr.com/",
     "6579": "http://rhinabolla.wordpress.com",
     "659": "http://groups.yahoo.com/group/chibitorascanlations/",
     "6619": "http://pandatranslations.net/",

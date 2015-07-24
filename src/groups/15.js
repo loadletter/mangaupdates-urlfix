@@ -175,6 +175,7 @@ var urlfix_grouplist = {
     "6435": "http://yukinascans.blogspot.com/",
     "6455": "http://bato.to/group/_/c/capsusingshift-r5147",
     "6495": "http://totobro.com/",
+    "6535": "http://wheres-the-phone.tumblr.com/",
     "6555": "http://graychalk.tumblr.com/",
     "6575": "http://unnamedtranslations.blogspot.com/",
     "6615": "http://doushinojikan.tumblr.com/",

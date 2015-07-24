@@ -192,6 +192,7 @@ var urlfix_grouplist = {
     "6384": "http://kurose.co.vu/",
     "64": "http://www.manga-sketchbook.org/",
     "6424": "http://icarustranslations.net/",
+    "6524": "http://nana-aniki.tumblr.com/",
     "6544": "http://glitzybaubles.tumblr.com/",
     "6584": "https://signerstranslations.wordpress.com/",
     "6604": "http://kaezartranslations.blogspot.com/",

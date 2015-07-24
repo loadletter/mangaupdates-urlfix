@@ -200,6 +200,7 @@ var urlfix_grouplist = {
     "6423": "https://silvermanga.wordpress.com/",
     "643": "http://www.ju-ni.net",
     "6463": "https://otakunotsuki.wordpress.com/",
+    "6523": "http://milky96.tumblr.com/",
     "6583": "http://shslscans.tumblr.com/",
     "6603": "http://9ethtranslations.wordpress.com",
     "6623": "https://choukun.wordpress.com/",

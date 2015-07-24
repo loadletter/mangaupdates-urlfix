@@ -180,6 +180,7 @@ var urlfix_grouplist = {
     "6447": "http://pegasusfarts.blogspot.com/",
     "6467": "http://www.readmanga.today/",
     "6507": "https://mega.co.nz/#F!gc8wQK5I!hVxuyo35hkuR9Ao_9nrYmA",
+    "6527": "http://kromze.tumblr.com/",
     "6547": "http://lightsrefrain.tumblr.com/",
     "6567": "http://starkstrider.tumblr.com/",
     "6607": "http://www.seiyuuri.com/category/translations/yuri/",

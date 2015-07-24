@@ -164,6 +164,8 @@ var urlfix_grouplist = {
     "6398": "http://inferiorscans.blogspot.com/",
     "6418": "http://thenakedsol.blogspot.com/",
     "6438": "http://starryskyscans.livejournal.com/",
+    "6518": "http://bato.to/group/_/h/htrajan-r3828",
+    "6538": "http://yellowmoth.tumblr.com/",
     "6558": "http://apollonblue.tumblr.com/",
     "6578": "http://bato.to/group/_/i/its-not-gay-if-its-cute-scans-r5232",
     "658": "http://www.l33tmaster.com",

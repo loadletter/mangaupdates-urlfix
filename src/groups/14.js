@@ -193,6 +193,7 @@ var urlfix_grouplist = {
     "6414": "http://mach20.org/",
     "6474": "https://hydratranslations1.wordpress.com/",
     "6494": "http://baeconscans.tumblr.com/",
+    "6514": "http://nanatsuji-ya.tumblr.com/",
     "654": "http://yes-rhade-djs.livejournal.com/",
     "6554": "http://rurarara.tumblr.com/",
     "6614": "https://shokyuutranslations.wordpress.com/",

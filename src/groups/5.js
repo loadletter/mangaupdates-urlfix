@@ -193,6 +193,7 @@ var urlfix_grouplist = {
     "6445": "http://smallworldscans.tumblr.com/",
     "645": "http://www.kindan-no-aku.com/",
     "65": "http://kotonoha.monkey-pirate.com/",
+    "6525": "http://kachimatsu.tumblr.com/",
     "6545": "http://oyasumimi.tumblr.com/",
     "6565": "http://junichiro-kun.tumblr.com/",
     "6585": "http://akahoshiscans.blogspot.com/",
