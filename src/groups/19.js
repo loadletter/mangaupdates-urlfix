@@ -104,7 +104,7 @@ var urlfix_grouplist = {
     "4199": "http://smgscanlations.wordpress.com/",
     "4239": "http://makingmangascans.blogspot.com/",
     "4259": "http://penguinmanga.wordpress.com/",
-    "4279": "http://snowfag.blogspot.com/",
+    "4279": "http://boards.4chan.org/u/",
     "4299": "http://soul-anime.com/",
     "4319": "https://sites.google.com/site/tbsscan/",
     "4359": "http://ultimatemegax.wordpress.com/",

@@ -200,6 +200,7 @@ var urlfix_grouplist = {
     "6772": "http://shiroyukitranslations.com/",
     "6792": "http://www.deadlylegends.com/translations/",
     "6812": "http://aritedrop.blogspot.com/",
+    "6892": "http://animerg.net/",
     "692": "http://s-kojika.com/PKR/",
     "72": "http://www.jankenpon.de/",
     "792": "http://kaze-hime.deviantart.com",

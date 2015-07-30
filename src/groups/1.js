@@ -206,6 +206,7 @@ var urlfix_grouplist = {
     "6781": "http://bato.to/group/_/k/kusugu-r5441",
     "681": "http://community.livejournal.com/afascinante/",
     "6841": "https://clover7snook.wordpress.com/",
+    "6881": "https://whiteliesfansub.wordpress.com/",
     "701": "http://www.bearpu.be/",
     "721": "http://kenshinscans.anxious-anime.com/",
     "741": "http://www.swordbreaker.com/",

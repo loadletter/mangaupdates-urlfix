@@ -194,6 +194,7 @@ var urlfix_grouplist = {
     "6800": "http://psybladetranslation.blogspot.com/",
     "6840": "https://translatedbyaclown.wordpress.com/",
     "6860": "https://otomerevo.wordpress.com/",
+    "6880": "http://ongeee.tumblr.com/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",

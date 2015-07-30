@@ -198,6 +198,7 @@ var urlfix_grouplist = {
     "6847": "http://www.gomiracles.net/",
     "6867": "http://thetwomusketeers.weebly.com/",
     "687": "http://binktopia.org/",
+    "6887": "http://letitgo-scans.blogspot.com/",
     "727": "http://www.myspace.com/kurisuscans",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",
     "807": "http://mankin-trad.net",

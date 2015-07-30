@@ -209,6 +209,7 @@ var urlfix_grouplist = {
     "684": "http://www.townsocks.net",
     "6844": "http://teammoe.haruha.ru/",
     "6864": "http://kitteninspaghetti.tumblr.com/",
+    "6884": "http://www.aaaaaaaahhhshiee.party/",
     "704": "http://www.yaoi.ca/drten/index.php",
     "724": "http://lyrebird.aithine.org/halfbaked/",
     "784": "http://tracker.danomac.org/i-z/",

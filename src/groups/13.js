@@ -183,7 +183,7 @@ var urlfix_grouplist = {
     "6533": "http://volleyboys.tumblr.com/",
     "6553": "http://hibana.tumblr.com/",
     "6613": "https://potatoslaves.wordpress.com/",
-    "6633": "https://alyschu.wordpress.com/",
+    "6633": "http://moonbunnycafe.com/",
     "6653": "https://aflappyteddybird.wordpress.com/",
     "6673": "http://kkm-wolframfans.livejournal.com/",
     "6693": "http://wordswithoutborders.org/",

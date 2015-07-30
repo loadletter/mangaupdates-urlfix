@@ -186,6 +186,7 @@ var urlfix_grouplist = {
     "6811": "http://bato.to/group/_/m/mariofan215-r5305",
     "6831": "http://yoh.chocolatkey.com/",
     "6871": "http://play-ball-scans.tumblr.com/",
+    "6891": "https://wuxiaheroes.wordpress.com/",
     "71": "http://mangatranslation.com/",
     "711": "http://mangahelpers.com/forum/index.php?topic=4995.0",
     "731": "http://paizuriteam.free.fr/index.php",

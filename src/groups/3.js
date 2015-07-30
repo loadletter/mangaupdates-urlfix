@@ -215,6 +215,7 @@ var urlfix_grouplist = {
     "683": "http://community.livejournal.com/ptfjaguar/",
     "6843": "http://www.deadlylegends.com/translations/",
     "6863": "https://diwasteman.wordpress.com/",
+    "6883": "https://shinsoritranslations.wordpress.com/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
