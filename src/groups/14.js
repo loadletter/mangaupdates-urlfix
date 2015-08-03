@@ -210,6 +210,7 @@ var urlfix_grouplist = {
     "6834": "https://entruce.wordpress.com/",
     "6854": "https://www.mangaupdates.com/groups.html?id=6749",
     "6874": "http://casawayne.blogspot.com/",
+    "6894": "http://read-heavenlyscans.com/",
     "694": "http://jump-scans.pillars-gaming.com/",
     "714": "http://shanelone7.coolfreepage.com/",
     "734": "http://www.aizuwinter.bravehost.com",

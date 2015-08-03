@@ -192,7 +192,7 @@ var urlfix_grouplist = {
     "6740": "http://ladder-chan.tumblr.com/",
     "6760": "https://lnaddiction.wordpress.com/",
     "6800": "http://psybladetranslation.blogspot.com/",
-    "6840": "https://translatedbyaclown.wordpress.com/",
+    "6840": "http://circustranslations.com/",
     "6860": "https://otomerevo.wordpress.com/",
     "6880": "http://ongeee.tumblr.com/",
     "700": "http://www.compman44.com/",

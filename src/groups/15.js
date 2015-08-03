@@ -190,6 +190,7 @@ var urlfix_grouplist = {
     "6835": "https://thevelia.wordpress.com/",
     "6855": "https://sabertranslations.wordpress.com/",
     "6875": "http://letitgo-scans.blogspot.com/",
+    "6895": "https://rhlscans.wordpress.com/",
     "695": "http://kh.beyondeternal.com/",
     "735": "http://nyarscans.livejournal.com/",
     "75": "http://orangetangerine.cjb.net",

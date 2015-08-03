@@ -152,6 +152,7 @@ var urlfix_grouplist = {
     "5382": "http://aoi-hisui.tumblr.com/",
     "542": "http://www.plumcity.org/",
     "5422": "http://sweetpuriinsuscans.tumblr.com/",
+    "5442": "http://earthly-chaos.livejournal.com/",
     "5462": "http://kamedenscans.wordpress.com/",
     "5522": "http://sweet-temptation-scans.blogspot.com/",
     "5542": "http://substitutescans.com/",
