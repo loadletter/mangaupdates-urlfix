@@ -180,6 +180,7 @@ var urlfix_grouplist = {
     "6453": "http://bato.to/group/_/g/glorious-scanlations-r5103",
     "6473": "http://worldofwatermelons.com/",
     "6493": "http://bato.to/group/_/c/cirno9baka-r5189",
+    "6513": "http://neomah.tumblr.com/",
     "6533": "http://volleyboys.tumblr.com/",
     "6553": "http://hibana.tumblr.com/",
     "6613": "https://potatoslaves.wordpress.com/",

@@ -191,6 +191,7 @@ var urlfix_grouplist = {
     "634": "http://himitsu.50webs.com/",
     "6394": "http://gravitytales.com/",
     "6414": "http://mach20.org/",
+    "6434": "https://unbreakablemachinedoll.wordpress.com/",
     "6474": "https://hydratranslations1.wordpress.com/",
     "6494": "http://baeconscans.tumblr.com/",
     "6514": "http://nanatsuji-ya.tumblr.com/",

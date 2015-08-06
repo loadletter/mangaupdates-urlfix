@@ -184,6 +184,7 @@ var urlfix_grouplist = {
     "6316": "http://lucy-dorkneel.tumblr.com/",
     "636": "http://gokujyou-doujinshi.tripod.com/index.html",
     "6396": "https://www.mangaholics.net",
+    "6456": "http://bato.to/group/_/n/neoproject-scanlation-r4607",
     "6476": "http://www.cdscans.com.br/",
     "6536": "https://voidtranslations.wordpress.com/",
     "656": "http://www.socool.tk/",
