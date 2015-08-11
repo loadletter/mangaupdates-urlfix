@@ -201,6 +201,7 @@ var urlfix_grouplist = {
     "6869": "http://tmicscans.tumblr.com/",
     "6889": "https://tsurezurescans.wordpress.com/",
     "689": "http://mangahelpers.com/forum/index.php?topic=3974.0",
+    "6909": "http://rainbootsscans.tumblr.com/",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "749": "http://withthewill.net",
     "769": "http://www.japan-legend.com",

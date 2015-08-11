@@ -185,6 +185,7 @@ var urlfix_grouplist = {
     "6838": "https://tomorolls.wordpress.com/",
     "6858": "https://thedefend.wordpress.com/",
     "6878": "http://cielwong.tumblr.com/",
+    "6918": "http://lavenderscanlations.com/",
     "698": "http://jenniyah.cjb.net/",
     "718": "http://www.sailorspork.org/",
     "738": "http://www.newnede.com/",
