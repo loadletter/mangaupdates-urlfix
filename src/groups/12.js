@@ -185,6 +185,7 @@ var urlfix_grouplist = {
     "6292": "http://www.firststepsscans.tumblr.com/",
     "6312": "http://bato.to/group/_/o/operation-gst%C3%B6rte-esel-r4927",
     "6332": "https://www.mediafire.com/hidamarimanga",
+    "6352": "http://bato.to/group/_/s/sakubelibelles-r5002",
     "6372": "http://sushiscans.tumblr.com/",
     "6432": "http://bato.to/forums/forum/14435-the-scanlation-army/",
     "6452": "https://pinyintranslations.wordpress.com/",

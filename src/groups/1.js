@@ -212,6 +212,7 @@ var urlfix_grouplist = {
     "6841": "https://clover7snook.wordpress.com/",
     "6881": "https://whiteliesfansub.wordpress.com/",
     "6901": "http://bato.to/group/_/l/love-live-scanlations-r5526",
+    "6921": "http://monochromegravityscans.tumblr.com/",
     "701": "http://www.bearpu.be/",
     "721": "http://kenshinscans.anxious-anime.com/",
     "741": "http://www.swordbreaker.com/",

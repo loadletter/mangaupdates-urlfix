@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "6293": "https://sites.google.com/site/sekaigameoredake/",
     "6313": "http://memory-lane-scans.blogspot.com/",
     "633": "http://community.livejournal.com/pms_manga/",
+    "6333": "http://vaizardnosekai.net/",
     "6353": "http://valryssian.wordpress.com/",
     "6373": "https://oniichanyamete.wordpress.com/",
     "6413": "https://tsaltranslation.wordpress.com/",

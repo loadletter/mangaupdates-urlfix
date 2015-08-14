@@ -177,6 +177,7 @@ var urlfix_grouplist = {
     "6209": "http://bato.to/group/_/h/horsey-the-puny-r4725",
     "6229": "https://yoraikun.wordpress.com/",
     "6269": "http://radionoisescans.blogspot.com/",
+    "6349": "http://washokudan.tumblr.com/",
     "6409": "http://bato.to/group/_/n/nest-traducciones-r4597",
     "6429": "https://itranslateln.wordpress.com/",
     "6449": "http://bato.to/group/_/c/celery-r5144",

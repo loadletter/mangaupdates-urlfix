@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "6291": "http://yourewelcomescans.wordpress.com/",
     "6331": "http://variationa.tumblr.com/",
     "6351": "http://fast-moon.tumblr.com/",
+    "6411": "http://kumapillow.tumblr.com/",
     "6431": "https://faeryscans.wordpress.com/",
     "6451": "http://dreamskye7.tumblr.com/",
     "6491": "http://xcrossj.blogspot.com/",

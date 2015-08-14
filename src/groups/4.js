@@ -188,6 +188,7 @@ var urlfix_grouplist = {
     "6244": "http://yaoidesirerevolution.blogspot.com/",
     "6284": "http://wingfril.livejournal.com/",
     "6324": "http://wartdf.wordpress.com/",
+    "6344": "http://bato.to/group/_/t/team-bbp-r4569",
     "6364": "http://bubblemilkgreenteascans.blogspot.com/",
     "6384": "http://kurose.co.vu/",
     "64": "http://www.manga-sketchbook.org/",
