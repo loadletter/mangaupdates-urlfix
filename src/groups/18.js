@@ -158,6 +158,8 @@ var urlfix_grouplist = {
     "618": "http://www.freewebs.com/ucrumble/",
     "6198": "https://twitter.com/TtCTranslations",
     "6238": "http://oofuri-baka.tumblr.com/tagged/releases",
+    "6298": "http://last-heaven-fansub.com/",
+    "6318": "http://heaven.neo-romance.net/",
     "6338": "http://mangadolls.wordpress.com/",
     "6358": "https://seiaiscans.wordpress.com/",
     "638": "http://translationtexts.cjb.net/",

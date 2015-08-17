@@ -189,6 +189,7 @@ var urlfix_grouplist = {
     "6828": "https://lygartranslations.wordpress.com/",
     "6848": "http://niflheim.x10host.com/",
     "6868": "https://alicetranslations.wordpress.com/",
+    "6928": "https://pedanticperspective.wordpress.com/category/ppscans/",
     "708": "http://central-library.livejournal.com/",
     "728": "http://www.hyuu-scans.com",
     "768": "http://xxx.yokubou.org/",

@@ -213,6 +213,7 @@ var urlfix_grouplist = {
     "6874": "http://casawayne.blogspot.com/",
     "6894": "http://read-heavenlyscans.com/",
     "6914": "http://parascans.blogspot.com/",
+    "6934": "https://www.reddit.com/user/NikolaMiljevic",
     "694": "http://jump-scans.pillars-gaming.com/",
     "714": "http://shanelone7.coolfreepage.com/",
     "734": "http://www.aizuwinter.bravehost.com",

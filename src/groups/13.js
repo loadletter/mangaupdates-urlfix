@@ -171,6 +171,7 @@ var urlfix_grouplist = {
     "6173": "http://www.batoto.net/group/_/h/hazue-ishin-r3590",
     "6213": "http://bato.to/group/_/k/kaneki-scans-r4691",
     "6253": "http://lovesick-udunno.tumblr.com/",
+    "6273": "http://bato.to/group/_/b/bloodl-r3418",
     "6293": "https://sites.google.com/site/sekaigameoredake/",
     "6313": "http://memory-lane-scans.blogspot.com/",
     "633": "http://community.livejournal.com/pms_manga/",

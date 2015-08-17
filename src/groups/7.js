@@ -175,6 +175,7 @@ var urlfix_grouplist = {
     "6267": "http://bato.to/group/_/b/betterthannothing-r4802",
     "6287": "http://009godswar.dreamwidth.org/",
     "6307": "http://bato.to/group/_/j/jeff-r3023",
+    "6327": "http://levelupsubs.blogspot.com/",
     "6367": "https://akashalink.wordpress.com/",
     "6387": "http://arkmachinetranslations.com/",
     "6407": "http://skdscans-english.tumblr.com/",
