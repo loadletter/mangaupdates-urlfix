@@ -203,6 +203,7 @@ var urlfix_grouplist = {
     "6877": "http://fuj0shi-heaven.tumblr.com/",
     "6897": "http://cafeconirst.com/",
     "6917": "http://shokkan.tumblr.com/",
+    "6937": "http://coolnekochan.com/",
     "697": "http://syruptitiously.livejournal.com/",
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",
     "737": "http://pinoyotaku.com/index.html",
