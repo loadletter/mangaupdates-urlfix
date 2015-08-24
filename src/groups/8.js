@@ -163,6 +163,8 @@ var urlfix_grouplist = {
     "6028": "http://cicada-scans.tumblr.com/",
     "6068": "http://lonemanga.com/",
     "6088": "http://comiplex.com/",
+    "6108": "http://bato.to/group/_/a/animefangirl-r4320",
+    "6128": "http://itsukimei.tumblr.com/",
     "6208": "https://bluesilvertranslations.wordpress.com/",
     "6228": "http://horriblesubs.info/category/scans/",
     "6268": "http://theplotthief.tumblr.com/",

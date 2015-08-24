@@ -175,6 +175,7 @@ var urlfix_grouplist = {
     "6062": "http://yudy-arzachel.blogspot.com/",
     "6082": "http://pyralisa.tumblr.com",
     "6122": "http://nyahafuckingha.tumblr.com/",
+    "6142": "http://kusamasakaelove.tumblr.com/",
     "6182": "http://smirking-raven.tumblr.com/",
     "62": "http://atoz.reikou.net/",
     "6202": "http://bato.to/group/_/s/segobi-r4641",

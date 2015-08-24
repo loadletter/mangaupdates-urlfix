@@ -178,6 +178,7 @@ var urlfix_grouplist = {
     "5945": "http://kimagurescansub.wordpress.com/",
     "5965": "http://www.batoto.net/group/_/l/leo-r4075",
     "5985": "http://www.batoto.net/group/_/b/burger-scans-r4236",
+    "6005": "http://bato.to/group/_/b/bishiehaven-r1910",
     "6045": "http://divulge-scans.tumblr.com",
     "605": "http://yuki-scans.tk/",
     "6085": "http://bato.to/group/_/o/ostnt-r4463",

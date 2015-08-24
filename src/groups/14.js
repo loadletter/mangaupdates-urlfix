@@ -178,6 +178,7 @@ var urlfix_grouplist = {
     "6054": "http://itsdaletos.tumblr.com/",
     "6074": "http://kawascans.wordpress.com/",
     "6094": "http://bato.to/group/_/a/akairi-akairizumu-r4158",
+    "6114": "https://kobatochanecchisuki.wordpress.com/",
     "6134": "http://onetimescans.com/",
     "614": "http://deliciouspenguins.akujind.com/",
     "6154": "http://pinkstarbepinkasane.blogspot.com/",
