@@ -201,6 +201,8 @@ var urlfix_grouplist = {
     "6853": "http://bato.to/group/_/l/little-o-r5475",
     "6873": "http://horichansenpai.livejournal.com/",
     "6913": "https://soaringtranslations.wordpress.com/",
+    "6953": "http://nogitsune.tumblr.com/",
+    "6973": "http://novelcow.com/",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",

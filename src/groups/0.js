@@ -204,6 +204,7 @@ var urlfix_grouplist = {
     "6900": "http://yukkuri-literature-service.blogspot.com/",
     "6920": "http://www.yomanga.co/",
     "6940": "https://cdgscans.wordpress.com/",
+    "6960": "http://snh-fan.tumblr.com/",
     "700": "http://www.compman44.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",

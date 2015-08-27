@@ -207,6 +207,8 @@ var urlfix_grouplist = {
     "6899": "http://ravens-fs.blogspot.com/",
     "6919": "http://lmaonadelol.tumblr.com",
     "6939": "https://www.facebook.com/TimelessScans",
+    "6959": "http://ladder-sama.tumblr.com/",
+    "6979": "http://kumagemonmon.tumblr.com/",
     "699": "http://pbhm.kiriau.net",
     "719": "http://minkyleigh.livejournal.com/",
     "759": "http://reverie.esmartkid.com/",

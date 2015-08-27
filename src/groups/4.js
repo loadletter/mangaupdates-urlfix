@@ -214,6 +214,8 @@ var urlfix_grouplist = {
     "6864": "http://kitteninspaghetti.tumblr.com/",
     "6884": "http://www.aaaaaaaahhhshiee.party/",
     "6904": "http://gameofscanlation.moe/",
+    "6964": "http://junontakeo.tumblr.com/",
+    "6984": "http://bato.to/group/_/r/rmanga-scans-r5629",
     "704": "http://www.yaoi.ca/drten/index.php",
     "724": "http://lyrebird.aithine.org/halfbaked/",
     "784": "http://tracker.danomac.org/i-z/",

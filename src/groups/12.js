@@ -207,6 +207,8 @@ var urlfix_grouplist = {
     "6812": "http://aritedrop.blogspot.com/",
     "6892": "http://animerg.net/",
     "692": "http://s-kojika.com/PKR/",
+    "6952": "https://remyampersand.wordpress.com/",
+    "6992": "http://gundam-meowth.tumblr.com/",
     "72": "http://www.jankenpon.de/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",

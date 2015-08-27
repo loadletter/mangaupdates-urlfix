@@ -207,6 +207,7 @@ var urlfix_grouplist = {
     "6876": "http://ichigo-day.tumblr.com/",
     "6916": "http://crappy-bl-scanlations.tumblr.com/",
     "6936": "http://wishfulscans.blogspot.com/",
+    "6976": "http://fortunesrevolver.tumblr.com/",
     "716": "http://anime-theatre.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
     "796": "http://www.proxy-scans.com",

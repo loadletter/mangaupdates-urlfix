@@ -220,6 +220,7 @@ var urlfix_grouplist = {
     "6863": "https://diwasteman.wordpress.com/",
     "6883": "https://shinsoritranslations.wordpress.com/",
     "6923": "http://bato.to/group/_/s/still-no-gf-r5611",
+    "6963": "http://mewdragon.tumblr.com/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
