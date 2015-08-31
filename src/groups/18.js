@@ -194,6 +194,7 @@ var urlfix_grouplist = {
     "6958": "http://eternallovescanlations.tumblr.com/",
     "6978": "http://cseg64.blogspot.com/",
     "698": "http://jenniyah.cjb.net/",
+    "6998": "https://kanascans.wordpress.com/",
     "718": "http://www.sailorspork.org/",
     "738": "http://www.newnede.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",

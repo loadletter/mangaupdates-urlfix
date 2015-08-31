@@ -218,6 +218,7 @@ var urlfix_grouplist = {
     "6941": "http://tl-skeweds.blogspot.com/",
     "6961": "http://pinku-blossom.tumblr.com/",
     "6981": "http://kcpscangroup.tumblr.com/",
+    "7001": "http://bato.to/group/_/b/bird-collective-translations-r4798",
     "701": "http://www.bearpu.be/",
     "721": "http://kenshinscans.anxious-anime.com/",
     "741": "http://www.swordbreaker.com/",

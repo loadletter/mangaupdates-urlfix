@@ -221,6 +221,7 @@ var urlfix_grouplist = {
     "6925": "http://schin-ken.tumblr.com/",
     "6965": "http://s-hiros.tumblr.com/",
     "6985": "http://sirpository.tumblr.com/",
+    "7005": "http://chiisana-tori.livejournal.com/",
     "705": "http://z13.invisionfree.com/Phoenix_Scans/",
     "725": "http://ossu.maximum7.net/",
     "745": "http://home.nc.rr.com/momotato/yotsubato.html",

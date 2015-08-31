@@ -217,6 +217,7 @@ var urlfix_grouplist = {
     "6942": "https://mystiquetranslations.wordpress.com/",
     "6962": "http://chilly-territory.tumblr.com/",
     "6982": "http://rapinii-scanlations.tumblr.com/",
+    "7002": "https://ehscans.wordpress.com/",
     "722": "http://in2k2.digital-takeout.net/",
     "762": "http://www.hikaru-no-go-world.new.fr/",
     "82": "http://jinmen.pyoko.org/",

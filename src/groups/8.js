@@ -195,6 +195,7 @@ var urlfix_grouplist = {
     "6948": "https://terminustranslations.wordpress.com/",
     "6968": "http://fujoshi-ninja.tumblr.com/",
     "6988": "http://aeriii.tumblr.com/",
+    "7008": "http://monobuu.livejournal.com/",
     "708": "http://central-library.livejournal.com/",
     "728": "http://www.hyuu-scans.com",
     "768": "http://xxx.yokubou.org/",
