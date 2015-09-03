@@ -211,6 +211,7 @@ var urlfix_grouplist = {
     "697": "http://syruptitiously.livejournal.com/",
     "6977": "http://maneleleina01.livejournal.com/",
     "6997": "http://mofochika.tumblr.com/",
+    "7017": "http://heichoustoilethumor.tumblr.com/",
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",
     "737": "http://pinoyotaku.com/index.html",
     "77": "http://inanemanga.com/",

@@ -209,6 +209,8 @@ var urlfix_grouplist = {
     "692": "http://s-kojika.com/PKR/",
     "6952": "https://remyampersand.wordpress.com/",
     "6992": "http://gundam-meowth.tumblr.com/",
+    "7012": "http://bandicoot88.tumblr.com/",
+    "7032": "http://miawfantasy88.tumblr.com/",
     "72": "http://www.jankenpon.de/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",

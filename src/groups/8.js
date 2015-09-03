@@ -196,6 +196,7 @@ var urlfix_grouplist = {
     "6968": "http://fujoshi-ninja.tumblr.com/",
     "6988": "http://aeriii.tumblr.com/",
     "7008": "http://monobuu.livejournal.com/",
+    "7028": "http://linefaced.tumblr.com/",
     "708": "http://central-library.livejournal.com/",
     "728": "http://www.hyuu-scans.com",
     "768": "http://xxx.yokubou.org/",

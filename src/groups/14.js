@@ -219,6 +219,8 @@ var urlfix_grouplist = {
     "6954": "https://totallyinsanetranslations.wordpress.com/",
     "6974": "http://caveatdoujin.tumblr.com/",
     "6994": "http://tekitouscans.tumblr.com/",
+    "7014": "http://micomicomico.tumblr.com/",
+    "7034": "http://kazevita.tumblr.com/",
     "714": "http://shanelone7.coolfreepage.com/",
     "734": "http://www.aizuwinter.bravehost.com",
     "74": "http://www.snoopycool.com/",

@@ -206,6 +206,7 @@ var urlfix_grouplist = {
     "6940": "https://cdgscans.wordpress.com/",
     "6960": "http://snh-fan.tumblr.com/",
     "700": "http://www.compman44.com/",
+    "7020": "http://samansucks.tumblr.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",

@@ -207,6 +207,7 @@ var urlfix_grouplist = {
     "6906": "http://bato.to/group/_/b/bored-af-translator-r5473",
     "6966": "http://sevenfortynine.tumblr.com/",
     "6986": "http://thatanonperson.tumblr.com/",
+    "7026": "http://meidorin.tumblr.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

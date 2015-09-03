@@ -195,6 +195,7 @@ var urlfix_grouplist = {
     "6931": "https://www.dropbox.com/sh/nvhyq1b73etjly7/AAATUVP7XNWhg8XWbosclxNDa?dl=0",
     "6971": "http://thatkindoffangirl.tumblr.com/",
     "6991": "http://ayumukunnn.tumblr.com/",
+    "7011": "http://sasugahikari.tumblr.com/",
     "71": "http://mangatranslation.com/",
     "711": "http://mangahelpers.com/forum/index.php?topic=4995.0",
     "731": "http://paizuriteam.free.fr/index.php",
