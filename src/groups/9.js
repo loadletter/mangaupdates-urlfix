@@ -210,6 +210,8 @@ var urlfix_grouplist = {
     "6989": "http://shotgunlagoon.tumblr.com/",
     "7009": "http://sky-inquisitors.livejournal.com/",
     "7029": "http://nanajana7.tumblr.com/",
+    "7049": "http://gummyfoxes.tumblr.com/",
+    "7069": "http://arkadynekozukii.tumblr.com/",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "749": "http://withthewill.net",
     "769": "http://www.japan-legend.com",

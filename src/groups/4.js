@@ -219,6 +219,8 @@ var urlfix_grouplist = {
     "7004": "http://muddadai.tumblr.com/",
     "7024": "http://enhancedtranslations.blogspot.com/",
     "704": "http://www.yaoi.ca/drten/index.php",
+    "7044": "http://cherry-oppa.tumblr.com/",
+    "7064": "http://hellscabanaboy.tumblr.com/",
     "724": "http://lyrebird.aithine.org/halfbaked/",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",

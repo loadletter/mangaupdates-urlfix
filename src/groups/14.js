@@ -216,7 +216,7 @@ var urlfix_grouplist = {
     "6914": "http://parascans.blogspot.com/",
     "6934": "https://www.reddit.com/user/NikolaMiljevic",
     "694": "http://jump-scans.pillars-gaming.com/",
-    "6954": "https://totallyinsanetranslations.wordpress.com/",
+    "6954": "http://totallyinsanetranlation.com/",
     "6974": "http://caveatdoujin.tumblr.com/",
     "6994": "http://tekitouscans.tumblr.com/",
     "7014": "http://micomicomico.tumblr.com/",

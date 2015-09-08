@@ -220,6 +220,8 @@ var urlfix_grouplist = {
     "6981": "http://kcpscangroup.tumblr.com/",
     "7001": "http://bato.to/group/_/b/bird-collective-translations-r4798",
     "701": "http://www.bearpu.be/",
+    "7041": "https://rinscans.wordpress.com/",
+    "7061": "https://kahoim.wordpress.com/",
     "721": "http://kenshinscans.anxious-anime.com/",
     "741": "http://www.swordbreaker.com/",
     "781": "http://www.mizumanga.cjb.net",

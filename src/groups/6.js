@@ -208,6 +208,8 @@ var urlfix_grouplist = {
     "6966": "http://sevenfortynine.tumblr.com/",
     "6986": "http://thatanonperson.tumblr.com/",
     "7026": "http://meidorin.tumblr.com/",
+    "7046": "http://bato.to/group/_/w/widdiful-r5670",
+    "7066": "http://pofscanlations.blogspot.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

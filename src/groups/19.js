@@ -211,6 +211,8 @@ var urlfix_grouplist = {
     "6979": "http://kumagemonmon.tumblr.com/",
     "699": "http://pbhm.kiriau.net",
     "7019": "http://zeldaporncomics.blogspot.com/",
+    "7039": "http://www.translationnations.com/",
+    "7059": "http://leanpox.tumblr.com/",
     "719": "http://minkyleigh.livejournal.com/",
     "759": "http://reverie.esmartkid.com/",
     "779": "http://club-vogue.livejournal.com/",

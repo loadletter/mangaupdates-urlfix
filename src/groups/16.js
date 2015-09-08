@@ -209,6 +209,8 @@ var urlfix_grouplist = {
     "6936": "http://wishfulscans.blogspot.com/",
     "6976": "http://fortunesrevolver.tumblr.com/",
     "7016": "https://walkthejianghu.wordpress.com/",
+    "7036": "https://piyoscans.wordpress.com/",
+    "7056": "http://memoritite.tumblr.com/",
     "716": "http://anime-theatre.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
     "796": "http://www.proxy-scans.com",

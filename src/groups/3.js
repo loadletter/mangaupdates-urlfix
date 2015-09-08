@@ -223,6 +223,8 @@ var urlfix_grouplist = {
     "6963": "http://mewdragon.tumblr.com/",
     "7003": "http://kokiden.livejournal.com/",
     "7023": "http://janaruscanlations.tumblr.com/",
+    "7043": "http://naturefj.tumblr.com/",
+    "7063": "http://snowshoebombay.tumblr.com/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",

@@ -208,6 +208,8 @@ var urlfix_grouplist = {
     "6967": "http://usuk-libertea-translations.tumblr.com/",
     "6987": "http://glassmoon-scans.livejournal.com/",
     "7007": "http://mono-scans.livejournal.com/",
+    "7047": "http://underground-scanlations.tumblr.com/",
+    "7067": "http://catwithbenefits.tumblr.com/",
     "727": "http://www.myspace.com/kurisuscans",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",
     "807": "http://mankin-trad.net",

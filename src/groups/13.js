@@ -204,6 +204,7 @@ var urlfix_grouplist = {
     "6953": "http://nogitsune.tumblr.com/",
     "6973": "http://novelcow.com/",
     "7013": "http://historyofhyrule.com/",
+    "7053": "http://chocoooooooo.tumblr.com/",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",
