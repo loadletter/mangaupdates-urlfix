@@ -197,6 +197,7 @@ var urlfix_grouplist = {
     "6991": "http://ayumukunnn.tumblr.com/",
     "7011": "http://sasugahikari.tumblr.com/",
     "7051": "http://talkswithabyss.tumblr.com/",
+    "7071": "http://tigerandhusky.tumblr.com/",
     "71": "http://mangatranslation.com/",
     "711": "http://mangahelpers.com/forum/index.php?topic=4995.0",
     "731": "http://paizuriteam.free.fr/index.php",
