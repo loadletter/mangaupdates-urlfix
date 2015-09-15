@@ -197,6 +197,7 @@ var urlfix_grouplist = {
     "6998": "https://kanascans.wordpress.com/",
     "7038": "http://kek.gameofscanlation.moe/",
     "7058": "http://cruxite.tumblr.com/",
+    "7078": "http://maaavis.tumblr.com/",
     "718": "http://www.sailorspork.org/",
     "738": "http://www.newnede.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
