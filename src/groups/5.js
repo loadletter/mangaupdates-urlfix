@@ -226,6 +226,7 @@ var urlfix_grouplist = {
     "7045": "http://puppypiers69.tumblr.com/",
     "705": "http://z13.invisionfree.com/Phoenix_Scans/",
     "7065": "http://twinkletwinkee.tumblr.com/",
+    "7105": "http://bukkun.tumblr.com/",
     "725": "http://ossu.maximum7.net/",
     "745": "http://home.nc.rr.com/momotato/yotsubato.html",
     "765": "http://kamikaze.dreamhosters.com/",

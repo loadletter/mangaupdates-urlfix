@@ -200,6 +200,7 @@ var urlfix_grouplist = {
     "7071": "http://tigerandhusky.tumblr.com/",
     "71": "http://mangatranslation.com/",
     "711": "http://mangahelpers.com/forum/index.php?topic=4995.0",
+    "7111": "http://kamiya-sexual.tumblr.com/",
     "731": "http://paizuriteam.free.fr/index.php",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",

@@ -210,6 +210,7 @@ var urlfix_grouplist = {
     "7026": "http://meidorin.tumblr.com/",
     "7046": "http://scans.widdiful.co.uk/",
     "7066": "http://pofscanlations.blogspot.com/",
+    "7106": "http://arurinh.tumblr.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

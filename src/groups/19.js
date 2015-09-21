@@ -214,6 +214,7 @@ var urlfix_grouplist = {
     "7039": "http://www.translationnations.com/",
     "7059": "http://leanpox.tumblr.com/",
     "7079": "http://mosunani.tumblr.com/",
+    "7119": "http://erolns.blogspot.com/",
     "719": "http://minkyleigh.livejournal.com/",
     "759": "http://reverie.esmartkid.com/",
     "779": "http://club-vogue.livejournal.com/",

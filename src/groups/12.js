@@ -214,6 +214,8 @@ var urlfix_grouplist = {
     "7032": "http://miawfantasy88.tumblr.com/",
     "7052": "http://tsukareteru-tako.tumblr.com/",
     "7072": "https://zentranslations.wordpress.com/",
+    "7092": "http://melonseger.tumblr.com/",
+    "7112": "http://e94addict.tumblr.com/",
     "72": "http://www.jankenpon.de/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",

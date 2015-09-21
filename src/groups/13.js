@@ -206,6 +206,7 @@ var urlfix_grouplist = {
     "7013": "http://historyofhyrule.com/",
     "7053": "http://chocoooooooo.tumblr.com/",
     "7073": "https://themustangtranslator.wordpress.com/",
+    "7093": "https://kanjutscans.wordpress.com/",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",
