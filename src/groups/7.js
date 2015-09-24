@@ -160,6 +160,7 @@ var urlfix_grouplist = {
     "587": "http://www.sushiy.com/",
     "5887": "http://mmi-scans.livejournal.com/",
     "5907": "https://ricoriconiko.wordpress.com/",
+    "5947": "http://bato.to/group/_/b/blickwinkel-r3697",
     "5987": "http://ochimusha.wordpress.com/",
     "6007": "http://bato.to/group/_/a/ahfhvmvm-r4271",
     "6027": "http://tsugumo.moe/",

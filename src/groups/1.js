@@ -174,6 +174,7 @@ var urlfix_grouplist = {
     "5901": "http://yukikazescans.wordpress.com/",
     "5921": "http://www.batoto.net/group/_/q/quest-r3366",
     "5941": "http://mangaordersbros.eu/",
+    "5961": "http://dutschinat0r-scanlations.blogspot.com/",
     "601": "http://lovenana4ever.cjb.net/",
     "6021": "http://panisal.livejournal.com/",
     "6041": "http://dynasty-scans.com/scanlators/reine_scans",

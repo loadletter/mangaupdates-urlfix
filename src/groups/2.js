@@ -167,6 +167,7 @@ var urlfix_grouplist = {
     "5862": "http://shotas.tumblr.com/tagged/doujinshi",
     "5902": "http://guhehe.net/",
     "5942": "http://trilobitescans.wordpress.com",
+    "5962": "http://bato.to/group/_/g/guest-21-r4157",
     "5982": "http://zeus7ex.wordpress.com/",
     "6002": "http://the-end-manga.livejournal.com/",
     "602": "http://www.emsmanga.com/",

@@ -163,6 +163,7 @@ var urlfix_grouplist = {
     "5809": "http://jaescans.blogspot.com/",
     "5829": "http://bato.to/group/_/c/croatoa-scans-r3419",
     "5849": "http://senpai-scans.tumblr.com/",
+    "5869": "http://yattaruscan.tumblr.com/",
     "5889": "http://ourtranscendence.com/",
     "589": "http://www.geocities.com/yaoimanga/",
     "5909": "http://harroe.tumblr.com/",

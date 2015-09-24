@@ -165,6 +165,7 @@ var urlfix_grouplist = {
     "5860": "https://isolarium.wordpress.com/",
     "5880": "http://pepperanon.blogspot.com",
     "5920": "http://www.batoto.net/group/_/k/kimchicrackers-team-r4044",
+    "5940": "http://rimehaze.tumblr.com/",
     "5960": "http://funnuraba.tumblr.com/",
     "5980": "http://ozphscans.blogspot.com/",
     "60": "http://bato.to/group/_/h/heavenly-alliance-r433",

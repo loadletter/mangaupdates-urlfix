@@ -170,6 +170,7 @@ var urlfix_grouplist = {
     "5912": "http://mangajoy.com",
     "592": "http://vk.rinne.nu/",
     "5952": "http://sweetmelodyscans.wordpress.com/",
+    "5972": "http://bato.to/group/_/a/arcana-r4207",
     "5992": "http://xfengyujiutian.tumblr.com/manhua",
     "6012": "http://shoujolemon.tumblr.com/post/83585543385/i-have-nowhere-to-put-this-since-this-is-just-my",
     "6032": "http://rinshankaihouscans.wordpress.com/",

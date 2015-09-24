@@ -153,6 +153,7 @@ var urlfix_grouplist = {
     "5758": "http://fabled-pepper.blogspot.com/",
     "5838": "http://inuboku-scans.tumblr.com/",
     "5958": "http://ihoshiku.tumblr.com",
+    "5978": "http://youdontknowthings.tumblr.com/",
     "5998": "http://nanachanscans.wordpress.com/",
     "6018": "http://koalasplayground.com/",
     "6118": "http://bato.to/group/_/s/smc-scans-r4402",

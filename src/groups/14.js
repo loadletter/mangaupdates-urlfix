@@ -173,6 +173,7 @@ var urlfix_grouplist = {
     "594": "http://archive.toukakoukan.com/index2.html",
     "5954": "http://www.batoto.net/group/_/m/morkie-r4143",
     "5974": "http://lastchapterof.mangamatters.com/blog/",
+    "5994": "http://paitouch.imgur.com/",
     "6014": "http://finella.nemissa.info/",
     "6034": "http://tsukikagescans.blogspot.com/",
     "6054": "http://itsdaletos.tumblr.com/",
