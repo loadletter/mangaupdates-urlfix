@@ -169,6 +169,8 @@ var urlfix_grouplist = {
     "5781": "http://baggedmilkscans.tumblr.com/",
     "5801": "http://www.vistrans.net/",
     "581": "http://bluelittleone.livejournal.com/",
+    "5821": "http://bato.to/group/_/l/lorec-r3852",
+    "5841": "http://bato.to/group/_/o/one-woman-show-r1508",
     "5861": "http://www.batoto.net/group/_/l/low-gear-r3925",
     "5881": "http://imperfectscans.wordpress.com/",
     "5901": "http://yukikazescans.wordpress.com/",

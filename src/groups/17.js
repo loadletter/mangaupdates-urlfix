@@ -164,6 +164,7 @@ var urlfix_grouplist = {
     "57": "http://bato.to/group/_/f/fuan-r871",
     "5737": "http://eng.afrodhi.org",
     "5757": "https://asagichou.wordpress.com/",
+    "5777": "https://www.facebook.com/Midnightdawnscans",
     "5817": "http://bato.to/group/_/p/penguinsinthebasement-r3524",
     "5837": "http://www.batoto.net/group/_/p/p-mistress-scans-r3755",
     "5857": "http://newtypeofworld.blogspot.com/",

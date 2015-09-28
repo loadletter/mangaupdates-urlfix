@@ -164,6 +164,7 @@ var urlfix_grouplist = {
     "5565": "http://dynasty-scans.com/scanlators/fly_by_yuri",
     "565": "http://akumayuki.com/badhabit/",
     "5665": "http://konoerogaki.tumblr.com",
+    "5685": "http://insecuritive.weebly.com/",
     "5705": "http://fos-scans.com/",
     "5745": "http://5amtranslations.wordpress.com",
     "5765": "http://otomescans.wordpress.com/",

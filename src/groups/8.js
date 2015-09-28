@@ -153,6 +153,7 @@ var urlfix_grouplist = {
     "5708": "http://90percentzebra.wordpress.com/",
     "5748": "http://lameedits.wordpress.com/",
     "5788": "http://nattytranslations.wordpress.com/",
+    "5808": "http://cherrymanga.ru/",
     "5828": "http://nyanko44.livejournal.com/",
     "588": "http://promfret87.blogspot.com/",
     "5888": "http://damn-feels.com/",

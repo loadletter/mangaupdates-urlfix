@@ -166,6 +166,7 @@ var urlfix_grouplist = {
     "5734": "http://queen-2-hearts.ucoz.com/",
     "574": "http://community.livejournal.com/wttsn/",
     "5754": "http://doki.co/",
+    "5774": "http://lamperouge-1.tumblr.com/",
     "5814": "http://lunox.us/",
     "5854": "http://www.batoto.net/group/_/t/tg-scanlations-r3316",
     "5914": "http://n04hs.blog.fc2.com/",

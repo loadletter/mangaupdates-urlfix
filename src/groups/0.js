@@ -157,6 +157,7 @@ var urlfix_grouplist = {
     "5600": "http://kadavra-scanlation.blogspot.com/",
     "5620": "http://moustachescans.pw/",
     "5640": "http://www.pocketloli.com/",
+    "5680": "http://fuwafuwascans.weebly.com/",
     "5700": "http://ganbarinofansub.blogspot.com/",
     "5720": "http://nimu-manga.com/",
     "5760": "http://nekona.wordpress.com/",

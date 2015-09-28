@@ -158,6 +158,7 @@ var urlfix_grouplist = {
     "5670": "http://ninjaswithoutborders.com/",
     "570": "http://mobot-city.net/",
     "5710": "http://oyasumitranslations.wordpress.com",
+    "5830": "http://bato.to/group/_/w/wheelchair-warez-r3863",
     "5850": "http://amielleon.dreamwidth.org/",
     "5890": "http://bokunomanga.org",
     "590": "http://community.livejournal.com/tokudane/",

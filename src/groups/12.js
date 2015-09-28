@@ -160,6 +160,7 @@ var urlfix_grouplist = {
     "5612": "http://www.lycheescans.com/",
     "5632": "http://w11.zetaboards.com/Tekken_Chinmi/site/",
     "5652": "http://gsscans.tumblr.com/",
+    "5672": "http://pixinia.livejournal.com/",
     "572": "http://www.sbm.blahsoft.com/",
     "5752": "http://lazylily.moe/",
     "5812": "http://necron99scans.com",

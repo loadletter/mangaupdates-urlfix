@@ -151,6 +151,7 @@ var urlfix_grouplist = {
     "5698": "http://mmattari.blogspot.com/",
     "5738": "http://yummymanga.wordpress.com/",
     "5758": "http://fabled-pepper.blogspot.com/",
+    "5778": "http://spicy-diamond.livejournal.com/",
     "5838": "http://inuboku-scans.tumblr.com/",
     "5958": "http://ihoshiku.tumblr.com",
     "5978": "http://youdontknowthings.tumblr.com/",
