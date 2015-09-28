@@ -214,6 +214,7 @@ var urlfix_grouplist = {
     "7049": "http://gummyfoxes.tumblr.com/",
     "7069": "http://arkadynekozukii.tumblr.com/",
     "7109": "http://yoshiki-tan.tumblr.com/",
+    "7129": "https://mechamushroomtranslations.wordpress.com/",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "749": "http://withthewill.net",
     "769": "http://www.japan-legend.com",

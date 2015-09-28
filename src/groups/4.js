@@ -223,6 +223,7 @@ var urlfix_grouplist = {
     "7064": "http://hellscabanaboy.tumblr.com/",
     "7084": "http://forum.nihonomaru.net/yuri-and-yaoi-manga.48/thread/hyakujitsu-no-bara-maiden-rose-dj-scanlations-more-than-10-eng.211747/",
     "7104": "http://bato.to/group/_/b/bokuwaneet-r3771",
+    "7124": "http://chrimascans.tumblr.com/",
     "724": "http://lyrebird.aithine.org/halfbaked/",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",

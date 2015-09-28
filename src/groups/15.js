@@ -203,6 +203,7 @@ var urlfix_grouplist = {
     "6995": "https://isekailunatic.wordpress.com/",
     "7035": "https://intheseaofstars.wordpress.com/",
     "7075": "http://pan.amatsuka.com/",
+    "7135": "http://vasco-trans.tumblr.com/",
     "735": "http://nyarscans.livejournal.com/",
     "75": "http://orangetangerine.cjb.net",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",

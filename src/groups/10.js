@@ -207,6 +207,7 @@ var urlfix_grouplist = {
     "7010": "https://lazykitsune.wordpress.com/",
     "7050": "http://shslliterarygirl.tumblr.com/",
     "7070": "http://gangscema.tumblr.com/",
+    "7130": "http://animefanespa.blogspot.com/",
     "730": "http://www.animeco.org/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
