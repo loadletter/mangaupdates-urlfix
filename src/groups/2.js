@@ -223,6 +223,7 @@ var urlfix_grouplist = {
     "7042": "http://noizbox.tumblr.com/",
     "7062": "http://norio-kun.tumblr.com/",
     "7102": "http://unholyprayer.tumblr.com/",
+    "7142": "http://kairei-chan.tumblr.com/",
     "722": "http://in2k2.digital-takeout.net/",
     "762": "http://www.hikaru-no-go-world.new.fr/",
     "82": "http://jinmen.pyoko.org/",

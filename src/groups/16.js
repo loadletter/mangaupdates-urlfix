@@ -217,6 +217,7 @@ var urlfix_grouplist = {
     "7076": "http://holysabapple.tumblr.com/",
     "7096": "http://tenmeo-doujins-world.tumblr.com/",
     "7116": "http://arglebarglescans.azurewebsites.net/",
+    "7136": "http://flyingpussyfootscans.tumblr.com/",
     "716": "http://anime-theatre.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
     "796": "http://www.proxy-scans.com",

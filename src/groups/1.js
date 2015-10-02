@@ -227,6 +227,7 @@ var urlfix_grouplist = {
     "7061": "https://kahoim.wordpress.com/",
     "7101": "http://rbnofansub.blogspot.com/",
     "7121": "http://udonatewetranslate.blogspot.com/",
+    "7141": "http://hatmirror.tumblr.com/",
     "721": "http://kenshinscans.anxious-anime.com/",
     "741": "http://www.swordbreaker.com/",
     "781": "http://www.mizumanga.cjb.net",

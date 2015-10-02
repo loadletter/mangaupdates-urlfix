@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7083": "http://yugiri315.livejournal.com/",
     "7103": "http://orithyea.tumblr.com/",
     "7123": "https://lastvoicetranslator.wordpress.com/",
+    "7143": "http://watanukisakuya.tumblr.com/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",

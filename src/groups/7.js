@@ -208,6 +208,7 @@ var urlfix_grouplist = {
     "687": "http://binktopia.org/",
     "6887": "http://letitgo-scans.blogspot.com/",
     "6907": "http://trphscanlation.tumblr.com/",
+    "6927": "http://goodwifetranslation.com",
     "6967": "http://usuk-libertea-translations.tumblr.com/",
     "6987": "http://glassmoon-scans.livejournal.com/",
     "7007": "http://mono-scans.livejournal.com/",
