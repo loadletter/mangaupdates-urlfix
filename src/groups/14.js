@@ -225,6 +225,7 @@ var urlfix_grouplist = {
     "7034": "http://kazevita.tumblr.com/",
     "7094": "http://erotendency.tumblr.com/",
     "7114": "http://bloody-scans.tumblr.com/",
+    "7134": "http://mysticcresent.blogspot.com/",
     "714": "http://shanelone7.coolfreepage.com/",
     "734": "http://www.aizuwinter.bravehost.com",
     "74": "http://www.snoopycool.com/",

@@ -208,6 +208,7 @@ var urlfix_grouplist = {
     "7050": "http://shslliterarygirl.tumblr.com/",
     "7070": "http://gangscema.tumblr.com/",
     "7130": "http://animefanespa.blogspot.com/",
+    "7150": "http://www.korekore.ga/",
     "730": "http://www.animeco.org/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
