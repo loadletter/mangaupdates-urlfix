@@ -218,6 +218,7 @@ var urlfix_grouplist = {
     "7097": "http://togawa.tumblr.com/",
     "7117": "http://adekanfan.tumblr.com/",
     "7137": "https://whitetigertranslations.wordpress.com/",
+    "7157": "http://bato.to/group/_/t/torikago-no-houou-r5578",
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",
     "737": "http://pinoyotaku.com/index.html",
     "77": "http://inanemanga.com/",

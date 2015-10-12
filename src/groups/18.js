@@ -202,6 +202,7 @@ var urlfix_grouplist = {
     "7078": "http://maaavis.tumblr.com/",
     "7098": "http://scanonymous.tumblr.com/",
     "7118": "http://saint-joy.tumblr.com/",
+    "7158": "http://bato.to/group/_/s/shikiganai-r5752",
     "718": "http://www.sailorspork.org/",
     "738": "http://www.newnede.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",

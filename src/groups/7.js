@@ -218,6 +218,7 @@ var urlfix_grouplist = {
     "7107": "http://fudou.tumblr.com/",
     "7127": "https://beehugger.wordpress.com/",
     "7147": "http://beru-no-ajito.livejournal.com/",
+    "7167": "https://kntranslation.wordpress.com/",
     "727": "http://www.myspace.com/kurisuscans",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",
     "807": "http://mankin-trad.net",

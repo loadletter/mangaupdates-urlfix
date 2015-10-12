@@ -230,6 +230,7 @@ var urlfix_grouplist = {
     "7085": "http://manicpotato.tumblr.com/projects",
     "7105": "http://bukkun.tumblr.com/",
     "7145": "http://this-is-bob-brown.tumblr.com/",
+    "7165": "http://thatumbrellademon.tumblr.com/",
     "725": "http://ossu.maximum7.net/",
     "745": "http://home.nc.rr.com/momotato/yotsubato.html",
     "765": "http://kamikaze.dreamhosters.com/",

@@ -217,6 +217,7 @@ var urlfix_grouplist = {
     "7100": "http://yashirinssu.tumblr.com/",
     "7120": "http://necromancyscans.tumblr.com/",
     "7140": "https://arslansenki.wordpress.com/",
+    "7160": "http://goodenoughscans.tumblr.com/",
     "720": "http://www.mapored.com/manga/index.html",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
