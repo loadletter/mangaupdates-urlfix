@@ -212,7 +212,7 @@ var urlfix_grouplist = {
     "6879": "http://doujinshicrazedscans.tumblr.com/",
     "6899": "http://ravens-fs.blogspot.com/",
     "6919": "http://lmaonadelol.tumblr.com",
-    "6939": "https://www.facebook.com/TimelessScans",
+    "6939": "http://timelessscans.wix.com/timelessscans",
     "6959": "http://ladder-sama.tumblr.com/",
     "6979": "http://kumagemonmon.tumblr.com/",
     "699": "http://pbhm.kiriau.net",

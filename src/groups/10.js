@@ -209,6 +209,7 @@ var urlfix_grouplist = {
     "7070": "http://gangscema.tumblr.com/",
     "7130": "http://animefanespa.blogspot.com/",
     "7150": "http://www.korekore.ga/",
+    "7170": "http://bato.to/group/_/y/yxcv-r5568",
     "730": "http://www.animeco.org/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",

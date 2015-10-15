@@ -170,7 +170,7 @@ var urlfix_grouplist = {
     "5942": "http://trilobitescans.wordpress.com",
     "5962": "http://bato.to/group/_/g/guest-21-r4157",
     "5982": "http://zeus7ex.wordpress.com/",
-    "6002": "http://the-end-manga.livejournal.com/",
+    "6002": "https://theendmanga.wordpress.com/",
     "602": "http://www.emsmanga.com/",
     "6022": "http://artificialdemons.boards.net/",
     "6042": "http://rolybearpress.blogspot.com/",

@@ -166,7 +166,7 @@ var urlfix_grouplist = {
     "5665": "http://konoerogaki.tumblr.com",
     "5685": "http://insecuritive.weebly.com/",
     "5705": "http://fos-scans.com/",
-    "5745": "http://5amtranslations.wordpress.com",
+    "5745": "http://5am.lolis.net/",
     "5765": "http://otomescans.wordpress.com/",
     "5805": "http://blyscanlations.tumblr.com/",
     "5825": "https://puddingheart.wordpress.com/",

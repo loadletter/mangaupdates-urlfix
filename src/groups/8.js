@@ -206,6 +206,7 @@ var urlfix_grouplist = {
     "7088": "http://earlandfairy.weebly.com/",
     "7108": "http://the-lone-sky.tumblr.com/",
     "7128": "http://gemini.yagami.me/",
+    "7168": "http://halfassedboyslove.tumblr.com/",
     "728": "http://www.hyuu-scans.com",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",
