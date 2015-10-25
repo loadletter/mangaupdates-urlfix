@@ -223,6 +223,7 @@ var urlfix_grouplist = {
     "7119": "http://erolns.blogspot.com/",
     "7159": "http://verdesorteminha.tumblr.com/",
     "719": "http://minkyleigh.livejournal.com/",
+    "7199": "http://silveryogi.tumblr.com/",
     "759": "http://reverie.esmartkid.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",

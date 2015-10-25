@@ -221,6 +221,7 @@ var urlfix_grouplist = {
     "7157": "http://bato.to/group/_/t/torikago-no-houou-r5578",
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",
     "7177": "https://koreyorihachidori.wordpress.com/",
+    "7197": "http://squarepancakesx.tumblr.com/",
     "737": "http://pinoyotaku.com/index.html",
     "77": "http://inanemanga.com/",
     "797": "http://www.hydscans.com",

@@ -207,6 +207,8 @@ var urlfix_grouplist = {
     "7108": "http://the-lone-sky.tumblr.com/",
     "7128": "http://gemini.yagami.me/",
     "7168": "http://halfassedboyslove.tumblr.com/",
+    "7188": "https://paranoiastar.wordpress.com/",
+    "7208": "http://killerkranberry.tumblr.com/",
     "728": "http://www.hyuu-scans.com",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",

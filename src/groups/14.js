@@ -229,6 +229,7 @@ var urlfix_grouplist = {
     "714": "http://shanelone7.coolfreepage.com/",
     "7154": "https://turnafeezy.wordpress.com/",
     "7174": "http://bato.to/group/_/a/jo-r5771",
+    "7194": "http://www.angelicscans.co/",
     "734": "http://www.aizuwinter.bravehost.com",
     "74": "http://www.snoopycool.com/",
     "754": "http://www.zakuro.ca.tc/",

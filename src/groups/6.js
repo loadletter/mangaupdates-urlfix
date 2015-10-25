@@ -213,6 +213,8 @@ var urlfix_grouplist = {
     "7106": "http://arurinh.tumblr.com/",
     "7126": "https://bcat00.wordpress.com/",
     "7166": "https://jjagaimo.wordpress.com/",
+    "7186": "http://heowi.tumblr.com/",
+    "7206": "http://miammiam-team.org",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

@@ -230,6 +230,8 @@ var urlfix_grouplist = {
     "7123": "https://lastvoicetranslator.wordpress.com/",
     "7143": "http://watanukisakuya.tumblr.com/",
     "7163": "http://lolscans.webs.com/",
+    "7183": "http://thewhitestag.tumblr.com/",
+    "7203": "http://yesnostalgiagoogles.tumblr.com/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",

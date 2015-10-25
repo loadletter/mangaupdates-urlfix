@@ -218,6 +218,8 @@ var urlfix_grouplist = {
     "7129": "https://mechamushroomtranslations.wordpress.com/",
     "7149": "http://bato.to/group/_/m/monoai-r5744",
     "7169": "http://haruefan.tumblr.com/",
+    "7189": "http://bato.to/group/_/b/better-than-nothing-scans-r5746",
+    "7209": "http://mamebo.tumblr.com/",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "749": "http://withthewill.net",
     "769": "http://www.japan-legend.com",

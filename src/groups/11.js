@@ -203,6 +203,8 @@ var urlfix_grouplist = {
     "7111": "http://kamiya-sexual.tumblr.com/",
     "7131": "http://tanjou-scanlations.blogspot.com/",
     "7171": "http://bato.to/group/_/m/mcriceyy-r5745",
+    "7191": "http://removemisshi.blogspot.com/",
+    "7211": "http://bato.to/group/_/a/fleet-journal-r5794",
     "731": "http://paizuriteam.free.fr/index.php",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",
