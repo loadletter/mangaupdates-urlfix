@@ -9,7 +9,7 @@
 // @grant       none
 // ==/UserScript==
 
-if ('id' in get_url_params()) {
+if ('id' in get_query_params()) {
     fix_irc();
     fix_url();
     update_groups();
@@ -19,7 +19,7 @@ if ('id' in get_url_params()) {
 
 function update_groups() {
     var urlfix_groups = document.createElement('script');
-    var urlfix_groupshard = parseInt(document.URL.replace(/^.+id=/,'').replace('#', '')) % 20 || 0; /* magic value */
+    var urlfix_groupshard = parseInt(document.URL.replace(/^.+id=/,'').replace('#', '')) % 20 || 0;
     urlfix_groups.type = "text/javascript";
     urlfix_groups.src = "//loadletter.github.io/mangaupdates-urlfix/src/groups/" + urlfix_groupshard + ".js";
     urlfix_groups.onreadystatechange = fix_url;
@@ -52,7 +52,7 @@ function fix_irc() {
 
 function get_query_params() {
     var match, urlParams,
-        pl     = /\+/g,  // Regex for replacing addition symbol with a space
+        pl     = /\+/g,
         search = /([^&=]+)=?([^&]*)/g,
         decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
         query  = window.location.search.substring(1);
@@ -65,7 +65,32 @@ function get_query_params() {
 }
 
 function set_redirection() {
-	var prev_el = document.querySelector('td[align="center"][class="text"] a[href="groups.html?active=false"]');
+    var prev_el = document.querySelector('a[href="groups.html?active=false"]');
+    if (!prev_el) {
+        return;
+    }
+    var toggle_el = document.createElement('a');
+    var redir_key = 'loadletter.urlfix.settings.redirect';
+    var toggle_text = function () {
+        toggle_el.innerHTML = (typeof(localStorage) !== "undefined" && localStorage.getItem(redir_key)) ? '<u>Do not redirect to website</u>' : '<u>Redirect to group website</u>';
+    };
+    toggle_text();
+    toggle_el.title = "Toggle redirection of mangaupdates group entries to their respective website";
+    toggle_el.onclick = function () {
+        if (typeof(localStorage) === "undefined") {
+            alert("Couldn't save setting, your browser does not support HTML5 localStorage");
+            return;
+        }
+        if (localStorage.getItem(redir_key)) {
+            localStorage.removeItem(redir_key);
+        } else {
+            localStorage.setItem(redir_key, "true");
+        }
+        toggle_text();
+    };
+    var parent_el = prev_el.parentElement;
+    parent_el.innerHTML += '&nbsp;&nbsp;';
+    parent_el.appendChild(toggle_el);
 }
 
 /* all the stuff related to the website thing has been moved here,
@@ -76,11 +101,18 @@ function insertScript() {
     var urlfix_local_name = "loadletter.urlfix.groups." + (window.urlfix_groupID % 20);    
     if(typeof(window.urlfix_grouplist) !== "undefined") {
         window.urlfix_groupSite = window.urlfix_grouplist[String(window.urlfix_groupID)];
-        if(typeof(localStorage) !== "undefined")
+        if(typeof(localStorage) !== "undefined") {
             localStorage.setItem(urlfix_local_name, JSON.stringify(window.urlfix_grouplist));
+            if (window.urlfix_groupSite !== undefined && localStorage.getItem('loadletter.urlfix.settings.redirect') && /^https?:\/\//.test(window.urlfix_groupSite)) {
+                window.location.href = window.urlfix_groupSite;
+            }
+        }
     } else {
         if(typeof(localStorage) !== "undefined" && (urlfix_local = localStorage.getItem(urlfix_local_name))) {
             window.urlfix_groupSite = JSON.parse(urlfix_local)[window.urlfix_groupID];
+            if (window.urlfix_groupSite !== undefined && localStorage.getItem('loadletter.urlfix.settings.redirect') && /^https?:\/\//.test(window.urlfix_groupSite)) {
+                window.location.href = window.urlfix_groupSite;
+            }
         } else {
             window.urlfix_groupSite = undefined;
         }
