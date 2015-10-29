@@ -2,16 +2,20 @@
 // @name        Mangaupdates Groups Fix
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites
-// @match       *://www.mangaupdates.com/groups.html?id=*
+// @match       *://www.mangaupdates.com/groups.html*
 // @version     1.7.0
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @grant       none
 // ==/UserScript==
 
-fix_irc();
-fix_url();
-update_groups();
+if ('id' in get_url_params()) {
+    fix_irc();
+    fix_url();
+    update_groups();
+} else {
+	set_redirection();
+}
 
 function update_groups() {
     var urlfix_groups = document.createElement('script');
@@ -44,6 +48,24 @@ function fix_irc() {
             }
         }
     }
+}
+
+function get_query_params() {
+    var match, urlParams,
+        pl     = /\+/g,  // Regex for replacing addition symbol with a space
+        search = /([^&=]+)=?([^&]*)/g,
+        decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+        query  = window.location.search.substring(1);
+
+    urlParams = {};
+    while (match = search.exec(query))
+        urlParams[decode(match[1])] = decode(match[2]);
+    
+    return urlParams;
+}
+
+function set_redirection() {
+	var prev_el = document.querySelector('td[align="center"][class="text"] a[href="groups.html?active=false"]');
 }
 
 /* all the stuff related to the website thing has been moved here,
