@@ -214,6 +214,7 @@ var urlfix_grouplist = {
     "7133": "http://chinanovel.net/",
     "7153": "https://wizthief.wordpress.com/",
     "7193": "http://murkki.tumblr.com/nein-testament",
+    "7213": "http://bato.to/group/_/c/comic-scans-ms-r5773",
     "733": "http://fairyfly.org",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",

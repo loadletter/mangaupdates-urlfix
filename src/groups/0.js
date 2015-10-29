@@ -206,7 +206,7 @@ var urlfix_grouplist = {
     "6860": "https://otomerevo.wordpress.com/",
     "6880": "http://ongeee.tumblr.com/",
     "6900": "http://yukkuri-literature-service.blogspot.com/",
-    "6920": "http://www.yomanga.co/",
+    "6920": "http://yomanga.co",
     "6940": "https://cdgscans.wordpress.com/",
     "6960": "http://snh-fan.tumblr.com/",
     "700": "http://www.compman44.com/",

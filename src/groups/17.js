@@ -141,7 +141,7 @@ var urlfix_grouplist = {
     "5117": "http://folklorescans.wordpress.com/",
     "5137": "http://lightnovelfans.wordpress.com/",
     "5197": "http://jelloscans.wordpress.com",
-    "5217": "http://mangacow.co/",
+    "5217": "http://mngcow.co/",
     "5257": "http://shincodezeroblog.wordpress.com/",
     "5317": "http://theriddleproject.tumblr.com/",
     "5337": "http://fi-no-hyouteki.tumblr.com/",

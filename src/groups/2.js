@@ -206,7 +206,7 @@ var urlfix_grouplist = {
     "6662": "http://thundertranslations.wordpress.com/",
     "6682": "http://www.lingson.com/",
     "6702": "https://egaoscans.wordpress.com/",
-    "6722": "https://www.facebook.com/waterflamescans",
+    "6722": "http://waterflamescans.tumblr.com/",
     "6742": "http://sakura-moge.tumblr.com/",
     "6762": "http://yukulele.tumblr.com/tagged/onemanscans",
     "6782": "http://kokuhaku.eternicity.net/",

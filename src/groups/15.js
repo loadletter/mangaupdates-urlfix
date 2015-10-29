@@ -208,6 +208,7 @@ var urlfix_grouplist = {
     "7155": "http://mewdragon.tumblr.com/",
     "7175": "https://watermelonhelmets.wordpress.com/",
     "7195": "http://mintchocolatetrans.tumblr.com/",
+    "7215": "https://dailehtranslations.wordpress.com/",
     "735": "http://nyarscans.livejournal.com/",
     "75": "http://orangetangerine.cjb.net",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
