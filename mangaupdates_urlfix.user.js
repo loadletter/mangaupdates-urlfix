@@ -19,7 +19,10 @@ if ('id' in get_query_params()) {
 
 function update_groups() {
     var urlfix_groups = document.createElement('script');
-    var urlfix_groupshard = parseInt(document.URL.replace(/^.+id=/,'').replace('#', '')) % 20 || 0;
+    var urlfix_groupshard = parseInt(document.URL.replace(/^.+id=/,'').replace('#', ''), 10) % 20;
+    if (urlfix_groupshard !== urlfix_groupshard) {
+        return;
+    }
     urlfix_groups.type = "text/javascript";
     urlfix_groups.src = "//loadletter.github.io/mangaupdates-urlfix/src/groups/" + urlfix_groupshard + ".js";
     urlfix_groups.onreadystatechange = fix_url;
@@ -96,7 +99,10 @@ function set_redirection() {
 /* all the stuff related to the website thing has been moved here,
  * since the groups variable can't be accessed from the usescript */
 function insertScript() {
-    window.urlfix_groupID = parseInt(document.URL.replace(/^.+id=/,'').replace('#', '')) || 0;
+    window.urlfix_groupID = parseInt(document.URL.replace(/^.+id=/,'').replace('#', ''), 10);
+    if (window.urlfix_groupID !== window.urlfix_groupID) {
+        return;
+    }
     var urlfix_local;
     var urlfix_local_name = "loadletter.urlfix.groups." + (window.urlfix_groupID % 20);    
     if(typeof(window.urlfix_grouplist) !== "undefined") {
