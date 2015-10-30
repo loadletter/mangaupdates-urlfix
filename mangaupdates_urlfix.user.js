@@ -3,13 +3,19 @@
 // @namespace   Mangaupdates Groups Fix (https://github.com/loadletter/mangaupdates-urlfix)
 // @description Makes clickable links to scanlators websites
 // @match       *://www.mangaupdates.com/groups.html*
+// @match       *://www.mangaupdates.com/mylist.html*
+// @match       *://www.mangaupdates.com/releases.html*
 // @version     1.7.0
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @grant       none
 // ==/UserScript==
 
-if ('id' in get_query_params()) {
+if (window.location.pathname === "/mylist.html") {
+    set_lastgroup();
+} else if (window.location.pathname === "/releases.html") {
+    red_lastgroup();
+} else if ('id' in get_query_params()) {
     fix_irc();
     fix_url();
     update_groups();
@@ -92,8 +98,60 @@ function set_redirection() {
         toggle_text();
     };
     var parent_el = prev_el.parentElement;
-    parent_el.innerHTML += '&nbsp;&nbsp;';
+    parent_el.innerHTML = parent_el.innerHTML.replace(/\s+$/, '') + '&nbsp;&nbsp;';
     parent_el.appendChild(toggle_el);
+}
+
+function set_lastgroup () {
+    var prev_el = document.querySelector('div.low_col1 > a');
+    if (!prev_el) {
+        return;
+    }
+    var text_el = document.createTextNode(']\u00a0[');
+    var toggle_el = document.createElement('a');
+    var redir_key = 'loadletter.urlfix.settings.lastgroup';
+    var toggle_text = function () {
+        var toggle_hrefs = function (toggled) {
+            var latest_chapter = document.querySelectorAll('#list_table span.newlist > a');
+            for (var i=0; i<latest_chapter.length; i++) {
+                var hr = latest_chapter[i].href.split('#')[0];
+                latest_chapter[i].href = toggled ? (hr + '#showLastScanlator') : hr;
+            }
+        };
+        if (typeof(localStorage) !== "undefined" && localStorage.getItem(redir_key)) {
+            toggle_hrefs(true);
+            toggle_el.innerHTML = '<u>Show all scanlations</u>';
+        } else {
+            toggle_hrefs(false);
+            toggle_el.innerHTML = '<u>Jump to latest scanlation</u>';
+        }
+    };
+    toggle_text();
+    toggle_el.title = "Toggles redirection to the scanlator of the last chapter when clicking the link next to the series name";
+    toggle_el.onclick = function () {
+        if (typeof(localStorage) === "undefined") {
+            alert("Couldn't save setting, your browser does not support HTML5 localStorage");
+            return;
+        }
+        if (localStorage.getItem(redir_key)) {
+            localStorage.removeItem(redir_key);
+        } else {
+            localStorage.setItem(redir_key, "true");
+        }
+        toggle_text();
+    };
+    prev_el.parentNode.insertBefore(text_el, prev_el.nextSibling);
+    text_el.parentNode.insertBefore(toggle_el, text_el.nextSibling);
+}
+
+function red_lastgroup () {
+    if (!('search' in get_query_params() && window.location.hash === '#showLastScanlator')) {
+        return;
+    }
+    var latest_group = document.querySelector('#main_content a[title="Group Info"][href*="groups.html"]');
+    if (latest_group) {
+        window.location.href = latest_group.href;
+    }
 }
 
 /* all the stuff related to the website thing has been moved here,
