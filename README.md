@@ -3,6 +3,11 @@ mangaupdates-urlfix
 
 Userscript that adds website and IRC links on the groups pages of mangaupdates.com
 
+It can also redirect directly to the website (can be toggled with link at the bottom of the [groups list](https://www.mangaupdates.com/groups.html))
+
+or redirect the link to the latest chapter in the user's lists to its scanlator (can be toggled with link at the bottom of the [user lists](https://www.mangaupdates.com/mylist.html))
+
+
 ##Installation
 
 Browsers usually need an addon to run userscripts, like:
