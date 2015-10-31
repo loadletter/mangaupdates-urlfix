@@ -209,6 +209,7 @@ var urlfix_grouplist = {
     "7168": "http://halfassedboyslove.tumblr.com/",
     "7188": "https://paranoiastar.wordpress.com/",
     "7208": "http://killerkranberry.tumblr.com/",
+    "7228": "http://bato.to/group/_/s/saz-r5711",
     "728": "http://www.hyuu-scans.com",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",

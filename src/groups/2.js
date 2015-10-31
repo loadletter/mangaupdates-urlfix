@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7162": "https://raltzero.wordpress.com/",
     "7202": "https://shermatranslations.wordpress.com/",
     "722": "http://in2k2.digital-takeout.net/",
+    "7222": "http://dynasty-scans.com/scanlators/hikikomori_honyaku",
     "762": "http://www.hikaru-no-go-world.new.fr/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",

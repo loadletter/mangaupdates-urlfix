@@ -229,6 +229,7 @@ var urlfix_grouplist = {
     "7164": "http://categoryg.blogspot.com/",
     "7184": "http://penparascans.livejournal.com/",
     "7204": "http://aseizui.tumblr.com/",
+    "7224": "http://77novel.com/",
     "724": "http://lyrebird.aithine.org/halfbaked/",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",

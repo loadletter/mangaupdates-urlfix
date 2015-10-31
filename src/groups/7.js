@@ -221,6 +221,7 @@ var urlfix_grouplist = {
     "7167": "https://kntranslation.wordpress.com/",
     "7187": "http://sarinalime.tumblr.com/",
     "7207": "http://bato.to/group/_/u/ursan-translations-r5309",
+    "7227": "http://bato.to/group/_/k/kokushoku-scans-r5810",
     "727": "http://www.myspace.com/kurisuscans",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",
     "807": "http://mankin-trad.net",

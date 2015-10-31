@@ -233,6 +233,7 @@ var urlfix_grouplist = {
     "7165": "http://thatumbrellademon.tumblr.com/",
     "7185": "http://tsumikazetranslates.blogspot.com/",
     "7205": "http://bato.to/group/_/b/baguette-scans-r5470",
+    "7225": "https://kumaotou.wordpress.com/",
     "725": "http://ossu.maximum7.net/",
     "745": "http://home.nc.rr.com/momotato/yotsubato.html",
     "765": "http://kamikaze.dreamhosters.com/",
