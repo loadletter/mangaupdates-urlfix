@@ -108,6 +108,7 @@ var urlfix_grouplist = {
     "3841": "http://kimoiscans.livejournal.com",
     "3861": "http://nfnet.wordpress.com",
     "3901": "http://forteatrox.afterglow.nu/about.php",
+    "3921": "http://eden-nya.forumpro.fr/",
     "3941": "http://community.livejournal.com/gang_king/",
     "3961": "http://strangecompanions.blogspot.com",
     "3981": "http://linwenolatari.livejournal.com/",

@@ -223,6 +223,7 @@ var urlfix_grouplist = {
     "716": "http://anime-theatre.com/",
     "7176": "http://aurorascans.livejournal.com/",
     "7196": "https://wolfietranslation.wordpress.com/",
+    "7236": "http://bato.to/group/_/b/big-order-scan-r5716",
     "756": "http://community.livejournal.com/yamane_ayano/",
     "796": "http://www.proxy-scans.com",
     "856": "http://apforums.net/forumdisplay.php?f=14",

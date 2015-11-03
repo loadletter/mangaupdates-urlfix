@@ -221,6 +221,7 @@ var urlfix_grouplist = {
     "7132": "https://summiesdummyworld.wordpress.com/",
     "7192": "http://seaotterscans.tumblr.com/",
     "72": "http://www.jankenpon.de/",
+    "7232": "http://www.renegadesanctuary.com/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",

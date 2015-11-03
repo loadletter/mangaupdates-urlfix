@@ -222,6 +222,7 @@ var urlfix_grouplist = {
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",
     "7177": "https://koreyorihachidori.wordpress.com/",
     "7197": "http://squarepancakesx.tumblr.com/",
+    "7237": "http://bato.to/group/_/h/hyassin27-r5780",
     "737": "http://pinoyotaku.com/index.html",
     "77": "http://inanemanga.com/",
     "797": "http://www.hydscans.com",

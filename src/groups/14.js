@@ -230,6 +230,7 @@ var urlfix_grouplist = {
     "7154": "https://turnafeezy.wordpress.com/",
     "7174": "http://bato.to/group/_/a/jo-r5771",
     "7194": "http://www.angelicscans.co/",
+    "7234": "http://bato.to/forums/user/95908-itwixie/",
     "734": "http://www.aizuwinter.bravehost.com",
     "74": "http://www.snoopycool.com/",
     "754": "http://www.zakuro.ca.tc/",

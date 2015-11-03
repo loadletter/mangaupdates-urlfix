@@ -162,7 +162,7 @@ var urlfix_grouplist = {
     "5948": "http://renna-translations.tumblr.com/",
     "5968": "http://tapastic.com/itsuryuusumi",
     "5988": "http://almond-cream.tumblr.com",
-    "6008": "http://www.cafescans.info/",
+    "6008": "http://cafescans.boards.net/",
     "6028": "http://cicada-scans.tumblr.com/",
     "6068": "http://lonemanga.com/",
     "6088": "http://comiplex.com/",
