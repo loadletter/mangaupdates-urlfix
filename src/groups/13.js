@@ -142,6 +142,8 @@ var urlfix_grouplist = {
     "5173": "http://arwynl.wordpress.com/",
     "5193": "http://spinybackmanga.com/",
     "5213": "http://biggermelon.blogspot.com/",
+    "5233": "http://endlesssummer-scanlations.tumblr.com/",
+    "5273": "https://cactusmoon.wordpress.com/",
     "5293": "http://chichan54.tumblr.com/",
     "53": "http://www.syuura.net/",
     "5313": "https://bearscans.wordpress.com/",

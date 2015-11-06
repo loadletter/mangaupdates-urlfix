@@ -159,6 +159,7 @@ var urlfix_grouplist = {
     "5425": "http://tyfragiledreams.livejournal.com/",
     "5445": "http://neetouryu.blogspot.ca",
     "5465": "http://mangaordersbros.co.nf/",
+    "5485": "http://tgmangas.xeraweb.com/forum/index.php?showtopic=2201",
     "5505": "http://japtem.com/",
     "5545": "http://mangaattheendoftime.tumblr.com/",
     "5565": "http://dynasty-scans.com/scanlators/fly_by_yuri",
