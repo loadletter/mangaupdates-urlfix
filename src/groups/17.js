@@ -188,7 +188,7 @@ var urlfix_grouplist = {
     "637": "http://community.livejournal.com/gokujyou_relief/",
     "6377": "http://bato.to/group/_/r/rooftop-jazz-r3208",
     "6397": "http://archangelscans.tk/wordpress/",
-    "6437": "http://1of4-basedanon.tumblr.com/",
+    "6437": "http://bato.to/group/_/b/based-anons-r5119",
     "6477": "https://xahkun.wordpress.com/",
     "6497": "http://mokkachi.tumblr.com/",
     "6517": "https://unexpectedscans.wordpress.com/",

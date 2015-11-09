@@ -222,6 +222,7 @@ var urlfix_grouplist = {
     "7092": "http://melonseger.tumblr.com/",
     "7112": "http://e94addict.tumblr.com/",
     "7132": "https://summiesdummyworld.wordpress.com/",
+    "7152": "https://cookiepastatranslations.wordpress.com/",
     "7192": "http://seaotterscans.tumblr.com/",
     "72": "http://www.jankenpon.de/",
     "7232": "http://www.renegadesanctuary.com/",

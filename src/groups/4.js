@@ -36,7 +36,7 @@ var urlfix_grouplist = {
     "2084": "http://www.freewebs.com/rallyt/index.htm",
     "2124": "http://adc-manga.com/pk/",
     "2144": "http://takariscans.zoushea.com",
-    "2204": "http://www.cxcscans.com/",
+    "2204": "https://cxcblog.wordpress.com/",
     "224": "http://blahmanga.wordpress.com/",
     "2244": "http://www.nekoshota.com/",
     "2264": "http://ala-atrascans.com/",

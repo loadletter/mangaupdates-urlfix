@@ -221,6 +221,7 @@ var urlfix_grouplist = {
     "7186": "http://heowi.tumblr.com/",
     "7206": "http://miammiam-team.org",
     "7226": "https://taffygirl13.wordpress.com/",
+    "7246": "http://bato.to/group/_/l/locrex-r3817",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",
