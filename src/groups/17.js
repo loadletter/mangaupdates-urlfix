@@ -121,6 +121,7 @@ var urlfix_grouplist = {
     "4617": "http://nornir.fleeting-whisper.net/reader/",
     "4637": "http://www.safehousemanga.co.cc/",
     "4677": "http://yukina.weebly.com/",
+    "4697": "http://neoarkcradle.net/forum/index.php",
     "4757": "http://aoibarascans.webs.com",
     "477": "http://members.lycos.co.uk/drahal/",
     "4777": "http://adarshan-novels.livejournal.com/",

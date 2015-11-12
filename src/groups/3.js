@@ -154,6 +154,7 @@ var urlfix_grouplist = {
     "5043": "http://rovscans.wordpress.com/",
     "5083": "http://turtletranslations.wordpress.com",
     "5103": "http://trollingthetrollscans.wordpress.com/",
+    "5143": "http://mxvscanlations.tumblr.com/",
     "5163": "http://analogscans.tumblr.com/",
     "5223": "http://s2smanga.com/",
     "523": "http://www.freewebs.com/ramsus-kun/",

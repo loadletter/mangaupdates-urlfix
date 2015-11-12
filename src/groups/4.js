@@ -143,6 +143,7 @@ var urlfix_grouplist = {
     "4944": "http://whiteflowertranslations.tumblr.com/",
     "4984": "http://www.bulsajo-scans.com/",
     "5004": "http://eromangagirls.tumblr.com/",
+    "5024": "http://www.suzuran-high.com/forum/viewtopic.php?f=8&t=345",
     "504": "http://yaoiness.net/",
     "5044": "http://ginironochou.wordpress.com/",
     "5104": "http://joyk.co.cc/",

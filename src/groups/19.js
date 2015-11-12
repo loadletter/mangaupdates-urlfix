@@ -117,6 +117,7 @@ var urlfix_grouplist = {
     "4499": "http://izanaginookami.livejournal.com/",
     "4539": "http://lunatictranslations.wordpress.com/",
     "459": "http://innocentlovescans.blogspot.com/",
+    "4599": "http://bato.to/group/_/h/holeless-manga-r1531",
     "4619": "http://dotrscans.wordpress.com/",
     "4639": "http://squeelatrix.wordpress.com/",
     "4699": "http://black-shuck1.livejournal.com/",

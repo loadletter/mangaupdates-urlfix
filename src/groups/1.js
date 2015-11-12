@@ -135,6 +135,7 @@ var urlfix_grouplist = {
     "4681": "http://transientmirage.blogspot.com/",
     "4721": "http://14biq.com",
     "4741": "http://re-frag-manga.tumblr.com/",
+    "4781": "http://bato.to/group/_/s/shikuretto-scans-r1903",
     "4801": "http://canonrap.wordpress.com/",
     "481": "http://www.freewebs.com/sly_ae/",
     "4841": "http://crazydelinquentsandshit.tumblr.com/",

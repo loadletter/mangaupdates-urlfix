@@ -125,6 +125,7 @@ var urlfix_grouplist = {
     "4673": "http://aquascans.wordpress.com/",
     "4693": "http://qbtranslations.wordpress.com/",
     "4733": "http://boboboscans.co.nr",
+    "4773": "http://bato.to/group/_/m/mangabreeze-r1927",
     "4793": "http://ydwtt.com/",
     "4893": "http://yuenhoe.com/blog/",
     "493": "http://lelei.com/love/",

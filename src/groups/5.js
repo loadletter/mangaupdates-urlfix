@@ -132,6 +132,7 @@ var urlfix_grouplist = {
     "4705": "http://bidhangingaddnine.wordpress.com/",
     "4725": "http://sukikatte.wordpress.com/",
     "4765": "http://houseofgfx.com",
+    "4785": "http://demi-god.forumotion.com/",
     "4805": "http://www.mediafire.com/?ephhbm93pg78s",
     "4825": "http://helloscans.com",
     "4845": "http://queensbladebattle.blogspot.com/",
