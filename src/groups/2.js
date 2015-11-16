@@ -234,6 +234,7 @@ var urlfix_grouplist = {
     "722": "http://in2k2.digital-takeout.net/",
     "7222": "http://dynasty-scans.com/scanlators/hikikomori_honyaku",
     "7242": "http://bato.to/group/_/d/dark-forest-scans-r5825",
+    "7262": "https://nuttyisprocrasinating.wordpress.com/",
     "762": "http://www.hikaru-no-go-world.new.fr/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",

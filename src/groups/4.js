@@ -234,6 +234,7 @@ var urlfix_grouplist = {
     "7204": "http://aseizui.tumblr.com/",
     "7224": "http://77novel.com/",
     "724": "http://lyrebird.aithine.org/halfbaked/",
+    "7264": "http://kuu-kun.tumblr.com/",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",

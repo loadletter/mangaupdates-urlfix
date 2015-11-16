@@ -229,6 +229,7 @@ var urlfix_grouplist = {
     "7199": "http://silveryogi.tumblr.com/",
     "7219": "http://bato.to/group/_/g/got-scans-r5803",
     "7239": "https://asclepiasscans.wordpress.com/",
+    "7259": "http://hollowgenerationteam.forumcommunity.net/",
     "759": "http://reverie.esmartkid.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",

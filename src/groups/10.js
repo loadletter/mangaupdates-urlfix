@@ -214,6 +214,8 @@ var urlfix_grouplist = {
     "7170": "http://bato.to/group/_/y/yxcv-r5568",
     "7210": "http://hakogaku.tumblr.com/",
     "7230": "http://www.zxzxzx.info/",
+    "7250": "http://oresama.us/",
+    "7270": "http://seraphic-deviltry.tk/",
     "730": "http://www.animeco.org/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",

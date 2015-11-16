@@ -240,6 +240,7 @@ var urlfix_grouplist = {
     "721": "http://kenshinscans.anxious-anime.com/",
     "7221": "http://underworld-scans.blogspot.my/",
     "7241": "http://loving-that-yaoi.tumblr.com/",
+    "7261": "https://chloeponi.wordpress.com/",
     "741": "http://www.swordbreaker.com/",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",

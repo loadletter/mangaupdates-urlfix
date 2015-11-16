@@ -237,6 +237,7 @@ var urlfix_grouplist = {
     "7203": "http://yesnostalgiagoogles.tumblr.com/",
     "7223": "http://jojocoloredadventure.blogspot.com/",
     "7243": "http://voicelessscans.weebly.com/",
+    "7263": "http://ni-chan-no-muchuu.tumblr.com/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",

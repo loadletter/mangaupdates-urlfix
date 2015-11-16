@@ -231,6 +231,8 @@ var urlfix_grouplist = {
     "7174": "http://bato.to/group/_/a/jo-r5771",
     "7194": "http://www.angelicscans.co/",
     "7234": "http://bato.to/forums/user/95908-itwixie/",
+    "7254": "http://timeforfunideas.livejournal.com/",
+    "7274": "http://saintseiyafan.com/Forum/index.php",
     "734": "http://www.aizuwinter.bravehost.com",
     "74": "http://www.snoopycool.com/",
     "754": "http://www.zakuro.ca.tc/",
