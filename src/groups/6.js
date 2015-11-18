@@ -111,6 +111,7 @@ var urlfix_grouplist = {
     "426": "http://www.hikarinokiseki.com/",
     "4266": "http://www.antisensescans.com/",
     "4286": "http://extrascans.net/",
+    "4326": "http://fourangers.tumblr.com/",
     "4406": "http://flatfacemanga.tumblr.com/",
     "4426": "http://solo-sc.livejournal.com/",
     "446": "http://scanlations.aarinfantasy.com/",
