@@ -225,6 +225,7 @@ var urlfix_grouplist = {
     "7226": "https://taffygirl13.wordpress.com/",
     "7246": "http://bato.to/group/_/l/locrex-r3817",
     "7266": "http://translations-with-no-regrets.tumblr.com/",
+    "7286": "http://bato.to/group/_/u/unrequited-r5867",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

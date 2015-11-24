@@ -114,6 +114,7 @@ var urlfix_grouplist = {
     "3981": "http://linwenolatari.livejournal.com/",
     "4001": "http://happyscans.blogspot.com/",
     "4041": "http://truescans.tk/",
+    "4061": "http://z15.invisionfree.com/chromesrestoredscans/index.php",
     "41": "http://www.toriyamaworld.com",
     "4101": "https://dl.dropbox.com/u/10017992/mixini.html",
     "4121": "http://medkand.tumblr.com/",

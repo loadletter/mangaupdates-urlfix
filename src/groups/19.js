@@ -95,6 +95,7 @@ var urlfix_grouplist = {
     "3899": "http://lewdwanibootleggers.blogspot.com/",
     "39": "http://www.orangeday.net/soul-society",
     "399": "http://nameless-scans.blogspot.com/",
+    "3999": "https://twistedcuriosity.wordpress.com/",
     "4039": "http://edmxtranslations.wordpress.com/",
     "4059": "http://community.livejournal.com/emerald_dreamar/",
     "4099": "http://community.livejournal.com/spicyscans/",

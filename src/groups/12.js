@@ -103,6 +103,7 @@ var urlfix_grouplist = {
     "4012": "http://alterityscans.wordpress.com/",
     "4072": "http://animeaddict1068.blogspot.com/",
     "4092": "http://fishgirlscans.blogspot.com/",
+    "4112": "http://gunslinger-girl.up-with.com/f29-manga-scanlations-and-raws",
     "4152": "http://fkmtkrazy.blogspot.com/",
     "4232": "http://razorwaffles.webs.com",
     "4272": "http://koidanoscans.blogspot.com/",

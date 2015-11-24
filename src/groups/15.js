@@ -99,6 +99,7 @@ var urlfix_grouplist = {
     "3955": "http://mujintou.wordpress.com/",
     "3995": "http://kuuurosaki.wordpress.com/",
     "4015": "http://kiuolo.livejournal.com/",
+    "4075": "https://www.mangaupdates.com/showtopic.php?tid=24389",
     "4095": "http://outlandish-tori.blogspot.com/",
     "4115": "http://www.mediafire.com/arupika",
     "415": "http://scum-scans.com",

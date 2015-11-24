@@ -237,6 +237,7 @@ var urlfix_grouplist = {
     "7205": "http://bato.to/group/_/b/baguette-scans-r5470",
     "7225": "https://kumaotou.wordpress.com/",
     "725": "http://ossu.maximum7.net/",
+    "7285": "http://bato.to/group/_/d/dark-vader-scans-r5866",
     "745": "http://home.nc.rr.com/momotato/yotsubato.html",
     "765": "http://kamikaze.dreamhosters.com/",
     "825": "http://omgtsrs.aoi-tori.org",
