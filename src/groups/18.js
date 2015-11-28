@@ -205,7 +205,7 @@ var urlfix_grouplist = {
     "6998": "https://kanascans.wordpress.com/",
     "7038": "http://kek.gameofscanlation.moe/",
     "7058": "http://cruxite.tumblr.com/",
-    "7078": "http://maaavis.tumblr.com/",
+    "7078": "http://mgqr.tumblr.com/tagged/mgqrscans",
     "7098": "http://scanonymous.tumblr.com/",
     "7118": "http://saint-joy.tumblr.com/",
     "7158": "http://bato.to/group/_/s/shikiganai-r5752",
