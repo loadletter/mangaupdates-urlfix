@@ -243,6 +243,7 @@ var urlfix_grouplist = {
     "7241": "http://loving-that-yaoi.tumblr.com/",
     "7261": "https://chloeponi.wordpress.com/",
     "7281": "https://mechanicscans.wordpress.com",
+    "7301": "http://bato.to/group/_/m/mizusawa-scans-r5882",
     "741": "http://www.swordbreaker.com/",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",

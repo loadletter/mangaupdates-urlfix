@@ -232,6 +232,7 @@ var urlfix_grouplist = {
     "7239": "https://asclepiasscans.wordpress.com/",
     "7259": "http://hollowgenerationteam.forumcommunity.net/",
     "7279": "https://takanehana.wordpress.com/",
+    "7299": "http://crayzayj.blogspot.com/",
     "759": "http://reverie.esmartkid.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",

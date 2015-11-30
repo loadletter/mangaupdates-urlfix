@@ -227,6 +227,7 @@ var urlfix_grouplist = {
     "7240": "http://cilecile.co.vu/",
     "7260": "http://himetsuri.tumblr.com/",
     "7280": "https://oregaheroineeng.wordpress.com/",
+    "7300": "http://yourethebestadachisan.tumblr.com/",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",

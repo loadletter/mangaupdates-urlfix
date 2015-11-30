@@ -236,6 +236,7 @@ var urlfix_grouplist = {
     "724": "http://lyrebird.aithine.org/halfbaked/",
     "7264": "http://kuu-kun.tumblr.com/",
     "7284": "https://mangaconda.wordpress.com/",
+    "7304": "http://www.manga-audition.com/",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
