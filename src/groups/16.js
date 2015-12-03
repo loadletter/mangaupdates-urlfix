@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7236": "http://bato.to/group/_/b/big-order-scan-r5716",
     "7276": "http://vik-freak.tumblr.com/",
     "7296": "https://midnighttranslationblog.wordpress.com/",
+    "7316": "https://heroesofthescan.wordpress.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
     "796": "http://www.proxy-scans.com",
     "856": "http://apforums.net/forumdisplay.php?f=14",

@@ -217,6 +217,7 @@ var urlfix_grouplist = {
     "7248": "http://keywordpalace.zz.mu/",
     "728": "http://www.hyuu-scans.com",
     "7288": "http://bato.to/group/_/m/mysophobic-anon-r5872",
+    "7308": "http://omawei-fansub.tumblr.com/",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",
