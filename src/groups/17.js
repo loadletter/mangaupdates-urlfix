@@ -229,6 +229,7 @@ var urlfix_grouplist = {
     "7237": "http://bato.to/group/_/h/hyassin27-r5780",
     "7277": "https://www.spottoon.com/",
     "7297": "http://bato.to/group/_/e/eieiron-r5877",
+    "7317": "http://dynasty-scans.com/scanlators/super_shanko_friends",
     "737": "http://pinoyotaku.com/index.html",
     "77": "http://inanemanga.com/",
     "797": "http://www.hydscans.com",

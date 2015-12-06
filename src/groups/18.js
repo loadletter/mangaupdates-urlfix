@@ -216,6 +216,7 @@ var urlfix_grouplist = {
     "7238": "https://reyzyrout4art.wordpress.com/",
     "7258": "https://longdream.wordpress.com/category/manga/",
     "7298": "https://silenttl.wordpress.com/",
+    "7318": "https://ngstranslations.wordpress.com/",
     "738": "http://www.newnede.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "798": "http://coolsnoops.com/",
