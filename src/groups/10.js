@@ -219,6 +219,7 @@ var urlfix_grouplist = {
     "7270": "http://seraphic-deviltry.tk/",
     "7290": "https://watdameow.wordpress.com/",
     "730": "http://www.animeco.org/",
+    "7330": "http://haise.co.vu/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

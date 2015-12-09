@@ -239,6 +239,7 @@ var urlfix_grouplist = {
     "725": "http://ossu.maximum7.net/",
     "7285": "http://bato.to/group/_/d/dark-vader-scans-r5866",
     "7305": "http://demoisellescanlations.blogspot.com/",
+    "7325": "http://notorious-ndp.tumblr.com/",
     "745": "http://home.nc.rr.com/momotato/yotsubato.html",
     "765": "http://kamikaze.dreamhosters.com/",
     "825": "http://omgtsrs.aoi-tori.org",

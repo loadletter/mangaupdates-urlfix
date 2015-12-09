@@ -239,6 +239,7 @@ var urlfix_grouplist = {
     "7243": "http://voicelessscans.weebly.com/",
     "7263": "http://ni-chan-no-muchuu.tumblr.com/",
     "7283": "http://shouganaiscans.tumblr.com/",
+    "7323": "http://redglasses-girl.tumblr.com/",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",

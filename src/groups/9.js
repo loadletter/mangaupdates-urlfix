@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7249": "http://myanimelist.net/clubs.php?cid=69595",
     "7289": "http://demontranslations.com/",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
+    "7329": "http://bato.to/group/_/c/caek-co-r5911",
     "749": "http://withthewill.net",
     "769": "http://www.japan-legend.com",
     "809": "http://www.freewebs.com/kotatsutrans/",
