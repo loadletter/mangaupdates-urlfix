@@ -215,6 +215,7 @@ var urlfix_grouplist = {
     "7255": "http://youjinsite.com/",
     "7295": "http://bato.to/group/_/r/renaissance-girl-r5874",
     "7315": "http://tsunde-holic.livejournal.com/",
+    "7335": "https://konobuta.wordpress.com/",
     "735": "http://nyarscans.livejournal.com/",
     "75": "http://orangetangerine.cjb.net",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",

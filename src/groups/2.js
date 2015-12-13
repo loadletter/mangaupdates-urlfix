@@ -237,6 +237,7 @@ var urlfix_grouplist = {
     "7262": "https://nuttyisprocrasinating.wordpress.com/",
     "7282": "http://lmsmachinetranslations.com/",
     "7322": "http://blscanlations.livejournal.com/",
+    "7342": "https://www.reddit.com/user/Arezs",
     "762": "http://www.hikaru-no-go-world.new.fr/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",

@@ -229,6 +229,7 @@ var urlfix_grouplist = {
     "7280": "https://oregaheroineeng.wordpress.com/",
     "7300": "http://yourethebestadachisan.tumblr.com/",
     "7320": "http://bato.to/group/_/g/greatest-battle-group-r5280",
+    "7340": "http://ihavetobenkyou.tumblr.com/",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",

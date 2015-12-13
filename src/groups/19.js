@@ -234,6 +234,7 @@ var urlfix_grouplist = {
     "7279": "https://takanehana.wordpress.com/",
     "7299": "http://crayzayj.blogspot.com/",
     "7319": "https://www.facebook.com/Plottwistnofansub",
+    "7339": "http://extorchic.tumblr.com/",
     "759": "http://reverie.esmartkid.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",

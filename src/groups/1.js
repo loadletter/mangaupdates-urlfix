@@ -245,6 +245,7 @@ var urlfix_grouplist = {
     "7281": "https://mechanicscans.wordpress.com",
     "7301": "http://bato.to/group/_/m/mizusawa-scans-r5882",
     "7321": "http://dynasty-scans.com/scanlators/m_scans",
+    "7341": "http://dynasty-scans.com/scanlators/veinfag",
     "741": "http://www.swordbreaker.com/",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",

@@ -230,6 +230,7 @@ var urlfix_grouplist = {
     "7252": "http://delinquentscans.wordpress.com",
     "7272": "http://brickme.tumblr.com/",
     "7312": "http://rabbitscans.blogspot.com/",
+    "7332": "http://dynasty-scans.com/scanlators/theron",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",

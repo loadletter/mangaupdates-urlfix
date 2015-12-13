@@ -234,6 +234,7 @@ var urlfix_grouplist = {
     "7254": "http://timeforfunideas.livejournal.com/",
     "7274": "http://saintseiyafan.com/Forum/index.php",
     "7314": "https://oregaheroineeng.wordpress.com/",
+    "7334": "http://dynasty-scans.com/scanlators/ai_dle",
     "734": "http://www.aizuwinter.bravehost.com",
     "74": "http://www.snoopycool.com/",
     "754": "http://www.zakuro.ca.tc/",

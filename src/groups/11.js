@@ -216,6 +216,7 @@ var urlfix_grouplist = {
     "7291": "http://novelsnao.com/category/dth/",
     "731": "http://paizuriteam.free.fr/index.php",
     "7311": "http://novelsnao.com/",
+    "7331": "http://zuiccraft-translation.tumblr.com/",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",

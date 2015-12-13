@@ -223,6 +223,7 @@ var urlfix_grouplist = {
     "7253": "http://kirbyeggs.tumblr.com/",
     "7313": "http://bato.to/group/_/d/dookietheferret-r5640",
     "733": "http://fairyfly.org",
+    "7333": "http://g.e-hentai.org/uploader/potocat",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",
