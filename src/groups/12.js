@@ -206,6 +206,7 @@ var urlfix_grouplist = {
     "6652": "https://isekaimahou.wordpress.com/",
     "6672": "http://conradxyuuri.livejournal.com/",
     "6712": "http://www.chibi-fansub.com/",
+    "672": "http://forums.nrvnqsr.com/",
     "6732": "https://darktranslations.wordpress.com/",
     "6752": "http://eggyscans.tumblr.com/",
     "6772": "http://shiroyukitranslations.com/",
