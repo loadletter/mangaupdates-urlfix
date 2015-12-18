@@ -218,6 +218,7 @@ var urlfix_grouplist = {
     "7298": "https://silenttl.wordpress.com/",
     "7318": "https://ngstranslations.wordpress.com/",
     "7338": "http://bato.to/group/_/p/paknek-r5917",
+    "7358": "https://fivestarspecialists.wordpress.com/xian-ni-index/",
     "738": "http://www.newnede.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "798": "http://coolsnoops.com/",

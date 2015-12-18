@@ -217,6 +217,7 @@ var urlfix_grouplist = {
     "7315": "http://tsunde-holic.livejournal.com/",
     "7335": "https://konobuta.wordpress.com/",
     "735": "http://nyarscans.livejournal.com/",
+    "7355": "http://g.e-hentai.org/uploader/Eternal%2BDream",
     "75": "http://orangetangerine.cjb.net",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
