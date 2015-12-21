@@ -209,7 +209,7 @@ var urlfix_grouplist = {
     "6826": "https://noone2246.wordpress.com/",
     "6846": "http://musundescans.blogspot.com/",
     "686": "http://www.hanazuke.tk/",
-    "6866": "http://yellawtwl.com/",
+    "6866": "http://www.wuxiaworld.com",
     "6886": "http://wuxiasociety.freeforums.net/thread/544/martial-odyssey",
     "6906": "http://bato.to/group/_/b/bored-af-translator-r5473",
     "6966": "http://sevenfortynine.tumblr.com/",

@@ -100,6 +100,7 @@ var urlfix_grouplist = {
     "3871": "http://www.mediafire.com/chapterone",
     "3891": "http://www.facebook.com/pages/MACVazquez-no-Fansub/175457839167401",
     "3911": "http://queensbladebattle.blogspot.com/",
+    "3931": "http://bato.to/group/_/l/latpuertorican-friends-r269",
     "3991": "http://istealyourtranslations.blogspot.com/",
     "4051": "http://www.mediafire.com/?3519nbi9r4011",
     "4071": "http://dodgestatus.blogspot.com/",

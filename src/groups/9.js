@@ -230,6 +230,7 @@ var urlfix_grouplist = {
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "7329": "http://bato.to/group/_/c/caek-co-r5911",
     "7349": "http://tabikonotrans.blogspot.com/",
+    "7369": "http://phantomhivism.tumblr.com/",
     "749": "http://withthewill.net",
     "769": "http://www.japan-legend.com",
     "809": "http://www.freewebs.com/kotatsutrans/",

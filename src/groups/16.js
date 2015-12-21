@@ -96,6 +96,7 @@ var urlfix_grouplist = {
     "3856": "http://anotsuu.livejournal.com/",
     "3896": "http://shoujo-addiction.jimdo.com/",
     "3916": "http://finalscan.com/",
+    "3936": "http://bato.to/group/_/d/dreamy-paradise-r1256",
     "3956": "http://exkstl.wordpress.com/",
     "3996": "http://sourapples.0009.ws/",
     "4016": "http://gemscans.wordpress.com/",

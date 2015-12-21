@@ -97,6 +97,7 @@ var urlfix_grouplist = {
     "3917": "http://yuanfang.livejournal.com/",
     "3937": "http://avenscans.blogspot.com/",
     "3957": "http://orphanscans.wordpress.com/",
+    "3977": "http://bato.to/group/_/k/kyokutan-r2479",
     "4017": "http://community.livejournal.com/neko_no_nyaa/",
     "4057": "http://rogueknightscans.blogspot.com/",
     "4077": "http://www.neko-rin.com/scanlations/",

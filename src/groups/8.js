@@ -122,7 +122,7 @@ var urlfix_grouplist = {
     "4748": "http://doomeddane.blogspot.jp/",
     "4768": "http://quickiescans.wordpress.com/",
     "4788": "http://dzigavertovgruppe.blogspot.com/",
-    "48": "http://shocwave.caticus.com",
+    "48": "http://shocwave.erobeat.net",
     "4808": "http://dencake.blogspot.ca/",
     "4828": "http://redsky-scenlations.blogspot.com/",
     "4848": "http://theapplefish.weebly.com/",
