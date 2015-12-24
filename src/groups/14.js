@@ -237,6 +237,7 @@ var urlfix_grouplist = {
     "7334": "http://dynasty-scans.com/scanlators/ai_dle",
     "734": "http://www.aizuwinter.bravehost.com",
     "7354": "http://dynasty-scans.com/scanlators/alice_doll_editing",
+    "7374": "http://gomanga.co/",
     "74": "http://www.snoopycool.com/",
     "754": "http://www.zakuro.ca.tc/",
     "794": "http://www.veravincent.cjb.net/",
