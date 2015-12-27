@@ -232,6 +232,7 @@ var urlfix_grouplist = {
     "7287": "https://pervteam.wordpress.com/",
     "7327": "https://tarabletranslation.wordpress.com/",
     "7367": "http://smutrocketscans.tumblr.com/",
+    "7387": "http://mochabenas.tumblr.com/",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",

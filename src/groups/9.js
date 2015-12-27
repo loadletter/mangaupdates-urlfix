@@ -172,7 +172,7 @@ var urlfix_grouplist = {
     "5869": "http://yattaruscan.tumblr.com/",
     "5889": "http://ourtranscendence.com/",
     "589": "http://www.geocities.com/yaoimanga/",
-    "5909": "http://harroe.tumblr.com/",
+    "5909": "http://countryofclocks.tumblr.com/",
     "5929": "https://endscans.wordpress.com/",
     "5949": "http://mangabandits.net/",
     "6049": "http://tateyamaa.tumblr.com/",
