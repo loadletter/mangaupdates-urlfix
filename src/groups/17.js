@@ -233,6 +233,7 @@ var urlfix_grouplist = {
     "7317": "http://dynasty-scans.com/scanlators/super_shanko_friends",
     "7337": "http://eng.dpmanga.net/",
     "737": "http://pinoyotaku.com/index.html",
+    "7397": "http://bato.to/group/_/f/five-twenty-five-cans-r5884",
     "77": "http://inanemanga.com/",
     "797": "http://www.hydscans.com",
     "817": "http://ap-manga.webs.com/",

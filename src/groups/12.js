@@ -233,6 +233,7 @@ var urlfix_grouplist = {
     "7312": "http://rabbitscans.blogspot.com/",
     "7332": "http://dynasty-scans.com/scanlators/theron",
     "7352": "http://g.e-hentai.org/uploader/Katzius",
+    "7392": "https://kongetsume.wordpress.com/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",

@@ -221,6 +221,7 @@ var urlfix_grouplist = {
     "7358": "https://fivestarspecialists.wordpress.com/xian-ni-index/",
     "7378": "http://bato.to/group/_/m/merry-christmas-r5942",
     "738": "http://www.newnede.com/",
+    "7398": "http://lightnovelstranslations.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",

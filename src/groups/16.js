@@ -231,6 +231,7 @@ var urlfix_grouplist = {
     "7296": "https://midnighttranslationblog.wordpress.com/",
     "7316": "https://heroesofthescan.wordpress.com/",
     "7336": "http://pumpkintranslations.blogspot.com/",
+    "7396": "http://emruyshittranslations.blogspot.com/",
     "756": "http://community.livejournal.com/yamane_ayano/",
     "796": "http://www.proxy-scans.com",
     "856": "http://apforums.net/forumdisplay.php?f=14",

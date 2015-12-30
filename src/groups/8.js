@@ -219,6 +219,7 @@ var urlfix_grouplist = {
     "7288": "http://bato.to/group/_/m/mysophobic-anon-r5872",
     "7308": "http://omawei-fansub.tumblr.com/",
     "7348": "http://bersekertranslations.blogspot.com/",
+    "7388": "http://kurosecretsanta.tumblr.com/",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",

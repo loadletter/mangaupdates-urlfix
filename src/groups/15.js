@@ -219,6 +219,7 @@ var urlfix_grouplist = {
     "735": "http://nyarscans.livejournal.com/",
     "7355": "http://g.e-hentai.org/uploader/Eternal%2BDream",
     "7375": "http://nekohamujoy.tumblr.com/",
+    "7395": "https://www.facebook.com/impatientscans/",
     "75": "http://orangetangerine.cjb.net",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
