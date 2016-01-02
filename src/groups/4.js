@@ -184,7 +184,7 @@ var urlfix_grouplist = {
     "6024": "http://www.batoto.net/group/_/r/rpapo-r4326",
     "6064": "http://zettaitranslation.blogspot.com/",
     "6084": "http://m3ow.moe/",
-    "6124": "http://www.batoto.net/group/_/s/sunrise-scans-r4470",
+    "6124": "https://sunrisescans.wordpress.com/",
     "6144": "https://irstland.wordpress.com/",
     "6164": "http://paperdollsproject.rocks/",
     "6204": "http://strawberrytimescanlations.wordpress.com/",

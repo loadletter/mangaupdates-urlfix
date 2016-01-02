@@ -227,6 +227,7 @@ var urlfix_grouplist = {
     "7187": "http://sarinalime.tumblr.com/",
     "7207": "http://bato.to/group/_/u/ursan-translations-r5309",
     "7227": "http://bato.to/group/_/k/kokushoku-scans-r5810",
+    "7247": "http://omatranslations.com/",
     "7267": "https://n00btranslations.wordpress.com/",
     "727": "http://www.myspace.com/kurisuscans",
     "7287": "https://pervteam.wordpress.com/",
