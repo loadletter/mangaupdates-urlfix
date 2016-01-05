@@ -83,6 +83,7 @@ var urlfix_grouplist = {
     "3459": "http://ikosubs.wordpress.com/",
     "3479": "http://theturtlehermit.wordpress.com/",
     "3499": "http://libraire.livejournal.com/",
+    "3519": "http://bato.to/group/_/b/baka-neko-r1188",
     "3559": "http://otakublaze.blog124.fc2.com/",
     "3579": "http://shiawasenoapato.blogspot.com/",
     "3639": "http://www.otakuvids.com/",

@@ -92,6 +92,7 @@ var urlfix_grouplist = {
     "3636": "http://www.ichigoyuri.com/",
     "3656": "http://noblesse-online.info/",
     "3676": "http://fundoshi4.blogspot.com/",
+    "3716": "http://bato.to/group/_/a/anime-tion-scanlation-r521",
     "3776": "http://betsuniscans.blogspot.com/",
     "3856": "http://anotsuu.livejournal.com/",
     "3896": "http://shoujo-addiction.jimdo.com/",

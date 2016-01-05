@@ -220,6 +220,7 @@ var urlfix_grouplist = {
     "7331": "http://zuiccraft-translation.tumblr.com/",
     "7371": "http://shogunscans.com/",
     "7391": "http://ichinichibl.tumblr.com/",
+    "7411": "http://bato.to/group/_/t/tampan-scans-r4914",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",

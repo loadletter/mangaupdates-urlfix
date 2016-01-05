@@ -92,6 +92,7 @@ var urlfix_grouplist = {
     "3720": "http://orangefispop.livejournal.com",
     "3740": "http://shibababa.wordpress.com/",
     "3760": "http://pr0norific.livejournal.com/",
+    "3780": "http://bato.to/group/_/b/black-sheep-r3072",
     "380": "http://yuecchi.blogspot.com/",
     "3800": "http://sassytranslation.wordpress.com",
     "3820": "http://mimantranslations.blogspot.com/",

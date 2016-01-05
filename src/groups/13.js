@@ -85,6 +85,7 @@ var urlfix_grouplist = {
     "3593": "http://ashogo.wordpress.com/",
     "3613": "http://transalte-mania.blogspot.com/",
     "3633": "http://kuroihanabi.livejournal.com/",
+    "3653": "http://z13.invisionfree.com/GreedGluttonyPirates/index.php?",
     "3673": "http://az1989.wordpress.com/",
     "3693": "http://complexscans.zenaku.net/",
     "3713": "http://kiss2thesky.wordpress.com/",

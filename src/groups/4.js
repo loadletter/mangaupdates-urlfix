@@ -96,6 +96,8 @@ var urlfix_grouplist = {
     "3684": "http://www.green-tea-lounge.blogspot.com/",
     "3704": "http://yankeegoonscans.blogspot.com/",
     "3744": "http://franky-family.freeforums.eu/portal.htm",
+    "3764": "http://z7.invisionfree.com/Novus_Ordo_Seclorum/index.php?",
+    "3784": "http://konnichiwa-scans.forumotion.com/forum",
     "3804": "http://www.the-bastard-team.co.cc/",
     "3824": "http://afterschoolscans.dreamwidth.org/",
     "3844": "http://twin-dragons-no-fansub.blogspot.com/",

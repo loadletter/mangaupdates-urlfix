@@ -90,6 +90,7 @@ var urlfix_grouplist = {
     "37": "http://www.forever-more.org/",
     "3717": "http://community.livejournal.com/stuckintwilight/",
     "3737": "http://idlescans.blogspot.com/",
+    "3757": "http://bato.to/group/_/i/inet-r4576",
     "3777": "http://mangascanlations.kommiekomiks.com/",
     "3817": "http://purotan.livejournal.com/",
     "3857": "http://maplescans.ucoz.com",
