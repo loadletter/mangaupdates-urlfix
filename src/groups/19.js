@@ -174,7 +174,7 @@ var urlfix_grouplist = {
     "5999": "http://redturtle95.livejournal.com/",
     "6019": "https://dazedscans.wordpress.com/",
     "6039": "http://w0jt1.blogspot.com/",
-    "6059": "http://www.hengao.tk/",
+    "6059": "http://hengao.god.jp/",
     "6079": "http://bato.to/group/_/j/japannext-fansub-r3073",
     "6099": "http://key-and-cravat.livejournal.com/",
     "6119": "http://flamenco-scanlations.tumblr.com/",
