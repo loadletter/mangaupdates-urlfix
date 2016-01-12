@@ -234,6 +234,7 @@ var urlfix_grouplist = {
     "7340": "http://ihavetobenkyou.tumblr.com/",
     "7380": "http://bato.to/group/_/k/kinky-pug-jack-r5943",
     "7400": "http://bato.to/group/_/k/kumaoddity-r5973",
+    "7420": "https://kurarinscans.wordpress.com/",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",

@@ -234,6 +234,7 @@ var urlfix_grouplist = {
     "7349": "http://tabikonotrans.blogspot.com/",
     "7369": "http://phantomhivism.tumblr.com/",
     "7409": "http://fluffwords.tumblr.com/",
+    "7429": "http://bato.to/group/_/i/irregular-scans-r5993",
     "749": "http://withthewill.net",
     "769": "http://www.japan-legend.com",
     "809": "http://www.freewebs.com/kotatsutrans/",

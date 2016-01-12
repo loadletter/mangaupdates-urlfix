@@ -69,6 +69,7 @@ var urlfix_grouplist = {
     "2912": "http://freewebs.com/mywishing-star",
     "292": "http://www.drendemic.com/scan/",
     "2972": "http://mangahelpers.com/s/taka-scans",
+    "2992": "http://z6.invisionfree.com/Iscariot_Scans/",
     "3052": "http://sucre-rose.livejournal.com/",
     "3072": "http://rehwynscans.blogspot.com/",
     "3092": "http://mastersca.nz/",

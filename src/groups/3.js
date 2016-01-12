@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7283": "http://shouganaiscans.tumblr.com/",
     "7323": "http://redglasses-girl.tumblr.com/",
     "7363": "https://daoseekerblog.wordpress.com/",
+    "7423": "http://g.e-hentai.org/uploader/mathillean",
     "743": "http://deph.edwardk.info/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",

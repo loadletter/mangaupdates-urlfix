@@ -221,6 +221,7 @@ var urlfix_grouplist = {
     "7348": "http://bersekertranslations.blogspot.com/",
     "7388": "http://kurosecretsanta.tumblr.com/",
     "7408": "http://bato.to/group/_/r/rello-r5982",
+    "7428": "http://volaretranslations.com/",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",

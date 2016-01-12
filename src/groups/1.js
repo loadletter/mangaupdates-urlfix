@@ -89,6 +89,7 @@ var urlfix_grouplist = {
     "3281": "http://bluescan.co.tv",
     "3301": "http://www.cosmosstudio.net",
     "341": "http://www.captaintsubasa.org/",
+    "3421": "http://s7.zetaboards.com/Nyaabari_Forums/index/",
     "3441": "http://animabon.com/",
     "3461": "http://nihontou.wordpress.com",
     "3501": "http://destiny-project.co.nr/",

@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7286": "http://bato.to/group/_/u/unrequited-r5867",
     "7306": "http://pastebin.com/zDqTp4hj",
     "7406": "http://aphaxistrio.tumblr.com/",
+    "7426": "http://error-404-fuck-not-found.tumblr.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

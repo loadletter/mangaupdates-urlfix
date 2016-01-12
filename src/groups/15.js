@@ -59,6 +59,7 @@ var urlfix_grouplist = {
     "2815": "http://yoroshii.ryuutama.com/",
     "2855": "http://www.ellie-sama.com",
     "2895": "http://www.hentaimaru.com",
+    "2915": "http://summarpirates.livejournal.com/",
     "295": "http://www.forever-rain.com/touch/",
     "2955": "http://www.mediafire.com/gundamsouseianon",
     "2995": "http://wunzyscans.blogspot.com/",
