@@ -195,6 +195,7 @@ var urlfix_grouplist = {
     "6466": "https://midnightsunscans.wordpress.com/",
     "6506": "http://rainbowbasketball.tumblr.com/",
     "6526": "http://lightonie.tumblr.com/",
+    "6586": "http://bokushii.blogspot.com/",
     "66": "http://www.shoujomagic.net/",
     "6606": "http://idolhellscans.tumblr.com/",
     "6626": "http://comicseoul.com/",

@@ -238,6 +238,7 @@ var urlfix_grouplist = {
     "737": "http://pinoyotaku.com/index.html",
     "7397": "http://bato.to/group/_/f/five-twenty-five-cans-r5884",
     "7417": "http://izhuki.tumblr.com/tagged/my+manga",
+    "7437": "http://matsunocafe.tumblr.com/",
     "77": "http://inanemanga.com/",
     "797": "http://www.hydscans.com",
     "817": "http://ap-manga.webs.com/",
