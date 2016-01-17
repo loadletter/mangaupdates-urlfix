@@ -248,6 +248,7 @@ var urlfix_grouplist = {
     "7321": "http://dynasty-scans.com/scanlators/m_scans",
     "7341": "http://dynasty-scans.com/scanlators/veinfag",
     "741": "http://www.swordbreaker.com/",
+    "7441": "https://razorace.wordpress.com/",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",

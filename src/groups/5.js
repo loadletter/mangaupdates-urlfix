@@ -245,6 +245,7 @@ var urlfix_grouplist = {
     "7365": "http://bato.to/group/_/m/michiri-r5930",
     "7405": "https://ultimatearcane.wordpress.com/",
     "7425": "http://meliophile.tumblr.com/translations",
+    "7445": "http://haruharuscans.tumblr.com/",
     "745": "http://home.nc.rr.com/momotato/yotsubato.html",
     "765": "http://kamikaze.dreamhosters.com/",
     "825": "http://omgtsrs.aoi-tori.org",

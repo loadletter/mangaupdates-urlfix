@@ -243,6 +243,7 @@ var urlfix_grouplist = {
     "7382": "https://sauriextras.wordpress.com/",
     "7402": "https://remnantscans.wordpress.com/",
     "7422": "https://halfelementmaster.wordpress.com/",
+    "7442": "https://wuxiatranslators.wordpress.com/",
     "762": "http://www.hikaru-no-go-world.new.fr/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",

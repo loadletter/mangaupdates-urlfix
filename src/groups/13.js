@@ -109,7 +109,7 @@ var urlfix_grouplist = {
     "4113": "http://www.sscans.com",
     "4133": "http://akuma-no-fansub.webuda.com/us/",
     "4153": "http://motorhorse.livejournal.com/",
-    "4173": "http://animenovel.blicky.net/",
+    "4173": "http://scans.futatsu.space/",
     "4193": "http://www.puffypandas.co.cc/",
     "4213": "http://groups.yahoo.com/group/Brownies_Scans/",
     "4233": "http://fuckyeahygodoujinshi.tumblr.com/",
