@@ -237,7 +237,7 @@ var urlfix_grouplist = {
     "7183": "http://thewhitestag.tumblr.com/",
     "7203": "http://yesnostalgiagoogles.tumblr.com/",
     "7223": "http://jojocoloredadventure.blogspot.com/",
-    "7243": "http://voicelessscans.weebly.com/",
+    "7243": "https://voicelessscanlation.wordpress.com/",
     "7263": "http://ni-chan-no-muchuu.tumblr.com/",
     "7283": "http://shouganaiscans.tumblr.com/",
     "7323": "http://redglasses-girl.tumblr.com/",

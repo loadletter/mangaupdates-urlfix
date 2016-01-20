@@ -238,6 +238,7 @@ var urlfix_grouplist = {
     "7352": "http://g.e-hentai.org/uploader/Katzius",
     "7392": "https://kongetsume.wordpress.com/",
     "7412": "https://battougatl.wordpress.com/",
+    "7452": "http://bato.to/group/_/other/4s-r6006",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",
