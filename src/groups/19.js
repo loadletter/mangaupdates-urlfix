@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7399": "https://anonempireblog.wordpress.com/",
     "7419": "http://redthreadtn.tumblr.com/",
     "7439": "http://dynasty-scans.com/scanlators/yanta",
+    "7459": "http://undulaatti.tumblr.com/",
     "759": "http://reverie.esmartkid.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",

@@ -231,6 +231,7 @@ var urlfix_grouplist = {
     "7373": "http://dynasty-scans.com/scanlators/feng_huolong",
     "7393": "http://tseirptranslations.blogspot.com/",
     "7413": "http://rsamass.blogspot.com/",
+    "7453": "http://bluelightscans.blogspot.com/",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",

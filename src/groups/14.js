@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7394": "http://chotenscans.260mb.net/",
     "74": "http://www.snoopycool.com/",
     "7434": "http://zanildas.tumblr.com/",
+    "7454": "http://up-subs.net/",
     "754": "http://www.zakuro.ca.tc/",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",
