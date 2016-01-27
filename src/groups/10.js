@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7410": "http://hoshi-to-hana-scans.tumblr.com/",
     "7430": "http://www.arantranslations.com/",
     "7450": "http://maigomaple-syrup.tumblr.com/",
+    "7470": "http://bbqbroscans.blogspot.com/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

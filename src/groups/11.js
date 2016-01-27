@@ -223,6 +223,7 @@ var urlfix_grouplist = {
     "7411": "http://bato.to/group/_/t/tampan-scans-r4914",
     "7431": "http://trinityarchive.com/",
     "7451": "http://fgilantranslations.com/",
+    "7471": "http://makretranslations.blogspot.com/",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",

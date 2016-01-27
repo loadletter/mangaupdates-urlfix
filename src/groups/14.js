@@ -243,6 +243,7 @@ var urlfix_grouplist = {
     "74": "http://www.snoopycool.com/",
     "7434": "http://zanildas.tumblr.com/",
     "7454": "http://up-subs.net/",
+    "7474": "http://drunkonschadenfreude.tumblr.com/",
     "754": "http://www.zakuro.ca.tc/",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",

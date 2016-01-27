@@ -230,6 +230,7 @@ var urlfix_grouplist = {
     "7306": "http://pastebin.com/zDqTp4hj",
     "7406": "http://aphaxistrio.tumblr.com/",
     "7426": "http://error-404-fuck-not-found.tumblr.com/",
+    "7466": "http://bato.to/group/_/w/whynot-scans-r6024",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

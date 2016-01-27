@@ -232,6 +232,7 @@ var urlfix_grouplist = {
     "7393": "http://tseirptranslations.blogspot.com/",
     "7413": "http://rsamass.blogspot.com/",
     "7453": "http://bluelightscans.blogspot.com/",
+    "7473": "https://riptranslations.wordpress.com/",
     "753": "http://www.geocities.com/odayaka00/",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",

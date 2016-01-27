@@ -240,6 +240,7 @@ var urlfix_grouplist = {
     "7387": "http://mochabenas.tumblr.com/",
     "7407": "http://miyuki-ki.tumblr.com/",
     "7447": "http://puremashiro.ameaki.net/",
+    "7467": "http://nightrunner-bl.tumblr.com/",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",

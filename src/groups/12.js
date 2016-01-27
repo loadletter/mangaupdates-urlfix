@@ -239,6 +239,7 @@ var urlfix_grouplist = {
     "7392": "https://kongetsume.wordpress.com/",
     "7412": "https://battougatl.wordpress.com/",
     "7452": "http://bato.to/group/_/other/4s-r6006",
+    "7472": "http://imgur.com/user/oneeyedkingscans",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",
