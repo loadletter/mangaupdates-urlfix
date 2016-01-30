@@ -249,6 +249,7 @@ var urlfix_grouplist = {
     "7341": "http://dynasty-scans.com/scanlators/veinfag",
     "741": "http://www.swordbreaker.com/",
     "7441": "https://razorace.wordpress.com/",
+    "7481": "http://bato.to/group/_/l/lets-not-fall-in-love-r6014",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",

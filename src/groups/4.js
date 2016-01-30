@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "7384": "http://jenuinelyy.tumblr.com/",
     "7424": "http://no6-manga.tumblr.com/",
     "7444": "http://too-nurui.rhcloud.com/",
+    "7484": "https://aoritranslations.wordpress.com/",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",

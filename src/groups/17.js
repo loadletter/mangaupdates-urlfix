@@ -240,6 +240,7 @@ var urlfix_grouplist = {
     "7417": "http://izhuki.tumblr.com/tagged/my+manga",
     "7437": "http://matsunocafe.tumblr.com/",
     "7457": "http://bato.to/group/_/r/revenant-contract-r6015",
+    "7477": "http://tachimybananase.tumblr.com/",
     "77": "http://inanemanga.com/",
     "797": "http://www.hydscans.com",
     "817": "http://ap-manga.webs.com/",
