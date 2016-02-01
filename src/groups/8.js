@@ -224,6 +224,7 @@ var urlfix_grouplist = {
     "7428": "http://volaretranslations.com/",
     "7448": "http://bato.to/group/_/a/appreciation-scans-r4109",
     "7468": "https://danbooru.donmai.us/pools/8259",
+    "7488": "http://glasshe-arts.tumblr.com/",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",

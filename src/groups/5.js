@@ -248,6 +248,7 @@ var urlfix_grouplist = {
     "7445": "http://haruharuscans.tumblr.com/",
     "745": "http://home.nc.rr.com/momotato/yotsubato.html",
     "7465": "http://bato.to/group/_/f/fashionably-late-releases-r5735",
+    "7485": "https://jellybeanscans.wordpress.com/",
     "765": "http://kamikaze.dreamhosters.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",

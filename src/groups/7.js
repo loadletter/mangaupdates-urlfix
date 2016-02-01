@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7447": "http://puremashiro.ameaki.net/",
     "7467": "http://nightrunner-bl.tumblr.com/",
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",
+    "7487": "http://www.kindaichi-lovers.net/",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
