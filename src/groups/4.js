@@ -51,6 +51,7 @@ var urlfix_grouplist = {
     "2564": "http://mangahelpers.com/s/jammer",
     "2584": "http://onosubs.livejournal.com",
     "2604": "http://oofurilove.wordpress.com/",
+    "2624": "http://bato.to/group/_/z/zawa-r2131",
     "264": "http://www.hanashi.org",
     "2644": "http://www.kohakuhoshi.com/",
     "2684": "http://community.livejournal.com/rispara/",

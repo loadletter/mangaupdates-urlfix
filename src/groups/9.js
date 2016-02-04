@@ -53,6 +53,7 @@ var urlfix_grouplist = {
     "2609": "http://pewpewscans.wordpress.com/",
     "2629": "http://meowscans.co.cc/",
     "2649": "http://mangahelpers.com/s/slp",
+    "2669": "http://leisure-scans.nightforum.net/",
     "269": "http://www.seaofmirrors.com/",
     "2709": "http://kunkunadventuringco.wordpress.com/",
     "2729": "http://mangahelpers.com/s/summerslaughter",

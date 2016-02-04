@@ -60,6 +60,7 @@ var urlfix_grouplist = {
     "2623": "http://forever77.livejournal.com/",
     "263": "http://giggedygiggedygoo.com/ayanami/main.htm",
     "2643": "http://ourtranscendence.com/",
+    "2663": "https://www.mangaupdates.com/showtopic.php?tid=12047",
     "2683": "http://spaz4tw.livejournal.com/",
     "2703": "http://blueskydust.webs.com/",
     "2723": "http://coyomoosescans.blogspot.com/",

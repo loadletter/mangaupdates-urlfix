@@ -46,6 +46,7 @@ var urlfix_grouplist = {
     "2548": "http://www.antebellum-scanlations.chanlu.org/",
     "2568": "http://chu-gau.livejournal.com/",
     "2588": "http://dekascanlation.livejournal.com/",
+    "2608": "http://bato.to/group/_/s/someguy-scans-r442",
     "2628": "http://hmrscans.ucoz.com/",
     "2648": "http://choutomaraseru.livejournal.com/",
     "2668": "http://community.livejournal.com/allsunday_scans/",

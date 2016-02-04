@@ -48,6 +48,7 @@ var urlfix_grouplist = {
     "2456": "http://owlscans.clanteam.com/",
     "2476": "http://community.livejournal.com/wonderloop/",
     "2536": "http://js-scans.blogspot.com/",
+    "2556": "http://bato.to/group/_/m/manwhore-scans-r815",
     "256": "http://bato.to/group/_/v/vgm-r820",
     "2576": "http://bchan.onnacafe.com/index.html",
     "2616": "http://starbomberman.livejournal.com/",

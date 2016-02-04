@@ -43,6 +43,7 @@ var urlfix_grouplist = {
     "2530": "http://bs.roddyinnovations.com/",
     "2550": "http://faraotomb.blogspot.com/",
     "2590": "http://vk.rinne.nu/",
+    "2610": "http://z8.invisionfree.com/milkyzZz_CreamyZzZ/index.php",
     "2630": "http://suimasenscans.wordpress.com/",
     "2650": "http://donebetterelsewhere.blogspot.com/",
     "2670": "http://selvatori.livejournal.com",

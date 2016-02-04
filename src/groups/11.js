@@ -50,6 +50,7 @@ var urlfix_grouplist = {
     "2531": "http://reidenindustries.wordpress.com/",
     "2551": "http://matekun.blogspot.com/?zx=6e609a6448bc65f1",
     "2591": "http://stubbornone.blogspot.com/",
+    "2651": "http://bato.to/group/_/r/red-r1427",
     "2691": "http://biribiri.fakku.net/",
     "271": "http://www.nanashi-fansubs.com",
     "2711": "http://harroku.blogspot.com/",
