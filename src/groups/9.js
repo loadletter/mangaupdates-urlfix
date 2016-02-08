@@ -240,6 +240,7 @@ var urlfix_grouplist = {
     "7469": "http://bato.to/group/_/k/kancolle-scanlations-r5991",
     "7489": "http://zerotalentscans.tumblr.com/",
     "749": "http://withthewill.net",
+    "7509": "http://bato.to/group/_/p/prological-troutadillos-r5369",
     "769": "http://www.japan-legend.com",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",

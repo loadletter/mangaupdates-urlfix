@@ -222,7 +222,7 @@ var urlfix_grouplist = {
     "7375": "http://nekohamujoy.tumblr.com/",
     "7395": "https://www.facebook.com/impatientscans/",
     "7435": "https://dodgetownreads.wordpress.com/",
-    "7475": "http://bato.to/group/_/b/bosen-scanlation-r6026",
+    "7475": "https://bosenscan.wordpress.com/",
     "75": "http://orangetangerine.cjb.net",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",

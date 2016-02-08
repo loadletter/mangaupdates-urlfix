@@ -240,6 +240,7 @@ var urlfix_grouplist = {
     "7412": "https://battougatl.wordpress.com/",
     "7452": "http://bato.to/group/_/other/4s-r6006",
     "7472": "http://imgur.com/user/oneeyedkingscans",
+    "7512": "http://catingham-palace.com/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",
