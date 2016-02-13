@@ -99,7 +99,7 @@ var urlfix_grouplist = {
     "3754": "http://vescas.livejournal.com/",
     "3794": "http://mysterymeat3translations.blogspot.com/",
     "3814": "http://xmistervx.blogspot.ca/",
-    "3834": "http://kawaii.ca/",
+    "3834": "https://almostkawaii.wordpress.com/",
     "3854": "http://gao-subs.com/",
     "3874": "http://pervertedtranslator.blogspot.com/",
     "3894": "http://photonlab.blogspot.com/",

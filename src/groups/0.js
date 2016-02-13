@@ -238,6 +238,7 @@ var urlfix_grouplist = {
     "7440": "http://bato.to/group/_/p/phoenix-translations-r4068",
     "7480": "http://imgur.com/user/MoroseTrans",
     "7500": "https://www.facebook.com/groups/403205379885926/",
+    "7520": "http://adachi-tan.tumblr.com/tagged/translations",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",

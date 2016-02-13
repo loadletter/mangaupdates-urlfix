@@ -246,6 +246,7 @@ var urlfix_grouplist = {
     "7442": "https://wuxiatranslators.wordpress.com/",
     "7462": "http://bato.to/group/_/t/triggered-r6020",
     "7502": "http://chicchaiseme.tumblr.com/",
+    "7522": "http://blastron01.tumblr.com/",
     "762": "http://www.hikaru-no-go-world.new.fr/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",

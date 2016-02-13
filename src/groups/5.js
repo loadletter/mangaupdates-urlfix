@@ -250,6 +250,7 @@ var urlfix_grouplist = {
     "7465": "http://bato.to/group/_/f/fashionably-late-releases-r5735",
     "7485": "https://jellybeanscans.wordpress.com/",
     "7505": "http://bakaei-scans.tumblr.com/",
+    "7525": "http://halcyonvalor.tumblr.com/",
     "765": "http://kamikaze.dreamhosters.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",

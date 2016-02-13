@@ -251,6 +251,7 @@ var urlfix_grouplist = {
     "7441": "https://razorace.wordpress.com/",
     "7481": "http://bato.to/group/_/l/lets-not-fall-in-love-r6014",
     "7501": "http://thelordofpie.blogspot.com/",
+    "7521": "http://mumble-rampage.tumblr.com/tagged/translation",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",
