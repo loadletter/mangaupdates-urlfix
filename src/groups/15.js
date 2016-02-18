@@ -212,7 +212,7 @@ var urlfix_grouplist = {
     "7155": "http://mewdragon.tumblr.com/",
     "7175": "https://watermelonhelmets.wordpress.com/",
     "7195": "http://mintchocolatetrans.tumblr.com/",
-    "7215": "https://dailehtranslations.wordpress.com/",
+    "7215": "http://dailydallying.com/",
     "7255": "http://youjinsite.com/",
     "7295": "http://bato.to/group/_/r/renaissance-girl-r5874",
     "7315": "http://tsunde-holic.livejournal.com/",

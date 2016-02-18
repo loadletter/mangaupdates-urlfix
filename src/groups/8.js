@@ -227,6 +227,7 @@ var urlfix_grouplist = {
     "7468": "https://danbooru.donmai.us/pools/8259",
     "7488": "http://glasshe-arts.tumblr.com/",
     "7508": "http://zweiltpartners.tumblr.com/",
+    "7528": "http://bato.to/group/_/o/orca-ninjas-killer-whale-squad-r6072",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",

@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "747": "http://www.angelfire.com/geek/tetrisnomiko/tetristranslationss.html",
     "7487": "http://www.kindaichi-lovers.net/",
     "7507": "http://united-icecreams.tumblr.com/",
+    "7527": "https://starrydawntranslations.wordpress.com/",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",

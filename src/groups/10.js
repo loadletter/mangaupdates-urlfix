@@ -107,7 +107,7 @@ var urlfix_grouplist = {
     "4090": "http://epdscans.livejournal.com",
     "4110": "http://tattletalks.wordpress.com/",
     "4130": "http://lemon-tea.forumbrasil.net/f15-completed-projects",
-    "4150": "https://gimmemanga.wordpress.com/",
+    "4150": "http://sam-translations.blogspot.com/",
     "4210": "http://tetsuwanbirdy.blogspot.com/",
     "4250": "http://esperancia-scanlation.blogspot.com/",
     "430": "http://www.mangarebels.com",
