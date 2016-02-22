@@ -246,6 +246,7 @@ var urlfix_grouplist = {
     "7479": "http://bato.to/group/_/c/the-stardust-crusaders-r3245",
     "7499": "http://lamienthana.tumblr.com/",
     "7519": "http://bato.to/group/_/c/crossbreed-scans-r6068",
+    "7539": "http://bato.to/group/_/k/katyusha-r6086",
     "759": "http://reverie.esmartkid.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",
