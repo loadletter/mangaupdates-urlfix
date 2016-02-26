@@ -215,7 +215,7 @@ var urlfix_grouplist = {
     "7178": "http://lionridge.blogspot.com/",
     "718": "http://www.sailorspork.org/",
     "7198": "http://momocha-scans.livejournal.com/",
-    "7218": "https://overworld-scans.blogspot.com/",
+    "7218": "http://overworld-scans.blogspot.com/",
     "7238": "https://reyzyrout4art.wordpress.com/",
     "7258": "https://longdream.wordpress.com/category/manga/",
     "7298": "https://silenttl.wordpress.com/",
