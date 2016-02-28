@@ -148,7 +148,7 @@ var urlfix_grouplist = {
     "5140": "http://unlimitednovelfailures.mangamatters.com/",
     "5160": "http://nomanga.com/",
     "5200": "http://www.myblogyo.com",
-    "5260": "http://yaoislife.tumblr.com/",
+    "5260": "http://yaoislife.shounen-ai.net/",
     "5320": "http://bato.to/group/_/u/unknown-username-r2963",
     "5340": "https://dorankunekoscans.wordpress.com/",
     "5360": "https://hurpyhooves.wordpress.com/",

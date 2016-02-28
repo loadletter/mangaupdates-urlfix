@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7472": "http://imgur.com/user/oneeyedkingscans",
     "7512": "http://catingham-palace.com/",
     "7532": "http://bato.to/group/_/n/nucular-scanlations-r3887",
+    "7552": "http://imjustleavingthishere.tumblr.com/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",

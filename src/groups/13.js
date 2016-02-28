@@ -236,6 +236,7 @@ var urlfix_grouplist = {
     "7493": "http://g.e-hentai.org/uploader/Orenji-kun",
     "7513": "http://chuunikun.tumblr.com/ons",
     "753": "http://www.geocities.com/odayaka00/",
+    "7553": "http://andreaphobia.tumblr.com/tagged/doujinshi+scanlation",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",
