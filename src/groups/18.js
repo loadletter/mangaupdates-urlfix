@@ -229,6 +229,7 @@ var urlfix_grouplist = {
     "7498": "http://bato.to/group/_/c/curry-translations-r5705",
     "7518": "http://grimdarkztranslations.com/",
     "7538": "http://bato.to/group/_/d/deux83-r4961",
+    "7558": "http://bato.to/group/_/u/unlimited-coffee-works-r6103",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",

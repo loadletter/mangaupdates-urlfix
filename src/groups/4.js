@@ -249,6 +249,7 @@ var urlfix_grouplist = {
     "7504": "https://bbluefiree.wordpress.com/",
     "7524": "https://patriarchreliance.wordpress.com/",
     "7544": "https://nepustation.wordpress.com/",
+    "7564": "https://gaochaotranslations.wordpress.com/",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
