@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7491": "http://mattysones.tumblr.com/",
     "7531": "http://utsuhofanboy24000.deviantart.com/",
     "7551": "http://amayaokami.tumblr.com/",
+    "7571": "http://z-ani.net/",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",

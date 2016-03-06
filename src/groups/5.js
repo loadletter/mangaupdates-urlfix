@@ -252,6 +252,7 @@ var urlfix_grouplist = {
     "7505": "http://bakaei-scans.tumblr.com/",
     "7525": "http://halcyonvalor.tumblr.com/",
     "7545": "http://silvalibrary.com/",
+    "7565": "http://tlsyosetsu.blogspot.com/",
     "765": "http://kamikaze.dreamhosters.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
