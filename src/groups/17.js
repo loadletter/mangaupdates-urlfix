@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7457": "http://bato.to/group/_/r/revenant-contract-r6015",
     "7477": "http://tachimybananase.tumblr.com/",
     "7517": "http://bato.to/group/_/p/pr-r6067",
+    "7577": "http://hyorinmaru.net/",
     "77": "http://inanemanga.com/",
     "797": "http://www.hydscans.com",
     "817": "http://ap-manga.webs.com/",

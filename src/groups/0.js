@@ -239,6 +239,7 @@ var urlfix_grouplist = {
     "7480": "http://imgur.com/user/MoroseTrans",
     "7500": "http://baekhap-manhwa.tumblr.com/",
     "7520": "http://adachi-tan.tumblr.com/tagged/translations",
+    "7580": "http://bato.to/group/_/n/non-euclidean-translations-r6120",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
