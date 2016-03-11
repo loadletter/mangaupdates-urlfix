@@ -233,6 +233,7 @@ var urlfix_grouplist = {
     "7466": "http://bato.to/group/_/w/whynot-scans-r6024",
     "7526": "http://trungnguyenwriter.blogspot.com/",
     "7546": "https://jbkmango.wordpress.com/",
+    "7586": "http://bato.to/group/_/h/hobo-1-r175",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

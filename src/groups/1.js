@@ -225,7 +225,7 @@ var urlfix_grouplist = {
     "681": "http://community.livejournal.com/afascinante/",
     "6841": "https://clover7snook.wordpress.com/",
     "6881": "https://whiteliesfansub.wordpress.com/",
-    "6901": "http://bato.to/group/_/l/love-live-scanlations-r5526",
+    "6901": "http://read.tomochan.today/",
     "6921": "http://monochromegravityscans.tumblr.com/",
     "6941": "http://tl-skeweds.blogspot.com/",
     "6961": "http://pinku-blossom.tumblr.com/",

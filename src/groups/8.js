@@ -230,6 +230,7 @@ var urlfix_grouplist = {
     "7528": "http://bato.to/group/_/o/orca-ninjas-killer-whale-squad-r6072",
     "7548": "http://bato.to/group/_/a/argo-r6096",
     "7568": "http://restoringtranslations.tumblr.com/",
+    "7588": "http://bato.to/group/_/c/chief-cough-r6126",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",

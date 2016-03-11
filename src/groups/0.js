@@ -236,7 +236,7 @@ var urlfix_grouplist = {
     "7400": "http://bato.to/group/_/k/kumaoddity-r5973",
     "7420": "https://kurarinscans.wordpress.com/",
     "7440": "http://bato.to/group/_/p/phoenix-translations-r4068",
-    "7480": "http://imgur.com/user/MoroseTrans",
+    "7480": "https://www.facebook.com/MoroseTrans",
     "7500": "http://baekhap-manhwa.tumblr.com/",
     "7520": "http://adachi-tan.tumblr.com/tagged/translations",
     "7580": "http://bato.to/group/_/n/non-euclidean-translations-r6120",
