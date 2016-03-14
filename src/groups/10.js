@@ -234,6 +234,7 @@ var urlfix_grouplist = {
     "7510": "http://munakatareishi.god.jp/tagged/my-shitty-translations",
     "7550": "http://www.heterophobiafansub.com/",
     "7570": "http://angel-in-a-teecup.tumblr.com/",
+    "7590": "http://siber-owl.com/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

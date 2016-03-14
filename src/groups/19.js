@@ -245,7 +245,7 @@ var urlfix_grouplist = {
     "7459": "http://undulaatti.tumblr.com/",
     "7479": "http://bato.to/group/_/c/the-stardust-crusaders-r3245",
     "7499": "http://lamienthana.tumblr.com/",
-    "7519": "http://bato.to/group/_/c/crossbreed-scans-r6068",
+    "7519": "http://crossbreedscans.com/",
     "7539": "http://bato.to/group/_/k/katyusha-r6086",
     "7559": "http://reliablesenpai.tumblr.com/tagged/my-translation",
     "759": "http://reverie.esmartkid.com/",

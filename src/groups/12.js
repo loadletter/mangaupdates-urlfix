@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "7532": "http://bato.to/group/_/n/nucular-scanlations-r3887",
     "7552": "http://imjustleavingthishere.tumblr.com/",
     "7572": "https://www.facebook.com/therawprojectmangatranslators/",
+    "7592": "https://slowtranslationblog.wordpress.com",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",

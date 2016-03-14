@@ -248,6 +248,7 @@ var urlfix_grouplist = {
     "7514": "http://nerunodaisuki.tumblr.com/post/104743435622/esoragoto-english-translation-version-this",
     "754": "http://www.zakuro.ca.tc/",
     "7574": "http://subascans.yolasite.com/",
+    "7594": "http://bato.to/group/_/k/king-vessel-scans-r6131",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",
