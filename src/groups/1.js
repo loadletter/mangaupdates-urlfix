@@ -254,6 +254,7 @@ var urlfix_grouplist = {
     "7521": "http://mumble-rampage.tumblr.com/tagged/translation",
     "7561": "http://senpaitranslations.tumblr.com/",
     "7581": "http://flippedswitchscans.tumblr.com/",
+    "7601": "http://bato.to/group/_/s/soujutsu-scanlation-r6135",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",

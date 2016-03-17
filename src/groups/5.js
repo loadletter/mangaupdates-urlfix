@@ -254,6 +254,7 @@ var urlfix_grouplist = {
     "7545": "http://silvalibrary.com/",
     "7565": "http://tlsyosetsu.blogspot.com/",
     "7585": "https://monktranslations.wordpress.com/",
+    "7605": "https://januketranslations.wordpress.com/",
     "765": "http://kamikaze.dreamhosters.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",

@@ -250,6 +250,7 @@ var urlfix_grouplist = {
     "7503": "http://thingsilikeaboutyaoi.tumblr.com/",
     "7543": "https://potatorealm.wordpress.com/",
     "7583": "http://crossroad--demon.tumblr.com/",
+    "7603": "http://bato.to/group/_/b/black-karma-scans-r5775",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",
