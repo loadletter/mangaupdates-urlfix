@@ -232,6 +232,7 @@ var urlfix_grouplist = {
     "7558": "http://bato.to/group/_/u/unlimited-coffee-works-r6103",
     "7578": "https://oyasumireads.wordpress.com/",
     "7598": "http://subudai11.com/",
+    "7618": "http://hakureina.tumblr.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",

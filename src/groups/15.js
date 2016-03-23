@@ -226,6 +226,7 @@ var urlfix_grouplist = {
     "75": "http://orangetangerine.cjb.net",
     "7555": "https://dekinaidiary.wordpress.com/",
     "7595": "http://dynasty-scans.com/scanlators/anya",
+    "7615": "http://marchen-v-friedhof.tumblr.com/",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",

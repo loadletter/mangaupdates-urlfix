@@ -249,6 +249,7 @@ var urlfix_grouplist = {
     "754": "http://www.zakuro.ca.tc/",
     "7574": "http://subascans.yolasite.com/",
     "7594": "http://bato.to/group/_/k/king-vessel-scans-r6131",
+    "7614": "http://www.ichigoyuri.com/",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",

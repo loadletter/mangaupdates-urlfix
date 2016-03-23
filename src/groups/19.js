@@ -250,6 +250,7 @@ var urlfix_grouplist = {
     "7559": "http://reliablesenpai.tumblr.com/tagged/my-translation",
     "759": "http://reverie.esmartkid.com/",
     "7599": "http://bato.to/group/_/j/japanese-internet-defense-force-r6136",
+    "7619": "http://fencer-x.tumblr.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",
     "879": "http://gurotaku.voiea.net/",
