@@ -230,6 +230,7 @@ var urlfix_grouplist = {
     "7551": "http://amayaokami.tumblr.com/",
     "7571": "http://z-ani.net/",
     "7591": "http://littlenovel.com/",
+    "7631": "http://bato.to/group/_/p/pink-cherry-blossom-scans-r6154",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",

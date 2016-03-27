@@ -232,6 +232,7 @@ var urlfix_grouplist = {
     "7568": "http://restoringtranslations.tumblr.com/",
     "7588": "http://chiefcough.blogspot.com/",
     "7608": "http://dynasty-scans.com/scanlators/sneikkimies",
+    "7628": "http://ai-grand.tumblr.com/",
     "768": "http://xxx.yokubou.org/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",

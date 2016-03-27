@@ -247,6 +247,7 @@ var urlfix_grouplist = {
     "7527": "https://starrydawntranslations.wordpress.com/",
     "7567": "http://harukazenoetranger.tumblr.com/",
     "7587": "https://snowtranslations.wordpress.com/",
+    "7627": "https://usareitrans.wordpress.com/",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
