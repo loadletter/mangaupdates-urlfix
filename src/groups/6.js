@@ -236,6 +236,7 @@ var urlfix_grouplist = {
     "7586": "http://bato.to/group/_/h/hobo-1-r175",
     "7606": "http://ikebukurotranslations.blogspot.com/",
     "7626": "http://bato.to/group/_/other/i-love-girls-scanlations-r6152",
+    "7646": "https://ridwantrans.wordpress.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

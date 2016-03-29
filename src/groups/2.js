@@ -251,6 +251,7 @@ var urlfix_grouplist = {
     "7602": "http://nekos-love.tumblr.com/",
     "762": "http://www.hikaru-no-go-world.new.fr/",
     "7622": "http://shinnosukearisu.tumblr.com/",
+    "7642": "http://bato.to/group/_/k/kizunever-r4308",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",

@@ -252,6 +252,7 @@ var urlfix_grouplist = {
     "7564": "https://gaochaotranslations.wordpress.com/",
     "7604": "https://pizzasandcoke.wordpress.com/",
     "7624": "https://weletranslation.wordpress.com/",
+    "7644": "http://onizenmaru.tumblr.com/",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
