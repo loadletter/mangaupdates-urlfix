@@ -236,6 +236,7 @@ var urlfix_grouplist = {
     "7570": "http://angel-in-a-teecup.tumblr.com/",
     "7590": "http://siber-owl.com/",
     "7610": "http://mtlcorner.blogspot.com/",
+    "7650": "http://an-rabbit.tumblr.com/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

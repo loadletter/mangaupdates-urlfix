@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7266": "http://translations-with-no-regrets.tumblr.com/",
     "7286": "http://bato.to/group/_/u/unrequited-r5867",
     "7306": "http://pastebin.com/zDqTp4hj",
+    "7386": "http://shotaddict19.tumblr.com/tagged/scanlation",
     "7406": "http://aphaxistrio.tumblr.com/",
     "7426": "http://error-404-fuck-not-found.tumblr.com/",
     "7466": "http://bato.to/group/_/w/whynot-scans-r6024",
