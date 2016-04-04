@@ -246,6 +246,7 @@ var urlfix_grouplist = {
     "7597": "https://comereadme.wordpress.com/",
     "7617": "http://happythexceed.tumblr.com/",
     "7637": "http://silver-lining.ucoz.ru/",
+    "7657": "http://kuraiwonderland.tumblr.com/",
     "77": "http://inanemanga.com/",
     "797": "http://www.hydscans.com",
     "817": "http://ap-manga.webs.com/",

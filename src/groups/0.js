@@ -241,6 +241,7 @@ var urlfix_grouplist = {
     "7520": "http://adachi-tan.tumblr.com/tagged/translations",
     "7580": "http://bato.to/group/_/n/non-euclidean-translations-r6120",
     "7640": "http://www.animaregia.net/",
+    "7660": "http://kuro-arisu-blog-blog.tumblr.com/",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",

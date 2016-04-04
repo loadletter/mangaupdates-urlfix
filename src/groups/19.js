@@ -216,7 +216,7 @@ var urlfix_grouplist = {
     "6839": "https://bunnyscans.wordpress.com/",
     "6859": "http://eldura.tumblr.com/",
     "6879": "http://doujinshicrazedscans.tumblr.com/",
-    "6899": "https://ravensfsenglish.wordpress.com/",
+    "6899": "http://english.ravens-scans.com/",
     "6919": "http://lmaonadelol.tumblr.com",
     "6939": "http://timelessscans.wix.com/timelessscans",
     "6959": "http://ladder-sama.tumblr.com/",

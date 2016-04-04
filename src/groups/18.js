@@ -234,6 +234,7 @@ var urlfix_grouplist = {
     "7598": "http://subudai11.com/",
     "7618": "http://hakureina.tumblr.com/",
     "7638": "http://toriitranslations.animeholics.org/",
+    "7658": "http://dailydallying.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",
