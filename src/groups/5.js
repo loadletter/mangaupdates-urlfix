@@ -258,6 +258,7 @@ var urlfix_grouplist = {
     "7625": "http://bato.to/group/_/k/koufuku-r6150",
     "7645": "http://mmerdeka.tumblr.com/",
     "765": "http://kamikaze.dreamhosters.com/",
+    "7665": "https://lightnovelcafe.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",

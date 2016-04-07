@@ -240,6 +240,7 @@ var urlfix_grouplist = {
     "7593": "http://bato.to/group/_/h/hikari-beats-r6109",
     "7613": "http://dynasty-scans.com/scanlators/8chan_u_scanlations",
     "7653": "http://trashbunny.tumblr.com/",
+    "7673": "https://wltrans.wordpress.com/",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",

@@ -252,6 +252,7 @@ var urlfix_grouplist = {
     "7614": "http://www.ichigoyuri.com/",
     "7634": "https://wildflowerscans.wordpress.com/",
     "7654": "http://minashirosoushi.tumblr.com/",
+    "7674": "http://english.ravens-scans.com/",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",

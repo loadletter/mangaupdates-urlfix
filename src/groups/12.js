@@ -248,6 +248,7 @@ var urlfix_grouplist = {
     "7612": "https://oniichanyamete.wordpress.com/manga/",
     "7632": "http://daburuwosagase.tumblr.com/",
     "7652": "http://godship.tumblr.com/",
+    "7672": "http://www.xianxiaworld.net/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",

@@ -237,6 +237,7 @@ var urlfix_grouplist = {
     "7590": "http://siber-owl.com/",
     "7610": "http://mtlcorner.blogspot.com/",
     "7650": "http://an-rabbit.tumblr.com/",
+    "7670": "http://dynasty-scans.com/scanlators/namuscan",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

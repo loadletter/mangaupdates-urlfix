@@ -245,6 +245,7 @@ var urlfix_grouplist = {
     "7549": "http://www.anotherparallel.space/",
     "7629": "http://alwayshere-scans.tumblr.com/",
     "7649": "http://sparkles-senpai.tumblr.com/",
+    "7669": "http://bato.to/group/_/a/acmi3-translation-group-r6179",
     "769": "http://www.japan-legend.com",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
