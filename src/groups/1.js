@@ -257,6 +257,7 @@ var urlfix_grouplist = {
     "7601": "http://bato.to/group/_/s/soujutsu-scanlation-r6135",
     "7621": "http://kira-chi.tumblr.com/",
     "7661": "http://miyataka.tumblr.com/",
+    "7681": "http://kyoukasetsura.tumblr.com/",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",

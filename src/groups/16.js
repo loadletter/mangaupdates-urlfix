@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "756": "http://community.livejournal.com/yamane_ayano/",
     "7576": "http://helveticascans.weebly.com/",
     "7616": "http://nijiniji-nikubou-scans.tumblr.com",
+    "7676": "https://jsbtl.wordpress.com/",
     "796": "http://www.proxy-scans.com",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",

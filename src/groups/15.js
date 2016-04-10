@@ -228,6 +228,7 @@ var urlfix_grouplist = {
     "7595": "http://dynasty-scans.com/scanlators/anya",
     "7615": "http://marchen-v-friedhof.tumblr.com/",
     "7655": "http://www.hasutsuki.com/",
+    "7675": "http://betakomahina.co.vu/",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
