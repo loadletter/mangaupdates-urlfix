@@ -237,7 +237,7 @@ var urlfix_grouplist = {
     "7279": "https://takanehana.wordpress.com/",
     "7299": "http://crayzayj.blogspot.com/",
     "7319": "https://www.facebook.com/Plottwistnofansub",
-    "7339": "http://extorchic.tumblr.com/",
+    "7339": "https://firebirdsnest.org/",
     "7359": "https://monktranslation.wordpress.com/",
     "7399": "https://anonempireblog.wordpress.com/",
     "7419": "http://redthreadtn.tumblr.com/",
