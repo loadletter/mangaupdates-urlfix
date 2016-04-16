@@ -165,7 +165,7 @@ var urlfix_grouplist = {
     "5303": "http://www.grownupsinspandex.com/",
     "5323": "http://randomscans.blogspot.com/",
     "5383": "http://yumekotan.tumblr.com/",
-    "5403": "http://bapscans.blogspot.com/",
+    "5403": "http://bapscans.tumblr.com/",
     "5423": "http://decadentdescent.blogspot.com/",
     "543": "http://snowy.gunmage.net/",
     "5463": "http://rinruritrans.x.fc2.com",

@@ -250,6 +250,7 @@ var urlfix_grouplist = {
     "7627": "https://usareitrans.wordpress.com/",
     "7647": "http://bato.to/group/_/a/adventure-scan-r6125",
     "7667": "https://negaraizu.wordpress.com/",
+    "7687": "http://sumacscanlations.tumblr.com/",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",

@@ -235,6 +235,7 @@ var urlfix_grouplist = {
     "7628": "http://ai-grand.tumblr.com/",
     "7668": "http://ryuumm.tumblr.com/",
     "768": "http://xxx.yokubou.org/",
+    "7688": "http://g.e-hentai.org/uploader/AkazaChan",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",
