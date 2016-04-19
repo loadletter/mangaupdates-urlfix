@@ -40,7 +40,7 @@ var urlfix_grouplist = {
     "2327": "http://Chuudoku",
     "2387": "http://community.livejournal.com/yonezou_fans/",
     "2407": "http://geocities.com/sayansfire",
-    "2427": "http://beta.deathtollscans.net/Forum/",
+    "2427": "http://deathtollscans.net/",
     "2447": "http://community.livejournal.com/jigoku_sg/",
     "2467": "http://deviousbreezes.mymisochan.com/",
     "247": "http://dgt.glowie.com/",

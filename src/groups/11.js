@@ -232,6 +232,7 @@ var urlfix_grouplist = {
     "7591": "http://littlenovel.com/",
     "7631": "http://bato.to/group/_/p/pink-cherry-blossom-scans-r6154",
     "7651": "http://mineralwatertranslation.blogspot.com/",
+    "7691": "http://bato.to/group/_/c/curry-farmer-r6197",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",

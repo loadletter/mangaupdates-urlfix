@@ -252,6 +252,7 @@ var urlfix_grouplist = {
     "7599": "http://bato.to/group/_/j/japanese-internet-defense-force-r6136",
     "7619": "http://fencer-x.tumblr.com/",
     "7679": "http://laprasified.wix.com/currypuffscans",
+    "7699": "http://adellhyde.tumblr.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",
     "879": "http://gurotaku.voiea.net/",
