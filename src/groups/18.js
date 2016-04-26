@@ -206,7 +206,7 @@ var urlfix_grouplist = {
     "6978": "http://cseg64.blogspot.com/",
     "698": "http://jenniyah.cjb.net/",
     "6998": "https://kanascans.wordpress.com/",
-    "7038": "http://kek.gameofscanlation.moe/",
+    "7038": "https://gameofscanlation.moe/",
     "7058": "http://cruxite.tumblr.com/",
     "7078": "http://mgqr.tumblr.com/tagged/mgqrscans",
     "7098": "http://scanonymous.tumblr.com/",

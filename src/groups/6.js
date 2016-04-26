@@ -239,6 +239,7 @@ var urlfix_grouplist = {
     "7626": "http://bato.to/group/_/other/i-love-girls-scanlations-r6152",
     "7646": "https://ridwantrans.wordpress.com/",
     "7666": "http://bato.to/group/_/c/crashed-tea-party-r6177",
+    "7706": "https://yorozuyatrans.wordpress.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",
