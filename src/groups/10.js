@@ -131,7 +131,7 @@ var urlfix_grouplist = {
     "470": "http://www.hxh-rp.com/BakaScans",
     "4710": "http://aeida.tumblr.com/",
     "4750": "http://Akuma-scans.blogspot.com",
-    "4770": "http://fujoshigeneration.com/",
+    "4770": "http://ggscans.tumblr.com/",
     "4790": "http://nanodesutranslations.wordpress.com/",
     "4830": "http://shirayukiscans.tumblr.com/",
     "4850": "http://www.surasplace.com/",

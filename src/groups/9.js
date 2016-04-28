@@ -247,6 +247,7 @@ var urlfix_grouplist = {
     "7649": "http://sparkles-senpai.tumblr.com/",
     "7669": "http://bato.to/group/_/a/acmi3-translation-group-r6179",
     "769": "http://www.japan-legend.com",
+    "7709": "http://bato.to/group/_/j/jait-r5530",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",
