@@ -248,6 +248,7 @@ var urlfix_grouplist = {
     "7669": "http://bato.to/group/_/a/acmi3-translation-group-r6179",
     "769": "http://www.japan-legend.com",
     "7709": "http://bato.to/group/_/j/jait-r5530",
+    "7729": "http://a-ngua.tumblr.com/",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",

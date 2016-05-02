@@ -260,6 +260,7 @@ var urlfix_grouplist = {
     "765": "http://kamikaze.dreamhosters.com/",
     "7665": "https://lightnovelcafe.com/",
     "7705": "http://dynasty-scans.com/scanlators/red_eyes_group",
+    "7725": "http://kaitchi.tumblr.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",

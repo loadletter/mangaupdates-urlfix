@@ -230,6 +230,7 @@ var urlfix_grouplist = {
     "7655": "http://www.hasutsuki.com/",
     "7675": "http://betakomahina.co.vu/",
     "7695": "https://www.facebook.com/Fundash-Yaoi-1594942057495022/",
+    "7735": "http://saezutte.tumblr.com/tagged/my%20translations",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",

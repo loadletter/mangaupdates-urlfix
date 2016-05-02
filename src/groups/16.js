@@ -245,6 +245,8 @@ var urlfix_grouplist = {
     "7576": "http://helveticascans.weebly.com/",
     "7616": "http://nijiniji-nikubou-scans.tumblr.com",
     "7676": "https://jsbtl.wordpress.com/",
+    "7716": "https://piggybottle.wordpress.com/",
+    "7736": "http://nomimushi.tumblr.com/",
     "796": "http://www.proxy-scans.com",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",

@@ -249,6 +249,8 @@ var urlfix_grouplist = {
     "7657": "http://kuraiwonderland.tumblr.com/",
     "7677": "https://nelliefeathers.wordpress.com/",
     "77": "http://inanemanga.com/",
+    "7717": "http://bato.to/group/_/i/irresponsible-r6217",
+    "7737": "http://toushindai.tumblr.com/",
     "797": "http://www.hydscans.com",
     "817": "http://ap-manga.webs.com/",
     "877": "http://mangarealm.enacre.net/",

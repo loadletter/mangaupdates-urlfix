@@ -256,6 +256,7 @@ var urlfix_grouplist = {
     "7663": "http://www.novelsground.com/",
     "7683": "https://hiohbye.wordpress.com/",
     "7703": "https://archivesoforion.wordpress.com/",
+    "7723": "http://littlesparrowsnest.tumblr.com/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",

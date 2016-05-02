@@ -254,6 +254,8 @@ var urlfix_grouplist = {
     "7654": "http://minashirosoushi.tumblr.com/",
     "7674": "http://english.ravens-scans.com/",
     "7694": "https://bruintranslation.wordpress.com/",
+    "7714": "http://bluestarscans.tumblr.com/",
+    "7734": "http://caressedsins.livejournal.com/",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",

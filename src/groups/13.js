@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7653": "http://trashbunny.tumblr.com/",
     "7673": "https://wltrans.wordpress.com/",
     "7693": "https://novelisation.wordpress.com/",
+    "7733": "http://wayfares.livejournal.com/",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",

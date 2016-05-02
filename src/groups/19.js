@@ -253,6 +253,7 @@ var urlfix_grouplist = {
     "7619": "http://fencer-x.tumblr.com/",
     "7679": "http://laprasified.wix.com/currypuffscans",
     "7699": "http://adellhyde.tumblr.com/",
+    "7719": "http://transtranstrans.hatenablog.com/",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",
     "879": "http://gurotaku.voiea.net/",

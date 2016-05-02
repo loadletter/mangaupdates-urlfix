@@ -259,6 +259,7 @@ var urlfix_grouplist = {
     "7661": "http://miyataka.tumblr.com/",
     "7681": "http://kyoukasetsura.tumblr.com/",
     "7701": "http://mxr.shounen-ai.net/",
+    "7721": "http://chocoleeto.tumblr.com/",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",
