@@ -255,6 +255,7 @@ var urlfix_grouplist = {
     "7662": "http://aominecchisdick.tumblr.com/",
     "7682": "http://bato.to/group/_/s/suppish-r6189",
     "7722": "http://bato.to/group/_/t/tarefu-r6219",
+    "7742": "http://penicillinshock.tumblr.com/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",

@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "7660": "http://kuro-arisu-blog-blog.tumblr.com/",
     "7680": "http://seijou-6.tumblr.com/tagged/translation",
     "7720": "http://eternal-kiseki.tumblr.com/tagged/Trans!",
+    "7740": "http://fujiryo4ever.livejournal.com/",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
