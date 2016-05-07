@@ -249,6 +249,7 @@ var urlfix_grouplist = {
     "769": "http://www.japan-legend.com",
     "7709": "http://bato.to/group/_/j/jait-r5530",
     "7729": "http://a-ngua.tumblr.com/",
+    "7749": "https://squigglesjptl.wordpress.com/",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",

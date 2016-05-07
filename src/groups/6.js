@@ -241,6 +241,7 @@ var urlfix_grouplist = {
     "7666": "http://bato.to/group/_/c/crashed-tea-party-r6177",
     "7706": "https://yorozuyatrans.wordpress.com/",
     "7726": "http://izanyanorihara.tumblr.com/",
+    "7746": "http://dark1408.livejournal.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

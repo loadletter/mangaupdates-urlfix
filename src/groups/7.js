@@ -252,6 +252,7 @@ var urlfix_grouplist = {
     "7667": "https://negaraizu.wordpress.com/",
     "7687": "http://sumacscanlations.tumblr.com/",
     "7727": "http://oikawa.moe/",
+    "7747": "http://halkuonmusoka.livejournal.com/",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",

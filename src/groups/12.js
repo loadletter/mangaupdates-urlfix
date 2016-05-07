@@ -252,6 +252,7 @@ var urlfix_grouplist = {
     "7692": "https://twitter.com/ProjectManga",
     "7712": "http://urascans.blogspot.com/",
     "7732": "http://differentclouds.livejournal.com/",
+    "7752": "http://rikko123.tumblr.com/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",
