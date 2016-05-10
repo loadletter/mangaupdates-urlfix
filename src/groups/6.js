@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7706": "https://yorozuyatrans.wordpress.com/",
     "7726": "http://izanyanorihara.tumblr.com/",
     "7746": "http://dark1408.livejournal.com/",
+    "7766": "http://xiaojiangworld.tumblr.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

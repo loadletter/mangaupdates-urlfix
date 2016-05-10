@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "7693": "https://novelisation.wordpress.com/",
     "7733": "http://wayfares.livejournal.com/",
     "7753": "http://nightow.net/",
+    "7773": "http://ferventhug.tumblr.com/",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",

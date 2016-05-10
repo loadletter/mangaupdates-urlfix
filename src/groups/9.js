@@ -250,6 +250,7 @@ var urlfix_grouplist = {
     "7709": "http://bato.to/group/_/j/jait-r5530",
     "7729": "http://a-ngua.tumblr.com/",
     "7749": "https://squigglesjptl.wordpress.com/",
+    "7769": "http://kuraxsawa.tumblr.com/",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",

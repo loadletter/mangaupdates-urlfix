@@ -241,6 +241,7 @@ var urlfix_grouplist = {
     "7690": "https://noodletowntranslated.wordpress.com/",
     "7730": "http://cleopuffer.livejournal.com/",
     "7750": "http://noroifactory.weebly.com/",
+    "7770": "http://ensignwillmason.tumblr.com/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
