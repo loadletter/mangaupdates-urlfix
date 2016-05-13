@@ -256,6 +256,7 @@ var urlfix_grouplist = {
     "7704": "https://aasesworld.wordpress.com/",
     "7724": "http://teributranslation.blogspot.com/",
     "7744": "http://mangafast.online/",
+    "7784": "http://bato.to/group/_/n/not-equal-scans-r6253",
     "784": "http://tracker.danomac.org/i-z/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",

@@ -240,6 +240,7 @@ var urlfix_grouplist = {
     "7718": "https://xianxiatales.wordpress.com/",
     "7738": "http://houjicha.tumblr.com/",
     "7758": "http://pocketloli.co/",
+    "7778": "https://www.facebook.com/RungsitXTranslation/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",

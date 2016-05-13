@@ -255,6 +255,7 @@ var urlfix_grouplist = {
     "7699": "http://adellhyde.tumblr.com/",
     "7719": "http://transtranstrans.hatenablog.com/",
     "7739": "http://shootswishscore.livejournal.com/",
+    "7779": "http://bato.to/group/_/k/kojikume-r6245",
     "779": "http://club-vogue.livejournal.com/",
     "79": "http://mangaart.us/",
     "879": "http://gurotaku.voiea.net/",

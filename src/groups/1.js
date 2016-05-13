@@ -261,6 +261,7 @@ var urlfix_grouplist = {
     "7701": "http://mxr.shounen-ai.net/",
     "7721": "http://chocoleeto.tumblr.com/",
     "7741": "http://fatchocobos.livejournal.com/",
+    "7781": "http://micromanclub.tumblr.com/",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",
