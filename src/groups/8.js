@@ -216,6 +216,7 @@ var urlfix_grouplist = {
     "7208": "http://killerkranberry.tumblr.com/",
     "7228": "http://bato.to/group/_/s/saz-r5711",
     "7248": "http://keywordpalace.zz.mu/",
+    "7268": "http://bato.to/group/_/s/steel-bun-r5548",
     "728": "http://www.hyuu-scans.com",
     "7288": "http://bato.to/group/_/m/mysophobic-anon-r5872",
     "7308": "http://omawei-fansub.tumblr.com/",

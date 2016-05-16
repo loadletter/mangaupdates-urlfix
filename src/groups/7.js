@@ -235,6 +235,7 @@ var urlfix_grouplist = {
     "7267": "https://n00btranslations.wordpress.com/",
     "727": "http://www.myspace.com/kurisuscans",
     "7287": "https://pervteam.wordpress.com/",
+    "7307": "http://bato.to/group/_/a/alpha-beta-kappa-r5255",
     "7327": "https://tarabletranslation.wordpress.com/",
     "7367": "http://smutrocketscans.tumblr.com/",
     "7387": "http://mochabenas.tumblr.com/",

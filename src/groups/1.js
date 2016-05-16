@@ -256,6 +256,7 @@ var urlfix_grouplist = {
     "7581": "http://flippedswitchscans.tumblr.com/",
     "7601": "http://bato.to/group/_/s/soujutsu-scanlation-r6135",
     "7621": "http://kira-chi.tumblr.com/",
+    "7641": "http://dynasty-scans.com/scanlators/when_hector_was_a_pup_scans",
     "7661": "http://miyataka.tumblr.com/",
     "7681": "http://kyoukasetsura.tumblr.com/",
     "7701": "http://mxr.shounen-ai.net/",
