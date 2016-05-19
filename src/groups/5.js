@@ -241,7 +241,7 @@ var urlfix_grouplist = {
     "7285": "http://bato.to/group/_/d/dark-vader-scans-r5866",
     "7305": "http://demoisellescanlations.blogspot.com/",
     "7325": "http://notorious-ndp.tumblr.com/",
-    "7345": "http://yurireviews.blogspot.com/search/label/Download",
+    "7345": "https://yurireviews.com/",
     "7365": "http://bato.to/group/_/m/michiri-r5930",
     "7405": "https://ultimatearcane.wordpress.com/",
     "7425": "http://meliophile.tumblr.com/translations",

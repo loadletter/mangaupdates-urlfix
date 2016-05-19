@@ -263,6 +263,7 @@ var urlfix_grouplist = {
     "7721": "http://chocoleeto.tumblr.com/",
     "7741": "http://fatchocobos.livejournal.com/",
     "7781": "http://micromanclub.tumblr.com/",
+    "7801": "http://bato.to/group/_/m/moe-r6276",
     "781": "http://www.mizumanga.cjb.net",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",
