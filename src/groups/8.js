@@ -240,6 +240,7 @@ var urlfix_grouplist = {
     "7728": "http://mouthsealed.tumblr.com/",
     "7748": "http://maria-ms.livejournal.com/",
     "7768": "http://vicecaptainsugawara.tumblr.com/",
+    "7808": "http://xxicedtea.tumblr.com/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",
