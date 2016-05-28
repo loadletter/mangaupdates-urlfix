@@ -247,6 +247,7 @@ var urlfix_grouplist = {
     "7753": "http://nightow.net/",
     "7773": "http://ferventhug.tumblr.com/",
     "7793": "http://snowyangell.tumblr.com/ktb",
+    "7813": "http://bato.to/group/_/b/baka-neko-scans-r6284",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",

@@ -236,7 +236,7 @@ var urlfix_grouplist = {
     "7312": "http://rabbitscans.blogspot.com/",
     "7332": "http://dynasty-scans.com/scanlators/theron",
     "7352": "http://g.e-hentai.org/uploader/Katzius",
-    "7372": "http://bato.to/group/_/w/wdm-scanlation-r5955",
+    "7372": "http://wedomiracles.tumblr.com/",
     "7392": "https://kongetsume.wordpress.com/",
     "7412": "https://battougatl.wordpress.com/",
     "7452": "https://www.mediafire.com/folder/3xg5q53brg7c9/release",

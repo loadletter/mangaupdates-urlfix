@@ -260,6 +260,7 @@ var urlfix_grouplist = {
     "7754": "http://loveprevailsscans.tumblr.com",
     "7774": "https://overkillscans.wordpress.com/",
     "7794": "http://ozenkalily.tumblr.com/tagged/my-translation",
+    "7814": "http://knmv.tumblr.com/tagged/my-scanlation",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",
