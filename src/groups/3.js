@@ -260,6 +260,7 @@ var urlfix_grouplist = {
     "7723": "http://littlesparrowsnest.tumblr.com/",
     "7743": "http://dynasty-scans.com/scanlators/nepperoni",
     "7783": "http://futagoscans.livejournal.com/",
+    "7823": "https://nakimushitl.wordpress.com/",
     "783": "http://ofsproject.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",

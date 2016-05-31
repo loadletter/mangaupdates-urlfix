@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "7778": "https://www.facebook.com/RungsitXTranslation/",
     "7798": "http://usachanmanproductions.tumblr.com/",
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
+    "7818": "http://c1v1scans.blogspot.com/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",

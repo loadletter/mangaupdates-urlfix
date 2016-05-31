@@ -254,6 +254,7 @@ var urlfix_grouplist = {
     "7737": "http://toushindai.tumblr.com/",
     "7757": "http://dynasty-scans.com/scanlators/nevrilicious_scans",
     "7777": "http://yuuisuke.tumblr.com/",
+    "7817": "http://moonbunnycafe.com/",
     "797": "http://www.hydscans.com",
     "817": "http://ap-manga.webs.com/",
     "877": "http://mangarealm.enacre.net/",

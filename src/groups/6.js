@@ -247,6 +247,7 @@ var urlfix_grouplist = {
     "7746": "http://dark1408.livejournal.com/",
     "7766": "http://xiaojiangworld.tumblr.com/",
     "7806": "http://bato.to/group/_/k/kumomori-r6281",
+    "7826": "https://incarneous.wordpress.com/",
     "786": "http://scanduzioni.altervista.org",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",

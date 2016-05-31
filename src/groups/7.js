@@ -255,6 +255,7 @@ var urlfix_grouplist = {
     "7727": "http://oikawa.moe/",
     "7747": "http://halkuonmusoka.livejournal.com/",
     "7767": "https://novelsnchill.com/",
+    "7827": "http://haraguroscans.blogspot.com/",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",

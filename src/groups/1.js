@@ -265,6 +265,7 @@ var urlfix_grouplist = {
     "7781": "http://micromanclub.tumblr.com/",
     "7801": "http://bato.to/group/_/m/moe-r6276",
     "781": "http://www.mizumanga.cjb.net",
+    "7821": "http://pandoraactor.tumblr.com/",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
