@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7304": "http://www.manga-audition.com/",
     "7324": "http://dynasty-scans.com/scanlators/fellowship_of_freelancers",
     "7344": "http://namtaenabi.tumblr.com/",
+    "7364": "http://fluffwords.tumblr.com/",
     "7384": "http://jenuinelyy.tumblr.com/",
     "7404": "http://bakaei-scans.tumblr.com/",
     "7424": "http://no6-manga.tumblr.com/",

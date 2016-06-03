@@ -233,6 +233,7 @@ var urlfix_grouplist = {
     "7735": "http://saezutte.tumblr.com/tagged/my%20translations",
     "7755": "http://themedicineseller.tumblr.com/",
     "7795": "http://hnkproject.tumblr.com/",
+    "7835": "http://bato.to/group/_/h/heisei-scans-r6290",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",

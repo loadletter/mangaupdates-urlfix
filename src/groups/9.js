@@ -255,6 +255,7 @@ var urlfix_grouplist = {
     "7749": "https://squigglesjptl.wordpress.com/",
     "7769": "http://kuraxsawa.tumblr.com/",
     "7789": "http://bato.to/group/_/t/tivanenk-r6268",
+    "7829": "http://saplings.livejournal.com/",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",
