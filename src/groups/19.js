@@ -257,6 +257,7 @@ var urlfix_grouplist = {
     "7739": "http://shootswishscore.livejournal.com/",
     "7779": "http://bato.to/group/_/k/kojikume-r6245",
     "779": "http://club-vogue.livejournal.com/",
+    "7839": "https://poorlydrawnstickman.wordpress.com/",
     "79": "http://mangaart.us/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",

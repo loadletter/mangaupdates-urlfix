@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "7804": "https://madamefujoshi.tumblr.com/",
     "7824": "https://loliquentblog.wordpress.com/",
     "784": "http://tracker.danomac.org/i-z/",
+    "7844": "https://caramel-parfait.blogspot.com/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
