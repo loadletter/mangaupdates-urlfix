@@ -170,7 +170,7 @@ var urlfix_grouplist = {
     "6055": "http://silentwolfie.deviantart.com/",
     "6075": "http://fuku-shuu.tumblr.com/",
     "6095": "http://kintsugiscans.blogspot.com/",
-    "6135": "http://mustbeendless.tumblr.com",
+    "6135": "http://801.ninja/",
     "615": "http://kawaru-enishi.2u.se/",
     "6155": "http://ze-crazies.livejournal.com/",
     "6175": "http://sakurapoolscans.tumblr.com/",

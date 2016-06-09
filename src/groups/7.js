@@ -256,6 +256,7 @@ var urlfix_grouplist = {
     "7747": "http://halkuonmusoka.livejournal.com/",
     "7767": "https://novelsnchill.com/",
     "7827": "http://haraguroscans.blogspot.com/",
+    "7847": "http://akaashijiek.tumblr.com/tagged/kakaotl",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",

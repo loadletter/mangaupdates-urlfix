@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "7750": "http://noroifactory.weebly.com/",
     "7770": "http://ensignwillmason.tumblr.com/",
     "7830": "http://pharaoh_dust.livejournal.com/",
+    "7850": "http://kenisu.tumblr.com/tagged/scanlation",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
