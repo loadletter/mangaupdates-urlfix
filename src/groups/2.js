@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "7782": "http://ninjascanlations.tumblr.com/",
     "7802": "http://chickenscrat.ch/",
     "7842": "http://instigare.tumblr.com/log",
+    "7862": "http://onlyonetruth.tumblr.com/translations",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",

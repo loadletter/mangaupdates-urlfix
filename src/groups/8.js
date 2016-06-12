@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7768": "http://vicecaptainsugawara.tumblr.com/",
     "7808": "http://xxicedtea.tumblr.com/",
     "7828": "https://cloverscans.wordpress.com/",
+    "7868": "https://www.facebook.com/solitarionofansub/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",

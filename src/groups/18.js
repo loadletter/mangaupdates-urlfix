@@ -246,6 +246,7 @@ var urlfix_grouplist = {
     "78": "http://web.archive.org/web/20050329002924/http://endlessdimension.org/",
     "7818": "http://c1v1scans.blogspot.com/",
     "7838": "https://fluffysnowtime.wordpress.com/",
+    "7858": "http://kinghmakoto.tumblr.com/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",

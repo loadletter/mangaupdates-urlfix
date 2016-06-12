@@ -264,6 +264,7 @@ var urlfix_grouplist = {
     "7745": "https://wsgscans.wordpress.com/",
     "7765": "http://sakurayuki523.tumblr.com/",
     "7845": "https://twitter.com/magentainkling",
+    "7865": "http://glasshalfdruunk.tumblr.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",
