@@ -263,6 +263,7 @@ var urlfix_grouplist = {
     "7814": "http://knmv.tumblr.com/tagged/my-scanlation",
     "7834": "https://dokuhanatl.wordpress.com/",
     "7854": "http://ritualscan2.free.fr/",
+    "7874": "https://hanagiku.wordpress.com/",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",

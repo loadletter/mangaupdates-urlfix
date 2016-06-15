@@ -251,6 +251,7 @@ var urlfix_grouplist = {
     "7776": "http://bato.to/group/_/t/tupanj-jyanlahion-r6235",
     "7816": "http://bato.to/group/_/j/jas-r6288",
     "7856": "http://mizzclawsgalore.tumblr.com/",
+    "7876": "http://bato.to/group/_/p/pico-manga-r6314",
     "796": "http://www.proxy-scans.com",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",

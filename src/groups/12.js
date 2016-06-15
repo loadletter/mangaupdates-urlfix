@@ -258,6 +258,7 @@ var urlfix_grouplist = {
     "7792": "http://rasher-translations.tumblr.com/",
     "7832": "http://lesyt.xyz/",
     "7852": "http://theukelover.tumblr.com/",
+    "7872": "http://dazaiscans.tumblr.com/",
     "792": "http://kaze-hime.deviantart.com",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",
