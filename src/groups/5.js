@@ -258,7 +258,7 @@ var urlfix_grouplist = {
     "7625": "http://bato.to/group/_/k/koufuku-r6150",
     "7645": "http://mmerdeka.tumblr.com/",
     "765": "http://kamikaze.dreamhosters.com/",
-    "7665": "https://lightnovelcafe.com/",
+    "7665": "http://lightnovelcafe.com/",
     "7705": "http://dynasty-scans.com/scanlators/red_eyes_group",
     "7725": "http://kaitchi.tumblr.com/",
     "7745": "https://wsgscans.wordpress.com/",
