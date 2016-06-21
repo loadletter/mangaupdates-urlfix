@@ -249,6 +249,7 @@ var urlfix_grouplist = {
     "7800": "http://rivaerez.tumblr.com/",
     "7840": "http://faktranslations.com/",
     "7860": "http://lichtjekyll.tumblr.com/",
+    "7880": "http://misc-typesets.tumblr.com/",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",

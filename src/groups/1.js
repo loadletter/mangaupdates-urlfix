@@ -268,6 +268,7 @@ var urlfix_grouplist = {
     "7821": "http://pandoraactor.tumblr.com/",
     "7841": "https://negaraizu.wordpress.com/",
     "7861": "http://ailisia.tumblr.com/",
+    "7881": "http://1plus5-scans.tumblr.com/",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",

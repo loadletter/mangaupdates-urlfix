@@ -249,7 +249,7 @@ var urlfix_grouplist = {
     "7443": "http://psiscans.tumblr.com/",
     "7463": "https://dowstranslations.wordpress.com/",
     "7503": "http://thingsilikeaboutyaoi.tumblr.com/",
-    "7543": "http://potatorealm.tumblr.com/",
+    "7543": "https://somepotatoes.wordpress.com/",
     "7583": "http://crossroad--demon.tumblr.com/",
     "7603": "http://bato.to/group/_/b/black-karma-scans-r5775",
     "7623": "http://yaoitotheextreme.tumblr.com/",
