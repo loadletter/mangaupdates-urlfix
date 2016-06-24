@@ -216,7 +216,7 @@ var urlfix_grouplist = {
     "6792": "http://www.deadlylegends.com/translations/",
     "6812": "http://aritedrop.blogspot.com/",
     "6872": "https://easternatelier.wordpress.com/",
-    "6892": "http://animerg.net/",
+    "6892": "http://saikoscans.ml/",
     "692": "http://s-kojika.com/PKR/",
     "6952": "https://remyampersand.wordpress.com/",
     "6992": "http://gundam-meowth.tumblr.com/",

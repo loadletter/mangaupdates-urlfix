@@ -257,6 +257,7 @@ var urlfix_grouplist = {
     "7789": "http://bato.to/group/_/t/tivanenk-r6268",
     "7829": "http://saplings.livejournal.com/",
     "7869": "http://bato.to/group/_/u/unknown-iii-r6301",
+    "7889": "http://bato.to/group/_/n/not-so-fast-weeb-scans-r6338",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",

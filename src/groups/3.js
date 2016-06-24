@@ -263,6 +263,7 @@ var urlfix_grouplist = {
     "7823": "https://nakimushitl.wordpress.com/",
     "783": "http://ofsproject.wordpress.com/",
     "7843": "http://dynasty-scans.com/scanlators/tsubaki_scans",
+    "7883": "http://mabushimajo.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",
     "963": "http://community.livejournal.com/papercut_scans/",
