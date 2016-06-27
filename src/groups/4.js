@@ -184,7 +184,7 @@ var urlfix_grouplist = {
     "5964": "http://akibadetectives.tumblr.com/",
     "5984": "http://indigoscanlations.co.vu/",
     "6004": "http://www.batoto.net/group/_/e/entente-r3838",
-    "6024": "http://www.batoto.net/group/_/r/rpapo-r4326",
+    "6024": "http://bato.to/group/_/r/rpapo-r4326",
     "6064": "http://zettaitranslation.blogspot.com/",
     "6084": "http://m3ow.moe/",
     "6124": "https://sunrisescans.wordpress.com/",

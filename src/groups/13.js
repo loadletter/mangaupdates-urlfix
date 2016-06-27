@@ -250,6 +250,7 @@ var urlfix_grouplist = {
     "7813": "http://bato.to/group/_/b/baka-neko-scans-r6284",
     "7853": "http://bato.to/group/_/o/old-scans-r6307",
     "7873": "http://bato.to/group/_/m/modern-life-of-immortal-demons-r6318",
+    "7893": "https://steadytranslation.wordpress.com/",
     "793": "http://ysanau.deviantart.com",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",

@@ -241,6 +241,7 @@ var urlfix_grouplist = {
     "7831": "http://hh-oasis.livejournal.com/",
     "7851": "http://g.e-hentai.org/uploader/Njmanga",
     "7871": "http://courage-a-word-of-justice.tumblr.com/",
+    "7891": "http://bato.to/group/_/y/yue-trans-r6339",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",
