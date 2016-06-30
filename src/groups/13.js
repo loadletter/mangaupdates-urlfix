@@ -179,7 +179,7 @@ var urlfix_grouplist = {
     "6033": "https://thenonames512.wordpress.com/",
     "6113": "http://balmunkfezarion.deviantart.com/",
     "6153": "http://lurondo.tumblr.com/",
-    "6173": "http://www.batoto.net/group/_/h/hazue-ishin-r3590",
+    "6173": "http://bato.to/group/_/h/hazue-ishin-r3590",
     "6213": "http://bato.to/group/_/k/kaneki-scans-r4691",
     "6253": "http://lovesick-udunno.tumblr.com/",
     "6273": "http://bato.to/group/_/b/bloodl-r3418",

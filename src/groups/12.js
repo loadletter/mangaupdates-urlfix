@@ -171,7 +171,7 @@ var urlfix_grouplist = {
     "572": "http://www.sbm.blahsoft.com/",
     "5752": "http://lazylily.moe/",
     "5812": "http://necron99scans.com",
-    "5832": "http://www.batoto.net/group/_/d/disdeeee-r3849",
+    "5832": "http://bato.to/group/_/d/disdeeee-r3849",
     "5852": "http://sleepingdragonslie.wordpress.com/",
     "5872": "http://kotatsuscans.tumblr.com/",
     "5892": "http://the-moonlighters.ml/",

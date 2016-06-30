@@ -170,7 +170,7 @@ var urlfix_grouplist = {
     "576": "http://fpscans.proboards92.com/index.cgi",
     "5776": "http://revolution.team.forumcommunity.net/",
     "5796": "http://aizendesu.blogspot.com/",
-    "5816": "http://www.batoto.net/group/_/a/anonymous-r3177",
+    "5816": "http://bato.to/group/_/a/anonymous-r3177",
     "5856": "http://alwayshere-scans.tumblr.com/",
     "5876": "https://www.mangabox.me/reader/en/",
     "5896": "http://missdream.org/",
