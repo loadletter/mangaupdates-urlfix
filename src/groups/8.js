@@ -244,6 +244,7 @@ var urlfix_grouplist = {
     "7828": "https://cloverscans.wordpress.com/",
     "7868": "https://www.facebook.com/solitarionofansub/",
     "7888": "http://last-heaven-fansub.com/",
+    "7908": "http://www.mangadomain.gq/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",

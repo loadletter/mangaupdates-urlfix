@@ -132,7 +132,7 @@ var urlfix_grouplist = {
     "4819": "http://deusexscans.blogspot.com/",
     "4839": "http://piratescanlations.wordpress.com/",
     "4859": "http://kimchisalad.wordpress.com/",
-    "4899": "http://mistyrainscans.blogspot.in/",
+    "4899": "http://mistyrainscans.blogspot.com/",
     "4919": "http://fingerscans.it.cx/",
     "4939": "http://anascans.blogspot.ca/",
     "4959": "http://kanashii-anime.blogspot.com/",

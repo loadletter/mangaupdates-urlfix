@@ -258,6 +258,7 @@ var urlfix_grouplist = {
     "7827": "http://haraguroscans.blogspot.com/",
     "7847": "http://akaashijiek.tumblr.com/tagged/kakaotl",
     "7867": "http://ragjinscans.tumblr.com/",
+    "7907": "http://g.e-hentai.org/uploader/breoite",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
