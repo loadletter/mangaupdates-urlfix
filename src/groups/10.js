@@ -160,7 +160,7 @@ var urlfix_grouplist = {
     "5510": "http://bato.to/group/_/b/beat-ya-to-it-scans-r3221",
     "5550": "http://ai-sakuma.livejournal.com/",
     "5570": "http://laute.tumblr.com/",
-    "5590": "http://aotamago.blogspot.nl/",
+    "5590": "http://aotamago.blogspot.com/",
     "5630": "http://tanpenshuu.tumblr.com/",
     "5670": "http://ninjaswithoutborders.com/",
     "570": "http://mobot-city.net/",

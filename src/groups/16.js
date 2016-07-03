@@ -149,7 +149,7 @@ var urlfix_grouplist = {
     "5216": "http://bishounenlove.wordpress.com/",
     "5236": "https://www.vingle.net/MizukiBookshelf",
     "5256": "https://shibainuscans.wordpress.com/",
-    "5276": "http://gurennoheyakara.blogspot.it/",
+    "5276": "http://gurennoheyakara.blogspot.com/",
     "5296": "http://www.krizalidtranslations.com/",
     "5316": "http://pastebin.com/Lxhm6PBz",
     "5336": "http://arascans.blogspot.com/",

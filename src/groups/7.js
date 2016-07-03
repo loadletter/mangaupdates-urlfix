@@ -143,7 +143,7 @@ var urlfix_grouplist = {
     "5067": "https://www.mediafire.com/folder/xz3uihajr2qq9/Scanlations",
     "5087": "http://asiaisaru.livejournal.com/",
     "5107": "http://nilaitp.wordpress.com/",
-    "5127": "http://lewishfulscanlation.blogspot.ca/",
+    "5127": "http://lewishfulscanlation.blogspot.com/",
     "5167": "http://cheerfultomboy.wordpress.com/",
     "5187": "http://bartleyscans.blogspot.com",
     "5207": "http://mtoscans.com/",
