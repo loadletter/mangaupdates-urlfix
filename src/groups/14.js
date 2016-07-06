@@ -265,6 +265,7 @@ var urlfix_grouplist = {
     "7854": "http://ritualscan2.free.fr/",
     "7874": "https://hanagiku.wordpress.com/",
     "7894": "http://dynasty-scans.com/scanlators/kouyuri",
+    "7914": "https://arkmachinetranslations.com/",
     "794": "http://www.veravincent.cjb.net/",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",

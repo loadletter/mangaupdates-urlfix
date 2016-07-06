@@ -243,6 +243,7 @@ var urlfix_grouplist = {
     "7871": "http://courage-a-word-of-justice.tumblr.com/",
     "7891": "http://bato.to/group/_/y/yue-trans-r6339",
     "791": "http://forums.mangacult.com/forumdisplay.php?s=6fcf1a3addf395237bbb48fc258d954b&amp;f=16",
+    "7911": "http://bato.to/group/_/k/kuroagi-r6362",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
