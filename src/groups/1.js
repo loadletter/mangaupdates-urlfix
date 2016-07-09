@@ -270,6 +270,7 @@ var urlfix_grouplist = {
     "7861": "http://ailisia.tumblr.com/",
     "7881": "http://1plus5-scans.tumblr.com/",
     "7901": "http://bato.to/group/_/a/anonymous-scanlations-r6349",
+    "7921": "http://bato.to/group/_/j/justice-revival-project-r6356",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",

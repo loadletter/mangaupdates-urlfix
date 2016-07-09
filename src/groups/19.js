@@ -261,6 +261,7 @@ var urlfix_grouplist = {
     "7859": "http://pastenaga.tumblr.com/",
     "7899": "http://bato.to/group/_/s/sniper-joe-r6346",
     "79": "http://mangaart.us/",
+    "7919": "http://kirbyeggs.tumblr.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

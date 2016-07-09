@@ -253,6 +253,7 @@ var urlfix_grouplist = {
     "7856": "http://mizzclawsgalore.tumblr.com/",
     "7876": "http://bato.to/group/_/p/pico-manga-r6314",
     "7896": "http://shinsekai.cadet-nine.org/",
+    "7916": "https://sn0wcrack.tumblr.com/",
     "796": "http://www.proxy-scans.com",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
