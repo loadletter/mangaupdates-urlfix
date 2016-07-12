@@ -246,6 +246,7 @@ var urlfix_grouplist = {
     "7830": "http://pharaoh_dust.livejournal.com/",
     "7850": "http://kenisu.tumblr.com/tagged/scanlation",
     "7890": "https://magictrans.wordpress.com/",
+    "7930": "http://nexus-scans.com/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

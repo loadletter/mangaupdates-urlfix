@@ -245,6 +245,7 @@ var urlfix_grouplist = {
     "7868": "https://www.facebook.com/solitarionofansub/",
     "7888": "http://last-heaven-fansub.com/",
     "7908": "http://www.mangadomain.gq/",
+    "7928": "http://bato.to/group/_/h/heart-and-feather-translations-r6374",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",

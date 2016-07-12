@@ -256,7 +256,7 @@ var urlfix_grouplist = {
     "7777": "http://yuuisuke.tumblr.com/",
     "7817": "http://moonbunnycafe.com/",
     "7857": "http://justpeachyicedtea.tumblr.com/",
-    "7897": "http://www.thespectrum.net/",
+    "7897": "http://nexus-scans.com/",
     "7917": "https://7beersago.wordpress.com/",
     "797": "http://www.hydscans.com",
     "817": "http://ap-manga.webs.com/",
