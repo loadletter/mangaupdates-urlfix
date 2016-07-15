@@ -78,7 +78,7 @@ var urlfix_grouplist = {
     "3065": "http://www.momichi.net/kindaichi",
     "3105": "http://mangahelpers.com/s/student-sol",
     "3145": "http://lhytiss.blogspot.com/",
-    "3205": "http://mangastream.com/",
+    "3205": "https://mangastream.com/",
     "3225": "http://hakuranscanlations.wordpress.com/",
     "3245": "http://community.livejournal.com/cocksinfrocks/",
     "325": "http://www.artoflifescans.com",

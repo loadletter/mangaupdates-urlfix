@@ -40,7 +40,7 @@ var urlfix_grouplist = {
     "2335": "http://damos.co.nr/",
     "235": "http://risq-manga.blogspot.com/",
     "2435": "http://www.doremi-fansubs.com",
-    "2455": "http://www.littlewhitebutterflies.net/",
+    "2455": "http://www.littlewhitebutterflies.co/",
     "2475": "http://yasashii-sekai.livejournal.com/",
     "2495": "http://www.strawberrycandyyume.webs.com/",
     "2515": "http://www.mephidross.wordpress.com",
