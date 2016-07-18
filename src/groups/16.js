@@ -242,7 +242,7 @@ var urlfix_grouplist = {
     "7536": "http://hikiscans.tumblr.com/",
     "7556": "http://arisenlicious.tumblr.com/tagged/my-scans",
     "756": "http://community.livejournal.com/yamane_ayano/",
-    "7576": "http://helveticascans.weebly.com/",
+    "7576": "http://helveticascans.com/",
     "7616": "http://nijiniji-nikubou-scans.tumblr.com",
     "7676": "https://jsbtl.wordpress.com/",
     "7716": "https://piggybottle.wordpress.com/",
