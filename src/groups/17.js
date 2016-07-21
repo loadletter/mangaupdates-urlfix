@@ -230,7 +230,7 @@ var urlfix_grouplist = {
     "717": "http://mangahelpers.com/forum/index.php?topic=5768.0",
     "7177": "https://koreyorihachidori.wordpress.com/",
     "7197": "http://squarepancakesx.tumblr.com/",
-    "7237": "http://bato.to/group/_/h/hyassin27-r5780",
+    "7237": "http://hyassin.com/",
     "7257": "https://screwstyle.wordpress.com/",
     "7277": "https://www.spottoon.com/",
     "7297": "http://bato.to/group/_/e/eieiron-r5877",

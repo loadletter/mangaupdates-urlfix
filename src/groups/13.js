@@ -170,7 +170,7 @@ var urlfix_grouplist = {
     "5833": "http://holdmyfeels.tumblr.com",
     "5853": "https://www.emanga.com/",
     "5873": "http://bato.to/group/_/m/mr-gomerys-fine-scanlations-r3887",
-    "5913": "http://triplesevenscans.blogspot.com/",
+    "5913": "http://triplesevenscans.com/",
     "593": "http://usu.forbidden-lover.net/",
     "5933": "http://lianruru.tumblr.com/",
     "5953": "https://www.facebook.com/SiH.JR",

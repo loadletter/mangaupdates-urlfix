@@ -266,6 +266,7 @@ var urlfix_grouplist = {
     "7845": "https://twitter.com/magentainkling",
     "7865": "http://glasshalfdruunk.tumblr.com/",
     "7905": "https://bakapervert.wordpress.com/",
+    "7945": "http://orangesyringe.tumblr.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",

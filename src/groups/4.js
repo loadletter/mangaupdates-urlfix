@@ -267,6 +267,7 @@ var urlfix_grouplist = {
     "7884": "https://qrscan.wordpress.com/",
     "7904": "http://moonbunnycafe.com/xah",
     "7924": "http://akaashijiek.tumblr.com/tagged/mytled",
+    "7944": "http://natrollolol.tumblr.com/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
