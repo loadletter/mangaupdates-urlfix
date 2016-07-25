@@ -247,6 +247,7 @@ var urlfix_grouplist = {
     "7850": "http://kenisu.tumblr.com/tagged/scanlation",
     "7890": "https://magictrans.wordpress.com/",
     "7930": "http://nexus-scans.com/",
+    "7950": "http://www.giantbomb.com/profile/pepsiman/blog/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

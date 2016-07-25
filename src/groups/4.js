@@ -230,7 +230,7 @@ var urlfix_grouplist = {
     "7064": "http://hellscabanaboy.tumblr.com/",
     "7084": "http://forum.nihonomaru.net/yuri-and-yaoi-manga.48/thread/hyakujitsu-no-bara-maiden-rose-dj-scanlations-more-than-10-eng.211747/",
     "7104": "http://bokuwaneet.blogspot.com/",
-    "7124": "http://chrimascans.tumblr.com/",
+    "7124": "http://chrima-scans.tumblr.com/",
     "7144": "http://iluvtranslates.tumblr.com/",
     "7164": "http://categoryg.blogspot.com/",
     "7184": "http://penparascans.livejournal.com/",
