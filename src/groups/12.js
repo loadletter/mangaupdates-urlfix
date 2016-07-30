@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "7892": "http://dynasty-scans.com/scanlators/madeira",
     "7912": "http://www.zuttomanga.com/",
     "792": "http://kaze-hime.deviantart.com",
+    "7932": "http://novels.onmy.space/",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",
     "872": "http://pomi.sandwich.net/ruroken/",

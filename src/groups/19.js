@@ -263,6 +263,7 @@ var urlfix_grouplist = {
     "79": "http://mangaart.us/",
     "7919": "http://kirbyeggs.tumblr.com/",
     "7939": "https://fatedfujoshisblcdsblog.wordpress.com/",
+    "7959": "http://diablanomia.tumblr.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

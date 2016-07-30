@@ -237,6 +237,7 @@ var urlfix_grouplist = {
     "7855": "http://zaqscans.tumblr.com/",
     "7895": "http://snowyesque.tumblr.com/tls",
     "7915": "http://bato.to/group/_/a/aj-scans-r6366",
+    "7935": "http://llscans.tumblr.com/",
     "795": "http://mangahelpers.com/forum/index.php?topic=7389.0",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
