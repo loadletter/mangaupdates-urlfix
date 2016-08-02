@@ -260,6 +260,7 @@ var urlfix_grouplist = {
     "7889": "http://bato.to/group/_/n/not-so-fast-weeb-scans-r6338",
     "7909": "http://bato.to/group/_/k/kicchiri-scans-r6386",
     "7929": "http://theanonrelease.tumblr.com/",
+    "7969": "http://alice-theredqueen.tumblr.com/tagged/scanlation",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",
