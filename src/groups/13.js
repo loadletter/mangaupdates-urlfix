@@ -255,6 +255,7 @@ var urlfix_grouplist = {
     "793": "http://ysanau.deviantart.com",
     "7933": "http://aoharaidofansub.blogspot.com/",
     "7953": "http://bato.to/group/_/m/mythos-scans-r6199",
+    "7973": "http://bato.to/group/_/other/dropout-r6417",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",
