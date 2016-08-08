@@ -251,6 +251,7 @@ var urlfix_grouplist = {
     "7860": "http://lichtjekyll.tumblr.com/",
     "7880": "http://misc-typesets.tumblr.com/",
     "7920": "https://novelstravel.wordpress.com/",
+    "7980": "http://rkrnscans.tumblr.com/",
     "80": "http://www.mangaprojects.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",

@@ -259,7 +259,7 @@ var urlfix_grouplist = {
     "7641": "http://dynasty-scans.com/scanlators/when_hector_was_a_pup_scans",
     "7661": "http://miyataka.tumblr.com/",
     "7681": "http://kyoukasetsura.tumblr.com/",
-    "7701": "https://nyxilicious.wordpress.com/",
+    "7701": "https://aozorascanlations.wordpress.com/",
     "7721": "http://chocoleeto.tumblr.com/",
     "7741": "http://fatchocobos.livejournal.com/",
     "7781": "http://micromanclub.tumblr.com/",

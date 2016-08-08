@@ -249,6 +249,7 @@ var urlfix_grouplist = {
     "7858": "http://kinghmakoto.tumblr.com/",
     "7878": "https://xytranslations.wordpress.com/",
     "7918": "https://constantlytranslating.wordpress.com/",
+    "7978": "http://flow.moe/",
     "798": "http://coolsnoops.com/",
     "818": "http://mangahelpers.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
