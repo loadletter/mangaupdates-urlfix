@@ -266,6 +266,7 @@ var urlfix_grouplist = {
     "7902": "http://kurorosan.tumblr.com/translations",
     "7942": "http://miilkytofu.livejournal.com/",
     "7962": "http://homiesoverhoesscans.tumblr.com/",
+    "7982": "http://bato.to/group/_/w/wazawahi-r6428",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",

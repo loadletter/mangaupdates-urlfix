@@ -266,6 +266,7 @@ var urlfix_grouplist = {
     "7883": "http://mabushimajo.com/",
     "7923": "https://antheor.eu/",
     "7943": "http://bato.to/group/_/p/pandorascan-r6383",
+    "7983": "https://mediaevalscanlations.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",
     "963": "http://community.livejournal.com/papercut_scans/",

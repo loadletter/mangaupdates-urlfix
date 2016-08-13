@@ -269,6 +269,7 @@ var urlfix_grouplist = {
     "7924": "http://akaashijiek.tumblr.com/tagged/mytled",
     "7944": "http://natrollolol.tumblr.com/",
     "7964": "https://bayabuscotranslation.com/",
+    "7984": "http://whenwetranslate.livejournal.com/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
