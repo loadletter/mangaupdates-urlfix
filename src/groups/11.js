@@ -247,6 +247,7 @@ var urlfix_grouplist = {
     "7931": "http://idolatrymaster.tumblr.com/",
     "7951": "http://bato.to/group/_/n/number-nine-r4858",
     "7971": "http://otakumiki.tumblr.com/",
+    "7991": "https://rasher-translations.tumblr.com/",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",

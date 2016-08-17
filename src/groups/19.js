@@ -259,6 +259,7 @@ var urlfix_grouplist = {
     "779": "http://club-vogue.livejournal.com/",
     "7839": "https://poorlydrawnstickman.wordpress.com/",
     "7859": "http://pastenaga.tumblr.com/",
+    "7879": "http://www.novelsaga.com/",
     "7899": "http://bato.to/group/_/s/sniper-joe-r6346",
     "79": "http://mangaart.us/",
     "7919": "http://kirbyeggs.tumblr.com/",

@@ -268,6 +268,7 @@ var urlfix_grouplist = {
     "7914": "http://rainbowturtletranslation.com",
     "7934": "http://bato.to/group/_/j/jj-r6379",
     "794": "http://www.veravincent.cjb.net/",
+    "7994": "http://bato.to/group/_/d/dics-r6433",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",

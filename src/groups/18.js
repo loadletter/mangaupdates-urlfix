@@ -225,7 +225,7 @@ var urlfix_grouplist = {
     "7378": "http://bato.to/group/_/m/merry-christmas-r5942",
     "738": "http://www.newnede.com/",
     "7398": "http://lightnovelstranslations.com/",
-    "7418": "http://cheesyscans.blogspot.com/",
+    "7418": "https://cheesyscans.blogspot.com/",
     "7478": "http://bato.to/group/_/k/kitten-r6033",
     "7498": "http://bato.to/group/_/c/curry-translations-r5705",
     "7518": "http://grimdarkztranslations.com/",

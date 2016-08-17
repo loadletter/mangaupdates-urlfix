@@ -113,7 +113,7 @@ var urlfix_grouplist = {
     "3941": "http://community.livejournal.com/gang_king/",
     "3961": "http://strangecompanions.blogspot.com",
     "3981": "http://linwenolatari.livejournal.com/",
-    "4001": "http://happyscans.blogspot.com/",
+    "4001": "https://happyscans.blogspot.com/",
     "4041": "http://truescans.tk/",
     "4061": "http://z15.invisionfree.com/chromesrestoredscans/index.php",
     "41": "http://www.toriyamaworld.com",
