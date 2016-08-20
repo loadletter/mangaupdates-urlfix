@@ -259,6 +259,7 @@ var urlfix_grouplist = {
     "7897": "http://nexus-scans.com/",
     "7917": "https://7beersago.wordpress.com/",
     "797": "http://www.hydscans.com",
+    "7997": "https://lionmaskrpt.wordpress.com/",
     "817": "http://ap-manga.webs.com/",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",

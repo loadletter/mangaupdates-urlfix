@@ -251,6 +251,7 @@ var urlfix_grouplist = {
     "7918": "https://constantlytranslating.wordpress.com/",
     "7978": "http://flow.moe/",
     "798": "http://coolsnoops.com/",
+    "7998": "http://chikubeescans.tumblr.com/",
     "818": "http://mangahelpers.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",

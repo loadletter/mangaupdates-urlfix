@@ -253,6 +253,7 @@ var urlfix_grouplist = {
     "7920": "https://novelstravel.wordpress.com/",
     "7980": "http://rkrnscans.tumblr.com/",
     "80": "http://www.mangaprojects.com/",
+    "8000": "http://things-all-love.tumblr.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",
