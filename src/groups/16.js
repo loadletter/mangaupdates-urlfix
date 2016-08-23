@@ -254,7 +254,7 @@ var urlfix_grouplist = {
     "7876": "http://bato.to/group/_/p/pico-manga-r6314",
     "7896": "http://shinsekai.cadet-nine.org/",
     "7916": "https://sn0wcrack.tumblr.com/",
-    "7956": "http://whyfalalala.tumblr.com/",
+    "7956": "https://whyfalalala.wordpress.com/",
     "796": "http://www.proxy-scans.com",
     "7976": "http://bato.to/group/_/l/lazyweekendscans-r6420",
     "856": "http://apforums.net/forumdisplay.php?f=14",

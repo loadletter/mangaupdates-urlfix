@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "7929": "http://theanonrelease.tumblr.com/",
     "7969": "http://alice-theredqueen.tumblr.com/tagged/scanlation",
     "7989": "https://www.facebook.com/elDLIVE.AmanoAkira/",
+    "8009": "http://imayooshi.tumblr.com/",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",

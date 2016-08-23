@@ -270,6 +270,7 @@ var urlfix_grouplist = {
     "7944": "http://natrollolol.tumblr.com/",
     "7964": "https://bayabuscotranslation.com/",
     "7984": "http://whenwetranslate.livejournal.com/",
+    "8004": "http://batzinefanatic.tumblr.com/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",

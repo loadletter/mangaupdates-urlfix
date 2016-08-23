@@ -269,6 +269,7 @@ var urlfix_grouplist = {
     "7905": "https://bakapervert.wordpress.com/",
     "7945": "http://orangesyringe.tumblr.com/",
     "7965": "https://shalvationtranslations.wordpress.com/",
+    "8005": "http://shirtonpantsoff.blogspot.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",

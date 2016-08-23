@@ -249,6 +249,7 @@ var urlfix_grouplist = {
     "7948": "https://tdfbc.blogspot.com/",
     "7968": "https://nayu-notyou.tumblr.com/",
     "7988": "http://tilde.town/~meguriai/40ms.html",
+    "8008": "http://lookslikerainydays.tumblr.com/",
     "808": "http://www.tenshi-tachi.com",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",
