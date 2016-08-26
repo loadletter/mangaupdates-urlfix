@@ -266,6 +266,8 @@ var urlfix_grouplist = {
     "7939": "https://fatedfujoshisblcdsblog.wordpress.com/",
     "7959": "http://diablanomia.tumblr.com/",
     "7999": "http://dynasty-scans.com/scanlators/rikochikayou",
+    "8019": "http://applepling.tumblr.com/tagged/translation",
+    "8039": "http://senkounomaihime.tumblr.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

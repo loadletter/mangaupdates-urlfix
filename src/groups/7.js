@@ -263,6 +263,7 @@ var urlfix_grouplist = {
     "7967": "https://mossscans.wordpress.com/",
     "7987": "http://yannunomahoufansub.blogspot.com/",
     "8007": "https://www.facebook.com/whitecloudpavilion",
+    "8027": "http://tateyamaa.tumblr.com/",
     "807": "http://mankin-trad.net",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",

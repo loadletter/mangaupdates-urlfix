@@ -268,6 +268,7 @@ var urlfix_grouplist = {
     "7943": "http://bato.to/group/_/p/pandorascan-r6383",
     "7983": "https://mediaevalscanlations.wordpress.com/",
     "8003": "https://novelsjapan.com/",
+    "8023": "http://pinkisthenewblackscans.tumblr.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",
     "963": "http://community.livejournal.com/papercut_scans/",

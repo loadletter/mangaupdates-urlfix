@@ -267,6 +267,8 @@ var urlfix_grouplist = {
     "7942": "http://miilkytofu.livejournal.com/",
     "7962": "http://homiesoverhoesscans.tumblr.com/",
     "7982": "http://bato.to/group/_/w/wazawahi-r6428",
+    "8022": "http://bladesworn.tumblr.com/",
+    "8042": "http://gingerybiscuit.tumblr.com/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",

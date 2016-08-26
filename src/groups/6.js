@@ -257,6 +257,7 @@ var urlfix_grouplist = {
     "7966": "http://silverleafscans.blogspot.com/",
     "7986": "http://asuratales.com/",
     "8006": "https://twomanscans.wordpress.com/",
+    "8026": "http://clay-smile-soil.tumblr.com/",
     "806": "http://www.kothic.ca.tc/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",
     "86": "http://www.omanga.net/",

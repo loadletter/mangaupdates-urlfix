@@ -251,6 +251,7 @@ var urlfix_grouplist = {
     "7970": "http://bato.to/group/_/d/daddy-why-did-you-eat-my-fries-r6409",
     "7990": "http://nanashinomine.tumblr.com/",
     "8010": "https://www.lezhin.com/en/",
+    "8030": "http://renna-translations.tumblr.com/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

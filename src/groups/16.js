@@ -257,6 +257,8 @@ var urlfix_grouplist = {
     "7956": "https://whyfalalala.wordpress.com/",
     "796": "http://www.proxy-scans.com",
     "7976": "http://bato.to/group/_/l/lazyweekendscans-r6420",
+    "8016": "http://nkhrchy.tumblr.com/masterpost",
+    "8036": "http://manlyronpa.tumblr.com/",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",
