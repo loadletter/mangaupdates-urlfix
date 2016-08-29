@@ -265,6 +265,7 @@ var urlfix_grouplist = {
     "7932": "http://novels.onmy.space/",
     "7972": "http://seonbinovels.com/",
     "8012": "http://girlzx.tumblr.com/tagged/scanlation",
+    "8052": "http://hextidol.blogspot.com/",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",
     "872": "http://pomi.sandwich.net/ruroken/",
