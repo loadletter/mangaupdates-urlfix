@@ -259,6 +259,7 @@ var urlfix_grouplist = {
     "7993": "http://cyberusagi.tumblr.com/tagged/scanlation",
     "8013": "http://akutagawaprize.tumblr.com/tagged/translation",
     "8033": "http://dokidokimaster.tumblr.com/",
+    "8053": "https://ronin.gdn/",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",

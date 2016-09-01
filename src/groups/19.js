@@ -268,6 +268,7 @@ var urlfix_grouplist = {
     "7999": "http://dynasty-scans.com/scanlators/rikochikayou",
     "8019": "http://applepling.tumblr.com/tagged/translation",
     "8039": "http://senkounomaihime.tumblr.com/",
+    "8059": "http://bato.to/group/_/p/project-finalboss-r6472",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

@@ -251,6 +251,7 @@ var urlfix_grouplist = {
     "8011": "http://s15.zetaboards.com/cookierevolution/",
     "8031": "http://amesubs.tumblr.com/",
     "8051": "http://distanttranslation.tumblr.com/",
+    "8071": "http://mistycloudtranslations.com/",
     "811": "http://www.tsubasa-united.com",
     "851": "http://www.a2000a.net/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",

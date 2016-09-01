@@ -254,6 +254,7 @@ var urlfix_grouplist = {
     "7998": "http://chikubeescans.tumblr.com/",
     "8018": "http://owari-owari.tumblr.com/",
     "8038": "http://g.e-hentai.org/uploader/RaymooHakure",
+    "8058": "https://kokumatranslations.wordpress.com/",
     "818": "http://mangahelpers.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",

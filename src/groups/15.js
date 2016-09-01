@@ -242,6 +242,7 @@ var urlfix_grouplist = {
     "7995": "http://bato.to/group/_/s/sennen-no-yuki-r6450",
     "8015": "http://hishiro--shiro.tumblr.com/",
     "8035": "http://ryosanimelife.tumblr.com/",
+    "8055": "http://peppermintteatranslators.tumblr.com/",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",

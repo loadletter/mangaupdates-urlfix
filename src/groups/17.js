@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "7997": "https://lionmaskrpt.wordpress.com/",
     "8017": "http://tang-wei.tumblr.com/",
     "8037": "http://sunsetspring.tumblr.com/",
+    "8057": "http://dynasty-scans.com/scanlators/yescantaloupe",
     "817": "http://ap-manga.webs.com/",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",

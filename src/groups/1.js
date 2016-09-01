@@ -276,6 +276,7 @@ var urlfix_grouplist = {
     "8001": "http://www.lightnovelbastion.com/",
     "8021": "http://amethystcria.tumblr.com/",
     "8041": "https://arsl31.wordpress.com/",
+    "8061": "http://myoniyonitranslations.com/",
     "81": "http://www.janimes.com/",
     "821": "http://mmss.wordpress.com/",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",

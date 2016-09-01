@@ -265,6 +265,7 @@ var urlfix_grouplist = {
     "8009": "http://imayooshi.tumblr.com/",
     "8029": "http://mudskipperkip.tumblr.com/",
     "8049": "https://flowerclocks.wordpress.com/",
+    "8069": "https://delicioustranslations.wordpress.com/",
     "809": "http://www.freewebs.com/kotatsutrans/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",
