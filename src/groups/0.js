@@ -257,6 +257,7 @@ var urlfix_grouplist = {
     "8020": "http://2minutesofyourtime.tumblr.com/",
     "8040": "http://eccentranslations.tumblr.com/",
     "8060": "http://www.novelsreborn.com/",
+    "8080": "https://wumstranslations.wordpress.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",

@@ -271,6 +271,7 @@ var urlfix_grouplist = {
     "7994": "http://bato.to/group/_/d/dics-r6433",
     "8014": "http://misora-reiki.tumblr.com/translations",
     "8034": "http://yasumiiii.tumblr.com/",
+    "8074": "http://theresabearinmybox.tumblr.com/",
     "814": "http://chrno-crusade.com/",
     "834": "http://lovelyscans.sitesled.com/",
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",
