@@ -270,6 +270,7 @@ var urlfix_grouplist = {
     "8003": "https://novelsjapan.com/",
     "8023": "http://pinkisthenewblackscans.tumblr.com/",
     "8063": "https://psicern.wordpress.com/",
+    "8083": "http://bato.to/group/_/w/whitepod-r6226",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",
     "963": "http://community.livejournal.com/papercut_scans/",

@@ -243,6 +243,7 @@ var urlfix_grouplist = {
     "8015": "http://hishiro--shiro.tumblr.com/",
     "8035": "http://ryosanimelife.tumblr.com/",
     "8055": "http://peppermintteatranslators.tumblr.com/",
+    "8095": "https://asd398.wordpress.com/",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",

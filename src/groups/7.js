@@ -266,6 +266,7 @@ var urlfix_grouplist = {
     "8027": "http://tateyamaa.tumblr.com/",
     "8067": "https://rancerqz.com/",
     "807": "http://mankin-trad.net",
+    "8087": "https://professionalgamethrower.wordpress.com/",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

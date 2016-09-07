@@ -273,6 +273,7 @@ var urlfix_grouplist = {
     "8004": "http://batzinefanatic.tumblr.com/",
     "8024": "http://fukasenanairo.tumblr.com/post/121246287592/serapuchi-masterpost",
     "8064": "https://starvecleric.wordpress.com/",
+    "8084": "https://egsmarttranslation.wordpress.com/",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",

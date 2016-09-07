@@ -271,6 +271,7 @@ var urlfix_grouplist = {
     "7965": "https://shalvationtranslations.wordpress.com/",
     "8005": "http://shirtonpantsoff.blogspot.com/",
     "8065": "https://chubbycheeksthoughts.com/",
+    "8085": "https://wuxialover.wordpress.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",

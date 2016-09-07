@@ -258,6 +258,7 @@ var urlfix_grouplist = {
     "8040": "http://eccentranslations.tumblr.com/",
     "8060": "http://www.novelsreborn.com/",
     "8080": "https://wumstranslations.wordpress.com/",
+    "8100": "http://cappuholic.livejournal.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",

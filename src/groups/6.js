@@ -260,6 +260,7 @@ var urlfix_grouplist = {
     "8026": "http://clay-smile-soil.tumblr.com/",
     "806": "http://www.kothic.ca.tc/",
     "8066": "https://idyllictranslations.wordpress.com/",
+    "8086": "http://knb-kareshi.tumblr.com/masterpost",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",
     "86": "http://www.omanga.net/",
     "906": "http://rapidshare.de/users/L65LXO",

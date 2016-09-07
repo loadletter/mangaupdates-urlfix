@@ -270,6 +270,7 @@ var urlfix_grouplist = {
     "8039": "http://senkounomaihime.tumblr.com/",
     "8059": "http://bato.to/group/_/p/project-finalboss-r6472",
     "8079": "http://www.pathoftranslation.com/",
+    "8099": "http://fakeftranslations.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",
