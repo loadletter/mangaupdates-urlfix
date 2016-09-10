@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "8053": "https://ronin.gdn/",
     "8073": "https://solitaryidler.wordpress.com/",
     "8093": "http://bato.to/group/_/s/saiko-r6482",
+    "8113": "http://project-accelerator.net/",
     "813": "http://www.studiorobb.com/",
     "833": "http://www.naruto-rendan.com/",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",

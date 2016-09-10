@@ -268,6 +268,7 @@ var urlfix_grouplist = {
     "8052": "http://hextidol.blogspot.com/",
     "8072": "https://mofumofutranslation.wordpress.com/",
     "8092": "https://rottentranslations.wordpress.com/",
+    "8112": "https://wordofcraft.wordpress.com/",
     "812": "http://isane.newsit.es/",
     "832": "http://erobeat.hafio.net/",
     "872": "http://pomi.sandwich.net/ruroken/",

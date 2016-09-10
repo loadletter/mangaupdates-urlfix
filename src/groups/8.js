@@ -253,6 +253,8 @@ var urlfix_grouplist = {
     "8028": "http://jaylene-translations.tumblr.com/",
     "8048": "http://bato.to/group/_/z/zobocamel-r6464",
     "808": "http://www.tenshi-tachi.com",
+    "8108": "https://mongolianscroll.wordpress.com/",
+    "8128": "https://alicemtl.wordpress.com/",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",

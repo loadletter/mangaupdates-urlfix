@@ -259,6 +259,7 @@ var urlfix_grouplist = {
     "8060": "http://www.novelsreborn.com/",
     "8080": "https://wumstranslations.wordpress.com/",
     "8100": "http://cappuholic.livejournal.com/",
+    "8120": "http://bato.to/group/_/o/omegavesko-r6490",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",

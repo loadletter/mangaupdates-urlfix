@@ -271,6 +271,8 @@ var urlfix_grouplist = {
     "8023": "http://pinkisthenewblackscans.tumblr.com/",
     "8063": "https://psicern.wordpress.com/",
     "8083": "http://bato.to/group/_/w/whitepod-r6226",
+    "8103": "https://megacarp.wordpress.com/",
+    "8123": "https://falinmer.wordpress.com/",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",
     "963": "http://community.livejournal.com/papercut_scans/",

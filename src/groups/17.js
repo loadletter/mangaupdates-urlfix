@@ -265,6 +265,7 @@ var urlfix_grouplist = {
     "8057": "http://dynasty-scans.com/scanlators/yescantaloupe",
     "8077": "https://shugui.wordpress.com/",
     "8097": "http://bato.to/group/_/t/true-love-translations-r6485",
+    "8117": "https://tequilamockingbard.wordpress.com/",
     "817": "http://ap-manga.webs.com/",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",

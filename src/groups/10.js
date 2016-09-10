@@ -255,6 +255,8 @@ var urlfix_grouplist = {
     "8050": "https://whitenightsite.wordpress.com/",
     "8070": "http://chongmeitranslations.weebly.com/",
     "8090": "http://www.fredfriendly.com/",
+    "8110": "https://honyakusite.wordpress.com/",
+    "8130": "https://pumlated.wordpress.com/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

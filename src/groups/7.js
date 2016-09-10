@@ -267,6 +267,8 @@ var urlfix_grouplist = {
     "8067": "https://rancerqz.com/",
     "807": "http://mankin-trad.net",
     "8087": "https://professionalgamethrower.wordpress.com/",
+    "8107": "https://vestigescans.blogspot.com/",
+    "8127": "https://rumanshi.com/",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

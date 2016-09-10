@@ -271,6 +271,8 @@ var urlfix_grouplist = {
     "8042": "http://gingerybiscuit.tumblr.com/",
     "8062": "https://slothtranslations.com/",
     "8082": "https://imperialwinters.wordpress.com/",
+    "8102": "https://crimsonkisato.blogspot.com/",
+    "8122": "http://bato.to/group/_/i/i-love-isekai-scans-r6469",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",

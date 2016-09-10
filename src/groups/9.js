@@ -267,6 +267,8 @@ var urlfix_grouplist = {
     "8049": "https://flowerclocks.wordpress.com/",
     "8069": "https://delicioustranslations.wordpress.com/",
     "809": "http://www.freewebs.com/kotatsutrans/",
+    "8109": "https://plainlybored.wordpress.com/",
+    "8129": "https://trytranslations.com/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
