@@ -5,10 +5,13 @@ import requests
 import sys
 import re
 import subprocess
+import urllib
 from BeautifulSoup import BeautifulSoup
 
 INVALID = "You specified an invalid group id."
 WWWBROWSER = "firefox"
+DOSEARCH = True
+QUERYURL = 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8'
 
 def parse_name(data):
 	soup = BeautifulSoup(data)
@@ -27,7 +30,12 @@ def novel(n):
 		print "Found on novelupdates, parsing url..."
 		soup = BeautifulSoup(req.text)
 		gi = soup.find('table', {'class' : 'groupinfo'})
-		results.append(gi.find('a')['href'])
+		url = gi.find('a')['href']
+		results.append(url)
+		if '.blogspot.' in url:
+			url2 = re.sub('blogspot(\.[A-Za-z]{2,6})+(/|$)', 'blogspot.com/', url)
+			if url2 != url:
+				results.append(url2)
 	return results
 
 def fujo(n):
@@ -41,7 +49,7 @@ def fujo(n):
 	return results
 
 def run(start_id, end_id):
-	for g in range(start_id, end_id):
+	for g in range(start_id, end_id + 1):
 		urls = []
 		muurl = 'http://www.mangaupdates.com/groups.html?id=%i' % g
 		req = requests.get(muurl)
@@ -78,6 +86,9 @@ def run(start_id, end_id):
 					else:
 						print "Error!"
 					break
+		elif DOSEARCH:
+			browserargs = [WWWBROWSER, muurl, QUERYURL % urllib.quote(name), QUERYURL % ('"' + urllib.quote(name) + '"')]
+			subprocess.call(browserargs)
 
 if __name__ == "__main__":
 	if len(sys.argv) != 3:
