@@ -280,6 +280,7 @@ var urlfix_grouplist = {
     "8081": "https://tranzgeek.wordpress.com/",
     "81": "http://www.janimes.com/",
     "8101": "https://ensigblog.wordpress.com/",
+    "8141": "https://d3wynightunr0lls.wordpress.com/",
     "821": "http://mmss.wordpress.com/",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
     "921": "http://community.livejournal.com/hitman_reborn/",

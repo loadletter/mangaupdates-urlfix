@@ -258,6 +258,7 @@ var urlfix_grouplist = {
     "8078": "https://chronontranslations.wordpress.com/",
     "8098": "https://forthemoneytranslations.wordpress.com/",
     "8118": "http://exmachina.asia/",
+    "8138": "https://soulpermutation.wordpress.com/",
     "818": "http://mangahelpers.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",

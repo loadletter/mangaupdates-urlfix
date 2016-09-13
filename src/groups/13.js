@@ -264,6 +264,7 @@ var urlfix_grouplist = {
     "8093": "http://bato.to/group/_/s/saiko-r6482",
     "8113": "http://project-accelerator.net/",
     "813": "http://www.studiorobb.com/",
+    "8133": "http://eccentrictranslations.com/",
     "833": "http://www.naruto-rendan.com/",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",
     "873": "http://kenshinscans.anxious-anime.com/",

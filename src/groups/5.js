@@ -273,6 +273,7 @@ var urlfix_grouplist = {
     "8065": "https://chubbycheeksthoughts.com/",
     "8085": "https://wuxialover.wordpress.com/",
     "8125": "http://chibachibascans.tumblr.com/",
+    "8145": "https://ente38.wordpress.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",

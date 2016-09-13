@@ -255,6 +255,7 @@ var urlfix_grouplist = {
     "808": "http://www.tenshi-tachi.com",
     "8108": "https://mongolianscroll.wordpress.com/",
     "8128": "https://alicemtl.wordpress.com/",
+    "8148": "https://saiakutranslationsblog.com/",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",

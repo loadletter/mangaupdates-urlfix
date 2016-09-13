@@ -264,6 +264,7 @@ var urlfix_grouplist = {
     "8076": "https://mai88eternalscarlet.wordpress.com/",
     "8096": "https://edltranslation.wordpress.com/",
     "8116": "https://tsubakitranslation.wordpress.com/",
+    "8136": "https://daikyuntl.wordpress.com/",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",
