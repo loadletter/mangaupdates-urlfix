@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-#semiautomates the search for groups on common hosts
+#semi-automates the search for groups on common hosts
 import json
 import requests
 import sys
