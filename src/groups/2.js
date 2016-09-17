@@ -274,6 +274,7 @@ var urlfix_grouplist = {
     "8102": "https://crimsonkisato.blogspot.com/",
     "8122": "http://bato.to/group/_/i/i-love-isekai-scans-r6469",
     "8142": "http://sparklingdawnlights.blogspot.com/",
+    "8162": "https://layzisheep.wordpress.com/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",

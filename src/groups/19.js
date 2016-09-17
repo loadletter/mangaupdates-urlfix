@@ -272,6 +272,8 @@ var urlfix_grouplist = {
     "8079": "http://www.pathoftranslation.com/",
     "8099": "http://fakeftranslations.com/",
     "8119": "http://lumiosescanlations.tumblr.com/releases",
+    "8139": "http://ayabrea.imgur.com/",
+    "8159": "https://apurpleblob.wordpress.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

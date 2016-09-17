@@ -269,6 +269,8 @@ var urlfix_grouplist = {
     "809": "http://www.freewebs.com/kotatsutrans/",
     "8109": "https://plainlybored.wordpress.com/",
     "8129": "https://trytranslations.com/",
+    "8149": "https://rinkagetranslation.com/",
+    "8169": "https://pengutaichou.wordpress.com/",
     "829": "http://melithiel.livejournal.com/",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",

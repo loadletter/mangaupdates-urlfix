@@ -265,6 +265,8 @@ var urlfix_grouplist = {
     "8113": "http://project-accelerator.net/",
     "813": "http://www.studiorobb.com/",
     "8133": "http://eccentrictranslations.com/",
+    "8153": "http://www.mayyth.com/",
+    "8173": "https://projecthydrogen.wordpress.com/",
     "833": "http://www.naruto-rendan.com/",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",
     "873": "http://kenshinscans.anxious-anime.com/",

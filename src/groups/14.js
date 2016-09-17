@@ -275,6 +275,8 @@ var urlfix_grouplist = {
     "8094": "http://akumarose-scans.tumblr.com/",
     "8134": "http://wishuponahope.blogspot.com/",
     "814": "http://chrno-crusade.com/",
+    "8154": "https://martialdao.com/",
+    "8174": "https://priddles.wordpress.com/",
     "834": "http://lovelyscans.sitesled.com/",
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",
     "874": "http://shocwave.caticus.com/about.html",

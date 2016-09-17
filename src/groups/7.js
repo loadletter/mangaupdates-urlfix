@@ -270,6 +270,7 @@ var urlfix_grouplist = {
     "8107": "https://vestigescans.blogspot.com/",
     "8127": "https://rumanshi.com/",
     "8147": "https://leechervamparis.wordpress.com/",
+    "8167": "http://kfn-translations.blogspot.com/",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

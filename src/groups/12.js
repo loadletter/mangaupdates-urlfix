@@ -271,6 +271,8 @@ var urlfix_grouplist = {
     "8112": "https://wordofcraft.wordpress.com/",
     "812": "http://isane.newsit.es/",
     "8132": "https://bionicarktranslations.wordpress.com/",
+    "8152": "https://tinkerbellsan.wordpress.com/",
+    "8172": "https://whatevertranslations.wordpress.com/",
     "832": "http://erobeat.hafio.net/",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",

@@ -255,6 +255,8 @@ var urlfix_grouplist = {
     "811": "http://www.tsubasa-united.com",
     "8111": "https://jynkitl.wordpress.com/",
     "8131": "https://jamminscans.wordpress.com/",
+    "8151": "http://chibachibascans.tumblr.com/",
+    "8171": "http://www.spcnet.tv/forums/member.php/48798-owlHoot",
     "851": "http://www.a2000a.net/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
     "891": "http://community.livejournal.com/dork_love_scans/profile",

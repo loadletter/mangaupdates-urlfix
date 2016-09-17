@@ -256,6 +256,7 @@ var urlfix_grouplist = {
     "8108": "https://mongolianscroll.wordpress.com/",
     "8128": "https://alicemtl.wordpress.com/",
     "8148": "https://saiakutranslationsblog.com/",
+    "8168": "http://www.ultimaguil.org/",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",
