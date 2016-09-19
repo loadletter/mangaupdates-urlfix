@@ -270,6 +270,7 @@ var urlfix_grouplist = {
     "8157": "https://asthmaticspider.wordpress.com/",
     "817": "http://ap-manga.webs.com/",
     "8177": "https://circatrans.wordpress.com/",
+    "8197": "https://dawninghowls.wordpress.com/",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",

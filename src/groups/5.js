@@ -275,6 +275,7 @@ var urlfix_grouplist = {
     "8125": "http://chibachibascans.tumblr.com/",
     "8145": "https://ente38.wordpress.com/",
     "8165": "http://watdameow.wordpress.com",
+    "8185": "https://straweve.wordpress.com/",
     "825": "http://omgtsrs.aoi-tori.org",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",

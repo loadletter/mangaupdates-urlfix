@@ -259,6 +259,7 @@ var urlfix_grouplist = {
     "8130": "https://pumlated.wordpress.com/",
     "8150": "http://sunnydayscans.tumblr.com/",
     "8170": "https://saurimania.wordpress.com/",
+    "8190": "http://tachibanachinatsu.wix.com/tenshitranslations",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

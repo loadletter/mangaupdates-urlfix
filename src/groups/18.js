@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "8158": "https://mylittlehippokun.wordpress.com/",
     "8178": "http://dynasty-scans.com/scanlators/yoshino",
     "818": "http://mangahelpers.com",
+    "8198": "https://ajrg.me/",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "898": "http://crossbonepirates.blogspot.com/",

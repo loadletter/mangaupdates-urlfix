@@ -275,6 +275,7 @@ var urlfix_grouplist = {
     "8123": "https://falinmer.wordpress.com/",
     "8143": "http://www.yamitranslations.com/",
     "8163": "https://qualiteatranslations.wordpress.com/",
+    "8183": "https://hamster428.com",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "83": "http://certhy.mircx.com/",
     "963": "http://community.livejournal.com/papercut_scans/",

@@ -257,6 +257,7 @@ var urlfix_grouplist = {
     "8128": "https://alicemtl.wordpress.com/",
     "8148": "https://saiakutranslationsblog.com/",
     "8168": "http://www.ultimaguil.org/",
+    "8188": "http://sabishiidesu.blogspot.com/",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",

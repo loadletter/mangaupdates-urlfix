@@ -261,6 +261,8 @@ var urlfix_grouplist = {
     "8100": "http://cappuholic.livejournal.com/",
     "8120": "http://bato.to/group/_/o/omegavesko-r6490",
     "8160": "http://bato.to/group/_/f/forever-bocchi-r6501",
+    "8180": "https://rosyfantasy.wordpress.com/",
+    "8200": "http://g.e-hentai.org/uploader/NecroManCr",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",

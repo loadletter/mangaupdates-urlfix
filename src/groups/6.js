@@ -263,6 +263,7 @@ var urlfix_grouplist = {
     "8086": "http://knb-kareshi.tumblr.com/masterpost",
     "8126": "https://littleshanks.net/",
     "8146": "https://duwarufutranslations.wordpress.com/",
+    "8186": "http://frozensama.blogspot.com/",
     "826": "http://s7.invisionfree.com/Trinity_Blood/",
     "86": "http://www.omanga.net/",
     "906": "http://rapidshare.de/users/L65LXO",
