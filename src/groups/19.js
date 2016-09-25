@@ -276,6 +276,7 @@ var urlfix_grouplist = {
     "8159": "https://apurpleblob.wordpress.com/",
     "8179": "https://willfulcasual.wordpress.com/",
     "8199": "http://dhh-workshop.blogspot.com/",
+    "8219": "http://therollerbladingdate.tumblr.com",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

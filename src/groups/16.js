@@ -268,6 +268,7 @@ var urlfix_grouplist = {
     "8156": "http://itslovetranslation.blogspot.com/",
     "8176": "http://mahoukoukoku.blogspot.com/",
     "8196": "https://cagedbramblings.wordpress.com/",
+    "8216": "http://lightnovels.world",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",

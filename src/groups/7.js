@@ -271,6 +271,8 @@ var urlfix_grouplist = {
     "8127": "https://rumanshi.com/",
     "8147": "https://leechervamparis.wordpress.com/",
     "8167": "http://kfn-translations.blogspot.com/",
+    "8207": "http://bluesky-scans.tumblr.com/",
+    "8227": "https://cloudtranslations.wordpress.com/",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

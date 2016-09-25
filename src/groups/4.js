@@ -278,6 +278,7 @@ var urlfix_grouplist = {
     "8144": "https://ninjanuf.wordpress.com/",
     "8164": "https://noveltranslation.net/",
     "8184": "https://polarbearcatcher.wordpress.com/",
+    "8204": "https://mightynovels.wordpress.com",
     "84": "http://www.aku-tenshi.org/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",

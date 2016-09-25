@@ -249,6 +249,7 @@ var urlfix_grouplist = {
     "8155": "https://altoroctranslations.wordpress.com/",
     "8175": "https://luminstia.wordpress.com/",
     "8195": "https://uselessno4.wordpress.com/",
+    "8215": "https://tatakaushisho.wordpress.com/",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",

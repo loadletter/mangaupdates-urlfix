@@ -278,6 +278,7 @@ var urlfix_grouplist = {
     "8182": "https://cnovels2c.wordpress.com/",
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
+    "8222": "http://jinsio.tumblr.com",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
