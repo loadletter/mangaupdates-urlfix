@@ -279,6 +279,8 @@ var urlfix_grouplist = {
     "82": "http://jinmen.pyoko.org/",
     "822": "http://okiros.wordpress.com/",
     "8222": "http://jinsio.tumblr.com",
+    "8242": "http://twistedsheets10.livejournal.com",
+    "8262": "http://jiayan.livejournal.com",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",

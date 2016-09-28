@@ -275,6 +275,8 @@ var urlfix_grouplist = {
     "8172": "https://whatevertranslations.wordpress.com/",
     "8192": "https://shell2ly.wordpress.com/",
     "8212": "http://dynasty-scans.com/scanlators/pamut",
+    "8232": "http://nightmole.livejournal.com",
+    "8252": "http://trungtnguyen123.org/",
     "832": "http://erobeat.hafio.net/",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",

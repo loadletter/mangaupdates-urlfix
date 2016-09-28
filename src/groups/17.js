@@ -272,6 +272,8 @@ var urlfix_grouplist = {
     "8177": "https://circatrans.wordpress.com/",
     "8197": "https://dawninghowls.wordpress.com/",
     "8217": "https://loathsometranslations.wordpress.com",
+    "8237": "http://gokunobaka.livejournal.com",
+    "8257": "https://lickymeetranslations.wordpress.com/",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",

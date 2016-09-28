@@ -259,6 +259,7 @@ var urlfix_grouplist = {
     "8168": "http://www.ultimaguil.org/",
     "8188": "http://sabishiidesu.blogspot.com/",
     "8228": "https://martialgodtranslator.wordpress.com/",
+    "8248": "http://bakugoon.livejournal.com",
     "828": "http://cienna.livejournal.com/",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",

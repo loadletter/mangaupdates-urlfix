@@ -264,6 +264,8 @@ var urlfix_grouplist = {
     "8180": "https://rosyfantasy.wordpress.com/",
     "8200": "http://g.e-hentai.org/uploader/NecroManCr",
     "8220": "http://fujoshideru.tumblr.com",
+    "8240": "http://psychoxbreaker.livejournal.com",
+    "8260": "http://aphetalialove.livejournal.com",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",

@@ -269,6 +269,8 @@ var urlfix_grouplist = {
     "8176": "http://mahoukoukoku.blogspot.com/",
     "8196": "https://cagedbramblings.wordpress.com/",
     "8216": "http://lightnovels.world",
+    "8236": "http://pomgrenadier.livejournal.com",
+    "8256": "http://bato.to/group/_/c/clicscans-r6508",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",

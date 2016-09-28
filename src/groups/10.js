@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "8190": "http://tachibanachinatsu.wix.com/tenshitranslations",
     "8210": "http://mspainttranslat4ion.blogspot.com/",
     "8230": "http://goatbit.livejournal.com",
+    "8250": "http://trollnationscans.com/",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

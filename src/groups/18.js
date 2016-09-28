@@ -264,6 +264,8 @@ var urlfix_grouplist = {
     "818": "http://mangahelpers.com",
     "8198": "https://ajrg.me/",
     "8218": "https://euphmoria.wordpress.com/",
+    "8238": "http://etherealtsuki.livejournal.com",
+    "8258": "http://konbini.livejournal.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "898": "http://crossbonepirates.blogspot.com/",

@@ -278,6 +278,8 @@ var urlfix_grouplist = {
     "8183": "https://hamster428.com",
     "8203": "http://www.readingattic.com",
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
+    "8243": "http://archosauria.livejournal.com",
+    "8263": "http://pliash.livejournal.com",
     "83": "http://certhy.mircx.com/",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"

@@ -279,6 +279,7 @@ var urlfix_grouplist = {
     "8174": "https://priddles.wordpress.com/",
     "8194": "https://sekaikuroba.wordpress.com",
     "8214": "http://machineslicedbread.xyz/",
+    "8254": "http://reijeux.tumblr.com",
     "834": "http://lovelyscans.sitesled.com/",
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",
     "874": "http://shocwave.caticus.com/about.html",

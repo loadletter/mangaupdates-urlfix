@@ -286,6 +286,8 @@ var urlfix_grouplist = {
     "8201": "https://japanesemafialady.wordpress.com/",
     "821": "http://mmss.wordpress.com/",
     "8221": "http://hanabiscans.tumblr.com/",
+    "8241": "http://llamrei.livejournal.com",
+    "8261": "http://fishwinds.livejournal.com",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
