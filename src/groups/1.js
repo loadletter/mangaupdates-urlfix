@@ -288,6 +288,7 @@ var urlfix_grouplist = {
     "8221": "http://hanabiscans.tumblr.com/",
     "8241": "http://llamrei.livejournal.com",
     "8261": "http://fishwinds.livejournal.com",
+    "8281": "https://paichuntranslations.wordpress.com/",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",

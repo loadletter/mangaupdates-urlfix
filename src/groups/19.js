@@ -279,6 +279,7 @@ var urlfix_grouplist = {
     "8219": "http://therollerbladingdate.tumblr.com",
     "8239": "http://kiwifruiti.livejournal.com",
     "8259": "https://pinkpawjellyscans.wordpress.com/",
+    "8279": "https://gaiachroniclesblog.wordpress.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

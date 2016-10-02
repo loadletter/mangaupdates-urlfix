@@ -277,6 +277,7 @@ var urlfix_grouplist = {
     "8212": "http://dynasty-scans.com/scanlators/pamut",
     "8232": "http://nightmole.livejournal.com",
     "8252": "http://trungtnguyen123.org/",
+    "8272": "http://forum.wuxiaworld.com/discussion/2158/%E6%B7%B7%E6%B2%8C%E9%9B%B7%E4%BF%AE-chaotic-lightning-cultivation-by-%E5%86%99%E5%AD%97%E6%9D%BF-writing-board-wordpad",
     "832": "http://erobeat.hafio.net/",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",

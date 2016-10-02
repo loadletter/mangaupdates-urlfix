@@ -261,6 +261,7 @@ var urlfix_grouplist = {
     "8211": "https://gilatranslationmonster.wordpress.com/",
     "8231": "http://manda_des.livejournal.com",
     "8251": "http://ramenqueens.tumblr.com/",
+    "8271": "http://checkerof-time.livejournal.com",
     "851": "http://www.a2000a.net/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
     "891": "http://community.livejournal.com/dork_love_scans/profile",
