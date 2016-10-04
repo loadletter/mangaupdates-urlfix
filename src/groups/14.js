@@ -281,6 +281,7 @@ var urlfix_grouplist = {
     "8214": "http://machineslicedbread.xyz/",
     "8254": "http://reijeux.tumblr.com",
     "8274": "http://otakutalk.org/topic/1347",
+    "8294": "http://chin-nation.livejournal.com",
     "834": "http://lovelyscans.sitesled.com/",
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",
     "874": "http://shocwave.caticus.com/about.html",

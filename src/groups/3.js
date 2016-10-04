@@ -280,6 +280,7 @@ var urlfix_grouplist = {
     "823": "http://www.stoptazmo.com/showthread.php?t=3062",
     "8243": "http://archosauria.livejournal.com",
     "8263": "http://pliash.livejournal.com",
+    "8283": "http://rabieskatten.livejournal.com/",
     "83": "http://certhy.mircx.com/",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"

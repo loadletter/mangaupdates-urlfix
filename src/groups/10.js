@@ -263,6 +263,8 @@ var urlfix_grouplist = {
     "8210": "http://mspainttranslat4ion.blogspot.com/",
     "8230": "http://goatbit.livejournal.com",
     "8250": "http://trollnationscans.com/",
+    "8270": "http://haisei.tumblr.com/",
+    "8290": "http://laurama.livejournal.com",
     "830": "http://digimonhimitsu.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",

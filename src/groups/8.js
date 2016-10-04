@@ -245,7 +245,7 @@ var urlfix_grouplist = {
     "7868": "https://www.facebook.com/solitarionofansub/",
     "7888": "http://last-heaven-fansub.com/",
     "7908": "http://www.mangadomain.gq/",
-    "7928": "http://bato.to/group/_/h/heart-and-feather-translations-r6374",
+    "7928": "https://heartandfeatherscanlations.wordpress.com/",
     "7948": "https://tdfbc.blogspot.com/",
     "7968": "https://nayu-notyou.tumblr.com/",
     "7988": "http://tilde.town/~meguriai/40ms.html",

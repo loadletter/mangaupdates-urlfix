@@ -280,6 +280,7 @@ var urlfix_grouplist = {
     "8245": "http://softnfluffy.livejournal.com",
     "825": "http://omgtsrs.aoi-tori.org",
     "8265": "http://ka-yakusoku.livejournal.com",
+    "8285": "http://akuichansera.tumblr.com/scanlations",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",
     "885": "http://www.puripuri-toys.com/",
