@@ -234,11 +234,6 @@ def updatefromdb():
 	mergediff(currentgroups, gooddict, verbose=False, output=changelog)
 	changelog.close()
 	
-	print "Merge? (y/n)"
-	answer = raw_input("[n]> ")
-	if answer != 'y':
-		sys.exit(0)
-	
 	mergedict(currentgroups, gooddict)
 	print "Done!"
 	print "New version will be:", newver
@@ -278,10 +273,8 @@ def updatefromdb():
 		print "Git returned %i, aborting.." % rc
 		sys.exit(1)
 	#delete
-	print "Delete from database? (y/n)"
-	answer = raw_input("[y]>" )
-	if answer != 'n':
-		deletequeued(map(lambda x: x[0], dbrows))
+	print "Deleting from database..",
+	deletequeued(map(lambda x: x[0], dbrows))
 	
 	os.remove(changelogpath)
 	print "Done!"
