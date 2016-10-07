@@ -270,6 +270,7 @@ var urlfix_grouplist = {
     "8193": "https://elephantno5.wordpress.com",
     "8233": "http://talvikielo.tumblr.com",
     "8253": "http://tamagoscans.tumblr.com/tagged/tamagoscans",
+    "8313": "http://graycat21.livejournal.com",
     "833": "http://www.naruto-rendan.com/",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",
     "873": "http://kenshinscans.anxious-anime.com/",

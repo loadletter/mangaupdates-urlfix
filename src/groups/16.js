@@ -272,6 +272,8 @@ var urlfix_grouplist = {
     "8236": "http://pomgrenadier.livejournal.com",
     "8256": "http://bato.to/group/_/c/clicscans-r6508",
     "8276": "https://distractedchinese.wordpress.com/",
+    "8296": "http://inglorious-dmk.livejournal.com",
+    "8316": "http://masterfranny.livejournal.com",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",

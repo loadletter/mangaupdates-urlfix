@@ -274,6 +274,7 @@ var urlfix_grouplist = {
     "8207": "https://rpscans.wordpress.com/",
     "8227": "https://cloudtranslations.wordpress.com/",
     "8267": "http://levitytales.com/",
+    "8307": "http://mcmitters.livejournal.com",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

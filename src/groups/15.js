@@ -253,6 +253,8 @@ var urlfix_grouplist = {
     "8235": "http://jammerlea.livejournal.com",
     "8255": "http://dynasty-scans.com/scanlators/nepnep",
     "8275": "http://dynasty-scans.com/scanlators/alpaca_trans",
+    "8295": "http://raspberry-panic.livejournal.com",
+    "8315": "http://bato.to/group/_/v/vacuum-scans-r6520",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",

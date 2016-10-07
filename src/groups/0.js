@@ -267,6 +267,8 @@ var urlfix_grouplist = {
     "8240": "http://psychoxbreaker.livejournal.com",
     "8260": "http://aphetalialove.livejournal.com",
     "8280": "http://bato.to/group/_/c/cash-money-chiyo-r6522",
+    "8300": "http://star-jinin.livejournal.com",
+    "8320": "https://dysrysummaries.wordpress.com/",
     "840": "http://doujinshiadoptions.net/",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",

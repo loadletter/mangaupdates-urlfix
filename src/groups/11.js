@@ -263,6 +263,7 @@ var urlfix_grouplist = {
     "8251": "http://ramenqueens.tumblr.com/",
     "8271": "http://checkerof-time.livejournal.com",
     "8291": "http://gasp-hallelujah.livejournal.com",
+    "8311": "http://bato.to/group/_/n/nameless-scans-r6529",
     "851": "http://www.a2000a.net/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
     "891": "http://community.livejournal.com/dork_love_scans/profile",

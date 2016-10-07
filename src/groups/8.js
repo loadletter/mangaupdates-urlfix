@@ -262,6 +262,7 @@ var urlfix_grouplist = {
     "8248": "http://bakugoon.livejournal.com",
     "8268": "http://xblkdragonx.livejournal.com",
     "828": "http://cienna.livejournal.com/",
+    "8308": "http://valeskia.livejournal.com",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",
     "908": "http://k-neko.net/",

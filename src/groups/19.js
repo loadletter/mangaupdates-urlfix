@@ -280,6 +280,8 @@ var urlfix_grouplist = {
     "8239": "http://kiwifruiti.livejournal.com",
     "8259": "https://pinkpawjellyscans.wordpress.com/",
     "8279": "https://gaiachroniclesblog.wordpress.com/",
+    "8299": "http://secretcountry.livejournal.com",
+    "8319": "http://manhua-abcd.tumblr.com",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

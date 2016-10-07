@@ -282,6 +282,8 @@ var urlfix_grouplist = {
     "8263": "http://pliash.livejournal.com",
     "8283": "http://rabieskatten.livejournal.com/",
     "83": "http://certhy.mircx.com/",
+    "8303": "http://fujiappletan.livejournal.com",
+    "8323": "http://ikariancla.livejournal.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
