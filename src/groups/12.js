@@ -280,6 +280,7 @@ var urlfix_grouplist = {
     "8272": "http://forum.wuxiaworld.com/discussion/2158/%E6%B7%B7%E6%B2%8C%E9%9B%B7%E4%BF%AE-chaotic-lightning-cultivation-by-%E5%86%99%E5%AD%97%E6%9D%BF-writing-board-wordpad",
     "8292": "http://bato.to/group/_/m/mushi-scan-r3991",
     "832": "http://erobeat.hafio.net/",
+    "8332": "http://bato.to/group/_/d/dayment-scans-r6544",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",

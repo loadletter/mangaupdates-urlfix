@@ -268,6 +268,7 @@ var urlfix_grouplist = {
     "826": "http://s7.invisionfree.com/Trinity_Blood/",
     "8266": "http://frodolass.livejournal.com",
     "8306": "http://vulchu.livejournal.com",
+    "8326": "http://eyedelater.tumblr.com/",
     "86": "http://www.omanga.net/",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",

@@ -264,7 +264,7 @@ var urlfix_grouplist = {
     "8037": "http://sunsetspring.tumblr.com/",
     "8057": "http://dynasty-scans.com/scanlators/yescantaloupe",
     "8077": "https://shugui.wordpress.com/",
-    "8097": "http://bato.to/group/_/t/true-love-translations-r6485",
+    "8097": "https://twitter.com/tltldr",
     "8117": "https://tequilamockingbard.wordpress.com/",
     "8137": "https://solstar24.wordpress.com/",
     "8157": "https://asthmaticspider.wordpress.com/",

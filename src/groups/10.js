@@ -267,6 +267,7 @@ var urlfix_grouplist = {
     "8290": "http://laurama.livejournal.com",
     "830": "http://digimonhimitsu.com/",
     "8310": "http://www.novitranslation.com/",
+    "8330": "http://yamiyoru.livejournal.com",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",

@@ -277,6 +277,7 @@ var urlfix_grouplist = {
     "8269": "http://monochrome-flat.livejournal.com",
     "829": "http://melithiel.livejournal.com/",
     "8309": "http://princeroxas.livejournal.com",
+    "8329": "http://tsukinochiyuki.livejournal.com",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",
