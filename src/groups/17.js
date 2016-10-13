@@ -276,6 +276,8 @@ var urlfix_grouplist = {
     "8257": "https://lickymeetranslations.wordpress.com/",
     "8297": "http://hideincarnate.livejournal.com",
     "8317": "http://lemiru.livejournal.com",
+    "8337": "https://www.facebook.com/cabuluriz",
+    "8357": "http://spectre_infanta.livejournal.com",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",

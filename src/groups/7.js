@@ -276,6 +276,7 @@ var urlfix_grouplist = {
     "8267": "http://levitytales.com/",
     "8307": "http://mcmitters.livejournal.com",
     "8327": "http://re-library.com/",
+    "8347": "http://drummerdancerficsandpics.tumblr.com",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

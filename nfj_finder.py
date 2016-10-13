@@ -99,7 +99,7 @@ def run(start_id, end_id):
 					continue
 			else:
 				urls.extend(novel(name))
-		elif name.lower().replace(' ', '') == name:
+		elif name.lower().replace(' ', '') == name and name[0] != '_':
 			urls.extend(fujo(name))
 		else:
 			print "Nothing special about", g

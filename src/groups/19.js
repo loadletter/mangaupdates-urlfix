@@ -282,6 +282,8 @@ var urlfix_grouplist = {
     "8279": "https://gaiachroniclesblog.wordpress.com/",
     "8299": "http://secretcountry.livejournal.com",
     "8319": "http://manhua-abcd.tumblr.com",
+    "8339": "http://elyra_chan.livejournal.com",
+    "8379": "http://mighty-mu-mu.livejournal.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

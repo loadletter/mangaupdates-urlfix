@@ -273,6 +273,8 @@ var urlfix_grouplist = {
     "8313": "http://graycat21.livejournal.com",
     "833": "http://www.naruto-rendan.com/",
     "8333": "https://nxtlvlfortheplot.wordpress.com/",
+    "8353": "http://hopelessosaka.livejournal.com",
+    "8373": "http://lilien-passe.livejournal.com/",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",
     "873": "http://kenshinscans.anxious-anime.com/",
     "93": "http://www.abildsoe.com/manga/",

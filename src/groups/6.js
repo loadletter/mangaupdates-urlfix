@@ -269,6 +269,8 @@ var urlfix_grouplist = {
     "8266": "http://frodolass.livejournal.com",
     "8306": "http://vulchu.livejournal.com",
     "8326": "http://eyedelater.tumblr.com/",
+    "8346": "http://josukeban.tumblr.com/post/138987236773",
+    "8366": "https://luminaeris.wordpress.com/",
     "86": "http://www.omanga.net/",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",

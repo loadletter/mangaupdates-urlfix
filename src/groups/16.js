@@ -275,6 +275,7 @@ var urlfix_grouplist = {
     "8296": "http://inglorious-dmk.livejournal.com",
     "8316": "http://masterfranny.livejournal.com",
     "8336": "http://sakeya.livejournal.com",
+    "8376": "http://hwoosh.livejournal.com/",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",

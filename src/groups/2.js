@@ -284,6 +284,8 @@ var urlfix_grouplist = {
     "8282": "https://saibaichiroku.wordpress.com/",
     "8302": "http://skatedate.livejournal.com",
     "8322": "http://fantasybooksforever.blogspot.com/",
+    "8342": "http://chiisana00.livejournal.com",
+    "8362": "http://mega_otaku.livejournal.com",
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
