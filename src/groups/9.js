@@ -279,6 +279,7 @@ var urlfix_grouplist = {
     "8309": "http://princeroxas.livejournal.com",
     "8329": "http://tsukinochiyuki.livejournal.com",
     "8349": "http://singing_monk.livejournal.com",
+    "8389": "http://feelsbadtranslations.com/",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",

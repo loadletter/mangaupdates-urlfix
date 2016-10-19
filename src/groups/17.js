@@ -274,6 +274,7 @@ var urlfix_grouplist = {
     "8217": "https://loathsometranslations.wordpress.com",
     "8237": "http://gokunobaka.livejournal.com",
     "8257": "https://lickymeetranslations.wordpress.com/",
+    "8277": "https://rooftoplovebl.tumblr.com/",
     "8297": "http://hideincarnate.livejournal.com",
     "8317": "http://lemiru.livejournal.com",
     "8337": "https://www.facebook.com/cabuluriz",

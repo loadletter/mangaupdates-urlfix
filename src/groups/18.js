@@ -271,6 +271,7 @@ var urlfix_grouplist = {
     "8338": "http://pharaoh-dust.livejournal.com/",
     "8358": "http://starrose17.livejournal.com",
     "8378": "http://panjapanja.livejournal.com/",
+    "8398": "http://mizunocaitlin.tumblr.com",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "898": "http://crossbonepirates.blogspot.com/",

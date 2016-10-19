@@ -283,6 +283,7 @@ var urlfix_grouplist = {
     "8332": "http://bato.to/group/_/d/dayment-scans-r6544",
     "8352": "http://users.livejournal.com/-deru/profile",
     "8372": "http://alcnolien.livejournal.com/",
+    "8392": "http://cocktalehours.tumblr.com/",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",

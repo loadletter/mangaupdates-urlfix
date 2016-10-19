@@ -265,6 +265,7 @@ var urlfix_grouplist = {
     "8308": "http://valeskia.livejournal.com",
     "8328": "http://bato.to/group/_/r/raincraft-r6539",
     "8388": "http://yukariscans.tumblr.com/",
+    "8408": "http://yonakayaku.tumblr.com/",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",
     "908": "http://k-neko.net/",

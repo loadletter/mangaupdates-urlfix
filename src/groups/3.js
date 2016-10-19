@@ -287,6 +287,7 @@ var urlfix_grouplist = {
     "8343": "http://sunset_rays.livejournal.com",
     "8363": "http://lilliwithoutgant.tumblr.com/",
     "8383": "http://nijibug.livejournal.com/",
+    "8403": "http://ink-herpes.blogspot.com/",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

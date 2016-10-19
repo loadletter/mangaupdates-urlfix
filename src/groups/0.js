@@ -273,6 +273,7 @@ var urlfix_grouplist = {
     "8360": "http://dianoid.com/",
     "8380": "http://animesque.livejournal.com/",
     "840": "http://doujinshiadoptions.net/",
+    "8400": "http://bearaby.tumblr.com",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"

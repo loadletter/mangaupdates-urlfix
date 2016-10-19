@@ -287,6 +287,7 @@ var urlfix_grouplist = {
     "8364": "http://sucrose2071.livejournal.com",
     "8384": "https://appliscans.wordpress.com/",
     "84": "http://www.aku-tenshi.org/",
+    "8404": "http://asarachan.tumblr.com/",
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
     "884": "http://www.trozzy.com",
