@@ -279,6 +279,7 @@ var urlfix_grouplist = {
     "8347": "http://drummerdancerficsandpics.tumblr.com",
     "8387": "http://cocktalehours.tumblr.com/",
     "8407": "http://acupofteawithsybillasystem.tumblr.com/",
+    "8427": "http://g.e-hentai.org/uploader/qwerty123qwerty",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

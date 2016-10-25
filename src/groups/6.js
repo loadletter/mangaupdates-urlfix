@@ -272,6 +272,7 @@ var urlfix_grouplist = {
     "8346": "http://josukeban.tumblr.com/post/138987236773",
     "8366": "https://luminaeris.wordpress.com/",
     "8406": "http://cleverwolfpoetry.tumblr.com/",
+    "8426": "http://hikiden.blogspot.com/",
     "86": "http://www.omanga.net/",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",

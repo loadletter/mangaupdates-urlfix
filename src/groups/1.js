@@ -293,6 +293,7 @@ var urlfix_grouplist = {
     "8321": "https://sut3kii.wordpress.com/",
     "8341": "http://otsu89.livejournal.com",
     "8361": "http://elisealice.livejournal.com",
+    "8421": "http://bato.to/group/_/m/mangazuki-r6571",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",

@@ -266,6 +266,7 @@ var urlfix_grouplist = {
     "8218": "https://euphmoria.wordpress.com/",
     "8238": "http://etherealtsuki.livejournal.com",
     "8258": "http://konbini.livejournal.com",
+    "8278": "http://tzaolscans.tumblr.com/",
     "8298": "http://rochulove.livejournal.com",
     "8318": "http://kagami222.livejournal.com",
     "8338": "http://pharaoh-dust.livejournal.com/",
