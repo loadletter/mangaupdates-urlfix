@@ -267,6 +267,7 @@ var urlfix_grouplist = {
     "8331": "http://bato.to/group/_/w/whb-r6542",
     "8391": "http://hikkinomori.wordpress.com",
     "8411": "http://nagittos.tumblr.com",
+    "8431": "http://kudouusagi.livejournal.com/",
     "851": "http://www.a2000a.net/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
     "891": "http://community.livejournal.com/dork_love_scans/profile",
