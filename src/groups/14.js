@@ -288,6 +288,7 @@ var urlfix_grouplist = {
     "8374": "http://equivalent-t.livejournal.com/",
     "8394": "https://stregatranslations.wordpress.com/",
     "8414": "http://bato.to/group/_/d/definitely-not-scanlating-more-r6566",
+    "8434": "https://mojotranslations.wordpress.com/",
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",
     "874": "http://shocwave.caticus.com/about.html",
     "914": "http://www.narutobuzz.com",

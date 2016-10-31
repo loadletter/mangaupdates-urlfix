@@ -280,6 +280,7 @@ var urlfix_grouplist = {
     "8387": "http://cocktalehours.tumblr.com/",
     "8407": "http://acupofteawithsybillasystem.tumblr.com/",
     "8427": "http://g.e-hentai.org/uploader/qwerty123qwerty",
+    "8447": "http://www.novelupdates.com/group/tyrants-eye-translation/",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

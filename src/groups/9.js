@@ -282,6 +282,7 @@ var urlfix_grouplist = {
     "8389": "http://feelsbadtranslations.com/",
     "8409": "http://hachidoritranslations.com/",
     "8429": "http://officialbarokvanzieks.tumblr.com/",
+    "8449": "http://bato.to/group/_/t/tom-servo-scans-r6587",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",

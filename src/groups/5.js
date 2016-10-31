@@ -286,6 +286,7 @@ var urlfix_grouplist = {
     "8365": "http://misaseba.livejournal.com",
     "8385": "https://snowjadeflowers.wordpress.com/",
     "8405": "http://xnightrainx.tumblr.com/translation",
+    "8445": "http://soultranslations.weebly.com/",
     "85": "http://manga.nexgear.com/",
     "865": "http://www.bleachexile.com/",
     "885": "http://www.puripuri-toys.com/",

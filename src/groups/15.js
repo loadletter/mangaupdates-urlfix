@@ -259,6 +259,8 @@ var urlfix_grouplist = {
     "8355": "https://atentranslationswordpresscom.wordpress.com",
     "8375": "http://wishfull2.livejournal.com/",
     "8415": "http://silveryasha.web.id/",
+    "8435": "http://lbscans.blogspot.com/",
+    "8455": "https://ntrholic.wordpress.com/",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",

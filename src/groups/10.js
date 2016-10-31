@@ -271,6 +271,7 @@ var urlfix_grouplist = {
     "8350": "http://clau2586.livejournal.com",
     "8370": "http://thecurtain.livejournal.com",
     "8430": "http://doujinshi-scans.tumblr.com/translated",
+    "8450": "http://randomly-spicy-diamond.tumblr.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",

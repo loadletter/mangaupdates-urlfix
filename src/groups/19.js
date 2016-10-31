@@ -285,6 +285,7 @@ var urlfix_grouplist = {
     "8339": "http://elyra_chan.livejournal.com",
     "8379": "http://mighty-mu-mu.livejournal.com/",
     "8419": "http://jazzway.su/",
+    "8439": "http://takoyaki-teacup.neocities.org/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

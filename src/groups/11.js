@@ -268,6 +268,7 @@ var urlfix_grouplist = {
     "8391": "http://hikkinomori.wordpress.com",
     "8411": "http://nagittos.tumblr.com",
     "8431": "http://kudouusagi.livejournal.com/",
+    "8451": "http://straydog12.tumblr.com",
     "851": "http://www.a2000a.net/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
     "891": "http://community.livejournal.com/dork_love_scans/profile",

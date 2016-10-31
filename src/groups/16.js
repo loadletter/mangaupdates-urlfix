@@ -278,6 +278,8 @@ var urlfix_grouplist = {
     "8376": "http://hwoosh.livejournal.com/",
     "8396": "https://cosmictranslation.wordpress.com/",
     "8416": "https://kuhimetranslates.wordpress.com/",
+    "8436": "http://fushicho_eien.livejournal.com",
+    "8456": "https://oktranslation.wordpress.com/",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",

@@ -274,6 +274,7 @@ var urlfix_grouplist = {
     "8378": "http://panjapanja.livejournal.com/",
     "8398": "http://mizunocaitlin.tumblr.com",
     "8418": "https://harunosutori.wordpress.com/",
+    "8458": "http://bato.to/group/_/t/twincest-r6590",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "898": "http://crossbonepirates.blogspot.com/",

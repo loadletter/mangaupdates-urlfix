@@ -289,6 +289,8 @@ var urlfix_grouplist = {
     "8383": "http://nijibug.livejournal.com/",
     "8403": "http://ink-herpes.blogspot.com/",
     "8423": "http://bato.to/group/_/s/silverivy13-r6573",
+    "8443": "http://goremet.tumblr.com/post/68727653217/story-thirst-for-artist-carawey-scanner-mitsu",
+    "8463": "http://khiwatari.tumblr.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
