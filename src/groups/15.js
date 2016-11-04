@@ -261,6 +261,8 @@ var urlfix_grouplist = {
     "8415": "http://silveryasha.web.id/",
     "8435": "http://lbscans.blogspot.com/",
     "8455": "https://ntrholic.wordpress.com/",
+    "8475": "http://estearisa.tumblr.com",
+    "8495": "http://yourlipstastelikelies.tumblr.com/",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",

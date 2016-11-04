@@ -280,6 +280,8 @@ var urlfix_grouplist = {
     "8416": "https://kuhimetranslates.wordpress.com/",
     "8436": "http://fushicho_eien.livejournal.com",
     "8456": "https://oktranslation.wordpress.com/",
+    "8476": "http://thelovelysnail.tumblr.com/translations",
+    "8496": "https://www.facebook.com/Mystery-Science-Scanner-3000-716467368517480",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",

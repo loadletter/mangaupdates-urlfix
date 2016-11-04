@@ -278,6 +278,7 @@ var urlfix_grouplist = {
     "8413": "http://mynameismonn.tumblr.com",
     "8433": "http://animekitty421.livejournal.com",
     "8453": "http://mad-eggs-onthewall.tumblr.com",
+    "8493": "https://psychobarcodetranslations.wordpress.com/",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",
     "873": "http://kenshinscans.anxious-anime.com/",
     "93": "http://www.abildsoe.com/manga/",

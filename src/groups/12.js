@@ -286,6 +286,8 @@ var urlfix_grouplist = {
     "8392": "http://cocktalehours.tumblr.com/",
     "8412": "https://www.nyaa.se/?page=search&cats=2_0&filter=0&term=casval",
     "8452": "http://exaltxd.tumblr.com",
+    "8472": "http://tattahitori.tumblr.com/",
+    "8492": "http://danganronpa2mirror.tumblr.com/",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",

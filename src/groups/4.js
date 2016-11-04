@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "844": "http://mangahelpers.com/forum/index.php?board=169.0",
     "8444": "http://ayatoast.tumblr.com",
     "8464": "http://lestkarrkingofeurope.tumblr.com",
+    "8484": "http://little-tomcat.tumblr.com/",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
     "884": "http://www.trozzy.com",
     "924": "http://gohanxtrunks.net/",

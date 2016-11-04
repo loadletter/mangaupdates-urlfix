@@ -276,6 +276,8 @@ var urlfix_grouplist = {
     "8400": "http://bearaby.tumblr.com",
     "8440": "http://prevolt.tumblr.com/",
     "8460": "http://hisazuki.tumblr.com",
+    "8480": "http://jokerthebutler.tumblr.com",
+    "8500": "http://www.secondokorean.wordpress.com",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
