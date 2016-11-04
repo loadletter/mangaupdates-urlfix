@@ -123,7 +123,7 @@ def run(start_id, end_id):
 					break
 
 		elif DOSEARCH:
-			browserargs = [WWWBROWSER, muurl, QUERYURL % urllib.quote(name), QUERYURL % ('"' + urllib.quote(name) + '"')]
+			browserargs = [WWWBROWSER, muurl, QUERYURL % ('"' + urllib.quote(name) + '"')]
 			subprocess.call(browserargs)
 
 if __name__ == "__main__":
