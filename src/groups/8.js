@@ -270,6 +270,7 @@ var urlfix_grouplist = {
     "8448": "http://cacatuasulphureacitrinocristata.tumblr.com/",
     "8468": "http://argentscarf.tumblr.com/tagged/gekkan-shoujo-nozaki-kun",
     "8488": "http://panetton.tumblr.com",
+    "8508": "http://axilestales.tumblr.com/",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",
     "908": "http://k-neko.net/",

@@ -276,6 +276,7 @@ var urlfix_grouplist = {
     "8446": "http://kiyoitsukikage.tumblr.com/",
     "8466": "http://peachandrabbit.tumblr.com",
     "8486": "http://frillyfujoshidev.tumblr.com/",
+    "8506": "http://cherrim.tumblr.com/translations",
     "86": "http://www.omanga.net/",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",

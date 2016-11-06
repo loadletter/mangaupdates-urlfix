@@ -283,6 +283,7 @@ var urlfix_grouplist = {
     "8447": "http://www.novelupdates.com/group/tyrants-eye-translation/",
     "8467": "http://oujochan.tumblr.com/tagged/translation",
     "8487": "http://chendaere.tumblr.com/tagged/bsd-translations",
+    "8507": "http://blasteriidx.tumblr.com",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

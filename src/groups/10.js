@@ -274,6 +274,7 @@ var urlfix_grouplist = {
     "8450": "http://randomly-spicy-diamond.tumblr.com/",
     "8470": "http://mistogann.tumblr.com/",
     "8490": "http://honyakukanomangen.tumblr.com/",
+    "8510": "http://neylakiiroisenkou.tumblr.com",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",
