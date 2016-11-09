@@ -192,7 +192,7 @@ var urlfix_grouplist = {
     "6212": "http://suika.moe/",
     "6232": "http://www.detectiveconanworld.com",
     "6252": "http://spherescans.blogspot.com/",
-    "6272": "http://nijimurashuuzo.tumblr.com/translationmasterlist",
+    "6272": "http://nijimurashuuzo.tumblr.com/",
     "6292": "http://www.firststepsscans.tumblr.com/",
     "6312": "http://bato.to/group/_/o/operation-gst%C3%B6rte-esel-r4927",
     "6332": "https://www.mediafire.com/hidamarimanga",

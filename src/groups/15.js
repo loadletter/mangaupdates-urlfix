@@ -263,6 +263,7 @@ var urlfix_grouplist = {
     "8455": "https://ntrholic.wordpress.com/",
     "8475": "http://estearisa.tumblr.com",
     "8495": "http://yourlipstastelikelies.tumblr.com/",
+    "8515": "http://lovelysamalove.tumblr.com",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",
