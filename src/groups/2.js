@@ -290,6 +290,7 @@ var urlfix_grouplist = {
     "8422": "https://disqus.com/by/monimonika/",
     "8482": "https://moonrabbittr.wordpress.com/",
     "8502": "https://www.facebook.com/ChaosTeam",
+    "8522": "https://www.futanaripalace.com/",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",
