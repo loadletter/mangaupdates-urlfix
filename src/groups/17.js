@@ -284,6 +284,7 @@ var urlfix_grouplist = {
     "8457": "http://www.yinza.com/Translation/index.html",
     "8477": "http://sanadayuina.tumblr.com/",
     "8517": "http://bato.to/group/_/a/jellerfbof-r6599",
+    "8537": "http://feishuanghua.tumblr.com/",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",

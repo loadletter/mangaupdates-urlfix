@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8485": "http://mocopersonal.tumblr.com/post/25799016522",
     "85": "http://manga.nexgear.com/",
     "8505": "http://konnistique.tumblr.com",
+    "8545": "http://kittencaramel.tumblr.com",
     "865": "http://www.bleachexile.com/",
     "885": "http://www.puripuri-toys.com/",
     "925": "http://tennoikkaku.atspace.com/",

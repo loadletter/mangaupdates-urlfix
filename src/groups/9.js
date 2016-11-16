@@ -244,7 +244,7 @@ var urlfix_grouplist = {
     "7509": "http://bato.to/group/_/p/prological-troutadillos-r5369",
     "7529": "http://amethysteyes.animemanga.forumfree.it/",
     "7549": "http://www.anotherparallel.space/",
-    "7609": "http://bato.to/group/_/t/todome-r6137",
+    "7609": "http://todome-scans.blogspot.com/",
     "7629": "http://alwayshere-scans.tumblr.com/",
     "7649": "http://sparkles-senpai.tumblr.com/",
     "7669": "http://bato.to/group/_/a/acmi3-translation-group-r6179",

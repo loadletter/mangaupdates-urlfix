@@ -289,6 +289,7 @@ var urlfix_grouplist = {
     "8479": "http://animepleasegood2.tumblr.com",
     "8499": "http://cherrim.tumblr.com",
     "8519": "http://outstretch-blog.tumblr.com",
+    "8539": "http://colorpandora.livejournal.com",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

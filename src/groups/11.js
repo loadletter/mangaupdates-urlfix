@@ -273,6 +273,7 @@ var urlfix_grouplist = {
     "8491": "http://haihaihaikyuu.tumblr.com/",
     "851": "http://www.a2000a.net/",
     "8511": "http://aera-enfys.tumblr.com/",
+    "8531": "https://lylisasmodeus.wordpress.com/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
     "891": "http://community.livejournal.com/dork_love_scans/profile",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",

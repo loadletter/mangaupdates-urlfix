@@ -294,6 +294,7 @@ var urlfix_grouplist = {
     "8483": "http://bato.to/group/_/s/sai-corp-translation-service-r6593",
     "8503": "http://burger-shake.tumblr.com/",
     "8523": "http://x0401x.tumblr.com",
+    "8543": "http://dynasty-scans.com/scanlators/drmario_et_al",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
