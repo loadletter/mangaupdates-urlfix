@@ -284,6 +284,7 @@ var urlfix_grouplist = {
     "8496": "https://www.facebook.com/Mystery-Science-Scanner-3000-716467368517480",
     "8516": "http://dimensionslip.tumblr.com/",
     "8536": "http://browniesmores.tumblr.com",
+    "8556": "http://talesofsea.livejournal.com/",
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",

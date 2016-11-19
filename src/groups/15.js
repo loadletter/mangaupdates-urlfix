@@ -266,6 +266,7 @@ var urlfix_grouplist = {
     "8515": "http://lovelysamalove.tumblr.com",
     "8535": "http://koichihase.tumblr.com",
     "855": "http://mangahelpers.com/forum/index.php?board=50.0",
+    "8555": "http://tuulensisko.livejournal.com",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",

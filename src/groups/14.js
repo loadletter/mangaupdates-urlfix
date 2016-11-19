@@ -295,6 +295,7 @@ var urlfix_grouplist = {
     "8514": "http://flamingo-bubbles.tumblr.com",
     "8534": "http://lovelyxday.wordpress.com",
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",
+    "8554": "https://mythicalpagoda.wordpress.com",
     "874": "http://shocwave.caticus.com/about.html",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",

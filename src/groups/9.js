@@ -286,6 +286,7 @@ var urlfix_grouplist = {
     "8469": "http://orcaeth.tumblr.com/tagged/nozaki-anthology-translation",
     "8489": "http://weinerman-tested.tumblr.com",
     "8509": "http://straylize.tumblr.com",
+    "8549": "http://cyandlne.tumblr.com",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",
