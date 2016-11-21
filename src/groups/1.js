@@ -298,6 +298,7 @@ var urlfix_grouplist = {
     "8461": "http://otakkii.tumblr.com/",
     "8521": "http://maboroshi-no.tumblr.com",
     "8541": "http://www.kencephalontranslations.com/",
+    "8561": "http://lhtranslation.com/",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
