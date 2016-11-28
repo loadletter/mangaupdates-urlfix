@@ -44,10 +44,14 @@ def fujo(n):
 	results = []
 	for website in ['http://%s.tumblr.com', 'http://%s.livejournal.com']:
 		url = website % n
-		req = requests.get(url)
-		if req.status_code == 200:
-			print "Found", repr(n), "on", url.split('.')[-2]
-			results.append(url)
+		try:
+			req = requests.get(url)
+		except requests.exceptions.InvalidURL:
+			pass
+		else:
+			if req.status_code == 200:
+				print "Found", repr(n), "on", url.split('.')[-2]
+				results.append(url)
 	return results
 
 def get_content(url):
