@@ -273,6 +273,7 @@ var urlfix_grouplist = {
     "8508": "http://axilestales.tumblr.com/",
     "8528": "http://dynasty-scans.com/scanlators/hunter_nightblood",
     "8548": "http://azureheavens.tumblr.com",
+    "8568": "http://aokakesu.tumblr.com",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",
     "908": "http://k-neko.net/",

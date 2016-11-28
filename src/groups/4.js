@@ -280,7 +280,7 @@ var urlfix_grouplist = {
     "8184": "https://polarbearcatcher.wordpress.com/",
     "8204": "https://mightynovels.wordpress.com",
     "8244": "http://kasumicc.livejournal.com",
-    "8264": "https://rpscans.wordpress.com/",
+    "8264": "http://rpscans.sugarkiss.org/",
     "8304": "http://vocationel.livejournal.com",
     "8324": "https://lilytranslationcircle.wordpress.com/",
     "8344": "http://bato.to/group/_/c/core-crystal-r6515",

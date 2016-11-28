@@ -285,6 +285,7 @@ var urlfix_grouplist = {
     "8487": "http://chendaere.tumblr.com/tagged/bsd-translations",
     "8507": "http://blasteriidx.tumblr.com",
     "8547": "http://flagfighter.tumblr.com",
+    "8567": "https://aihristdreamtranslation.wordpress.com/",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",
