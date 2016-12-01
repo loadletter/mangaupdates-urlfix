@@ -286,6 +286,7 @@ var urlfix_grouplist = {
     "8536": "http://browniesmores.tumblr.com",
     "8556": "http://talesofsea.livejournal.com/",
     "856": "http://apforums.net/forumdisplay.php?f=14",
+    "8576": "https://animetics.net/category/translations/",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",
     "956": "http://straysscans.net/",

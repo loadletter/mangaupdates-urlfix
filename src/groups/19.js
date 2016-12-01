@@ -291,6 +291,7 @@ var urlfix_grouplist = {
     "8519": "http://outstretch-blog.tumblr.com",
     "8539": "http://colorpandora.livejournal.com",
     "8559": "http://acstth.blogspot.com/",
+    "8579": "http://bato.to/group/_/a/synthetic-ecstasy-r6652",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

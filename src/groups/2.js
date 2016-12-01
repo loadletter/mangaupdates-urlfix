@@ -293,6 +293,7 @@ var urlfix_grouplist = {
     "8522": "https://www.futanaripalace.com/",
     "8542": "http://elwiki.net/babel/",
     "8562": "http://bato.to/group/_/w/wicked-house-translation-r6610",
+    "8582": "http://bato.to/group/_/other/\u300c-hitorikiri-\u300d-r6645",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",

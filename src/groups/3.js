@@ -296,6 +296,7 @@ var urlfix_grouplist = {
     "8523": "http://x0401x.tumblr.com",
     "8543": "http://dynasty-scans.com/scanlators/drmario_et_al",
     "8563": "http://bato.to/group/_/m/madam-el-lepoo-scanlations-r6631",
+    "8583": "http://moontyger.livejournal.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

@@ -294,6 +294,7 @@ var urlfix_grouplist = {
     "8505": "http://konnistique.tumblr.com",
     "8545": "http://kittenhair.tumblr.com/",
     "8565": "http://mahoikutranslationproject.tumblr.com/",
+    "8585": "http://shootingstar109.livejournal.com",
     "865": "http://www.bleachexile.com/",
     "885": "http://www.puripuri-toys.com/",
     "925": "http://tennoikkaku.atspace.com/",

@@ -281,6 +281,7 @@ var urlfix_grouplist = {
     "8520": "http://namco-tales.livejournal.com/",
     "8540": "http://www.spcnet.tv/forums/forumdisplay.php/29-Wuxia-Translations",
     "8560": "https://easternfantasy.wordpress.com/112-2/",
+    "8580": "http://pau-panda.livejournal.com/",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
