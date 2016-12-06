@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8532": "http://tamanegi-scans.blogspot.com/",
     "8552": "http://dynasty-scans.com/scanlators/aumakua",
     "8572": "http://xianforeigners.tk/",
+    "8592": "http://bato.to/group/_/d/descendants-of-god-r6660",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",

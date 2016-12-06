@@ -251,7 +251,7 @@ var urlfix_grouplist = {
     "7846": "http://momocommissions.tumblr.com/",
     "786": "http://scanduzioni.altervista.org",
     "7866": "https://happybubblesubs.wordpress.com/",
-    "7906": "https://hachikofansubs.wordpress.com/",
+    "7906": "http://hachikofansubs.com/",
     "7926": "http://hennojin.com/",
     "7946": "http://ikedafiles.tumblr.com/",
     "7966": "http://silverleafscans.blogspot.com/",

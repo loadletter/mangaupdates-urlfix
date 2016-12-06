@@ -288,6 +288,7 @@ var urlfix_grouplist = {
     "8509": "http://straylize.tumblr.com",
     "8549": "http://cyandlne.tumblr.com",
     "8569": "https://odiasscans.wordpress.com/",
+    "8589": "http://translator.w.tumblr.com",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",

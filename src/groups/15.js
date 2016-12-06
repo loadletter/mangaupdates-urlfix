@@ -229,7 +229,7 @@ var urlfix_grouplist = {
     "7615": "http://marchen-v-friedhof.tumblr.com/",
     "7655": "http://www.hasutsuki.com/",
     "7675": "http://betakomahina.co.vu/",
-    "7695": "https://www.facebook.com/Fundash-Yaoi-1594942057495022/",
+    "7695": "http://fundashyaoi.tumblr.com",
     "7735": "http://saezutte.tumblr.com/tagged/my%20translations",
     "7755": "http://themedicineseller.tumblr.com/",
     "7795": "http://hnkproject.tumblr.com/",
