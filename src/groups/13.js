@@ -139,7 +139,7 @@ var urlfix_grouplist = {
     "5013": "http://soranoleviathan.livejournal.com/",
     "5033": "http://dear-marionette.livejournal.com/",
     "5053": "http://animefreakkatie.livejournal.com",
-    "5093": "https://casanovascans.com/",
+    "5093": "http://casanovaediting.blogspot.com/",
     "5113": "http://suzakutheknight.livejournal.com/",
     "5133": "https://mega.co.nz/#F!21p2SRiB!BunRvzcx8PklVsMIadR1LA",
     "5153": "https://psylockescans.wordpress.com",

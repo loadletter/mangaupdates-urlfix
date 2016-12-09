@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",
     "8554": "https://mythicalpagoda.wordpress.com",
     "8574": "http://bato.to/group/_/a/mangascammers-r6648",
+    "8594": "http://dynasty-scans.com/scanlators/lesher",
     "874": "http://shocwave.caticus.com/about.html",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
