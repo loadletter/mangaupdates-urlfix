@@ -282,6 +282,7 @@ var urlfix_grouplist = {
     "8558": "http://lmfyd.blogspot.com/",
     "8578": "http://u-mizuscans.tumblr.com/",
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
+    "8598": "http://ddstranslation.blogspot.com/",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "898": "http://crossbonepirates.blogspot.com/",
     "918": "http://www.bleachbuzz.com/",

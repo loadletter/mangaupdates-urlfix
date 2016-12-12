@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8539": "http://colorpandora.livejournal.com",
     "8559": "http://acstth.blogspot.com/",
     "8579": "http://bato.to/group/_/a/synthetic-ecstasy-r6652",
+    "8599": "http://tonygonz.blogspot.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

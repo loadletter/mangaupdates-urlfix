@@ -287,6 +287,7 @@ var urlfix_grouplist = {
     "8547": "http://flagfighter.tumblr.com",
     "8567": "https://aihristdreamtranslation.wordpress.com/",
     "8587": "http://www.rebellionscans.com/",
+    "8607": "http://wheresmykatsudon.tumblr.com/",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",
