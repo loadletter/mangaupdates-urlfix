@@ -298,6 +298,7 @@ var urlfix_grouplist = {
     "8554": "https://mythicalpagoda.wordpress.com",
     "8574": "http://bato.to/group/_/a/mangascammers-r6648",
     "8594": "http://dynasty-scans.com/scanlators/lesher",
+    "8614": "http://dynasty-scans.com/scanlators/estherlea",
     "874": "http://shocwave.caticus.com/about.html",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",

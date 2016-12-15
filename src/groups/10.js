@@ -279,6 +279,7 @@ var urlfix_grouplist = {
     "8550": "http://richea-spodune.tumblr.com",
     "8570": "http://bato.to/group/_/other/alone-r6645",
     "8590": "http://aurantia-ignis.tumblr.com",
+    "8610": "https://xolotranslations.wordpress.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",

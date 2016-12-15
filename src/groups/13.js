@@ -284,6 +284,7 @@ var urlfix_grouplist = {
     "8553": "https://bearbeartranslations.wordpress.com/",
     "8573": "http://g.e-hentai.org/uploader/MisterJ167",
     "8593": "https://www.facebook.com/black.sakura.official",
+    "8613": "http://g.e-hentai.org/uploader/GungnirHeart",
     "873": "http://kenshinscans.anxious-anime.com/",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
