@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "8561": "http://lhtranslation.com/",
     "8581": "http://gretchen8642.livejournal.com",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
+    "8621": "http://seiren-project.tumblr.com/tagged/doujinshi",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"

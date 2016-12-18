@@ -283,6 +283,7 @@ var urlfix_grouplist = {
     "8560": "https://easternfantasy.wordpress.com/112-2/",
     "8580": "http://pau-panda.livejournal.com/",
     "8600": "http://incarosejealousy.blogspot.com/",
+    "8620": "http://shadoukun.tumblr.com",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
