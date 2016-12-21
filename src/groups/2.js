@@ -295,6 +295,7 @@ var urlfix_grouplist = {
     "8562": "http://bato.to/group/_/w/wicked-house-translation-r6610",
     "8582": "http://bato.to/group/_/other/\u300c-hitorikiri-\u300d-r6645",
     "8602": "https://demonscorpion.wordpress.com/",
+    "8622": "http://andromedaboul.blogspot.com/",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",

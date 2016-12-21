@@ -287,6 +287,7 @@ var urlfix_grouplist = {
     "8537": "http://feishuanghua.tumblr.com/",
     "8557": "http://www.heroicnovels.com",
     "8577": "http://bato.to/group/_/b/bro-scans-r6651",
+    "8637": "https://mountainofpigeons.wordpress.com/",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",

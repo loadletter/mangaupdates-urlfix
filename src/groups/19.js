@@ -294,6 +294,7 @@ var urlfix_grouplist = {
     "8579": "http://bato.to/group/_/a/synthetic-ecstasy-r6652",
     "8599": "http://tonygonz.blogspot.com/",
     "8619": "http://wolfhong.tumblr.com",
+    "8639": "https://matanukiscans.tumblr.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

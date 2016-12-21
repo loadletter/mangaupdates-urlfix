@@ -288,6 +288,7 @@ var urlfix_grouplist = {
     "856": "http://apforums.net/forumdisplay.php?f=14",
     "8576": "https://animetics.net/category/translations/",
     "8616": "http://subsik-ss.blogspot.com/",
+    "8636": "https://workingneet.wordpress.com/",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",
     "956": "http://straysscans.net/",

@@ -284,6 +284,7 @@ var urlfix_grouplist = {
     "858": "http://mangahelpers.com/forum/index.php?board=8.0",
     "8598": "http://ddstranslation.blogspot.com/",
     "8618": "https://akumatranslationgroupblog.wordpress.com/",
+    "8638": "http://qalt49yu.tumblr.com/",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "898": "http://crossbonepirates.blogspot.com/",
     "918": "http://www.bleachbuzz.com/",
