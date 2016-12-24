@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "8585": "http://shootingstar109.livejournal.com",
     "8605": "http://bato.to/group/_/o/roregairusnafu-scans-r6674",
     "8625": "http://kurootetzu.tumblr.com",
+    "8645": "http://bato.to/group/_/a/ravages-of-time-eng-r6695",
     "865": "http://www.bleachexile.com/",
     "885": "http://www.puripuri-toys.com/",
     "925": "http://tennoikkaku.atspace.com/",

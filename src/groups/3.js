@@ -63,7 +63,7 @@ var urlfix_grouplist = {
     "2663": "https://www.mangaupdates.com/showtopic.php?tid=12047",
     "2683": "http://spaz4tw.livejournal.com/",
     "2703": "http://blueskydust.webs.com/",
-    "2723": "http://coyomoosescans.blogspot.com/",
+    "2723": "http://cm.jcink.net/",
     "2743": "http://sites.google.com/site/mascans/",
     "2783": "http://mangahelpers.com/s/random-guy-fansubs",
     "2843": "http://vaane.wordpress.com/",
@@ -298,6 +298,7 @@ var urlfix_grouplist = {
     "8563": "http://bato.to/group/_/m/madam-el-lepoo-scanlations-r6631",
     "8583": "http://moontyger.livejournal.com",
     "8603": "https://kitakamiooi.wordpress.com/",
+    "8643": "http://bato.to/group/_/t/tamago-r6692",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

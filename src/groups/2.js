@@ -296,6 +296,7 @@ var urlfix_grouplist = {
     "8582": "http://bato.to/group/_/other/\u300c-hitorikiri-\u300d-r6645",
     "8602": "https://demonscorpion.wordpress.com/",
     "8622": "http://andromedaboul.blogspot.com/",
+    "8642": "http://bato.to/group/_/e/eternal-fantasy-r6676",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",
