@@ -275,6 +275,7 @@ var urlfix_grouplist = {
     "8548": "http://azureheavens.tumblr.com",
     "8568": "http://aokakesu.tumblr.com",
     "8588": "https://ellionoratranslation.wordpress.com",
+    "8648": "https://yaminofansub.wordpress.com/",
     "88": "http://www.mnm-scanlations.com",
     "888": "http://www.samt.prv.pl",
     "908": "http://k-neko.net/",

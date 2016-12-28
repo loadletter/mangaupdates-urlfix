@@ -281,6 +281,7 @@ var urlfix_grouplist = {
     "8590": "http://aurantia-ignis.tumblr.com",
     "8610": "https://xolotranslations.wordpress.com/",
     "8630": "http://dynasty-scans.com/scanlators/nitroxknight",
+    "8650": "http://kaiho-sha.tumblr.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",

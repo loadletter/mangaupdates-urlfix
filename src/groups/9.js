@@ -291,6 +291,7 @@ var urlfix_grouplist = {
     "8589": "http://translator.w.tumblr.com",
     "8609": "http://tenshiscave.tumblr.com",
     "8629": "http://atsutodo.tumblr.com",
+    "8649": "http://thelifestream.net/",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",

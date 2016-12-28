@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "8594": "http://dynasty-scans.com/scanlators/lesher",
     "8614": "http://dynasty-scans.com/scanlators/estherlea",
     "8634": "http://keikcake.tumblr.com",
+    "8654": "http://yonkouprod.com/",
     "874": "http://shocwave.caticus.com/about.html",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
