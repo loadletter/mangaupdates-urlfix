@@ -289,6 +289,7 @@ var urlfix_grouplist = {
     "8576": "https://animetics.net/category/translations/",
     "8616": "http://subsik-ss.blogspot.com/",
     "8636": "https://workingneet.wordpress.com/",
+    "8656": "http://b-a-g-g-i-n-s-h-i-e-l-d.tumblr.com/",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",
     "956": "http://straysscans.net/",

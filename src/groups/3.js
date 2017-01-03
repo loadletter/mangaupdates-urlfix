@@ -95,7 +95,7 @@ var urlfix_grouplist = {
     "3483": "http://community.livejournal.com/dorrasu/",
     "3503": "http://www.crunchyroll.com/group/Kawaii_Shoujo",
     "3523": "http://sof-93.blogspot.com/",
-    "3563": "http://tdxtreme.wordpress.com/",
+    "3563": "https://tdxtreme.wordpress.com/",
     "3583": "http://mangahelpers.com/s/legendmanga",
     "3603": "http://www.projecttinte.net/",
     "3623": "http://corruptedfetishes.blogspot.com/",

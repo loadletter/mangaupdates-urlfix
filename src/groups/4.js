@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "8604": "http://g.e-hentai.org/uploader/amoskandy",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
     "8644": "http://bato.to/group/_/s/sirelo-r6693",
+    "8664": "http://wuxianation.com/",
     "884": "http://www.trozzy.com",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",

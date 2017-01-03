@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
     "8621": "http://seiren-project.tumblr.com/tagged/doujinshi",
     "8641": "http://komohibi.tumblr.com",
+    "8661": "http://bato.to/group/_/t/tenjin-r6713",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"

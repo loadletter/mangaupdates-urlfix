@@ -271,6 +271,7 @@ var urlfix_grouplist = {
     "8595": "https://14-loeuf.tumblr.com/stuff",
     "8615": "http://bato.to/forums/user/384039-motokare/",
     "8635": "http://zerotranslations.blogspot.com/",
+    "8655": "http://dynasty-scans.com/scanlators/wooberjig",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",
