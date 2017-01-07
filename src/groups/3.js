@@ -299,6 +299,7 @@ var urlfix_grouplist = {
     "8583": "http://moontyger.livejournal.com",
     "8603": "https://kitakamiooi.wordpress.com/",
     "8643": "http://bato.to/group/_/t/tamago-r6692",
+    "8683": "http://popsiclete.blogspot.com/",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

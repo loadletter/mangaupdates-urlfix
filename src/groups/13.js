@@ -287,6 +287,7 @@ var urlfix_grouplist = {
     "8613": "http://g.e-hentai.org/uploader/GungnirHeart",
     "8633": "http://bato.to/group/_/b/black-hand-scans-r3207",
     "8653": "http://sidewaysdaily.tumblr.com",
+    "8673": "http://shoutucker.tumblr.com",
     "873": "http://kenshinscans.anxious-anime.com/",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",

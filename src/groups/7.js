@@ -290,6 +290,7 @@ var urlfix_grouplist = {
     "8607": "http://wheresmykatsudon.tumblr.com/",
     "8627": "http://zaelumtranslations.blogspot.com/",
     "8647": "http://moonbunnycafe.com/author/armored-raven/",
+    "8667": "http://flytranslationproject.tumblr.com/",
     "867": "http://www.bleachportal.net/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",

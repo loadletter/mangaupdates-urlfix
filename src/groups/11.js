@@ -278,6 +278,7 @@ var urlfix_grouplist = {
     "8571": "https://jenpresstranslation.wordpress.com/",
     "8631": "http://corduchan.tumblr.com",
     "8651": "http://bato.to/group/_/t/the-misfits-squadron-r6702",
+    "8671": "http://retiredpyramidhead.tumblr.com/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
     "891": "http://community.livejournal.com/dork_love_scans/profile",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",

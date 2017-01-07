@@ -285,6 +285,7 @@ var urlfix_grouplist = {
     "8600": "http://incarosejealousy.blogspot.com/",
     "8620": "http://shadoukun.tumblr.com",
     "8640": "http://fenrir-v.tumblr.com",
+    "8680": "http://bato.to/group/_/s/spaminsubs-palaios-r4894",
     "880": "http://www.fmahq.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"

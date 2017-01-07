@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "8645": "http://bato.to/group/_/a/ravages-of-time-eng-r6695",
     "865": "http://www.bleachexile.com/",
     "8665": "https://sleepytranslations.wordpress.com/",
+    "8685": "http://ttkprojects.tumblr.com/",
     "885": "http://www.puripuri-toys.com/",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
