@@ -260,7 +260,7 @@ var urlfix_grouplist = {
     "7996": "http://lin-senpaiwantstobenoticed.weebly.com/",
     "8016": "http://nkhrchy.tumblr.com/masterpost",
     "8036": "http://manlyronpa.tumblr.com/",
-    "8056": "http://novelstranslation.blogspot.com/",
+    "8056": "http://www.novelstranslation.com/",
     "8076": "https://mai88eternalscarlet.wordpress.com/",
     "8096": "https://edltranslation.wordpress.com/",
     "8116": "https://tsubakitranslation.wordpress.com/",

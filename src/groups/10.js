@@ -283,6 +283,7 @@ var urlfix_grouplist = {
     "8630": "http://dynasty-scans.com/scanlators/nitroxknight",
     "8650": "http://kaiho-sha.tumblr.com/",
     "8670": "http://randomthoughtpatterns.tumblr.com",
+    "8690": "http://bato.to/group/_/a/arc-relight-r6729",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",

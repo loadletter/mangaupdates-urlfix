@@ -153,7 +153,7 @@ var urlfix_grouplist = {
     "5399": "https://lagendiascans.wordpress.com/",
     "5419": "http://whitecloudscans.blogspot.com/",
     "5439": "http://ttlycaptivated.livejournal.com/",
-    "5459": "http://www.cielscans.com/",
+    "5459": "https://cielscans.wordpress.com/",
     "5479": "http://impatientscan.blogspot.com/",
     "5519": "http://jollygoat.tumblr.com/",
     "5539": "http://frostscans.wordpress.com/",
