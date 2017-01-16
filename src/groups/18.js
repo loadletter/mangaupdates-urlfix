@@ -287,6 +287,7 @@ var urlfix_grouplist = {
     "8638": "http://qalt49yu.tumblr.com/",
     "8658": "http://secross.tumblr.com",
     "8678": "http://bakuhatsubutsu.tumblr.com",
+    "8698": "http://seryne299.tumblr.com/",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "898": "http://crossbonepirates.blogspot.com/",
     "918": "http://www.bleachbuzz.com/",

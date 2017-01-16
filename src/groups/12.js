@@ -296,6 +296,7 @@ var urlfix_grouplist = {
     "8612": "http://bato.to/group/_/k/kanransha-r6680",
     "8652": "https://bato.to/group/_/d/ditshick-translations-r6703",
     "8672": "http://onlyerearu.tumblr.com",
+    "8692": "https://ianscornerblog.wordpress.com/",
     "872": "http://pomi.sandwich.net/ruroken/",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",

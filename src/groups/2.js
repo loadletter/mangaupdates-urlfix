@@ -299,6 +299,7 @@ var urlfix_grouplist = {
     "8642": "http://bato.to/group/_/e/eternal-fantasy-r6676",
     "8662": "http://her-holiness.tumblr.com/",
     "8682": "http://pseudonym125.livejournal.com/",
+    "8702": "https://oyajiscans.wordpress.com/",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",

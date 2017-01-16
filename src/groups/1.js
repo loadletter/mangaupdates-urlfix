@@ -293,7 +293,7 @@ var urlfix_grouplist = {
     "8321": "https://sut3kii.wordpress.com/",
     "8341": "http://otsu89.livejournal.com",
     "8361": "http://elisealice.livejournal.com",
-    "8421": "http://bato.to/group/_/m/mangazuki-r6571",
+    "8421": "https://mangazuki.co/",
     "8441": "http://anekofoxx.tumblr.com/tagged/diabolik-lovers-anthology",
     "8461": "http://otakkii.tumblr.com/",
     "8521": "http://maboroshi-no.tumblr.com",
@@ -304,6 +304,7 @@ var urlfix_grouplist = {
     "8621": "http://seiren-project.tumblr.com/tagged/doujinshi",
     "8641": "http://komohibi.tumblr.com",
     "8661": "http://bato.to/group/_/t/tenjin-r6713",
+    "8701": "http://bato.to/group/_/s/shiok-scans-r6734",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
