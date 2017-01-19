@@ -302,6 +302,7 @@ var urlfix_grouplist = {
     "8644": "http://bato.to/group/_/s/sirelo-r6693",
     "8664": "http://wuxianation.com/",
     "8684": "http://xcaneolupusx.tumblr.com/",
+    "8704": "http://bato.to/group/_/a/colors-of-spring-scans-r6736",
     "884": "http://www.trozzy.com",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",

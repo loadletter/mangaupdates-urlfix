@@ -284,6 +284,7 @@ var urlfix_grouplist = {
     "8650": "http://kaiho-sha.tumblr.com/",
     "8670": "http://randomthoughtpatterns.tumblr.com",
     "8690": "http://bato.to/group/_/a/arc-relight-r6729",
+    "8710": "http://bato.to/group/_/e/eraser-kun-scans-r6746",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",

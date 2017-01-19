@@ -284,6 +284,7 @@ var urlfix_grouplist = {
     "8646": "https://atelierdunoir.wordpress.com/",
     "8666": "https://omegaverseaddicted.tumblr.com/",
     "8686": "http://mizaya.tumblr.com/",
+    "8706": "https://mongolfier.wordpress.com/",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"
