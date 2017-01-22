@@ -289,6 +289,7 @@ var urlfix_grouplist = {
     "8653": "http://sidewaysdaily.tumblr.com",
     "8673": "http://shoutucker.tumblr.com",
     "8693": "https://dispersiontl.blogspot.com/",
+    "8713": "http://bato.to/group/_/w/waiting-for-spring-scans-r6751",
     "873": "http://kenshinscans.anxious-anime.com/",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",

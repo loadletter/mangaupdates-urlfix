@@ -280,6 +280,7 @@ var urlfix_grouplist = {
     "8651": "http://bato.to/group/_/t/the-misfits-squadron-r6702",
     "8671": "http://retiredpyramidhead.tumblr.com/",
     "871": "http://www.stoptazmo.com/showthread.php?t=14269&amp;page=16",
+    "8711": "https://nopuran.tumblr.com/",
     "891": "http://community.livejournal.com/dork_love_scans/profile",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",
     "931": "http://wingtipcafe.com/en/",
