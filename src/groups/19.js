@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "8639": "https://matanukiscans.tumblr.com/",
     "8659": "http://crywanking.tumblr.com",
     "8699": "https://ricepunch.tumblr.com/",
+    "8719": "https://maserpatrol.wordpress.com/",
     "879": "http://gurotaku.voiea.net/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",

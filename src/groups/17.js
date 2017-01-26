@@ -289,6 +289,7 @@ var urlfix_grouplist = {
     "8577": "http://bato.to/group/_/b/bro-scans-r6651",
     "8637": "https://mountainofpigeons.wordpress.com/",
     "8657": "http://www.halcyontranslations.com/",
+    "8717": "http://bato.to/group/_/t/the-danchiguys-r6755",
     "877": "http://mangarealm.enacre.net/",
     "897": "http://zntnovels.elwiki.com/Main_Page",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
