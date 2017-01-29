@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "8643": "http://bato.to/group/_/t/tamago-r6692",
     "8683": "http://popsiclete.blogspot.com/",
     "8703": "http://g.e-hentai.org/uploader/poopyface",
+    "8723": "http://corporaljaegerssweetass.tumblr.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

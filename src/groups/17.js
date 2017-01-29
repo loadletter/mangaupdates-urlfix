@@ -135,7 +135,7 @@ var urlfix_grouplist = {
     "4857": "http://iishanten.tumblr.com/",
     "4877": "http://monokromeclover.tumblr.com/",
     "4897": "http://cardfight-scans.tumblr.com",
-    "4937": "http://tenko.fansubban.org/",
+    "4937": "https://tenko.fsbn.eu/",
     "4957": "http://subdesu-h.net/",
     "497": "http://www.strawhatscans.tk",
     "4977": "http://chronolegionnaire.wordpress.com",

@@ -302,6 +302,7 @@ var urlfix_grouplist = {
     "8665": "https://sleepytranslations.wordpress.com/",
     "8685": "http://ttkprojects.tumblr.com/",
     "8705": "https://kamiscanlator.wordpress.com/",
+    "8725": "http://bato.to/group/_/g/gepz-id-r5543",
     "885": "http://www.puripuri-toys.com/",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",

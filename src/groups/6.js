@@ -170,7 +170,7 @@ var urlfix_grouplist = {
     "5866": "http://spluuuuurt.tumblr.com/",
     "5926": "http://thefaiienscans.weebly.com/",
     "5946": "http://mekamekasubs.tumblr.com/",
-    "5966": "http://kobatochandaisuki.wordpress.com",
+    "5966": "https://kobatochan.com/",
     "5986": "http://armageddonscans.blogspot.com/",
     "6006": "http://willofheavenfantranslation.blogspot.com/",
     "6026": "http://thecatscans.com/",
@@ -285,6 +285,7 @@ var urlfix_grouplist = {
     "8666": "https://omegaverseaddicted.tumblr.com/",
     "8686": "http://mizaya.tumblr.com/",
     "8706": "https://mongolfier.wordpress.com/",
+    "8726": "https://friendshipispower.wordpress.com/",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"
