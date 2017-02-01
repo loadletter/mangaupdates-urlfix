@@ -254,7 +254,7 @@ var urlfix_grouplist = {
     "7913": "http://bato.to/group/_/h/hobop-r6363",
     "793": "http://ysanau.deviantart.com",
     "7933": "http://aoharaidofansub.blogspot.com/",
-    "7953": "http://bato.to/group/_/m/mythos-scans-r6199",
+    "7953": "http://mythoscans.wixsite.com/mythoscans",
     "7973": "https://dropoutmanga.wordpress.com/",
     "7993": "http://cyberusagi.tumblr.com/tagged/scanlation",
     "8013": "http://akutagawaprize.tumblr.com/tagged/translation",

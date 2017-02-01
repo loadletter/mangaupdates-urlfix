@@ -293,6 +293,7 @@ var urlfix_grouplist = {
     "8676": "https://kenkyokisshouinreika.wordpress.com/",
     "8696": "http://pe-lex.tumblr.com",
     "8716": "http://aomadara.tumblr.com",
+    "8736": "http://ryuketsuscan.blogspot.com/",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "896": "http://heidiscans.wordpress.com/",
     "956": "http://straysscans.net/",

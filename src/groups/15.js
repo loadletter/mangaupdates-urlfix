@@ -275,6 +275,7 @@ var urlfix_grouplist = {
     "8675": "http://bloodmoontranslations.tumblr.com/",
     "8695": "https://bato.to/group/_/s/station-13-r4139",
     "8715": "https://korunescanlation.blogspot.com/",
+    "8735": "http://alienfairyland.tumblr.com/tagged/translation",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",

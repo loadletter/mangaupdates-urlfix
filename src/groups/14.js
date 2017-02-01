@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "8654": "http://yonkouprod.com/",
     "8674": "http://doctor-chimera.tumblr.com",
     "8714": "https://www.mangaupdates.com/showtopic.php?tid=54334",
+    "8734": "https://ykgescans.wordpress.com/",
     "874": "http://shocwave.caticus.com/about.html",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",

@@ -82,7 +82,7 @@ var urlfix_grouplist = {
     "3121": "http://vhskid1.blogspot.com/",
     "3141": "http://mugematic.wordpress.com/",
     "3161": "https://dicescans.blogspot.com/",
-    "3181": "http://whiteoutscans.com/",
+    "3181": "https://whiteoutscans.com/",
     "3201": "http://getbackersmanga.webs.com/",
     "3221": "http://manda-des.livejournal.com/",
     "3261": "http://haneulnim.wordpress.com/",
