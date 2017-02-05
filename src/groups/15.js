@@ -188,7 +188,7 @@ var urlfix_grouplist = {
     "6555": "http://graychalk.tumblr.com/",
     "6575": "http://unnamedtranslations.blogspot.com/",
     "6615": "http://doushinojikan.tumblr.com/",
-    "6635": "https://scryatranslations.wordpress.com/",
+    "6635": "http://scrya.org/",
     "6675": "http://tigercandy.tumblr.com/",
     "6715": "https://sylver135.wordpress.com/",
     "6735": "http://veloyay.tumblr.com/",

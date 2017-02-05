@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "8682": "http://pseudonym125.livejournal.com/",
     "8702": "https://oyajiscans.wordpress.com/",
     "8722": "http://www.mangatreat.com/",
+    "8742": "https://astroscans.wordpress.com/",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",

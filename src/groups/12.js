@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "8712": "https://matcha-scans.tumblr.com/",
     "872": "http://pomi.sandwich.net/ruroken/",
     "8732": "https://poorqualitytl.wordpress.com/",
+    "8752": "https://www.reddit.com/user/twangansta",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "932": "http://www.lostinscanlation.com/",

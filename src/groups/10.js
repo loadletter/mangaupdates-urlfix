@@ -286,6 +286,7 @@ var urlfix_grouplist = {
     "8690": "http://bato.to/group/_/a/arc-relight-r6729",
     "8710": "http://bato.to/group/_/e/eraser-kun-scans-r6746",
     "8730": "http://amarurose.tumblr.com",
+    "8750": "https://froglation.xyz/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",

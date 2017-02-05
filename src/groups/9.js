@@ -293,6 +293,7 @@ var urlfix_grouplist = {
     "8629": "http://atsutodo.tumblr.com",
     "8649": "http://thelifestream.net/",
     "8709": "https://cautrs.com/",
+    "8749": "https://twitter.com/qiefaaa",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",

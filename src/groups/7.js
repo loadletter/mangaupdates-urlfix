@@ -293,6 +293,7 @@ var urlfix_grouplist = {
     "8667": "http://flytranslationproject.tumblr.com/",
     "867": "http://www.bleachportal.net/",
     "8727": "http://bato.to/group/_/e/emblem-scans-r6762",
+    "8747": "https://shirotl.wordpress.com/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"

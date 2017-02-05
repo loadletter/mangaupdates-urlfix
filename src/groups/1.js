@@ -306,6 +306,7 @@ var urlfix_grouplist = {
     "8661": "http://bato.to/group/_/t/tenjin-r6713",
     "8701": "http://bato.to/group/_/s/shiok-scans-r6734",
     "8721": "https://yowapedafanscans.tumblr.com/",
+    "8741": "http://ochazuke-translations.tumblr.com",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
