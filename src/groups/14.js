@@ -305,6 +305,7 @@ var urlfix_grouplist = {
     "8714": "https://www.mangaupdates.com/showtopic.php?tid=54334",
     "8734": "https://ykgescans.wordpress.com/",
     "874": "http://shocwave.caticus.com/about.html",
+    "8754": "http://bato.to/group/_/r/random-fujoshis-r6780",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
