@@ -289,6 +289,7 @@ var urlfix_grouplist = {
     "8577": "http://bato.to/group/_/b/bro-scans-r6651",
     "8637": "https://mountainofpigeons.wordpress.com/",
     "8657": "http://www.halcyontranslations.com/",
+    "8677": "https://kujikitranslations.tumblr.com/",
     "8717": "http://bato.to/group/_/t/the-danchiguys-r6755",
     "8737": "http://shadoweder.blogspot.com/",
     "8757": "http://bato.to/group/_/k/kekseki-series-fanclub-r6785",

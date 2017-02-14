@@ -86,7 +86,7 @@ var urlfix_grouplist = {
     "3547": "http://community.livejournal.com/pinkushoten/",
     "3627": "http://tateyakusha.blogspot.com/",
     "3647": "http://mikhailalaude.livejournal.com/",
-    "3667": "http://www.everlasting-memory.de.vu/",
+    "3667": "https://www.facebook.com/EverlastingMemoryScans/",
     "367": "http://dpscanlations.deathsvertigo.com/",
     "3687": "http://pinkosubs.wordpress.com/",
     "3707": "http://community.livejournal.com/insieme_scans/",
@@ -294,6 +294,7 @@ var urlfix_grouplist = {
     "867": "http://www.bleachportal.net/",
     "8727": "http://bato.to/group/_/e/emblem-scans-r6762",
     "8747": "https://shirotl.wordpress.com/",
+    "8767": "http://stalker-scans.blogspot.com/",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"

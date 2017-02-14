@@ -287,6 +287,7 @@ var urlfix_grouplist = {
     "8706": "https://mongolfier.wordpress.com/",
     "8726": "https://friendshipispower.wordpress.com/",
     "8746": "https://tadanohonyakusha.wordpress.com/",
+    "8766": "http://bato.to/group/_/c/croxx-over-r6745",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"

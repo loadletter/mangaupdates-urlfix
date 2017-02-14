@@ -230,7 +230,7 @@ var urlfix_grouplist = {
     "714": "http://shanelone7.coolfreepage.com/",
     "7154": "https://turnafeezy.wordpress.com/",
     "7174": "http://bato.to/group/_/a/jo-r5771",
-    "7194": "http://www.angelicscans.co/",
+    "7194": "http://angelicscans.net/",
     "7234": "http://bato.to/forums/user/95908-itwixie/",
     "7254": "http://timeforfunideas.livejournal.com/",
     "7274": "http://saintseiyafan.com/Forum/index.php",
