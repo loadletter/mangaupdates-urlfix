@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8713": "http://bato.to/group/_/w/waiting-for-spring-scans-r6751",
     "873": "http://kenshinscans.anxious-anime.com/",
     "8753": "http://akibananya.tumblr.com",
+    "8773": "https://manyaktranslations.wordpress.com/",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",

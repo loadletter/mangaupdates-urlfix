@@ -139,7 +139,7 @@ var urlfix_grouplist = {
     "5135": "http://hardcorepleasurefantasy.wordpress.com/",
     "5155": "http://jumpscans.livejournal.com/",
     "5195": "http://nakulas.blogspot.com",
-    "5215": "http://alscans.wordpress.com",
+    "5215": "https://alscans.wordpress.com/",
     "5235": "https://nohscans.wordpress.com/",
     "5255": "https://rkeg.wordpress.com/",
     "5335": "http://kappa-scans.blogspot.com/",
@@ -277,6 +277,7 @@ var urlfix_grouplist = {
     "8715": "https://korunescanlation.blogspot.com/",
     "8735": "http://alienfairyland.tumblr.com/tagged/translation",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
+    "8775": "https://okaken-scans.tumblr.com/",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"

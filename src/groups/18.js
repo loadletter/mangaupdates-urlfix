@@ -290,6 +290,7 @@ var urlfix_grouplist = {
     "8698": "http://seryne299.tumblr.com/",
     "8718": "http://jokergamemanga.tumblr.com",
     "8758": "http://sj4iy.tumblr.com",
+    "8778": "http://bato.to/group/_/a/deity-scans-r6806",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "898": "http://crossbonepirates.blogspot.com/",
     "918": "http://www.bleachbuzz.com/",
