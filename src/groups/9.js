@@ -229,7 +229,7 @@ var urlfix_grouplist = {
     "7189": "http://bato.to/group/_/b/better-than-nothing-scans-r5746",
     "7209": "http://mamebo.tumblr.com/",
     "7229": "http://allysreads.blogspot.com/",
-    "7249": "http://myanimelist.net/clubs.php?cid=69595",
+    "7249": "https://myanimelist.net/clubs.php?cid=69595",
     "7289": "http://demontranslations.com/",
     "729": "http://community.livejournal.com/hxh_doujinshi/",
     "7329": "http://bato.to/group/_/c/caek-co-r5911",

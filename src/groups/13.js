@@ -281,6 +281,7 @@ var urlfix_grouplist = {
     "8493": "https://psychobarcodetranslations.wordpress.com/",
     "8513": "http://bato.to/group/_/other/315pro-r6605",
     "853": "http://mangahelpers.com/forum/index.php?board=50.0",
+    "8533": "http://dessertscans.com/",
     "8553": "https://bearbeartranslations.wordpress.com/",
     "8573": "http://g.e-hentai.org/uploader/MisterJ167",
     "8593": "https://www.facebook.com/black.sakura.official",
