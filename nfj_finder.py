@@ -43,7 +43,7 @@ def novel(n):
 def fujo(n):
 	results = []
 	for website in ['http://%s.tumblr.com', 'http://%s.livejournal.com']:
-		url = website % n
+		url = website % n.lower()
 		try:
 			req = requests.get(url)
 		except requests.exceptions.InvalidURL:
