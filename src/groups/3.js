@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "8703": "http://g.e-hentai.org/uploader/poopyface",
     "8723": "http://corporaljaegerssweetass.tumblr.com",
     "8743": "https://sodtranslations.wordpress.com/",
+    "8783": "http://www.roseredcamellia.wordpress.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

@@ -253,7 +253,7 @@ var urlfix_grouplist = {
     "7614": "http://www.ichigoyuri.com/",
     "7634": "https://wildflowerscans.wordpress.com/",
     "7654": "http://minashirosoushi.tumblr.com/",
-    "7674": "http://english.ravens-scans.com/",
+    "7674": "https://english.ravens-scans.com/",
     "7694": "https://bruintranslation.wordpress.com/",
     "7714": "http://bluestarscans.tumblr.com/",
     "7734": "http://caressedsins.livejournal.com/",

@@ -305,6 +305,7 @@ var urlfix_grouplist = {
     "8725": "http://bato.to/group/_/g/gepz-id-r5543",
     "8745": "http://bato.to/group/_/a/all-for-manga-group-r6629",
     "8765": "http://mafymod.tumblr.com/",
+    "8785": "https://htoons.net/",
     "885": "http://www.puripuri-toys.com/",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",

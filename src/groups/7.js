@@ -295,6 +295,7 @@ var urlfix_grouplist = {
     "8727": "http://bato.to/group/_/e/emblem-scans-r6762",
     "8747": "https://shirotl.wordpress.com/",
     "8767": "http://stalker-scans.blogspot.com/",
+    "8787": "http://bato.to/group/_/i/isionka-scans-r6817",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"

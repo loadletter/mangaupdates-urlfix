@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "8722": "http://www.mangatreat.com/",
     "8742": "https://astroscans.wordpress.com/",
     "8762": "http://bato.to/group/_/s/sojammy-r6788",
+    "8782": "http://injiru-chan.tumblr.com/",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",

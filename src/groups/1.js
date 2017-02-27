@@ -308,6 +308,7 @@ var urlfix_grouplist = {
     "8721": "https://yowapedafanscans.tumblr.com/",
     "8741": "http://ochazuke-translations.tumblr.com",
     "8761": "https://tamago-box.tumblr.com/",
+    "8781": "http://umrscans.weebly.com/",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
