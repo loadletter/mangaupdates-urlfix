@@ -307,6 +307,7 @@ var urlfix_grouplist = {
     "8744": "https://thesomethingstranslations.wordpress.com/",
     "8764": "http://bato.to/group/_/h/hatigarm-scans-r6790",
     "8784": "http://hakoiriemusume.tumblr.com/",
+    "8804": "http://akito666us.tumblr.com",
     "884": "http://www.trozzy.com",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",

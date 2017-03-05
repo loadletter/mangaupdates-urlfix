@@ -284,6 +284,7 @@ var urlfix_grouplist = {
     "8731": "https://selfishtranslations.wordpress.com/",
     "8751": "http://bato.to/group/_/m/midnight-blues-scanlations-r6778",
     "8771": "https://jaynia.tumblr.com/",
+    "8791": "http://akihaharu.tumblr.com/",
     "891": "http://community.livejournal.com/dork_love_scans/profile",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",
     "931": "http://wingtipcafe.com/en/",

@@ -238,7 +238,7 @@ var urlfix_grouplist = {
     "7546": "https://jbkmango.wordpress.com/",
     "7566": "http://codyscans.tumblr.com/",
     "7586": "http://bato.to/group/_/h/hobo-1-r175",
-    "7606": "http://ikebukurotranslations.blogspot.com/",
+    "7606": "http://rakuentranslations.blogspot.com/",
     "7626": "http://bato.to/group/_/other/i-love-girls-scanlations-r6152",
     "7646": "https://ridwantrans.wordpress.com/",
     "7666": "http://bato.to/group/_/c/crashed-tea-party-r6177",
@@ -289,6 +289,7 @@ var urlfix_grouplist = {
     "8746": "https://tadanohonyakusha.wordpress.com/",
     "8766": "http://bato.to/group/_/c/croxx-over-r6745",
     "8786": "http://bato.to/group/_/c/cyan-steam-r6815",
+    "8806": "http://jianxis.tumblr.com",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"

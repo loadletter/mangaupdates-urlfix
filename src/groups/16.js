@@ -296,6 +296,7 @@ var urlfix_grouplist = {
     "8736": "http://ryuketsuscan.blogspot.com/",
     "876": "http://www.crystaltenshi.com/misc/birdy/",
     "8776": "https://someonesscans.tumblr.com/",
+    "8796": "http://dynasty-scans.com/scanlators/geeba",
     "896": "http://heidiscans.wordpress.com/",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
