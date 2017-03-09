@@ -295,6 +295,7 @@ var urlfix_grouplist = {
     "8753": "https://akibananya.wordpress.com/",
     "8773": "https://manyaktranslations.wordpress.com/",
     "8793": "http://zenithnovels.com/",
+    "8813": "https://801uranus.tumblr.com/",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",

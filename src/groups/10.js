@@ -289,6 +289,7 @@ var urlfix_grouplist = {
     "8750": "https://froglation.xyz/",
     "8770": "http://bato.to/group/_/p/pingpongscans-r6758",
     "8790": "https://etherealnovels.wordpress.com/",
+    "8810": "http://isolilili.tumblr.com",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",

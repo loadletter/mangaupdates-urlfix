@@ -308,6 +308,7 @@ var urlfix_grouplist = {
     "8754": "http://bato.to/group/_/r/random-fujoshis-r6780",
     "8774": "https://xcaliburwn.wordpress.com/",
     "8794": "http://bluewindscanlations.blogspot.com/",
+    "8814": "https://rpgnoob.wordpress.com/",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
