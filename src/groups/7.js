@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "8767": "http://stalker-scans.blogspot.com/",
     "8787": "http://bato.to/group/_/i/isionka-scans-r6817",
     "8807": "https://sinnesspiel.dreamwidth.org/",
+    "8827": "http://aayachi.livejournal.com",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"

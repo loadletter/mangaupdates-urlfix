@@ -282,6 +282,7 @@ var urlfix_grouplist = {
     "8788": "http://yuriyaku.gabbor.in/",
     "88": "http://www.mnm-scanlations.com",
     "8808": "http://hikapoi.tumblr.com",
+    "8828": "https://u8scans.tumblr.com/",
     "888": "http://www.samt.prv.pl",
     "908": "http://k-neko.net/",
     "948": "http://www.mlfs.page.tl/",

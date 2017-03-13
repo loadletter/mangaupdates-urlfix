@@ -278,6 +278,7 @@ var urlfix_grouplist = {
     "8735": "http://alienfairyland.tumblr.com/tagged/translation",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "8775": "https://okaken-scans.tumblr.com/",
+    "8795": "https://exiledrebelsscans.tumblr.com/",
     "8815": "https://onibe.moe/",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",

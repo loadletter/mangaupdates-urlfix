@@ -305,6 +305,7 @@ var urlfix_grouplist = {
     "8743": "https://sodtranslations.wordpress.com/",
     "8783": "http://www.roseredcamellia.wordpress.com",
     "8803": "https://oneshotonescan.wordpress.com/",
+    "8823": "http://snow-guardian.livejournal.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
