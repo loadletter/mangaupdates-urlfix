@@ -311,6 +311,7 @@ var urlfix_grouplist = {
     "8781": "http://umrscans.weebly.com/",
     "8801": "https://michiruzuki.wordpress.com/",
     "8821": "http://seesscans.tumblr.com/",
+    "8841": "http://yeska-noka.livejournal.com",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"

@@ -310,6 +310,7 @@ var urlfix_grouplist = {
     "8804": "http://akito666us.tumblr.com",
     "8824": "http://nakanantoka.tumblr.com/",
     "884": "http://www.trozzy.com",
+    "8844": "http://hainemakoru.weebly.com/",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

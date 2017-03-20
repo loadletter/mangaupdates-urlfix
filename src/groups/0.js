@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8780": "http://bato.to/group/_/m/masubita-translations-r6810",
     "880": "http://www.fmahq.com/",
     "8800": "http://bato.to/group/_/j/just-the-tip-r6824",
+    "8840": "http://shatteredtenshi.livejournal.com",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

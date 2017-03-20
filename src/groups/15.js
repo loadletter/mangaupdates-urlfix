@@ -259,7 +259,7 @@ var urlfix_grouplist = {
     "8355": "https://atentranslationswordpresscom.wordpress.com",
     "8375": "http://wishfull2.livejournal.com/",
     "8415": "http://silveryasha.web.id/",
-    "8435": "http://lbscans.blogspot.com/",
+    "8435": "https://lbscans.blogspot.com/",
     "8455": "https://ntrholic.wordpress.com/",
     "8475": "http://estearisa.tumblr.com",
     "8495": "http://yourlipstastelikelies.tumblr.com/",
@@ -280,6 +280,7 @@ var urlfix_grouplist = {
     "8775": "https://okaken-scans.tumblr.com/",
     "8795": "https://exiledrebelsscans.tumblr.com/",
     "8815": "https://onibe.moe/",
+    "8835": "http://bato.to/group/_/j/jack-in-the-box-r6836",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
