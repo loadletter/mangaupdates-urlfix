@@ -103,10 +103,8 @@ def run(start_id, end_id):
 					continue
 			else:
 				urls.extend(novel(name))
-		elif name.lower().replace(' ', '') == name and name[0] != '_':
-			urls.extend(fujo(name))
-		else:
-			print "Nothing special about", g
+		if re.match('^[A-Za-z0-9\- ]+$', name):
+			urls.extend(fujo(name.replace(' ','')))
 		if urls:
 			browserargs = [WWWBROWSER, muurl] + urls
 			subprocess.call(browserargs)
