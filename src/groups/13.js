@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "8793": "http://zenithnovels.com/",
     "8813": "https://801uranus.tumblr.com/",
     "8833": "http://bato.to/group/_/w/whimsubs-r6839",
+    "8853": "https://boyslovetranslations.wordpress.com/",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",

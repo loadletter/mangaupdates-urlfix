@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8806": "http://jianxis.tumblr.com",
     "8826": "http://butterflyblueye.livejournal.com",
     "8846": "http://dynasty-scans.com/scanlators/rmadokamagica",
+    "8866": "http://bato.to/group/_/t/tecozuru-r6872",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"

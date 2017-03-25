@@ -311,6 +311,7 @@ var urlfix_grouplist = {
     "8824": "http://nakanantoka.tumblr.com/",
     "884": "http://www.trozzy.com",
     "8844": "http://hainemakoru.weebly.com/",
+    "8864": "http://bato.to/group/_/v/vanscans-r6869",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

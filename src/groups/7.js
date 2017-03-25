@@ -264,6 +264,7 @@ var urlfix_grouplist = {
     "7987": "http://yannunomahoufansub.blogspot.com/",
     "8007": "https://www.facebook.com/whitecloudpavilion",
     "8027": "http://tateyamaa.tumblr.com/",
+    "8047": "http://absurdtl.com/",
     "8067": "https://rancerqz.com/",
     "807": "http://mankin-trad.net",
     "8087": "https://professionalgamethrower.wordpress.com/",
@@ -298,6 +299,7 @@ var urlfix_grouplist = {
     "8787": "http://bato.to/group/_/i/isionka-scans-r6817",
     "8807": "https://sinnesspiel.dreamwidth.org/",
     "8827": "http://aayachi.livejournal.com",
+    "8867": "http://preusterreich.tumblr.com",
     "887": "http://www.saintseiyafan.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"

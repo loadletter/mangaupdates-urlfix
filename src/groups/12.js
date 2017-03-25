@@ -305,6 +305,7 @@ var urlfix_grouplist = {
     "8792": "https://liberspark.com/",
     "8812": "http://comicsands.livejournal.com",
     "8832": "https://namakemono-help.blogspot.com/",
+    "8852": "http://pixeltranslations.tumblr.com",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "932": "http://www.lostinscanlation.com/",

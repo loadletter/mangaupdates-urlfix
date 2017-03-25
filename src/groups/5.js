@@ -308,6 +308,7 @@ var urlfix_grouplist = {
     "8785": "https://htoons.net/",
     "8825": "http://love-emptiness.livejournal.com",
     "885": "http://www.puripuri-toys.com/",
+    "8865": "http://ichiphile.tumblr.com",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"

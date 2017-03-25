@@ -307,6 +307,7 @@ var urlfix_grouplist = {
     "8802": "http://richea.tumblr.com",
     "8822": "http://bato.to/group/_/d/dondake-r6835",
     "8842": "https://usaginf.wordpress.com/",
+    "8862": "http://kitsune.club/",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",

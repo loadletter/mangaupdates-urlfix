@@ -293,6 +293,7 @@ var urlfix_grouplist = {
     "880": "http://www.fmahq.com/",
     "8800": "http://bato.to/group/_/j/just-the-tip-r6824",
     "8840": "http://shatteredtenshi.livejournal.com",
+    "8860": "http://atruebluewarrior.tumblr.com",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

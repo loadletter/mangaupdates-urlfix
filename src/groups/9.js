@@ -298,6 +298,8 @@ var urlfix_grouplist = {
     "8789": "https://www.facebook.com/localmoonmantranslations/",
     "8809": "https://strawberryscans.tumblr.com/translations",
     "8829": "https://mariachan.tumblr.com/",
+    "8849": "http://bato.to/group/_/d/danmeisugar-r6856",
+    "8869": "http://tsukinoyouna.tumblr.com",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",

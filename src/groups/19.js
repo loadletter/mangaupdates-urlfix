@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "8779": "https://koihanabi-scans.tumblr.com/",
     "879": "http://gurotaku.voiea.net/",
     "8799": "http://luxheroica.tumblr.com",
+    "8859": "http://dynasty-scans.com/scanlators/keir",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",
     "979": "http://www.shijin-tenshi.us.tt/",

@@ -291,6 +291,7 @@ var urlfix_grouplist = {
     "8790": "https://etherealnovels.wordpress.com/",
     "8810": "http://isolilili.tumblr.com",
     "8830": "http://bato.to/group/_/m/murakumo-u13-r6836",
+    "8850": "http://ghostyscanlations.weebly.com/",
     "890": "http://kbcreativedivision.blogspot.com/",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",
