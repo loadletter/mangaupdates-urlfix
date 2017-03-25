@@ -12,11 +12,11 @@ from update import GROUPSJSON, jsonloadf
 INVALID = "You specified an invalid group id."
 WWWBROWSER = "firefox"
 DOSEARCH = True
-QUERYURL = 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8'
+QUERYURLS = ['http://google.com/search?q=%s&ie=utf-8&oe=utf-8', 'http://yandex.com/yandsearch?text=%s']
 AUTONOVEL = True
 
 def parse_name(data):
-	soup = BeautifulSoup(data)
+	soup = BeautifulSoup(data, convertEntities=BeautifulSoup.HTML_ENTITIES)
 	return soup.find('td', {'class' : 'specialtext'}).text
 
 def get_slug(n):
@@ -125,7 +125,8 @@ def run(start_id, end_id):
 					break
 
 		elif DOSEARCH:
-			browserargs = [WWWBROWSER, muurl, QUERYURL % ('"' + urllib.quote(name) + '"')]
+			browserargs = [WWWBROWSER, muurl]
+			browserargs += map(lambda x: x % ('"' + urllib.quote(name) + '"'), QUERYURLS)
 			subprocess.call(browserargs)
 
 if __name__ == "__main__":
