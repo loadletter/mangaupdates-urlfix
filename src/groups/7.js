@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "8827": "http://aayachi.livejournal.com",
     "8867": "http://preusterreich.tumblr.com",
     "887": "http://www.saintseiyafan.com/",
+    "8887": "http://kiranosekai.tumblr.com",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

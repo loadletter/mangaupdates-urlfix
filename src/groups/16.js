@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "8816": "http://bato.to/group/_/p/persona-5-anthology-scanlations-r6814",
     "8836": "https://www.webnovel.com/",
     "8856": "http://wintertranslates.wordpress.com",
+    "8876": "http://bato.to/group/_/h/hagane-productio-r6881",
     "896": "http://heidiscans.wordpress.com/",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"

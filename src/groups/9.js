@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "8829": "https://mariachan.tumblr.com/",
     "8849": "http://bato.to/group/_/d/danmeisugar-r6856",
     "8869": "http://tsukinoyouna.tumblr.com",
+    "8889": "https://de-de.facebook.com/8lackscans/",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "969": "http://sf.nyaatorrents.org/",

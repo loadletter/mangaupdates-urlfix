@@ -286,6 +286,7 @@ var urlfix_grouplist = {
     "8848": "https://mai88eternalscarlet.wordpress.com/",
     "8868": "https://bambooswordscan.wordpress.com/",
     "888": "http://www.samt.prv.pl",
+    "8888": "http://noneemu.wordpress.com",
     "908": "http://k-neko.net/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",

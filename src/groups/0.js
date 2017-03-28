@@ -294,6 +294,7 @@ var urlfix_grouplist = {
     "8800": "http://bato.to/group/_/j/just-the-tip-r6824",
     "8840": "http://shatteredtenshi.livejournal.com",
     "8860": "http://atruebluewarrior.tumblr.com",
+    "8880": "https://elementalcobalt.wordpress.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };
