@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "8836": "https://www.webnovel.com/",
     "8856": "http://wintertranslates.wordpress.com",
     "8876": "http://bato.to/group/_/h/hagane-productio-r6881",
+    "8896": "https://whosyourunnie.wordpress.com/",
     "896": "http://heidiscans.wordpress.com/",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"

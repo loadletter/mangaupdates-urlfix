@@ -283,6 +283,7 @@ var urlfix_grouplist = {
     "8835": "http://bato.to/group/_/j/jack-in-the-box-r6836",
     "8855": "http://tiffybook.com/",
     "8875": "http://bato.to/group/_/s/shosuke-yuu-r6882",
+    "8895": "http://sparkskey.livejournal.com",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"

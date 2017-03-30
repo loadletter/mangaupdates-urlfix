@@ -299,6 +299,7 @@ var urlfix_grouplist = {
     "8833": "http://bato.to/group/_/w/whimsubs-r6839",
     "8853": "https://boyslovetranslations.wordpress.com/",
     "8873": "http://bato.to/group/_/l/lovely-ipad-r6878",
+    "8893": "http://thesolitaryhobbyist.tumblr.com",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",

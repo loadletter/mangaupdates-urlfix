@@ -288,6 +288,7 @@ var urlfix_grouplist = {
     "8811": "https://www.facebook.com/cozy.translations/",
     "8831": "http://lyran1mtranslation.wordpress.com",
     "8851": "https://angelwingscans.wordpress.com/",
+    "8891": "http://negativeinserts.tumblr.com",
     "891": "http://community.livejournal.com/dork_love_scans/profile",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",
     "931": "http://wingtipcafe.com/en/",
