@@ -127,7 +127,7 @@ var urlfix_grouplist = {
     "4384": "http://tikuscanlation.blogspot.com/",
     "44": "http://solaris-manga.org/",
     "4404": "http://chengongandfriends.blogspot.com",
-    "444": "http://www.dreamsavior.net",
+    "444": "https://shiranai.wordpress.com/",
     "4464": "http://skydreamer303.livejournal.com/",
     "4524": "http://u-prodscans.livejournal.com/",
     "4564": "http://tri4.net",

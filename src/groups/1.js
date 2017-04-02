@@ -313,6 +313,7 @@ var urlfix_grouplist = {
     "8821": "http://seesscans.tumblr.com/",
     "8841": "http://yeska-noka.livejournal.com",
     "8861": "https://www.facebook.com/1StKuroStudio",
+    "8901": "http://icecreamcakescans.tumblr.com",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"

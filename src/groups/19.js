@@ -304,6 +304,7 @@ var urlfix_grouplist = {
     "879": "http://gurotaku.voiea.net/",
     "8799": "http://luxheroica.tumblr.com",
     "8859": "http://dynasty-scans.com/scanlators/keir",
+    "8899": "http://thesuniscold.translatednovels.com/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",
     "979": "http://www.shijin-tenshi.us.tt/",

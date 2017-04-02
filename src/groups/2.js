@@ -289,7 +289,7 @@ var urlfix_grouplist = {
     "842": "http://www.fullmetal-alchemist.com/forums/lofiversion/index.php/t9139-0.html",
     "8422": "https://disqus.com/by/monimonika/",
     "8482": "https://moonrabbittr.wordpress.com/",
-    "8502": "https://www.facebook.com/ChaosTeam",
+    "8502": "https://chaosteamtranslations.imgur.com/",
     "8522": "https://www.futanaripalace.com/",
     "8542": "http://elwiki.net/babel/",
     "8562": "http://bato.to/group/_/w/wicked-house-translation-r6610",
