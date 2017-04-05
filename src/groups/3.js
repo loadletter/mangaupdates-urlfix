@@ -309,6 +309,7 @@ var urlfix_grouplist = {
     "8843": "https://shamelessoniisan.wordpress.com/",
     "8863": "http://okubyoukun.xiaoxiaonovels.com",
     "8883": "http://bato.to/group/_/m/mugen-shoujo-r6855",
+    "8903": "http://translationchicken.wordpress.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
