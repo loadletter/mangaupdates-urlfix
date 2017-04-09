@@ -290,6 +290,7 @@ var urlfix_grouplist = {
     "8851": "https://angelwingscans.wordpress.com/",
     "8891": "http://negativeinserts.tumblr.com",
     "891": "http://community.livejournal.com/dork_love_scans/profile",
+    "8911": "https://daike1234.wordpress.com/",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",
     "931": "http://wingtipcafe.com/en/",
     "951": "http://believemanga.com"

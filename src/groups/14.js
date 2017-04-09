@@ -313,6 +313,7 @@ var urlfix_grouplist = {
     "8854": "http://bato.to/group/_/s/shadowrun-project-r6861",
     "8874": "http://decembertulip.tumblr.com",
     "8894": "http://scans.uboachan.net/index.html",
+    "8914": "https://bato.to/group/_/p/piroket-scans-r6894",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
