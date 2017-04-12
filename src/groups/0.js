@@ -295,6 +295,7 @@ var urlfix_grouplist = {
     "8840": "http://shatteredtenshi.livejournal.com",
     "8860": "http://atruebluewarrior.tumblr.com",
     "8880": "https://elementalcobalt.wordpress.com/",
+    "8920": "https://www.facebook.com/ValhallaScanlation",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

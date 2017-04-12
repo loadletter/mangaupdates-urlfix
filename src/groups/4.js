@@ -314,6 +314,7 @@ var urlfix_grouplist = {
     "8864": "http://bato.to/group/_/v/vanscans-r6869",
     "8884": "https://merakiscans.wordpress.com/",
     "8904": "http://lemonadescans.tumblr.com",
+    "8924": "http://mayonara.tumblr.com",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

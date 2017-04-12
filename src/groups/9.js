@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "8889": "https://de-de.facebook.com/8lackscans/",
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
+    "8929": "http://ensemblestars.tumblr.com",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

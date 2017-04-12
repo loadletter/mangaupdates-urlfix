@@ -298,6 +298,7 @@ var urlfix_grouplist = {
     "8817": "http://www.xiaoxiaonovels.com/",
     "8837": "https://confusedtls.wordpress.com/",
     "8857": "http://snowycodex.com/",
+    "8877": "https://ansemblestars.tumblr.com/",
     "8897": "http://untouchablefly.com",
     "8917": "http://rainbownie.tumblr.com",
     "897": "http://zntnovels.elwiki.com/Main_Page",

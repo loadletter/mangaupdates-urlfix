@@ -296,6 +296,7 @@ var urlfix_grouplist = {
     "8890": "http://biolumitranslations.tumblr.com",
     "890": "http://kbcreativedivision.blogspot.com/",
     "8910": "http://translaboratory.wordpress.com",
+    "8930": "http://anonymousmanhua.tumblr.com",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",
     "930": "http://sailorspazz.livejournal.com/",

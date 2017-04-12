@@ -310,6 +310,7 @@ var urlfix_grouplist = {
     "8862": "http://kitsune.club/",
     "8882": "http://mahoikutranslationproject.tumblr.com/",
     "8902": "http://bato.to/group/_/g/gentle-temp-r6899",
+    "8922": "https://dynasty-scans.com/scanlators/h_demons_scans",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",

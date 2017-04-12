@@ -187,7 +187,7 @@ var urlfix_grouplist = {
     "6156": "http://renaiscans.tumblr.com/",
     "616": "http://liquideros.com/",
     "6176": "http://pelucherria.tumblr.com/",
-    "6196": "http://famatg.com/",
+    "6196": "http://fascans.com",
     "6216": "http://blog.draggle.org/",
     "6236": "http://blackswanscans.tumblr.com/",
     "6256": "http://divine-squids.livejournal.com/",

@@ -285,6 +285,7 @@ var urlfix_grouplist = {
     "8875": "http://bato.to/group/_/s/shosuke-yuu-r6882",
     "8895": "http://sparkskey.livejournal.com",
     "8915": "http://bato.to/group/_/j/jumboogre-scans-r6901",
+    "8935": "http://gwennie-chan.tumblr.com",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
