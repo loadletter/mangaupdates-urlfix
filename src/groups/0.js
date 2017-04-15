@@ -211,7 +211,7 @@ var urlfix_grouplist = {
     "6860": "https://otomerevo.wordpress.com/",
     "6880": "http://ongeee.tumblr.com/",
     "6900": "http://yukkuri-literature-service.blogspot.com/",
-    "6920": "http://yomanga.co",
+    "6920": "https://yomanga.co",
     "6940": "https://cdgscans.wordpress.com/",
     "6960": "http://snh-fan.tumblr.com/",
     "700": "http://www.compman44.com/",
@@ -296,6 +296,7 @@ var urlfix_grouplist = {
     "8860": "http://atruebluewarrior.tumblr.com",
     "8880": "https://elementalcobalt.wordpress.com/",
     "8920": "https://www.facebook.com/ValhallaScanlation",
+    "8940": "http://qvfamma.tumblr.com",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "8877": "https://ansemblestars.tumblr.com/",
     "8897": "http://untouchablefly.com",
     "8917": "http://rainbownie.tumblr.com",
+    "8937": "http://bato.to/group/_/t/totemo-sugoi-scans-r6917",
     "897": "http://zntnovels.elwiki.com/Main_Page",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
     "957": "http://musashi.nyaatorrents.org/",

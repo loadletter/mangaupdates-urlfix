@@ -138,7 +138,7 @@ var urlfix_grouplist = {
     "4789": "http://kaleidoscopicscans.wordpress.com/",
     "4829": "https://allthefallen.ninja/",
     "4849": "http://auwx.livejournal.com/",
-    "4869": "http://tigoris-translates.blogspot.com/",
+    "4869": "http://www.tigoristranslates.com/",
     "489": "http://entropy-manga.blogspot.com/",
     "4949": "http://mlscans.wordpress.com/",
     "4989": "http://snowshill.livejournal.com/",
