@@ -260,7 +260,7 @@ var urlfix_grouplist = {
     "8191": "http://kondeesite.wordpress.com",
     "8211": "https://gilatranslationmonster.wordpress.com/",
     "8231": "http://manda_des.livejournal.com",
-    "8251": "http://ramenqueens.tumblr.com/",
+    "8251": "https://rqscansofficial.tumblr.com/",
     "8271": "http://checkerof-time.livejournal.com",
     "8291": "http://gasp-hallelujah.livejournal.com",
     "8311": "http://bato.to/group/_/n/nameless-scans-r6529",

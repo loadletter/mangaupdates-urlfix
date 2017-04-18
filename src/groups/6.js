@@ -296,6 +296,7 @@ var urlfix_grouplist = {
     "8886": "http://presumenothing.tumblr.com/tagged/00-bonds",
     "8906": "https://supernyankomofu.wordpress.com/",
     "8926": "http://whitechoko.tumblr.com",
+    "8946": "http://uouscans.tumblr.com",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"

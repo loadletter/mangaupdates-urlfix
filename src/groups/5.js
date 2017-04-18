@@ -310,6 +310,7 @@ var urlfix_grouplist = {
     "885": "http://www.puripuri-toys.com/",
     "8865": "http://ichiphile.tumblr.com",
     "8885": "http://eyms13.tumblr.com",
+    "8945": "https://swe3tmoans-blscans.tumblr.com/",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"
