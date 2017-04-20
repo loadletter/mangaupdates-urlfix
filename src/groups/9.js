@@ -304,6 +304,7 @@ var urlfix_grouplist = {
     "889": "http://www.wakachiauchikara.info.ms/",
     "89": "http://cmscans.tripod.com",
     "8929": "http://ensemblestars.tumblr.com",
+    "8949": "http://tfoscans.tumblr.com",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

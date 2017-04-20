@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "887": "http://www.saintseiyafan.com/",
     "8887": "http://kiranosekai.tumblr.com",
     "8927": "http://ruyuha.tumblr.com",
+    "8947": "http://zeria-scans.tumblr.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };
