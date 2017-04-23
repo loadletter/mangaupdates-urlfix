@@ -294,6 +294,7 @@ var urlfix_grouplist = {
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
     "8858": "http://spiritfingers8.weebly.com/",
     "8878": "https://trollnationreloaded.wordpress.com/",
+    "8958": "http://hikarizone.tumblr.com",
     "898": "http://crossbonepirates.blogspot.com/",
     "918": "http://www.bleachbuzz.com/",
     "938": "http://forum.purekanjou.com",

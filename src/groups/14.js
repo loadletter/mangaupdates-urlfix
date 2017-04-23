@@ -314,6 +314,7 @@ var urlfix_grouplist = {
     "8874": "http://decembertulip.tumblr.com",
     "8894": "http://scans.uboachan.net/index.html",
     "8914": "https://bato.to/group/_/p/piroket-scans-r6894",
+    "8954": "http://bato.to/group/_/l/lorescans-r6964",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",

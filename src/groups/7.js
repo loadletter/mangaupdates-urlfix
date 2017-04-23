@@ -1,7 +1,7 @@
 var urlfix_grouplist_shard = 7;
 var urlfix_grouplist = {
     "1027": "http://cinderella-story.110mb.com/index.html",
-    "107": "http://nakamanga.com/",
+    "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",

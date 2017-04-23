@@ -309,6 +309,7 @@ var urlfix_grouplist = {
     "8872": "https://babyhousetranslations.blogspot.com/",
     "8912": "http://megamiea.blogspot.com/",
     "8932": "http://lilith-art.de.tl/Light-Novel.htm",
+    "8952": "http://nan-chatte.tumblr.com",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "932": "http://www.lostinscanlation.com/",
