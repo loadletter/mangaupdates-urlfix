@@ -302,6 +302,7 @@ var urlfix_grouplist = {
     "8893": "http://thesolitaryhobbyist.tumblr.com",
     "8913": "http://kimilers.tumblr.com",
     "8953": "http://yoeko.tumblr.com",
+    "8973": "http://fantasy-books.live",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",

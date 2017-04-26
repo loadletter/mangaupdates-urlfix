@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "8880": "https://elementalcobalt.wordpress.com/",
     "8920": "https://www.facebook.com/ValhallaScanlation",
     "8940": "http://qvfamma.tumblr.com",
+    "8960": "https://silverheliosscans.wordpress.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

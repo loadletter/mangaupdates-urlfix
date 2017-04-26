@@ -295,6 +295,7 @@ var urlfix_grouplist = {
     "8858": "http://spiritfingers8.weebly.com/",
     "8878": "https://trollnationreloaded.wordpress.com/",
     "8958": "http://hikarizone.tumblr.com",
+    "8978": "http://bato.to/group/_/d/dysania-scanlations-r6975",
     "898": "http://crossbonepirates.blogspot.com/",
     "918": "http://www.bleachbuzz.com/",
     "938": "http://forum.purekanjou.com",

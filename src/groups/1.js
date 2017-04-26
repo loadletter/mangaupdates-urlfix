@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "8901": "http://icecreamcakescans.tumblr.com",
     "8921": "http://mysticscanlations.tumblr.com",
     "8941": "http://tokyo7thsubs.tumblr.com",
+    "8961": "https://rinveltsou.wordpress.com/",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
