@@ -312,6 +312,7 @@ var urlfix_grouplist = {
     "8885": "http://eyms13.tumblr.com",
     "8945": "https://swe3tmoans-blscans.tumblr.com/",
     "8965": "https://qwertyscans.wordpress.com/",
+    "8985": "http://heavens-feel.com/translations.html",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"

@@ -313,6 +313,7 @@ var urlfix_grouplist = {
     "8922": "https://dynasty-scans.com/scanlators/h_demons_scans",
     "8942": "https://jimusho-scans.tumblr.com/",
     "8962": "http://cloudytranslations.net/",
+    "8982": "http://bato.to/group/_/c/crayon-box-r6983",
     "902": "http://www.hentai-enishi.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",

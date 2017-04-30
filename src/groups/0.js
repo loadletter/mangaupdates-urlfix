@@ -298,6 +298,7 @@ var urlfix_grouplist = {
     "8920": "https://www.facebook.com/ValhallaScanlation",
     "8940": "http://qvfamma.tumblr.com",
     "8960": "https://silverheliosscans.wordpress.com/",
+    "8980": "http://bato.to/group/_/c/careless-su-jing-r6977",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "8906": "https://supernyankomofu.wordpress.com/",
     "8926": "http://whitechoko.tumblr.com",
     "8946": "http://uouscans.tumblr.com",
+    "8986": "https://e-hentai.org/uploader/CrowKarasu",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"

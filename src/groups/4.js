@@ -295,7 +295,7 @@ var urlfix_grouplist = {
     "8484": "http://little-tomcat.tumblr.com/",
     "8504": "https://just-felt-like-doing-it.tumblr.com/",
     "8524": "https://shoujoshounenscans.wordpress.com/",
-    "8564": "http://bato.to/group/_/c/champion-scans-r6632",
+    "8564": "http://championscans.weebly.com/",
     "8584": "http://twitchdemon.livejournal.com",
     "8604": "http://g.e-hentai.org/uploader/amoskandy",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "8924": "http://mayonara.tumblr.com",
     "8944": "http://kamimatsutranslations.tumblr.com",
     "8964": "http://codereiss.tumblr.com",
+    "8984": "http://www.glitterberri.com/",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

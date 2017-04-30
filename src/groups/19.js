@@ -306,6 +306,7 @@ var urlfix_grouplist = {
     "8859": "http://dynasty-scans.com/scanlators/keir",
     "8899": "http://thesuniscold.translatednovels.com/",
     "8959": "https://anmitsudojo.wordpress.com/",
+    "8979": "https://tanukisoul.wordpress.com/",
     "899": "http://www.projectilm.net/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",
     "979": "http://www.shijin-tenshi.us.tt/",
