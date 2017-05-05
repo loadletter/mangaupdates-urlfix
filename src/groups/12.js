@@ -311,6 +311,7 @@ var urlfix_grouplist = {
     "8932": "http://lilith-art.de.tl/Light-Novel.htm",
     "8952": "http://nan-chatte.tumblr.com",
     "8972": "https://failtranslations.wordpress.com/",
+    "8992": "http://pnaut.tumblr.com",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "932": "http://www.lostinscanlation.com/",

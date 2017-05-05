@@ -304,6 +304,7 @@ var urlfix_grouplist = {
     "8937": "http://bato.to/group/_/t/totemo-sugoi-scans-r6917",
     "897": "http://zntnovels.elwiki.com/Main_Page",
     "8977": "http://bato.to/group/_/e/every-little-thing-r4185",
+    "8997": "http://bato.to/group/_/other/japayuki-scans-r6901",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"

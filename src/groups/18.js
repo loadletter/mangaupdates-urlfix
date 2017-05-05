@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "8958": "http://hikarizone.tumblr.com",
     "8978": "http://bato.to/group/_/d/dysania-scanlations-r6975",
     "898": "http://crossbonepirates.blogspot.com/",
+    "8998": "http://bato.to/group/_/t/they-are-a-couple-r6958",
     "918": "http://www.bleachbuzz.com/",
     "938": "http://forum.purekanjou.com",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",

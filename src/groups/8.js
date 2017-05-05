@@ -291,6 +291,7 @@ var urlfix_grouplist = {
     "8928": "http://poolandpedalscans.tumblr.com",
     "8948": "https://ayame0a.wordpress.com/",
     "8968": "http://dxhaseoxdt.blogspot.com/",
+    "8988": "https://scatterdrift.com/",
     "908": "http://k-neko.net/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",

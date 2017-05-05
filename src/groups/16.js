@@ -306,6 +306,7 @@ var urlfix_grouplist = {
     "8956": "http://entwinedtrees.tumblr.com/",
     "896": "http://heidiscans.wordpress.com/",
     "8976": "https://e-hentai.org/uploader/Mequemo",
+    "8996": "http://bato.to/group/_/s/straykings-r6999",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

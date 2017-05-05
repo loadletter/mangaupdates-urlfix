@@ -299,6 +299,7 @@ var urlfix_grouplist = {
     "8930": "http://anonymousmanhua.tumblr.com",
     "8950": "https://truend.wordpress.com/",
     "8970": "https://idletranslations.wordpress.com/",
+    "8990": "http://bato.to/group/_/a/animemf-fansub-r6055",
     "90": "http://bato.to/group/_/c/choco-r2221",
     "910": "http://www.sweetcream.org/",
     "930": "http://sailorspazz.livejournal.com/",

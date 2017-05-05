@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "8914": "https://bato.to/group/_/p/piroket-scans-r6894",
     "8954": "http://bato.to/group/_/l/lorescans-r6964",
     "8974": "https://chireiji.wordpress.com/",
+    "8994": "http://www.ygscans.com/",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
