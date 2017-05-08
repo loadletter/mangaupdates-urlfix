@@ -269,7 +269,7 @@ var urlfix_grouplist = {
     "8555": "http://tuulensisko.livejournal.com",
     "8575": "http://limerent-void.tk/",
     "8595": "https://14-loeuf.tumblr.com/stuff",
-    "8615": "http://bato.to/forums/user/384039-motokare/",
+    "8615": "http://motokare.weebly.com/",
     "8635": "http://zerotranslations.blogspot.com/",
     "8655": "http://dynasty-scans.com/scanlators/wooberjig",
     "8675": "http://bloodmoontranslations.tumblr.com/",

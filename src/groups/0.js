@@ -299,6 +299,7 @@ var urlfix_grouplist = {
     "8940": "http://qvfamma.tumblr.com",
     "8960": "https://silverheliosscans.wordpress.com/",
     "8980": "http://bato.to/group/_/c/careless-su-jing-r6977",
+    "9000": "http://paperhatteam.tumblr.com",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

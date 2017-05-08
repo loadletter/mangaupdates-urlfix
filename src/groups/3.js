@@ -313,6 +313,7 @@ var urlfix_grouplist = {
     "8923": "http://ikarinobudo.tumblr.com",
     "8963": "https://sheeptranslator.wordpress.com/",
     "8983": "http://maskedscans.tumblr.com",
+    "9003": "http://ktranslate.tumblr.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
