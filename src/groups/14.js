@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "8954": "http://lorescans.blogspot.com/",
     "8974": "https://chireiji.wordpress.com/",
     "8994": "http://www.ygscans.com/",
+    "9014": "http://quicksandscans.tumblr.com",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",

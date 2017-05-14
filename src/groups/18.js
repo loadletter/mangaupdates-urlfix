@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8758": "http://sj4iy.tumblr.com",
     "8778": "http://bato.to/group/_/a/deity-scans-r6806",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
+    "8838": "http://runninginthenineti.es/",
     "8858": "http://spiritfingers8.weebly.com/",
     "8878": "https://trollnationreloaded.wordpress.com/",
     "8958": "http://hikarizone.tumblr.com",

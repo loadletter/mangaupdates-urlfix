@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8948": "https://ayame0a.wordpress.com/",
     "8968": "http://dxhaseoxdt.blogspot.com/",
     "8988": "https://scatterdrift.com/",
+    "9008": "http://moonbunnycafe.com/element/",
     "908": "http://k-neko.net/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",

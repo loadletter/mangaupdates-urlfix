@@ -307,6 +307,7 @@ var urlfix_grouplist = {
     "8832": "https://namakemono-help.blogspot.com/",
     "8852": "http://pixeltranslations.tumblr.com",
     "8872": "https://babyhousetranslations.blogspot.com/",
+    "8892": "https://yaoism801.wordpress.com/our-line-of-works/",
     "8912": "http://megamiea.blogspot.com/",
     "8932": "http://lilith-art.de.tl/Light-Novel.htm",
     "8952": "http://nan-chatte.tumblr.com",

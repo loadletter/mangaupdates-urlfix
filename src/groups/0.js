@@ -285,6 +285,7 @@ var urlfix_grouplist = {
     "8600": "http://incarosejealousy.blogspot.com/",
     "8620": "http://shadoukun.tumblr.com",
     "8640": "http://fenrir-v.tumblr.com",
+    "8660": "https://supermintydelight.wordpress.com/",
     "8680": "http://bato.to/group/_/s/spaminsubs-palaios-r4894",
     "8700": "http://bato.to/group/_/d/deadly-scanlations-r6705",
     "8720": "http://wakuseisenpai.tumblr.com",
