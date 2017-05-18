@@ -309,6 +309,7 @@ var urlfix_grouplist = {
     "8979": "https://tanukisoul.wordpress.com/",
     "899": "http://www.projectilm.net/",
     "8999": "http://saltypotatoestrans.tumblr.com",
+    "9019": "https://dusttorust.wordpress.com/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
