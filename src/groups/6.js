@@ -126,7 +126,7 @@ var urlfix_grouplist = {
     "4766": "http://farhadfriends.wordpress.com/",
     "4786": "http://boonscanlations.blogspot.com/",
     "4806": "http://cocobees.tumblr.com/",
-    "4826": "http://monstermusume.blisswater.info/",
+    "4826": "http://monmusu.prettyanonymo.us/",
     "4846": "http://www.seguisa.com/",
     "486": "http://www.tatsu-ryu.com/ET/",
     "4866": "http://www.akashiscans.com",
@@ -299,6 +299,7 @@ var urlfix_grouplist = {
     "8946": "http://uouscans.tumblr.com",
     "8986": "https://e-hentai.org/uploader/CrowKarasu",
     "9006": "https://e-hentai.org/uploader/heavenchai",
+    "9026": "https://dynasty-scans.com/scanlators/akane",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"

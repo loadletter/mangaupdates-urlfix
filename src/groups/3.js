@@ -314,6 +314,7 @@ var urlfix_grouplist = {
     "8963": "https://sheeptranslator.wordpress.com/",
     "8983": "http://maskedscans.tumblr.com",
     "9003": "http://ktranslate.tumblr.com",
+    "9023": "http://leighsyd.tumblr.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

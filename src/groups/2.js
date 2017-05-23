@@ -315,6 +315,7 @@ var urlfix_grouplist = {
     "8962": "http://cloudytranslations.net/",
     "8982": "http://bato.to/group/_/c/crayon-box-r6983",
     "902": "http://www.hentai-enishi.com/",
+    "9022": "http://indoukaoru.tumblr.com",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"

@@ -314,6 +314,7 @@ var urlfix_grouplist = {
     "8965": "https://qwertyscans.wordpress.com/",
     "8985": "http://heavens-feel.com/translations.html",
     "9005": "http://bato.to/group/_/d/thed%C3%BAnedain-r7005",
+    "9025": "http://bato.to/group/_/l/la-nuit-r7021",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"

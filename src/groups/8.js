@@ -293,6 +293,7 @@ var urlfix_grouplist = {
     "8968": "http://dxhaseoxdt.blogspot.com/",
     "8988": "https://scatterdrift.com/",
     "9008": "http://moonbunnycafe.com/element/",
+    "9028": "http://bato.to/group/_/w/wasted-effort-scans-r7025",
     "908": "http://k-neko.net/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",

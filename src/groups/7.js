@@ -305,6 +305,7 @@ var urlfix_grouplist = {
     "8927": "http://ruyuha.tumblr.com",
     "8947": "http://zeria-scans.tumblr.com/",
     "9007": "https://bato.to/group/_/r/redphoenixscan-r7003",
+    "9027": "http://bato.to/group/_/o/orange-translator-r7024",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

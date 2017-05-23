@@ -318,6 +318,7 @@ var urlfix_grouplist = {
     "8944": "http://kamimatsutranslations.tumblr.com",
     "8964": "http://codereiss.tumblr.com",
     "8984": "http://www.glitterberri.com/",
+    "9024": "http://www.koneko-scantrad.fr/",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "8970": "https://idletranslations.wordpress.com/",
     "8990": "http://bato.to/group/_/a/animemf-fansub-r6055",
     "90": "http://bato.to/group/_/c/choco-r2221",
+    "9030": "http://www.h-konbini.net/",
     "910": "http://www.sweetcream.org/",
     "930": "http://sailorspazz.livejournal.com/",
     "950": "http://kast.freehostia.com"
