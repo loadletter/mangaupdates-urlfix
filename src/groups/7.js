@@ -262,7 +262,7 @@ var urlfix_grouplist = {
     "7927": "http://cool-ice-tl.tumblr.com/tagged/releases",
     "7967": "https://mossscans.wordpress.com/",
     "7987": "http://yannunomahoufansub.blogspot.com/",
-    "8007": "https://www.facebook.com/whitecloudpavilion",
+    "8007": "http://www.whitecloudpavilion.com/",
     "8027": "http://tateyamaa.tumblr.com/",
     "8047": "http://absurdtl.com/",
     "8067": "https://rancerqz.com/",

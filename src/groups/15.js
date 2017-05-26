@@ -290,6 +290,7 @@ var urlfix_grouplist = {
     "8975": "http://forum.wuxiaworld.com/categories/translations",
     "8995": "http://saigotranslation.com/",
     "9015": "http://bato.to/group/_/e/eminay-r6991",
+    "9035": "https://gns-scans.tumblr.com/",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
