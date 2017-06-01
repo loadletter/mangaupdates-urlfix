@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "8986": "https://e-hentai.org/uploader/CrowKarasu",
     "9006": "https://e-hentai.org/uploader/heavenchai",
     "9026": "https://dynasty-scans.com/scanlators/akane",
+    "9046": "https://dynasty-scans.com/scanlators/sylph_scanlation",
     "906": "http://rapidshare.de/users/L65LXO",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"

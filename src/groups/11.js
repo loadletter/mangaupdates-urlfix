@@ -295,6 +295,7 @@ var urlfix_grouplist = {
     "8971": "http://novel44.blogspot.com/",
     "8991": "http://www.novellatranslation.com/",
     "9011": "https://www.facebook.com/IRenforall/",
+    "9051": "http://bato.to/group/_/c/caldwell-translations-r7044",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",
     "931": "http://wingtipcafe.com/en/",
     "951": "http://believemanga.com"

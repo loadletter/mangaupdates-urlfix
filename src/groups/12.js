@@ -314,6 +314,7 @@ var urlfix_grouplist = {
     "8972": "https://failtranslations.wordpress.com/",
     "8992": "http://pnaut.tumblr.com",
     "9032": "http://bato.to/group/_/k/kami-no-dragon-scan-r6442",
+    "9052": "http://aurarealm.com",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "932": "http://www.lostinscanlation.com/",
