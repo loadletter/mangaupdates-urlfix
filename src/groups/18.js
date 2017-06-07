@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "8998": "http://bato.to/group/_/t/they-are-a-couple-r6958",
     "9018": "http://bato.to/group/_/d/deadlocke-r7007",
     "9038": "https://bato.to/group/_/s/squidscans-r7020",
+    "9058": "https://kimamanitranslate.tumblr.com/",
     "918": "http://www.bleachbuzz.com/",
     "938": "http://forum.purekanjou.com",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",

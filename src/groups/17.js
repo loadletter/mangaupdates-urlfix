@@ -54,7 +54,7 @@ var urlfix_grouplist = {
     "2697": "http://mangahelpers.com/s/rbc",
     "2717": "http://spiritrans.wordpress.com/",
     "2737": "http://avishi.livejournal.com/",
-    "2757": "http://imangascans.org/",
+    "2757": "https://imangascans.org/",
     "277": "http://dualtranslations.org/",
     "2777": "http://mangahelpers.com/s/blueintheface",
     "2797": "http://charmingscans.webs.com/",
@@ -307,6 +307,7 @@ var urlfix_grouplist = {
     "8997": "http://bato.to/group/_/other/japayuki-scans-r6901",
     "9017": "http://gaysatanscans.tumblr.com",
     "9037": "http://bato.to/group/_/m/murakumo-scans-r6973",
+    "9057": "http://19days-translation.tumblr.com",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"

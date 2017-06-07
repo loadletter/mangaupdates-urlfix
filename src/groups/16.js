@@ -309,6 +309,7 @@ var urlfix_grouplist = {
     "8996": "http://bato.to/group/_/s/straykings-r6999",
     "9016": "https://gallacticrollingdynamitepancake.wordpress.com/",
     "9036": "http://bato.to/group/_/s/scored-manga-r7031",
+    "9056": "https://whimsicalmeatloaf.wordpress.com/",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

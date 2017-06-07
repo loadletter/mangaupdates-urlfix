@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "902": "http://www.hentai-enishi.com/",
     "9022": "http://indoukaoru.tumblr.com",
     "9042": "https://heroicscans.wordpress.com/",
+    "9062": "http://bato.to/group/_/t/trainee-translations-r7057",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"

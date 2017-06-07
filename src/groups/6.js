@@ -281,7 +281,7 @@ var urlfix_grouplist = {
     "8566": "http://bato.to/group/_/a/all-buttered-up-scans-r2159",
     "8586": "http://kazenblown.livejournal.com",
     "86": "http://www.omanga.net/",
-    "8646": "https://atelierdunoir.wordpress.com/",
+    "8646": "http://atelierdunoir.aphelion.ga/",
     "8666": "https://omegaverseaddicted.tumblr.com/",
     "8686": "http://mizaya.tumblr.com/",
     "8706": "https://mongolfier.wordpress.com/",
@@ -300,8 +300,9 @@ var urlfix_grouplist = {
     "8986": "https://e-hentai.org/uploader/CrowKarasu",
     "9006": "https://e-hentai.org/uploader/heavenchai",
     "9026": "https://dynasty-scans.com/scanlators/akane",
-    "9046": "https://dynasty-scans.com/scanlators/sylph_scanlation",
+    "9046": "http://sylphscanlation.imgur.com/",
     "906": "http://rapidshare.de/users/L65LXO",
+    "9066": "https://dynasty-scans.com/scanlators/maple_leaf_scans",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

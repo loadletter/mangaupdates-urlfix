@@ -319,6 +319,7 @@ var urlfix_grouplist = {
     "8994": "http://www.ygscans.com/",
     "9014": "http://quicksandscans.tumblr.com",
     "9034": "http://bato.to/group/_/c/cosmic-enzyme-scans-r7026",
+    "9054": "http://wanderboyscans.tumblr.com",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
