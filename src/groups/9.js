@@ -308,6 +308,7 @@ var urlfix_grouplist = {
     "8969": "http://bitgray.wordpress.com",
     "8989": "http://theshinsakura.tumblr.com",
     "9049": "https://vanigrave.tumblr.com/",
+    "9069": "http://bato.to/group/_/a/anima-mundi-scans-r7063",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };
