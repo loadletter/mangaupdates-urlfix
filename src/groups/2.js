@@ -318,6 +318,7 @@ var urlfix_grouplist = {
     "9022": "http://indoukaoru.tumblr.com",
     "9042": "https://heroicscans.wordpress.com/",
     "9062": "http://bato.to/group/_/t/trainee-translations-r7057",
+    "9082": "https://choukakou-translations.tumblr.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"

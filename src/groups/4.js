@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "8984": "http://www.glitterberri.com/",
     "9024": "http://www.koneko-scantrad.fr/",
     "9044": "http://bato.to/group/_/d/detective-conan-remake-r7033",
+    "9084": "https://webcomicsandscans.wordpress.com/",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

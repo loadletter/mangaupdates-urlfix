@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "9025": "http://bato.to/group/_/l/la-nuit-r7021",
     "9045": "http://cuteisanarchy.tumblr.com",
     "9065": "http://acupofoppa.tumblr.com",
+    "9085": "https://e-hentai.org/uploader/Shend",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"

@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "9000": "http://paperhatteam.tumblr.com",
     "9020": "https://demonictofu.wordpress.com/",
     "9060": "http://sunkissedscans.tumblr.com",
+    "9080": "http://ichaichascans.tumblr.com",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

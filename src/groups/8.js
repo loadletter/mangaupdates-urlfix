@@ -163,7 +163,7 @@ var urlfix_grouplist = {
     "588": "http://promfret87.blogspot.com/",
     "5888": "http://damn-feels.com/",
     "5908": "http://colorfruit.livejournal.com/",
-    "5928": "http://www.tsundere.services/",
+    "5928": "https://tsundere.services/",
     "5948": "http://renna-translations.tumblr.com/",
     "5968": "http://tapastic.com/itsuryuusumi",
     "5988": "http://almond-cream.tumblr.com",

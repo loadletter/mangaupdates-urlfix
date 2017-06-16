@@ -308,6 +308,7 @@ var urlfix_grouplist = {
     "9017": "http://gaysatanscans.tumblr.com",
     "9037": "http://bato.to/group/_/m/murakumo-scans-r6973",
     "9057": "http://19days-translation.tumblr.com",
+    "9077": "https://kurisumx.wordpress.com/",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"
