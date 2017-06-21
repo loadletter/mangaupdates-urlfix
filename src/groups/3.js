@@ -160,7 +160,7 @@ var urlfix_grouplist = {
     "5163": "http://analogscans.tumblr.com/",
     "5223": "http://s2smanga.com/",
     "523": "http://www.freewebs.com/ramsus-kun/",
-    "5263": "http://mankitsuscans.wordpress.com/",
+    "5263": "https://mankitsuscans.wordpress.com/",
     "5283": "http://zqscans2013.wordpress.com/",
     "5303": "http://www.grownupsinspandex.com/",
     "5323": "http://randomscans.blogspot.com/",

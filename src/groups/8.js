@@ -295,6 +295,7 @@ var urlfix_grouplist = {
     "9008": "http://moonbunnycafe.com/element/",
     "9028": "http://bato.to/group/_/w/wasted-effort-scans-r7025",
     "908": "http://k-neko.net/",
+    "9088": "http://bato.to/group/_/a/dragons-heavens-project-r7084",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"

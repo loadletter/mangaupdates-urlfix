@@ -321,6 +321,7 @@ var urlfix_grouplist = {
     "9034": "http://bato.to/group/_/c/cosmic-enzyme-scans-r7026",
     "9054": "http://wanderboyscans.tumblr.com",
     "9074": "https://aquariumtourmaline.tumblr.com/",
+    "9094": "http://bato.to/group/_/a/komi-scan-wa-komyushou-desu-r7093",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
