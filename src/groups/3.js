@@ -176,7 +176,7 @@ var urlfix_grouplist = {
     "563": "http://shi-ran.cjb.net/",
     "5663": "http://karnoodle.tumblr.com",
     "5683": "http://www.flatopia.org/",
-    "5723": "http://rapemanscans.wordpress.com/",
+    "5723": "https://rapemanscans.wordpress.com/",
     "5743": "http://goezvxwfjygekqbapg-isjphyi-bg8daa.blogspot.com/",
     "5763": "http://slightlysarcastic.weebly.com",
     "5783": "http://hellstonenofansub.blogspot.com/",

@@ -314,11 +314,13 @@ var urlfix_grouplist = {
     "8942": "https://jimusho-scans.tumblr.com/",
     "8962": "http://cloudytranslations.net/",
     "8982": "http://bato.to/group/_/c/crayon-box-r6983",
+    "9002": "https://www.erascans.net/",
     "902": "http://www.hentai-enishi.com/",
     "9022": "http://indoukaoru.tumblr.com",
     "9042": "https://heroicscans.wordpress.com/",
     "9062": "http://bato.to/group/_/t/trainee-translations-r7057",
     "9082": "https://choukakou-translations.tumblr.com/",
+    "9102": "https://ninjinningen.wordpress.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"

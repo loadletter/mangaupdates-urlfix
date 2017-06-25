@@ -293,6 +293,7 @@ var urlfix_grouplist = {
     "9035": "https://gns-scans.tumblr.com/",
     "9055": "http://bato.to/group/_/other/7456398521-r7050",
     "9075": "http://hunniebbe.tumblr.com",
+    "9095": "http://maknaescans.weebly.com/",
     "915": "http://www.onepiecebuzz.com",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"

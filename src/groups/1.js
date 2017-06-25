@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "8981": "https://hateuloveu-scans.tumblr.com/",
     "9001": "http://darkcyradis.tumblr.com",
     "9061": "http://justforreplying.tumblr.com",
+    "9101": "https://xtostos.wordpress.com/",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
