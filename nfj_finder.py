@@ -126,7 +126,7 @@ def run(start_id, end_id):
 
 		elif DOSEARCH:
 			browserargs = [WWWBROWSER, muurl]
-			browserargs += map(lambda x: x % ('"' + urllib.quote(name) + '"'), QUERYURLS)
+			browserargs += map(lambda x: x % ('"' + urllib.quote(name.encode('utf-8')) + '"'), QUERYURLS)
 			subprocess.call(browserargs)
 
 if __name__ == "__main__":

@@ -304,6 +304,7 @@ var urlfix_grouplist = {
     "9030": "http://www.h-konbini.net/",
     "9050": "https://lullingreverie.wordpress.com/",
     "910": "http://www.sweetcream.org/",
+    "9110": "http://tresbienscanlations.tumblr.com/",
     "930": "http://sailorspazz.livejournal.com/",
     "950": "http://kast.freehostia.com"
 };

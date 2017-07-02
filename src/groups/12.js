@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "9052": "http://aurarealm.com",
     "9072": "http://bato.to/group/_/c/cedditt-r7069",
     "9092": "https://www.patreon.com/motokamurakami",
+    "9112": "http://bato.to/group/_/n/nuwang-r7109",
     "912": "http://www.mangatemple.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "932": "http://www.lostinscanlation.com/",

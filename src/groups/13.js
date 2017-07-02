@@ -306,6 +306,8 @@ var urlfix_grouplist = {
     "9013": "http://bato.to/group/_/n/no-name-scans-r4741",
     "9033": "http://bato.to/group/_/h/heobos-r7028",
     "9053": "http://opurple.tumblr.com",
+    "9093": "https://raechanme.tumblr.com/",
+    "9113": "http://chariotdunord.tumblr.com/tagged/translation",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",

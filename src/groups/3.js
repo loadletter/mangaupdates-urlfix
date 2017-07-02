@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "9003": "http://ktranslate.tumblr.com",
     "9023": "http://leighsyd.tumblr.com",
     "9063": "http://nori-cat.tumblr.com",
+    "9103": "https://bato.to/group/_/u/unzips-dick-r7104",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
