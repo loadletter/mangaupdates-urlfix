@@ -305,7 +305,7 @@ var urlfix_grouplist = {
     "8714": "https://www.mangaupdates.com/showtopic.php?tid=54334",
     "8734": "https://ykgescans.wordpress.com/",
     "874": "http://shocwave.caticus.com/about.html",
-    "8754": "http://bato.to/group/_/r/random-fujoshis-r6780",
+    "8754": "https://randomfujoshis-scans.tumblr.com/",
     "8774": "https://xcaliburwn.com/",
     "8794": "http://bluewindscanlations.blogspot.com/",
     "8814": "https://rpgnoob.wordpress.com/",
