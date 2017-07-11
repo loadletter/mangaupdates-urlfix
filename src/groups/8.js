@@ -132,7 +132,7 @@ var urlfix_grouplist = {
     "4928": "http://lupajenge.livejournal.com/",
     "4948": "http://amiserablepileofscans.tumblr.com/",
     "4988": "http://w11.zetaboards.com/KaraKorenScans/index/",
-    "5008": "http://seinenxscansxprojects.blogspot.com/",
+    "5008": "http://seinenscans.com/",
     "5048": "http://springephemeral.wordpress.com/",
     "508": "http://www.hanashi-translations.com/",
     "5088": "http://rockinghorsescans.blogspot.com/",

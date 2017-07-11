@@ -305,6 +305,7 @@ var urlfix_grouplist = {
     "9060": "http://sunkissedscans.tumblr.com",
     "9080": "http://ichaichascans.tumblr.com",
     "9100": "https://shinku.xiaoxiaonovels.com/",
+    "9120": "https://bato.to/group/_/e/etarnity-lurvers-r7105",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };
