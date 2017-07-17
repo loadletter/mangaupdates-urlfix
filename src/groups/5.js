@@ -319,6 +319,7 @@ var urlfix_grouplist = {
     "9065": "http://acupofoppa.tumblr.com",
     "9085": "https://e-hentai.org/uploader/Shend",
     "9105": "https://thismanga.tumblr.com/",
+    "9125": "https://bato.to/group/_/s/sips-scanlations-r7131",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"
