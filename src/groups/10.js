@@ -305,6 +305,7 @@ var urlfix_grouplist = {
     "9050": "https://lullingreverie.wordpress.com/",
     "910": "http://www.sweetcream.org/",
     "9110": "http://tresbienscanlations.tumblr.com/",
+    "9130": "https://bato.to/group/_/p/puppetpasta-r7139",
     "930": "http://sailorspazz.livejournal.com/",
     "950": "http://kast.freehostia.com"
 };

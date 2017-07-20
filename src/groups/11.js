@@ -299,6 +299,7 @@ var urlfix_grouplist = {
     "9071": "http://mangakakalot.com/",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",
     "9111": "https://mainichiscans.wordpress.com/",
+    "9131": "http://snowflowerscans.tumblr.com",
     "931": "http://wingtipcafe.com/en/",
     "951": "http://believemanga.com"
 };
