@@ -313,6 +313,7 @@ var urlfix_grouplist = {
     "9076": "http://porcelainandglass.tumblr.com",
     "9096": "https://dynasty-scans.com/scanlators/moizac",
     "9116": "http://illuminatescanlations.com/",
+    "9136": "http://bato.to/group/_/g/guerrillascans-r7144",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

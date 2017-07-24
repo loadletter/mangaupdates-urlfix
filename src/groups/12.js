@@ -93,7 +93,7 @@ var urlfix_grouplist = {
     "3652": "http://stolentranslations.wordpress.com/",
     "3672": "http://www.bloodysakura.co.cc/",
     "3692": "http://community.livejournal.com/godless_scans/",
-    "3712": "http://simhauu.com/",
+    "3712": "https://simhauu.wordpress.com/",
     "3752": "http://evilnobara.livejournal.com/",
     "3792": "http://badger-scans.com/",
     "3832": "http://buddywaters.blogspot.com/",

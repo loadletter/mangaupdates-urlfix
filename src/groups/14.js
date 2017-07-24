@@ -323,6 +323,7 @@ var urlfix_grouplist = {
     "9074": "https://aquariumtourmaline.tumblr.com/",
     "9094": "http://bato.to/group/_/a/komi-scan-wa-komyushou-desu-r7093",
     "9114": "https://crimsonmagic.me/",
+    "9134": "http://bato.to/group/_/k/kenrantaru-scans-r7053",
     "914": "http://www.narutobuzz.com",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
