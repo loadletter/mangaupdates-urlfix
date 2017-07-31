@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "908": "http://k-neko.net/",
     "9088": "http://bato.to/group/_/a/dragons-heavens-project-r7084",
     "9108": "https://somebodymonologue.wordpress.com/",
+    "9148": "https://ikigainovels.wordpress.com/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"

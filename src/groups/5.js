@@ -147,7 +147,7 @@ var urlfix_grouplist = {
     "5045": "http://xcxscans.blogspot.com/",
     "505": "http://www.zefgame.com/index.php?title=Main_Page",
     "5065": "http://asdfscans.mokkori.fr/",
-    "5085": "http://kidukyo.livejournal.com/",
+    "5085": "http://kiduscans.tumblr.com/",
     "5105": "http://slantedfrenzy.blogspot.com/",
     "5145": "http://www.quantumscans.blogspot.com",
     "5165": "http://dazzlingscans.com/",
@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "9085": "https://e-hentai.org/uploader/Shend",
     "9105": "https://thismanga.tumblr.com/",
     "9125": "https://bato.to/group/_/s/sips-scanlations-r7131",
+    "9145": "https://juurionisme.wordpress.com/",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"

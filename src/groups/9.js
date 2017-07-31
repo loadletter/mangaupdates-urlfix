@@ -312,6 +312,7 @@ var urlfix_grouplist = {
     "9089": "https://subpartl.wordpress.com/",
     "9109": "https://h1mitsuscans.blogspot.com/",
     "9129": "https://mayonaizeshrimp.wordpress.com",
+    "9149": "http://bato.to/group/_/a/sole-man-scans-r7152",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

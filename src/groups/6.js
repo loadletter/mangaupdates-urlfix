@@ -306,6 +306,7 @@ var urlfix_grouplist = {
     "9086": "http://bato.to/group/_/f/funky-bomb-r7083",
     "9106": "http://bato.to/group/_/b/buka-manga-r7106",
     "9126": "https://discord.gg/Z8HSZVs",
+    "9146": "https://iamabananaweb.wordpress.com/",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

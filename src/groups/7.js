@@ -308,6 +308,7 @@ var urlfix_grouplist = {
     "9027": "http://bato.to/group/_/o/orange-translator-r7024",
     "9047": "https://rotti-totti.tumblr.com/",
     "9127": "https://lilium-ent.tumblr.com/",
+    "9147": "https://yuugentranslations.wordpress.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

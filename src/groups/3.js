@@ -59,7 +59,7 @@ var urlfix_grouplist = {
     "2603": "http://www.sinister.phpnet.us/",
     "2623": "http://forever77.livejournal.com/",
     "263": "http://giggedygiggedygoo.com/ayanami/main.htm",
-    "2643": "http://ourtranscendence.com/",
+    "2643": "http://decadencescans.com/",
     "2663": "https://www.mangaupdates.com/showtopic.php?tid=12047",
     "2683": "http://spaz4tw.livejournal.com/",
     "2703": "http://blueskydust.webs.com/",
@@ -318,6 +318,7 @@ var urlfix_grouplist = {
     "9063": "http://nori-cat.tumblr.com",
     "9103": "https://bato.to/group/_/u/unzips-dick-r7104",
     "9123": "http://coffeescans.tumblr.com",
+    "9143": "https://bato.to/group/_/f/fairy-knight-university-r7148",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

@@ -322,6 +322,7 @@ var urlfix_grouplist = {
     "9044": "http://bato.to/group/_/d/detective-conan-remake-r7033",
     "9084": "https://webcomicsandscans.wordpress.com/",
     "9104": "https://e-hentai.org/uploader/ADT555",
+    "9144": "http://cnoveluv.wordpress.com",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

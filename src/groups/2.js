@@ -322,6 +322,7 @@ var urlfix_grouplist = {
     "9082": "https://choukakou-translations.tumblr.com/",
     "9102": "https://ninjinningen.wordpress.com/",
     "9122": "http://bato.to/group/_/o/ogre-killer-scans-r7127",
+    "9142": "https://burstingchrysanthemums.tumblr.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
