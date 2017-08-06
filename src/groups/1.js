@@ -80,7 +80,7 @@ var urlfix_grouplist = {
     "3021": "http://kisascans.wordpress.com/",
     "3041": "http://orionwave.tumblr.com/",
     "3121": "http://vhskid1.blogspot.com/",
-    "3141": "http://mugematic.wordpress.com/",
+    "3141": "http://mugeca.com/",
     "3161": "https://dicescans.blogspot.com/",
     "3181": "https://whiteoutscans.com/",
     "3201": "http://getbackersmanga.webs.com/",

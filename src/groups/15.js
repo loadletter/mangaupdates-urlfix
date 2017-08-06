@@ -296,6 +296,7 @@ var urlfix_grouplist = {
     "9095": "http://maknaescans.weebly.com/",
     "9115": "http://whiteuniformscanlations.tumblr.com",
     "915": "http://www.onepiecebuzz.com",
+    "9155": "http://bato.to/group/_/f/fruit-scans-r6875",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };
