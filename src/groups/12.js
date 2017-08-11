@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "9112": "http://bato.to/group/_/n/nuwang-r7109",
     "912": "http://www.mangatemple.com/",
     "9152": "http://dontenproject.tumblr.com",
+    "9172": "https://8clouds.wordpress.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "932": "http://www.lostinscanlation.com/",
     "972": "http://tarngation.net/nhk"

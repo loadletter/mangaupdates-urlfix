@@ -298,6 +298,7 @@ var urlfix_grouplist = {
     "9088": "http://bato.to/group/_/a/dragons-heavens-project-r7084",
     "9108": "https://somebodymonologue.wordpress.com/",
     "9148": "https://ikigainovels.wordpress.com/",
+    "9168": "https://www.viz.com/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"

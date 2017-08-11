@@ -319,6 +319,7 @@ var urlfix_grouplist = {
     "9103": "https://bato.to/group/_/u/unzips-dick-r7104",
     "9123": "http://coffeescans.tumblr.com",
     "9143": "https://bato.to/group/_/f/fairy-knight-university-r7148",
+    "9163": "http://unmeinochance.tumblr.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

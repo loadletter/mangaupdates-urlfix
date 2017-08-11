@@ -301,6 +301,7 @@ var urlfix_grouplist = {
     "9111": "https://mainichiscans.wordpress.com/",
     "9131": "http://snowflowerscans.tumblr.com",
     "9151": "http://musesscans.tumblr.com",
+    "9171": "http://bato.to/group/_/a/acf-team-r6434",
     "931": "http://wingtipcafe.com/en/",
     "951": "http://believemanga.com"
 };

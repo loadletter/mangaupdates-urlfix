@@ -307,6 +307,7 @@ var urlfix_grouplist = {
     "9110": "http://tresbienscanlations.tumblr.com/",
     "9130": "https://bato.to/group/_/p/puppetpasta-r7139",
     "9150": "https://bato.to/group/_/g/gore-and-guts-r7160",
+    "9170": "http://fuutotantei.tumblr.com",
     "930": "http://sailorspazz.livejournal.com/",
     "950": "http://kast.freehostia.com"
 };

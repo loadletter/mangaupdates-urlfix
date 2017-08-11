@@ -310,6 +310,7 @@ var urlfix_grouplist = {
     "9057": "http://19days-translation.tumblr.com",
     "9077": "https://kurisumx.wordpress.com/",
     "9137": "https://bato.to/group/_/g/gununu-r7147",
+    "9157": "https://skydustscanlations.wordpress.com/",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"

@@ -321,6 +321,7 @@ var urlfix_grouplist = {
     "9105": "https://thismanga.tumblr.com/",
     "9125": "https://bato.to/group/_/s/sips-scanlations-r7131",
     "9145": "https://juurionisme.wordpress.com/",
+    "9165": "https://catatopatch.wixsite.com/catatopatch",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"

@@ -313,7 +313,7 @@ var urlfix_grouplist = {
     "8844": "http://hainemakoru.weebly.com/",
     "8864": "http://bato.to/group/_/v/vanscans-r6869",
     "8884": "http://merakiscans.com/",
-    "8904": "http://lemonadescans.tumblr.com",
+    "8904": "https://bato.to/group/_/l/lemonade-scans-r6401",
     "8924": "http://mayonara.tumblr.com",
     "8944": "http://kamimatsutranslations.tumblr.com",
     "8964": "http://codereiss.tumblr.com",
@@ -323,6 +323,7 @@ var urlfix_grouplist = {
     "9084": "https://webcomicsandscans.wordpress.com/",
     "9104": "https://e-hentai.org/uploader/ADT555",
     "9144": "http://cnoveluv.wordpress.com",
+    "9164": "https://rosytranslations.wordpress.com/",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

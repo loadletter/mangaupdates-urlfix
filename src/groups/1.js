@@ -323,6 +323,7 @@ var urlfix_grouplist = {
     "9101": "https://xtostos.wordpress.com/",
     "9121": "https://silverliningtranslations.wordpress.com/",
     "9141": "https://insanetranslations.wordpress.com/",
+    "9161": "https://junyopea79.wordpress.com/",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
