@@ -325,6 +325,7 @@ var urlfix_grouplist = {
     "9114": "https://crimsonmagic.me/",
     "9134": "http://bato.to/group/_/k/kenrantaru-scans-r7053",
     "914": "http://www.narutobuzz.com",
+    "9174": "http://bcnovels.com/",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
     "954": "http://ttkmanga.wordpress.com/",

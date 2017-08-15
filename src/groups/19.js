@@ -315,6 +315,7 @@ var urlfix_grouplist = {
     "9099": "https://dynasty-scans.com/scanlators/shimapanda",
     "9119": "http://umamusume.tumblr.com",
     "9139": "https://akagamiproject.tumblr.com/",
+    "9179": "https://enxiao.wordpress.com/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",

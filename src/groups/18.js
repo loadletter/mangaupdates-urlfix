@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "9038": "https://bato.to/group/_/s/squidscans-r7020",
     "9058": "https://kimamanitranslate.tumblr.com/",
     "9118": "http://aiblanche.tumblr.com",
+    "9178": "http://bato.to/group/_/t/tabunne-scans-r7184",
     "918": "http://www.bleachbuzz.com/",
     "938": "http://forum.purekanjou.com",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",

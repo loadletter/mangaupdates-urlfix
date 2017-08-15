@@ -148,7 +148,7 @@ var urlfix_grouplist = {
     "5308": "http://erscans.blogspot.com/",
     "5388": "http://hentai-kun-projects.blogspot.com/",
     "5408": "http://mnight-haven.livejournal.com/",
-    "5428": "http://www.nekyou.net/",
+    "5428": "https://nekyou.com/",
     "5448": "http://lmstranslation.blogspot.com/",
     "5468": "http://forums.soulscans.com/forum.php",
     "5488": "http://closetspaces.blogspot.com/",
