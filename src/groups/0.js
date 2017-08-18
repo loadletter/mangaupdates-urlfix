@@ -297,7 +297,7 @@ var urlfix_grouplist = {
     "8860": "http://atruebluewarrior.tumblr.com",
     "8880": "https://elementalcobalt.wordpress.com/",
     "8920": "https://www.facebook.com/ValhallaScanlation",
-    "8940": "http://qvfamma.tumblr.com",
+    "8940": "http://qvfamma.tumblr.com/",
     "8960": "https://silverheliosscans.wordpress.com/",
     "8980": "http://bato.to/group/_/c/careless-su-jing-r6977",
     "9000": "http://paperhatteam.tumblr.com",

@@ -324,6 +324,7 @@ var urlfix_grouplist = {
     "9104": "https://e-hentai.org/uploader/ADT555",
     "9144": "http://cnoveluv.wordpress.com",
     "9164": "https://rosytranslations.wordpress.com/",
+    "9184": "https://rhextranslations.com/",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

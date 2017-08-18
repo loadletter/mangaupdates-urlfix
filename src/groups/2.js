@@ -324,6 +324,7 @@ var urlfix_grouplist = {
     "9122": "http://bato.to/group/_/o/ogre-killer-scans-r7127",
     "9142": "https://burstingchrysanthemums.tumblr.com/",
     "9162": "https://dynasty-scans.com/scanlators/snsbu",
+    "9182": "http://beikastreetirregulars.tumblr.com",
     "922": "http://coomasieblue.livejournal.com/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
