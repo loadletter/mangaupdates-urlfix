@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "9139": "https://akagamiproject.tumblr.com/",
     "9179": "https://enxiao.wordpress.com/",
     "919": "http://mangahelpers.com/forum/index.php?action=profile;u=3512;sa=showPosts",
+    "9199": "https://bato.to/group/_/t/white-symphony-r7199",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

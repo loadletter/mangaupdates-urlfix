@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "9136": "http://bato.to/group/_/g/guerrillascans-r7144",
     "9156": "https://bato.to/group/_/s/scarlettscans-r7162",
     "9176": "https://bato.to/group/_/t/tinkerbel-r7181",
+    "9196": "http://sakutranslation.tumblr.com",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

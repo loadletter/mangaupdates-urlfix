@@ -299,6 +299,7 @@ var urlfix_grouplist = {
     "9108": "https://somebodymonologue.wordpress.com/",
     "9148": "https://ikigainovels.wordpress.com/",
     "9168": "https://www.viz.com/",
+    "9188": "http://redlantern.translatednovels.com/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"

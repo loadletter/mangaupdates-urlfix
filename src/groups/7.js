@@ -310,6 +310,7 @@ var urlfix_grouplist = {
     "9127": "https://lilium-ent.tumblr.com/",
     "9147": "https://yuugentranslations.wordpress.com/",
     "9167": "https://bato.to/group/_/a/fans-r7174",
+    "9187": "http://wallsina-goodbye.tumblr.com",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

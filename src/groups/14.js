@@ -326,6 +326,7 @@ var urlfix_grouplist = {
     "9134": "http://bato.to/group/_/k/kenrantaru-scans-r7053",
     "914": "http://www.narutobuzz.com",
     "9174": "http://bcnovels.com/",
+    "9194": "http://bato.to/group/_/k/knifehandsmcscans-r7161",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
     "954": "http://ttkmanga.wordpress.com/",

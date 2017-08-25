@@ -325,6 +325,7 @@ var urlfix_grouplist = {
     "9141": "https://insanetranslations.wordpress.com/",
     "9161": "https://junyopea79.wordpress.com/",
     "9181": "https://bato.to/group/_/m/mendokusai-r7070",
+    "9201": "https://polarbearadise.wordpress.com/",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
