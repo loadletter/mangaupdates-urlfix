@@ -323,6 +323,7 @@ var urlfix_grouplist = {
     "9172": "https://8clouds.wordpress.com/",
     "9192": "https://birdythemighty.wordpress.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
+    "9212": "http://honyakusha.tumblr.com",
     "932": "http://www.lostinscanlation.com/",
     "972": "http://tarngation.net/nhk"
 };

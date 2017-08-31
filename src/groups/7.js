@@ -311,6 +311,7 @@ var urlfix_grouplist = {
     "9147": "https://yuugentranslations.wordpress.com/",
     "9167": "https://bato.to/group/_/a/fans-r7174",
     "9187": "http://wallsina-goodbye.tumblr.com",
+    "9207": "http://bato.to/group/_/s/shadowverse-scans-r7210",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

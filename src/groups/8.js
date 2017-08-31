@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "9148": "https://ikigainovels.wordpress.com/",
     "9168": "https://www.viz.com/",
     "9188": "http://redlantern.translatednovels.com/",
+    "9208": "http://bato.to/group/_/h/hitsujikai-scanlation-r7214",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"

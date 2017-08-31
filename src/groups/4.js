@@ -295,7 +295,7 @@ var urlfix_grouplist = {
     "8484": "http://little-tomcat.tumblr.com/",
     "8504": "https://just-felt-like-doing-it.tumblr.com/",
     "8524": "https://shoujoshounenscans.wordpress.com/",
-    "8564": "http://championscans.weebly.com/",
+    "8564": "https://championscans.com/",
     "8584": "http://twitchdemon.livejournal.com",
     "8604": "http://g.e-hentai.org/uploader/amoskandy",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
