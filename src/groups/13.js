@@ -311,6 +311,7 @@ var urlfix_grouplist = {
     "9133": "http://bato.to/group/_/g/goldwish-pond-r6716",
     "9153": "http://idiana204.tumblr.com",
     "9193": "http://sennoakatsuki.tumblr.com",
+    "9213": "https://bato.to/group/_/m/mayo-r7216",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",

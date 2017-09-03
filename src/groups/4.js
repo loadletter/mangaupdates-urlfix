@@ -313,7 +313,7 @@ var urlfix_grouplist = {
     "8844": "http://hainemakoru.weebly.com/",
     "8864": "http://bato.to/group/_/v/vanscans-r6869",
     "8884": "http://merakiscans.com/",
-    "8904": "https://bato.to/group/_/l/lemonade-scans-r6401",
+    "8904": "http://lemonadescans.tumblr.com/",
     "8924": "http://mayonara.tumblr.com",
     "8944": "http://kamimatsutranslations.tumblr.com",
     "8964": "http://codereiss.tumblr.com",
