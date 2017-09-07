@@ -309,6 +309,7 @@ var urlfix_grouplist = {
     "9140": "http://shou7.tumblr.com/",
     "9160": "http://zettaimuri.tumblr.com",
     "9180": "https://lmsnovel.wordpress.com/",
+    "9220": "http://bato.to/group/_/c/cyroiizaru-r7233",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

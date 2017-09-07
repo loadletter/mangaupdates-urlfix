@@ -326,6 +326,7 @@ var urlfix_grouplist = {
     "9164": "https://rosytranslations.wordpress.com/",
     "9184": "https://rhextranslations.com/",
     "9204": "https://phantomscans.tumblr.com/",
+    "9224": "http://www.peachblossomgrove.com/",
     "924": "http://gohanxtrunks.net/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"

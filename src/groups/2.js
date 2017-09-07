@@ -326,6 +326,7 @@ var urlfix_grouplist = {
     "9162": "https://dynasty-scans.com/scanlators/snsbu",
     "9182": "http://beikastreetirregulars.tumblr.com",
     "922": "http://coomasieblue.livejournal.com/",
+    "9222": "https://trackest.blog/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

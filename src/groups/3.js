@@ -321,6 +321,7 @@ var urlfix_grouplist = {
     "9143": "https://bato.to/group/_/f/fairy-knight-university-r7148",
     "9163": "http://unmeinochance.tumblr.com",
     "9203": "http://bato.to/group/_/p/project-potato-scans-r7202",
+    "9223": "https://nieracol.wordpress.com/",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
