@@ -310,6 +310,7 @@ var urlfix_grouplist = {
     "9170": "http://fuutotantei.tumblr.com",
     "9190": "http://hoshikoscans.tumblr.com",
     "9210": "https://miyagimanga.blogspot.com/",
+    "9230": "https://bato.to/group/_/n/ndef-scans-r7236",
     "930": "http://sailorspazz.livejournal.com/",
     "950": "http://kast.freehostia.com"
 };

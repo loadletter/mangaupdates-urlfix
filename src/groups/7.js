@@ -312,6 +312,8 @@ var urlfix_grouplist = {
     "9167": "https://bato.to/group/_/a/fans-r7174",
     "9187": "http://wallsina-goodbye.tumblr.com",
     "9207": "http://bato.to/group/_/s/shadowverse-scans-r7210",
+    "9227": "https://www.facebook.com/yaoisekainews/",
+    "9247": "https://jadeslip.wordpress.com",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

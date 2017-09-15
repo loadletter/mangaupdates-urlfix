@@ -319,11 +319,13 @@ var urlfix_grouplist = {
     "9092": "https://www.patreon.com/motokamurakami",
     "9112": "http://bato.to/group/_/n/nuwang-r7109",
     "912": "http://www.mangatemple.com/",
+    "9132": "http://ruthlessnightsscans.tumblr.com",
     "9152": "http://dontenproject.tumblr.com",
     "9172": "https://8clouds.wordpress.com/",
     "9192": "https://birdythemighty.wordpress.com/",
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "9212": "http://honyakusha.tumblr.com",
+    "9232": "https://miritranslations.wordpress.com/",
     "932": "http://www.lostinscanlation.com/",
     "972": "http://tarngation.net/nhk"
 };

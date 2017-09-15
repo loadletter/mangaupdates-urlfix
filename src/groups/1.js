@@ -327,6 +327,7 @@ var urlfix_grouplist = {
     "9181": "https://bato.to/group/_/m/mendokusai-r7070",
     "9201": "https://polarbearadise.wordpress.com/",
     "921": "http://community.livejournal.com/hitman_reborn/",
+    "9241": "https://potatotranslation.com/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
 };

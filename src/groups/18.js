@@ -307,6 +307,7 @@ var urlfix_grouplist = {
     "918": "http://www.bleachbuzz.com/",
     "9198": "https://genmcorp.wordpress.com/",
     "9218": "https://notrans.wordpress.com/",
+    "9238": "http://dokusenscans.tumblr.com",
     "938": "http://forum.purekanjou.com",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",

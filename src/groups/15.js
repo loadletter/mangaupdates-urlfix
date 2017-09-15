@@ -278,7 +278,7 @@ var urlfix_grouplist = {
     "8735": "http://alienfairyland.tumblr.com/tagged/translation",
     "875": "http://community.livejournal.com/gravi_muse_meet/profile",
     "8775": "https://okaken-scans.tumblr.com/",
-    "8795": "https://exiledrebelsscans.tumblr.com/",
+    "8795": "https://exiledrebelsscanlations.com",
     "8815": "https://onibe.moe/",
     "8835": "http://bato.to/group/_/j/jack-in-the-box-r6836",
     "8855": "http://tiffybook.com/",
@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "9115": "http://whiteuniformscanlations.tumblr.com",
     "915": "http://www.onepiecebuzz.com",
     "9155": "http://bato.to/group/_/f/fruit-scans-r6875",
+    "9235": "https://okamiyuutranslations.wordpress.com/",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

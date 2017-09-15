@@ -323,6 +323,7 @@ var urlfix_grouplist = {
     "9145": "https://juurionisme.wordpress.com/",
     "9165": "https://catatopatch.wixsite.com/catatopatch",
     "9205": "https://weitranslations.wordpress.com/",
+    "9245": "https://meister-scans.blogspot.com/",
     "925": "http://tennoikkaku.atspace.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"
