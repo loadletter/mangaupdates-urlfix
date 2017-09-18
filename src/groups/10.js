@@ -303,6 +303,7 @@ var urlfix_grouplist = {
     "90": "http://bato.to/group/_/c/choco-r2221",
     "9030": "http://www.h-konbini.net/",
     "9050": "https://lullingreverie.wordpress.com/",
+    "9090": "https://sodascans.wordpress.com/",
     "910": "http://www.sweetcream.org/",
     "9110": "http://tresbienscanlations.tumblr.com/",
     "9130": "https://bato.to/group/_/p/puppetpasta-r7139",

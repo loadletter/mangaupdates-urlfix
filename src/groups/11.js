@@ -230,7 +230,7 @@ var urlfix_grouplist = {
     "7551": "http://amayaokami.tumblr.com/",
     "7571": "http://z-ani.net/",
     "7591": "http://littlenovel.com/",
-    "7631": "https://pinkcherryblossom.wordpress.com/",
+    "7631": "https://pinksakura4ever.wordpress.com/",
     "7651": "http://mineralwatertranslation.blogspot.com/",
     "7691": "http://bato.to/group/_/c/curry-farmer-r6197",
     "7711": "http://translations.allthefallen.ninja/",
@@ -305,6 +305,6 @@ var urlfix_grouplist = {
     "9191": "https://bato.to/group/_/d/dumpster-fire-scans-r7155",
     "9211": "https://twitter.com/minoalerano",
     "9231": "http://booklovers.zone/",
-    "931": "http://wingtipcafe.com/en/",
+    "931": "https://wingtipcafe.blogspot.com/",
     "951": "http://believemanga.com"
 };
