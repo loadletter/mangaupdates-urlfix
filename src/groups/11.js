@@ -305,6 +305,7 @@ var urlfix_grouplist = {
     "9191": "https://bato.to/group/_/d/dumpster-fire-scans-r7155",
     "9211": "https://twitter.com/minoalerano",
     "9231": "http://booklovers.zone/",
+    "9251": "https://hikokitranslations.wordpress.com/",
     "931": "https://wingtipcafe.blogspot.com/",
     "951": "http://believemanga.com"
 };

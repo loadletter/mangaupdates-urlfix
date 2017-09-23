@@ -302,6 +302,7 @@ var urlfix_grouplist = {
     "9188": "http://redlantern.translatednovels.com/",
     "9208": "http://bato.to/group/_/h/hitsujikai-scanlation-r7214",
     "9228": "https://iianes.wordpress.com/",
+    "9248": "http://kii-chan-no-honyaku.tumblr.com",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"

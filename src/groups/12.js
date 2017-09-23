@@ -326,6 +326,7 @@ var urlfix_grouplist = {
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "9212": "http://honyakusha.tumblr.com",
     "9232": "https://miritranslations.wordpress.com/",
+    "9252": "http://bato.to/group/_/m/magnum-scans-r7255",
     "932": "http://www.lostinscanlation.com/",
     "972": "http://tarngation.net/nhk"
 };

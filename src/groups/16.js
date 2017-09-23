@@ -28,7 +28,7 @@ var urlfix_grouplist = {
     "1896": "http://scarletmoon.dasaku.net/",
     "196": "http://lotsan.free.fr/perso/ttaboo/",
     "1976": "http://inarticulate.livejournal.com/",
-    "1996": "http://fgscans.blogspot.com/",
+    "1996": "https://fgscans.blogspot.com/",
     "2016": "http://community.livejournal.com/ohayosan/",
     "2076": "http://elegantsuccubus.blogspot.com/",
     "2096": "http://naonoholics.org/",
@@ -319,6 +319,7 @@ var urlfix_grouplist = {
     "9196": "http://sakutranslation.tumblr.com",
     "9216": "https://imoutosite.wordpress.com/2017/04/12/19/",
     "9236": "https://jiunscans.wordpress.com/",
+    "9256": "https://akan-bl-club.tumblr.com/",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };
