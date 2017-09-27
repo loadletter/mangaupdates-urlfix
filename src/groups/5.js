@@ -325,6 +325,7 @@ var urlfix_grouplist = {
     "9205": "https://weitranslations.wordpress.com/",
     "9245": "https://meister-scans.blogspot.com/",
     "925": "http://tennoikkaku.atspace.com/",
+    "9265": "https://mikazuki2017.wordpress.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"
 };

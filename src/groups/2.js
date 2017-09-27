@@ -328,6 +328,7 @@ var urlfix_grouplist = {
     "922": "http://coomasieblue.livejournal.com/",
     "9222": "https://trackest.blog/",
     "9242": "http://crazytranslations.blogspot.com/2017/05/the-road-to-slaying-god-chapter-7.html",
+    "9262": "https://soyokazeweb.wordpress.com/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

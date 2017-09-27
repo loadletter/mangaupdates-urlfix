@@ -311,6 +311,7 @@ var urlfix_grouplist = {
     "9180": "https://lmsnovel.wordpress.com/",
     "9220": "http://bato.to/group/_/c/cyroiizaru-r7233",
     "9240": "http://fantasytranslation.wordpress.com",
+    "9260": "https://lotustranslations.wordpress.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

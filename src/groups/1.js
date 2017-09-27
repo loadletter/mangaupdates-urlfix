@@ -328,6 +328,7 @@ var urlfix_grouplist = {
     "9201": "https://polarbearadise.wordpress.com/",
     "921": "http://community.livejournal.com/hitman_reborn/",
     "9241": "https://potatotranslation.com/",
+    "9261": "https://crimsonjianghu.wordpress.com/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
 };

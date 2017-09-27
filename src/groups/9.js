@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "9209": "https://mugentan.wordpress.com/",
     "9229": "https://bookboatblog.wordpress.com/",
     "9249": "http://bato.to/group/_/o/one-shot-group-r7253",
+    "9269": "https://bato.to/group/_/m/manga-chronicle-r7266",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

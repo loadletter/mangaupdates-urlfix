@@ -314,6 +314,7 @@ var urlfix_grouplist = {
     "9207": "http://bato.to/group/_/s/shadowverse-scans-r7210",
     "9227": "https://www.facebook.com/yaoisekainews/",
     "9247": "https://jadeslip.wordpress.com",
+    "9267": "https://anoobsite.wordpress.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

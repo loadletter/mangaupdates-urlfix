@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "9199": "https://bato.to/group/_/t/white-symphony-r7199",
     "9219": "https://bato.to/group/_/o/otl-r7232",
     "9239": "https://www.kuronotranslations.com/",
+    "9259": "http://quantumnovel.com/",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

@@ -306,6 +306,7 @@ var urlfix_grouplist = {
     "9211": "https://twitter.com/minoalerano",
     "9231": "http://booklovers.zone/",
     "9251": "https://hikokitranslations.wordpress.com/",
+    "9271": "https://bato.to/group/_/p/potwashers-manga-r7265",
     "931": "https://wingtipcafe.blogspot.com/",
     "951": "http://believemanga.com"
 };
