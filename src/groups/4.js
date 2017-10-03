@@ -329,6 +329,7 @@ var urlfix_grouplist = {
     "9224": "http://www.peachblossomgrove.com/",
     "924": "http://gohanxtrunks.net/",
     "9244": "http://wuxiadream.com/",
+    "9284": "https://rainytranslations.wordpress.com/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"
 };
