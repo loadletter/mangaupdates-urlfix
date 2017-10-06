@@ -307,6 +307,7 @@ var urlfix_grouplist = {
     "9231": "http://booklovers.zone/",
     "9251": "https://hikokitranslations.wordpress.com/",
     "9271": "https://bato.to/group/_/p/potwashers-manga-r7265",
+    "9291": "http://bato.to/group/_/p/paon-scans-r7270",
     "931": "https://wingtipcafe.blogspot.com/",
     "951": "http://believemanga.com"
 };
