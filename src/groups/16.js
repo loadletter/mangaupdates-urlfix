@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "9216": "https://imoutosite.wordpress.com/2017/04/12/19/",
     "9236": "https://jiunscans.wordpress.com/",
     "9256": "https://akan-bl-club.tumblr.com/",
+    "9296": "https://tukiscans.wordpress.com/",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

@@ -314,6 +314,7 @@ var urlfix_grouplist = {
     "9213": "https://bato.to/group/_/m/mayo-r7216",
     "9233": "https://fujoshiaffairs.wordpress.com/",
     "9273": "https://bato.to/group/_/u/unko-mans-r7267",
+    "9293": "http://bato.to/group/_/i/iamaloli-r5351",
     "93": "http://www.abildsoe.com/manga/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",

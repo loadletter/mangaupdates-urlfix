@@ -300,6 +300,7 @@ var urlfix_grouplist = {
     "9235": "https://okamiyuutranslations.wordpress.com/",
     "9255": "https://lordobsidian.com/",
     "9275": "https://superradbombdotcomscans.tumblr.com/",
+    "9295": "https://www.wattpad.com/user/camear1369",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

@@ -313,6 +313,7 @@ var urlfix_grouplist = {
     "9210": "https://miyagimanga.blogspot.com/",
     "9230": "https://bato.to/group/_/n/ndef-scans-r7236",
     "9250": "https://bato.to/group/_/h/hashihash-r7256",
+    "9290": "https://senku.io/",
     "930": "http://sailorspazz.livejournal.com/",
     "950": "http://kast.freehostia.com"
 };
