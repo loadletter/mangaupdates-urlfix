@@ -313,6 +313,7 @@ var urlfix_grouplist = {
     "9157": "https://skydustscanlations.wordpress.com/",
     "9217": "http://bato.to/group/_/p/placeholder-scanlations-r7224",
     "9257": "https://knightsoflunadia.wordpress.com/",
+    "9297": "https://hanashiobasan.wordpress.com/",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"
