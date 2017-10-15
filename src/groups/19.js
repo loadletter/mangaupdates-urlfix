@@ -321,6 +321,7 @@ var urlfix_grouplist = {
     "9219": "https://bato.to/group/_/o/otl-r7232",
     "9239": "https://www.kuronotranslations.com/",
     "9259": "http://quantumnovel.com/",
+    "9299": "https://nevntranslations.blogspot.com/",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"
