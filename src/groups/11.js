@@ -309,5 +309,6 @@ var urlfix_grouplist = {
     "9271": "https://bato.to/group/_/p/potwashers-manga-r7265",
     "9291": "http://bato.to/group/_/p/paon-scans-r7270",
     "931": "https://wingtipcafe.blogspot.com/",
+    "9311": "https://eternal-rose-scans.tumblr.com/",
     "951": "http://believemanga.com"
 };

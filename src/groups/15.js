@@ -297,6 +297,7 @@ var urlfix_grouplist = {
     "9115": "http://whiteuniformscanlations.tumblr.com",
     "915": "http://www.onepiecebuzz.com",
     "9155": "http://bato.to/group/_/f/fruit-scans-r6875",
+    "9215": "https://jailbreakscans.wordpress.com/",
     "9235": "https://okamiyuutranslations.wordpress.com/",
     "9255": "https://lordobsidian.com/",
     "9275": "https://superradbombdotcomscans.tumblr.com/",

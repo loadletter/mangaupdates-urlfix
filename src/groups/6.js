@@ -311,6 +311,7 @@ var urlfix_grouplist = {
     "9226": "https://www.facebook.com/FYGenbuKaiden",
     "9246": "http://www.desolationangeltranslations.com/",
     "9266": "http://mythoroid.blogspot.com/",
+    "9306": "https://www.kirishimafansub.com/",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

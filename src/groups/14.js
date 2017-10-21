@@ -330,6 +330,7 @@ var urlfix_grouplist = {
     "9234": "http://isohungrytls.com",
     "9254": "https://himatranslations.wordpress.com/",
     "9294": "https://mirrortranslationsblog.wordpress.com/",
+    "9314": "https://lewd4yaoi.tumblr.com/",
     "934": "http://www.shiraku-scans.com/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
     "954": "http://ttkmanga.wordpress.com/",

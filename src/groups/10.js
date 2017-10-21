@@ -220,7 +220,7 @@ var urlfix_grouplist = {
     "7210": "http://hakogaku.tumblr.com/",
     "7230": "http://www.zxzxzx.info/",
     "7250": "http://oresama.us/",
-    "7270": "http://seraphic-deviltry.tk/",
+    "7270": "http://seraphic-deviltry.com/",
     "7290": "https://watdameow.wordpress.com/",
     "730": "http://www.animeco.org/",
     "7330": "http://haise.co.vu/",
@@ -315,5 +315,6 @@ var urlfix_grouplist = {
     "9250": "https://bato.to/group/_/h/hashihash-r7256",
     "9290": "https://senku.io/",
     "930": "http://sailorspazz.livejournal.com/",
+    "9310": "https://thedarksidescans.wordpress.com/",
     "950": "http://kast.freehostia.com"
 };

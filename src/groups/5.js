@@ -327,6 +327,7 @@ var urlfix_grouplist = {
     "925": "http://tennoikkaku.atspace.com/",
     "9265": "https://mikazuki2017.wordpress.com/",
     "9285": "https://bato.to/group/_/m/mitach-r7279",
+    "9305": "https://kuzakimori.wordpress.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"
 };

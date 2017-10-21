@@ -159,7 +159,7 @@ var urlfix_grouplist = {
     "5143": "http://mxvscanlations.tumblr.com/",
     "5163": "http://analogscans.tumblr.com/",
     "5223": "http://s2smanga.com/",
-    "523": "http://www.freewebs.com/ramsus-kun/",
+    "523": "http://ramsus-kun.webs.com/index.htm",
     "5263": "https://mankitsuscans.wordpress.com/",
     "5283": "http://zqscans2013.wordpress.com/",
     "5303": "http://www.grownupsinspandex.com/",
@@ -325,6 +325,7 @@ var urlfix_grouplist = {
     "9243": "https://yumeabyss.wordpress.com/",
     "9263": "https://planttranslation.com/",
     "9283": "https://snailtranslations.wordpress.com/",
+    "9303": "http://nemake.tumblr.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

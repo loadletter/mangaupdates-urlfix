@@ -329,6 +329,7 @@ var urlfix_grouplist = {
     "9252": "http://bato.to/group/_/m/magnum-scans-r7255",
     "9272": "https://lunalotusscans.wordpress.com/",
     "9292": "https://bato.to/group/_/l/lolilovers-r7273",
+    "9312": "https://muffinmellowtranslations.wordpress.com/",
     "932": "http://www.lostinscanlation.com/",
     "972": "http://tarngation.net/nhk"
 };

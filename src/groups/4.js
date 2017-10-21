@@ -330,6 +330,7 @@ var urlfix_grouplist = {
     "924": "http://gohanxtrunks.net/",
     "9244": "http://wuxiadream.com/",
     "9284": "https://rainytranslations.wordpress.com/",
+    "9304": "https://bato.to/group/_/c/completionist-scans-r7315",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"
 };
