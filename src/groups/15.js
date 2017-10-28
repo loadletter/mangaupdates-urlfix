@@ -206,7 +206,7 @@ var urlfix_grouplist = {
     "6975": "http://nekohy.tumblr.com/",
     "6995": "https://isekailunatic.wordpress.com/",
     "7035": "https://intheseaofstars.wordpress.com/",
-    "7075": "http://pan.amatsuka.com/",
+    "7075": "https://panpa.ca/",
     "7115": "http://omnerabdator.tumblr.com/",
     "7135": "http://vasco-trans.tumblr.com/",
     "7155": "http://mewdragon.tumblr.com/",
@@ -302,6 +302,7 @@ var urlfix_grouplist = {
     "9255": "https://lordobsidian.com/",
     "9275": "https://superradbombdotcomscans.tumblr.com/",
     "9295": "https://www.wattpad.com/user/camear1369",
+    "9315": "https://orlandri-tl.tumblr.com/",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

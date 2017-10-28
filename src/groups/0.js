@@ -314,6 +314,7 @@ var urlfix_grouplist = {
     "9260": "https://lotustranslations.wordpress.com/",
     "9280": "https://okosamastar-translations.tumblr.com/",
     "9300": "http://chaotic-scans.boards.net/",
+    "9320": "https://shirusekaitranslations.wordpress.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

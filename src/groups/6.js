@@ -281,7 +281,7 @@ var urlfix_grouplist = {
     "8566": "http://bato.to/group/_/a/all-buttered-up-scans-r2159",
     "8586": "http://kazenblown.livejournal.com",
     "86": "http://www.omanga.net/",
-    "8646": "http://atelierdunoir.aphelion.ga/",
+    "8646": "http://atelierdunoir.org/",
     "8666": "https://omegaverseaddicted.tumblr.com/",
     "8686": "http://mizaya.tumblr.com/",
     "8706": "https://mongolfier.wordpress.com/",

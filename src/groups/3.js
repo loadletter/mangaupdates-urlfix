@@ -326,6 +326,7 @@ var urlfix_grouplist = {
     "9263": "https://planttranslation.com/",
     "9283": "https://snailtranslations.wordpress.com/",
     "9303": "http://nemake.tumblr.com",
+    "9323": "https://bato.to/group/_/k/keshigomu-r7331",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
