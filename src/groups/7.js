@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "9247": "https://jadeslip.wordpress.com",
     "9267": "https://anoobsite.wordpress.com/",
     "9307": "https://gazscans.wordpress.com/",
+    "9327": "https://sailsship.wordpress.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

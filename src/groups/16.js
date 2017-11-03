@@ -322,6 +322,7 @@ var urlfix_grouplist = {
     "9256": "https://akan-bl-club.tumblr.com/",
     "9296": "https://tukiscans.wordpress.com/",
     "9316": "https://yado-inn.com/",
+    "9336": "https://translasi.sanusi.me",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

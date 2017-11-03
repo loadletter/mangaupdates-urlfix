@@ -316,5 +316,6 @@ var urlfix_grouplist = {
     "9290": "https://senku.io/",
     "930": "http://sailorspazz.livejournal.com/",
     "9310": "https://thedarksidescans.wordpress.com/",
+    "9330": "http://dao.ist/",
     "950": "http://kast.freehostia.com"
 };

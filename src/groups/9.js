@@ -318,6 +318,7 @@ var urlfix_grouplist = {
     "9249": "http://bato.to/group/_/o/one-shot-group-r7253",
     "9269": "https://bato.to/group/_/m/manga-chronicle-r7266",
     "9289": "https://yuzuscans.tumblr.com/",
+    "9329": "http://nofrillsscanlation.blogspot.com/",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

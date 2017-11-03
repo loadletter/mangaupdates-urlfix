@@ -109,7 +109,7 @@ var urlfix_grouplist = {
     "4113": "http://www.sscans.com",
     "4133": "http://akuma-no-fansub.webuda.com/us/",
     "4153": "http://motorhorse.livejournal.com/",
-    "4173": "http://scans.futatsu.space/",
+    "4173": "https://futatsuscans.wordpress.com/",
     "4193": "http://www.puffypandas.co.cc/",
     "4213": "http://groups.yahoo.com/group/Brownies_Scans/",
     "4233": "http://fuckyeahygodoujinshi.tumblr.com/",
@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "9273": "https://bato.to/group/_/u/unko-mans-r7267",
     "9293": "http://bato.to/group/_/i/iamaloli-r5351",
     "93": "http://www.abildsoe.com/manga/",
+    "9333": "https://syilpharhea.wordpress.com/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"
