@@ -333,6 +333,7 @@ var urlfix_grouplist = {
     "9314": "https://lewd4yaoi.tumblr.com/",
     "9334": "https://meiraevetranslation.wordpress.com",
     "934": "http://www.shiraku-scans.com/",
+    "9354": "http://bato.to/group/_/r/remember-me-scans-r7339",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
     "954": "http://ttkmanga.wordpress.com/",
     "974": "http://www.conan-magic.com/fruits_basket/index.html",

@@ -319,6 +319,8 @@ var urlfix_grouplist = {
     "9269": "https://bato.to/group/_/m/manga-chronicle-r7266",
     "9289": "https://yuzuscans.tumblr.com/",
     "9329": "http://nofrillsscanlation.blogspot.com/",
+    "9349": "https://bananachocolatecosmos.wordpress.com/",
+    "9369": "https://amateurtranslations.com/",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

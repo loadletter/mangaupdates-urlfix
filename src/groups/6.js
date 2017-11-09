@@ -313,6 +313,8 @@ var urlfix_grouplist = {
     "9266": "http://mythoroid.blogspot.com/",
     "9306": "https://www.kirishimafansub.com/",
     "9326": "https://mapleszone.wordpress.com/",
+    "9346": "https://sakhyulations.wordpress.com/",
+    "9366": "https://shenhuatranslations.wordpress.com/",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

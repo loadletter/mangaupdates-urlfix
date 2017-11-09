@@ -305,7 +305,7 @@ var urlfix_grouplist = {
     "8704": "http://bato.to/group/_/a/colors-of-spring-scans-r6736",
     "8724": "https://xoscans.wordpress.com/",
     "8744": "https://thesomethingstranslations.wordpress.com/",
-    "8764": "http://bato.to/group/_/h/hatigarm-scans-r6790",
+    "8764": "http://hatigarmscans.eu/",
     "8784": "http://hakoiriemusume.tumblr.com/",
     "8804": "http://akito666us.tumblr.com",
     "8824": "http://nakanantoka.tumblr.com/",
@@ -332,6 +332,7 @@ var urlfix_grouplist = {
     "9284": "https://rainytranslations.wordpress.com/",
     "9304": "https://bato.to/group/_/c/completionist-scans-r7315",
     "9324": "https://manyaktranslations.tumblr.com/",
+    "9364": "https://jhagia.wordpress.com/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"
 };

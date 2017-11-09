@@ -332,5 +332,7 @@ var urlfix_grouplist = {
     "9312": "https://muffinmellowtranslations.wordpress.com/",
     "932": "http://www.lostinscanlation.com/",
     "9332": "https://dreamygetaway.blogspot.com/",
+    "9352": "https://rozenfantasyblog.wordpress.com/",
+    "9372": "https://myswallowtails.com/",
     "972": "http://tarngation.net/nhk"
 };

@@ -308,7 +308,7 @@ var urlfix_grouplist = {
     "8721": "https://yowapedafanscans.tumblr.com/",
     "8741": "http://ochazuke-translations.tumblr.com",
     "8761": "https://tamago-box.tumblr.com/",
-    "8781": "http://umrscans.weebly.com/",
+    "8781": "http://umrscans.com/",
     "8801": "https://michiruzuki.wordpress.com/",
     "8821": "http://seesscans.tumblr.com/",
     "8841": "http://yeska-noka.livejournal.com",
@@ -332,6 +332,8 @@ var urlfix_grouplist = {
     "9281": "https://bato.to/group/_/s/pusu-pusu-scans-r6788",
     "9301": "https://bato.to/group/_/o/heizz-r7304",
     "9321": "https://bato.to/group/_/k/kelpy-r7327",
+    "9341": "http://barnnn.blogspot.com/",
+    "9361": "http://plumlizi.com",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
 };

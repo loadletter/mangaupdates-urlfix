@@ -317,5 +317,6 @@ var urlfix_grouplist = {
     "930": "http://sailorspazz.livejournal.com/",
     "9310": "https://thedarksidescans.wordpress.com/",
     "9330": "http://dao.ist/",
+    "9370": "https://leitranslations.wordpress.com",
     "950": "http://kast.freehostia.com"
 };

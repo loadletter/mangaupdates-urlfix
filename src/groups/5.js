@@ -329,6 +329,8 @@ var urlfix_grouplist = {
     "9285": "https://bato.to/group/_/m/mitach-r7279",
     "9305": "https://kuzakimori.wordpress.com/",
     "9325": "https://mandarinmikan.wordpress.com/",
+    "9345": "https://psychoplay.co/",
+    "9365": "http://translatinotaku.net/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"
 };

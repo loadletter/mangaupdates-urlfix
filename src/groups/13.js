@@ -317,6 +317,8 @@ var urlfix_grouplist = {
     "9293": "http://bato.to/group/_/i/iamaloli-r5351",
     "93": "http://www.abildsoe.com/manga/",
     "9333": "https://syilpharhea.wordpress.com/",
+    "9353": "https://knoktranslations.wordpress.com/",
+    "9373": "http://tanukii49.blogspot.com/",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"

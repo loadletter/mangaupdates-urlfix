@@ -331,6 +331,8 @@ var urlfix_grouplist = {
     "9262": "https://soyokazeweb.wordpress.com/",
     "9302": "http://bato.to/group/_/o/oceanian-translations-r7305",
     "9322": "http://fate-go.us/",
+    "9342": "https://nanming.wordpress.com/",
+    "9362": "https://dmtranslationscn.wordpress.com/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

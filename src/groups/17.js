@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "9297": "https://hanashiobasan.wordpress.com/",
     "9337": "https://catharcity.wordpress.com/",
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
+    "9377": "https://thepineapplenerd.tumblr.com/",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"
 };

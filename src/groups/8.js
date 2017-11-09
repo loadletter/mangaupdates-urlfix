@@ -306,6 +306,8 @@ var urlfix_grouplist = {
     "9268": "http://storyandtranslate.blogspot.com/",
     "9308": "http://objecscan.tumblr.com",
     "9328": "https://fuyuneko.wordpress.com/",
+    "9348": "https://tynkerd.wordpress.com/",
+    "9368": "https://fishsaysno.wordpress.com/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"
