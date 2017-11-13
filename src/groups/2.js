@@ -333,6 +333,7 @@ var urlfix_grouplist = {
     "9322": "http://fate-go.us/",
     "9342": "https://nanming.wordpress.com/",
     "9362": "https://dmtranslationscn.wordpress.com/",
+    "9382": "http://www.wiseclock.ca/",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

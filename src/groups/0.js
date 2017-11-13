@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "9320": "https://shirusekaitranslations.wordpress.com/",
     "9340": "https://horobinomichi.wordpress.com/",
     "9360": "https://acantranslations.wordpress.com/",
+    "9380": "https://linguisticsubs.wordpress.com/",
     "940": "http://www.4chan.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

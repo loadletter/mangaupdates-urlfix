@@ -328,6 +328,7 @@ var urlfix_grouplist = {
     "9303": "http://nemake.tumblr.com",
     "9323": "https://bato.to/group/_/k/keshigomu-r7331",
     "9343": "https://fantranslationsblog.wordpress.com",
+    "9383": "http://bato.to/group/_/n/new-hope-translation-nht-r6679",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
