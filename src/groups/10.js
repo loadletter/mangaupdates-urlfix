@@ -318,5 +318,6 @@ var urlfix_grouplist = {
     "9310": "https://thedarksidescans.wordpress.com/",
     "9330": "http://dao.ist/",
     "9370": "https://leitranslations.wordpress.com",
+    "9390": "https://syzctranslations.github.io/",
     "950": "http://kast.freehostia.com"
 };

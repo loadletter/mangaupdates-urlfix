@@ -325,6 +325,7 @@ var urlfix_grouplist = {
     "9336": "https://translasi.sanusi.me",
     "9356": "http://lustfulcat.tumblr.com/",
     "9376": "http://ebisutranslations.wordpress.com",
+    "9396": "http://bato.to/group/_/n/naosawa-r7374",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

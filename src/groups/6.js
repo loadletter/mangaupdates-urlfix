@@ -315,6 +315,8 @@ var urlfix_grouplist = {
     "9326": "https://mapleszone.wordpress.com/",
     "9346": "https://sakhyulations.wordpress.com/",
     "9366": "https://shenhuatranslations.wordpress.com/",
+    "9386": "https://springraintranslations.wordpress.com/",
+    "9406": "http://chaomianscanlations.tumblr.com",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

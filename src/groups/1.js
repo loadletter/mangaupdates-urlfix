@@ -334,6 +334,7 @@ var urlfix_grouplist = {
     "9321": "https://bato.to/group/_/k/kelpy-r7327",
     "9341": "http://barnnn.blogspot.com/",
     "9361": "http://plumlizi.com",
+    "9401": "https://bunnyloveinc.blogspot.com/",
     "941": "http://community.livejournal.com/mamejanakute/",
     "981": "http://gensokyo.webleveling.com/"
 };

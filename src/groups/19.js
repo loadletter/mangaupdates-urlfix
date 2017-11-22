@@ -326,6 +326,7 @@ var urlfix_grouplist = {
     "9339": "http://rabbitcultivation.com/",
     "9359": "https://orizurusite.wordpress.com/",
     "9379": "https://www.facebook.com/TheRealWaitochan/",
+    "9399": "https://fujoshissisters.blogspot.com/",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

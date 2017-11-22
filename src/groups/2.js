@@ -334,6 +334,7 @@ var urlfix_grouplist = {
     "9342": "https://nanming.wordpress.com/",
     "9362": "https://dmtranslationscn.wordpress.com/",
     "9382": "http://www.wiseclock.ca/",
+    "9402": "https://bato.to/group/_/d/deyui-r7238",
     "942": "http://hofmanga.awardspace.com",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

@@ -315,6 +315,7 @@ var urlfix_grouplist = {
     "9358": "https://novelexpress.wordpress.com/",
     "9378": "https://twitter.com/HMS_Seiradan",
     "938": "http://forum.purekanjou.com",
+    "9398": "https://shinkaitranslations.wordpress.com/",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"

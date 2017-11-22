@@ -319,6 +319,8 @@ var urlfix_grouplist = {
     "9327": "https://sailsship.wordpress.com/",
     "9347": "https://nononosanctuary.wordpress.com/",
     "9367": "http://erratictranslations.tumblr.com",
+    "9387": "https://suihansanyou.wordpress.com/",
+    "9407": "https://bato.to/group/_/n/no1-idle-r7385",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

@@ -229,7 +229,7 @@ var urlfix_grouplist = {
     "7044": "http://cherry-oppa.tumblr.com/",
     "7064": "http://hellscabanaboy.tumblr.com/",
     "7084": "http://forum.nihonomaru.net/yuri-and-yaoi-manga.48/thread/hyakujitsu-no-bara-maiden-rose-dj-scanlations-more-than-10-eng.211747/",
-    "7104": "http://bokuwaneet.blogspot.com/",
+    "7104": "https://bokuwaneet.eu.org",
     "7124": "http://chrima-scans.tumblr.com/",
     "7144": "http://iluvtranslates.tumblr.com/",
     "7164": "http://categoryg.blogspot.com/",
@@ -333,6 +333,8 @@ var urlfix_grouplist = {
     "9304": "https://bato.to/group/_/c/completionist-scans-r7315",
     "9324": "https://manyaktranslations.tumblr.com/",
     "9364": "https://jhagia.wordpress.com/",
+    "9384": "https://sleepchaser.wordpress.com",
+    "9404": "http://midsummerscanlations.blogspot.com/",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"
 };

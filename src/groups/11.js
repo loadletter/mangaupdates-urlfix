@@ -312,5 +312,6 @@ var urlfix_grouplist = {
     "9311": "https://eternal-rose-scans.tumblr.com/",
     "9351": "https://yanggodtranslations.wordpress.com",
     "9371": "http://www.otakutls.blogspot.com/",
+    "9391": "https://dreamsofyesteryear.wordpress.com/",
     "951": "http://believemanga.com"
 };

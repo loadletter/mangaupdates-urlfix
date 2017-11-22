@@ -321,6 +321,7 @@ var urlfix_grouplist = {
     "9329": "http://nofrillsscanlation.blogspot.com/",
     "9349": "https://bananachocolatecosmos.wordpress.com/",
     "9369": "https://amateurtranslations.com/",
+    "9389": "https://xaiomogetranslation.wordpress.com/",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

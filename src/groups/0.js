@@ -319,5 +319,6 @@ var urlfix_grouplist = {
     "9360": "https://acantranslations.wordpress.com/",
     "9380": "https://linguisticsubs.wordpress.com/",
     "940": "http://www.4chan.org/",
+    "9400": "http://melwoof.tumblr.com",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };
