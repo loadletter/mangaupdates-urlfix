@@ -319,5 +319,6 @@ var urlfix_grouplist = {
     "9330": "http://dao.ist/",
     "9370": "https://leitranslations.wordpress.com",
     "9390": "https://syzctranslations.github.io/",
+    "9410": "https://bato.to/group/_/i/ignominia-scanlation-r7341",
     "950": "http://kast.freehostia.com"
 };

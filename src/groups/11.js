@@ -51,7 +51,7 @@ var urlfix_grouplist = {
     "2551": "http://matekun.blogspot.com/?zx=6e609a6448bc65f1",
     "2591": "http://stubbornone.blogspot.com/",
     "2651": "http://bato.to/group/_/r/red-r1427",
-    "2691": "http://biribiri.fakku.net/",
+    "2691": "http://biribiri.fakku.io/",
     "271": "http://www.nanashi-fansubs.com",
     "2711": "http://harroku.blogspot.com/",
     "2731": "http://ccicc.wordpress.com",
@@ -313,5 +313,6 @@ var urlfix_grouplist = {
     "9351": "https://yanggodtranslations.wordpress.com",
     "9371": "http://www.otakutls.blogspot.com/",
     "9391": "https://dreamsofyesteryear.wordpress.com/",
+    "9411": "http://bato.to/group/_/s/socomb-scanlinations-r7395",
     "951": "http://believemanga.com"
 };

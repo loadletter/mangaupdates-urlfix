@@ -335,5 +335,6 @@ var urlfix_grouplist = {
     "9352": "https://rozenfantasyblog.wordpress.com/",
     "9372": "https://myswallowtails.com/",
     "9392": "http://chinesenoveltranslations.simplegamesdev.com",
+    "9412": "https://bato.to/group/_/h/himescans-r7394",
     "972": "http://tarngation.net/nhk"
 };

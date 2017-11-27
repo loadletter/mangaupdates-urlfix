@@ -322,6 +322,7 @@ var urlfix_grouplist = {
     "9349": "https://bananachocolatecosmos.wordpress.com/",
     "9369": "https://amateurtranslations.com/",
     "9389": "https://xaiomogetranslation.wordpress.com/",
+    "9409": "http://territerripickaberry.tumblr.com",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

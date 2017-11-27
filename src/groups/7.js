@@ -312,7 +312,7 @@ var urlfix_grouplist = {
     "9167": "https://bato.to/group/_/a/fans-r7174",
     "9187": "http://wallsina-goodbye.tumblr.com",
     "9207": "http://bato.to/group/_/s/shadowverse-scans-r7210",
-    "9227": "https://www.facebook.com/yaoisekainews/",
+    "9227": "https://yaoi-sekai.tumblr.com/",
     "9247": "https://jadeslip.wordpress.com",
     "9267": "https://anoobsite.wordpress.com/",
     "9307": "https://gazscans.wordpress.com/",
