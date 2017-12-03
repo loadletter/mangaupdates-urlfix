@@ -12,7 +12,7 @@ or redirect the link to the latest chapter in the user's lists to its scanlator 
 
 Browsers usually need an addon to run userscripts, like:
 
-- Firefox -> [Violent monkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) or [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+- Firefox -> [Violent monkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) or [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) (swtich to those if you're having problems with Greasemonkey)
 - Chrome/Chromium -> [Violent monkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - Opera -> [Violent monkey](https://addons.opera.com/en/extensions/details/violent-monkey/)
 - Safari -> [NinjaKit](https://github.com/os0x/NinjaKit)
