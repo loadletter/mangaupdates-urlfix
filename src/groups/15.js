@@ -306,6 +306,7 @@ var urlfix_grouplist = {
     "9355": "http://bato.to/group/_/l/laserworks-r5806",
     "9375": "https://asterlucerne.wordpress.com/",
     "9395": "https://twitter.com/TojiEnglish",
+    "9415": "http://novelsnow.com/",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

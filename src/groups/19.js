@@ -311,7 +311,7 @@ var urlfix_grouplist = {
     "8999": "http://saltypotatoestrans.tumblr.com",
     "9019": "https://dusttorust.wordpress.com/",
     "9039": "http://www.now-do.com/",
-    "9059": "http://shurimscanlations.blogspot.com/",
+    "9059": "https://shurimtranslation.com/",
     "9099": "https://dynasty-scans.com/scanlators/shimapanda",
     "9119": "http://umamusume.tumblr.com",
     "9139": "https://akagamiproject.tumblr.com/",

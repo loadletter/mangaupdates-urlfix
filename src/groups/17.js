@@ -318,6 +318,7 @@ var urlfix_grouplist = {
     "937": "http://groups.msn.com/eXeXeXHOLiCManga/welcome.msnw",
     "9377": "https://thepineapplenerd.tumblr.com/",
     "9397": "https://bato.to/group/_/r/ryokhan-r7371",
+    "9417": "http://bato.to/group/_/s/supinamarada-scans-r7263",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"
 };

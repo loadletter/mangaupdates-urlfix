@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "9353": "https://knoktranslations.wordpress.com/",
     "9373": "http://tanukii49.blogspot.com/",
     "9393": "http://pandanovels.net/",
+    "9413": "https://bato.to/group/_/d/driftingscanlationcaf%c3%a9-r7396",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"
