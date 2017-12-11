@@ -299,7 +299,7 @@ var urlfix_grouplist = {
     "9071": "http://mangakakalot.com/",
     "91": "http://bato.to/group/_/c/crescent-joy-r1150",
     "9111": "https://mainichiscans.wordpress.com/",
-    "9131": "http://snowflowerscans.tumblr.com",
+    "9131": "http://snowflower-scans.tumblr.com/",
     "9151": "https://muses-scans.tumblr.com/",
     "9171": "http://bato.to/group/_/a/acf-team-r6434",
     "9191": "https://bato.to/group/_/d/dumpster-fire-scans-r7155",

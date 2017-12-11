@@ -336,5 +336,6 @@ var urlfix_grouplist = {
     "9382": "http://www.wiseclock.ca/",
     "9402": "https://bato.to/group/_/d/deyui-r7238",
     "942": "http://hofmanga.awardspace.com",
+    "9422": "https://padlet.com/kagopoii/kagopoii",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

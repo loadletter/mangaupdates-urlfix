@@ -336,5 +336,6 @@ var urlfix_grouplist = {
     "9361": "http://plumlizi.com",
     "9401": "https://bunnyloveinc.blogspot.com/",
     "941": "http://community.livejournal.com/mamejanakute/",
+    "9421": "https://allentranslation.wordpress.com/",
     "981": "http://gensokyo.webleveling.com/"
 };
