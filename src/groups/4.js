@@ -335,6 +335,7 @@ var urlfix_grouplist = {
     "9364": "https://jhagia.wordpress.com/",
     "9384": "https://sleepchaser.wordpress.com",
     "9404": "http://midsummerscanlations.blogspot.com/",
+    "9424": "https://bato.to/group/_/l/legend-of-a-strongest-scans-r7416",
     "944": "http://laflaga.googlepages.com",
     "984": "http://brokenwingscans.4000webs.com/"
 };
