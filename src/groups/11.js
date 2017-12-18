@@ -314,5 +314,6 @@ var urlfix_grouplist = {
     "9371": "http://www.otakutls.blogspot.com/",
     "9391": "https://dreamsofyesteryear.wordpress.com/",
     "9411": "http://bato.to/group/_/s/socomb-scanlinations-r7395",
+    "9431": "https://bato.to/group/_/m/ded-r7279",
     "951": "http://believemanga.com"
 };

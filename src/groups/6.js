@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "9366": "https://shenhuatranslations.wordpress.com/",
     "9386": "https://springraintranslations.wordpress.com/",
     "9406": "http://chaomianscanlations.tumblr.com",
+    "9426": "https://bato.to/group/_/m/manga-for-men-r7421",
     "946": "http://vaan.exblog.jp/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

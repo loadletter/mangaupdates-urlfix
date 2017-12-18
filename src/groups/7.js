@@ -321,6 +321,7 @@ var urlfix_grouplist = {
     "9367": "http://erratictranslations.tumblr.com",
     "9387": "https://suihansanyou.wordpress.com/",
     "9407": "https://bato.to/group/_/n/no1-idle-r7385",
+    "9427": "https://hairywizardztranslations.blogspot.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };
