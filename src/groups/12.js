@@ -310,7 +310,7 @@ var urlfix_grouplist = {
     "8892": "https://yaoism801.wordpress.com/our-line-of-works/",
     "8912": "http://megamiea.blogspot.com/",
     "8932": "http://lilith-art.de.tl/Light-Novel.htm",
-    "8952": "http://nan-chatte.tumblr.com",
+    "8952": "http://nan-chatte.tumblr.com/",
     "8972": "https://failtranslations.wordpress.com/",
     "8992": "http://pnaut.tumblr.com",
     "9032": "http://bato.to/group/_/k/kami-no-dragon-scan-r6442",

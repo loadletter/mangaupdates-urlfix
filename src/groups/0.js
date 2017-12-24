@@ -321,5 +321,6 @@ var urlfix_grouplist = {
     "940": "http://www.4chan.org/",
     "9400": "http://melwoof.tumblr.com",
     "9420": "https://hecatescorner.wordpress.com",
+    "9440": "https://bato.to/group/_/f/fluffy-scanlations-r7436",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

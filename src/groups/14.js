@@ -337,6 +337,7 @@ var urlfix_grouplist = {
     "9394": "https://manhwa.co/",
     "94": "http://bato.to/group/_/a/anime-basket-r1463",
     "9414": "http://bato.to/group/_/a/alkyaforest-r7041",
+    "9434": "https://www.facebook.com/SummerDFS/",
     "954": "http://ttkmanga.wordpress.com/",
     "974": "http://www.conan-magic.com/fruits_basket/index.html",
     "994": "http://kameko-87.livejournal.com/profile"

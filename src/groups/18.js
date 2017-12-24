@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "938": "http://forum.purekanjou.com",
     "9398": "https://shinkaitranslations.wordpress.com/",
     "9418": "http://fugaciousfella.tumblr.com",
+    "9438": "https://bato.to/group/_/m/mrk-r7434",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"
