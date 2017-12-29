@@ -337,5 +337,6 @@ var urlfix_grouplist = {
     "9402": "https://bato.to/group/_/d/deyui-r7238",
     "942": "http://hofmanga.awardspace.com",
     "9422": "https://padlet.com/kagopoii/kagopoii",
+    "9442": "https://myosotisproject.wordpress.com/",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

@@ -333,6 +333,7 @@ var urlfix_grouplist = {
     "9365": "http://translatinotaku.net/",
     "9385": "https://keztranslations.wordpress.com/",
     "9425": "https://bato.to/group/_/m/morpheus-scanlation-r7409",
+    "9445": "https://www.tappytoon.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "985": "http://m-beauty.org"
 };

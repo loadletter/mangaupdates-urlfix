@@ -310,6 +310,7 @@ var urlfix_grouplist = {
     "9368": "https://fishsaysno.wordpress.com/",
     "9388": "https://parallelnovels.com/",
     "9428": "https://bubbleteascans.wordpress.com/",
+    "9448": "https://passing-ghost.tumblr.com/",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"
