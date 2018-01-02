@@ -328,6 +328,7 @@ var urlfix_grouplist = {
     "9396": "http://bato.to/group/_/n/naosawa-r7374",
     "9416": "https://asianhobbyist.com/",
     "9436": "http://bato.to/group/_/h/hoshimemoria-r7432",
+    "9456": "http://potatonatorscans.tumblr.com",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

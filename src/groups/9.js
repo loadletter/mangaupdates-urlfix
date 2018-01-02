@@ -62,7 +62,7 @@ var urlfix_grouplist = {
     "2849": "http://mangahelpers.com/s/matsuda",
     "2869": "http://stier421.livejournal.com/",
     "29": "http://peccatore.umi-sora.com/",
-    "2909": "http://thecrimson-flower.com/",
+    "2909": "https://thecrimson-flower.com/",
     "2929": "http://community.livejournal.com/buusagi_gumi/",
     "2969": "http://wind-song.co.cc/",
     "2989": "http://gohyper.wordpress.com/",
@@ -324,6 +324,7 @@ var urlfix_grouplist = {
     "9389": "https://xaiomogetranslation.wordpress.com/",
     "9409": "http://territerripickaberry.tumblr.com",
     "9429": "https://bato.to/group/_/a/one-out-scans-r7427",
+    "9449": "http://barf.dtdns.net:9101/",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

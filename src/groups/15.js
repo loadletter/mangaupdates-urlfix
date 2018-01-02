@@ -307,6 +307,7 @@ var urlfix_grouplist = {
     "9375": "https://asterlucerne.wordpress.com/",
     "9395": "https://twitter.com/TojiEnglish",
     "9415": "http://novelsnow.com/",
+    "9455": "https://bato.to/group/_/s/skt-r7449",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

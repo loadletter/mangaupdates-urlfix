@@ -332,6 +332,7 @@ var urlfix_grouplist = {
     "9403": "http://bato.to/group/_/o/ohayo-desu-scanlations-r7381",
     "9423": "https://bato.to/group/_/t/takatsugu-r7402",
     "9443": "https://omqscans.wordpress.com/",
+    "9463": "https://bato.to/group/_/n/natsurei-r7437",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

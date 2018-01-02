@@ -302,7 +302,7 @@ var urlfix_grouplist = {
     "8893": "http://thesolitaryhobbyist.tumblr.com",
     "8913": "http://kimilers.tumblr.com",
     "8953": "http://yoeko.tumblr.com",
-    "8973": "http://fantasy-books.live",
+    "8973": "https://fantasy-books.live/",
     "9013": "http://bato.to/group/_/n/no-name-scans-r4741",
     "9033": "http://bato.to/group/_/h/heobos-r7028",
     "9053": "http://opurple.tumblr.com",
@@ -322,6 +322,7 @@ var urlfix_grouplist = {
     "9393": "http://pandanovels.net/",
     "9413": "https://bato.to/group/_/d/driftingscanlationcaf%c3%a9-r7396",
     "9433": "https://bato.to/group/_/h/hordy987-r7430",
+    "9453": "http://leggo.co.vu/translations",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"

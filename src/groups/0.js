@@ -322,5 +322,6 @@ var urlfix_grouplist = {
     "9400": "http://melwoof.tumblr.com",
     "9420": "https://hecatescorner.wordpress.com",
     "9440": "https://bato.to/group/_/f/fluffy-scanlations-r7436",
+    "9460": "https://bato.to/group/_/f/fansub-sin-nombre-r7289",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };
