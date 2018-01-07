@@ -220,7 +220,7 @@ var urlfix_grouplist = {
     "7210": "http://hakogaku.tumblr.com/",
     "7230": "http://www.zxzxzx.info/",
     "7250": "http://oresama.us/",
-    "7270": "http://seraphic-deviltry.com/",
+    "7270": "http://seraphicdeviltryscans.tumblr.com",
     "7290": "https://watdameow.wordpress.com/",
     "730": "http://www.animeco.org/",
     "7330": "http://haise.co.vu/",
@@ -320,5 +320,6 @@ var urlfix_grouplist = {
     "9370": "https://leitranslations.wordpress.com",
     "9390": "https://syzctranslations.github.io/",
     "9410": "https://bato.to/group/_/i/ignominia-scanlation-r7341",
+    "9470": "https://bato.to/group/_/w/we-tried-subbing-r7461",
     "950": "http://kast.freehostia.com"
 };

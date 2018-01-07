@@ -325,6 +325,7 @@ var urlfix_grouplist = {
     "9409": "http://territerripickaberry.tumblr.com",
     "9429": "https://bato.to/group/_/a/one-out-scans-r7427",
     "9449": "http://barf.dtdns.net:9101/",
+    "9469": "http://jashinslayer.tumblr.com/",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

@@ -311,6 +311,7 @@ var urlfix_grouplist = {
     "9388": "https://parallelnovels.com/",
     "9428": "https://bubbleteascans.wordpress.com/",
     "9448": "https://passing-ghost.tumblr.com/",
+    "9468": "https://bato.to/group/_/l/lost-in-the-clouds-r7460",
     "948": "http://www.mlfs.page.tl/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"

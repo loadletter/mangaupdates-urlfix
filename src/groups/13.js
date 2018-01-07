@@ -316,6 +316,7 @@ var urlfix_grouplist = {
     "9273": "https://bato.to/group/_/u/unko-mans-r7267",
     "9293": "http://bato.to/group/_/i/iamaloli-r5351",
     "93": "http://www.abildsoe.com/manga/",
+    "9313": "https://pinklitchiscans.tumblr.com",
     "9333": "https://syilpharhea.wordpress.com/",
     "9353": "https://knoktranslations.wordpress.com/",
     "9373": "http://tanukii49.blogspot.com/",

@@ -323,6 +323,7 @@ var urlfix_grouplist = {
     "9407": "https://bato.to/group/_/n/no1-idle-r7385",
     "9427": "https://hairywizardztranslations.blogspot.com/",
     "9447": "https://www.facebook.com/Gakkou.Gurashi.world/",
+    "9467": "https://tantasticscans.wordpress.com/",
     "947": "http://www.bloodknight.net/",
     "987": "http://forum.dats.us/index.php"
 };

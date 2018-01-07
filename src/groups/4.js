@@ -192,7 +192,7 @@ var urlfix_grouplist = {
     "6164": "http://paperdollsproject.rocks/",
     "6204": "http://strawberrytimescanlations.wordpress.com/",
     "624": "http://www.gs-x.xamayon.org/",
-    "6244": "http://yaoidesirerevolution.blogspot.com/",
+    "6244": "http://yaoidesirerevolution.tumblr.com/",
     "6284": "http://wingfril.livejournal.com/",
     "6324": "http://www.raisingthedead.ninja",
     "6344": "http://bato.to/group/_/t/team-bbp-r4569",
@@ -338,5 +338,6 @@ var urlfix_grouplist = {
     "9424": "https://bato.to/group/_/l/legend-of-a-strongest-scans-r7416",
     "944": "http://laflaga.googlepages.com",
     "9444": "https://hornetsnestscans.wordpress.com/",
+    "9464": "https://bato.to/group/_/a/silver-scans-r7455",
     "984": "http://brokenwingscans.4000webs.com/"
 };

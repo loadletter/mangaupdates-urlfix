@@ -338,6 +338,6 @@ var urlfix_grouplist = {
     "941": "http://community.livejournal.com/mamejanakute/",
     "9421": "https://allentranslation.wordpress.com/",
     "9441": "https://pas.moe/",
-    "9461": "http://cloudyscans.tumblr.com",
+    "9461": "https://cloudyscans.tumblr.com/",
     "981": "http://gensokyo.webleveling.com/"
 };
