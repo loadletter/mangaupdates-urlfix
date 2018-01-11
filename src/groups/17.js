@@ -308,7 +308,7 @@ var urlfix_grouplist = {
     "9017": "http://gaysatanscans.tumblr.com",
     "9037": "http://bato.to/group/_/m/murakumo-scans-r6973",
     "9057": "http://19days-translation.tumblr.com",
-    "9077": "https://kurisumx.wordpress.com/",
+    "9077": "http://elpsycongroo.tk/",
     "9137": "https://bato.to/group/_/g/gununu-r7147",
     "9157": "https://skydustscanlations.wordpress.com/",
     "9217": "http://bato.to/group/_/p/placeholder-scanlations-r7224",
@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "9397": "https://bato.to/group/_/r/ryokhan-r7371",
     "9417": "http://bato.to/group/_/s/supinamarada-scans-r7263",
     "9437": "https://bato.to/group/_/a/learnmoon-r7433",
+    "9477": "http://sugarmagic.tumblr.com",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"
 };

@@ -339,6 +339,7 @@ var urlfix_grouplist = {
     "9414": "http://bato.to/group/_/a/alkyaforest-r7041",
     "9434": "https://www.facebook.com/SummerDFS/",
     "9454": "https://bato.to/group/_/p/the-peach-boys-r7448",
+    "9474": "https://dynasty-scans.com/scanlators/shittaste_marble",
     "954": "http://ttkmanga.wordpress.com/",
     "974": "http://www.conan-magic.com/fruits_basket/index.html",
     "994": "http://kameko-87.livejournal.com/profile"

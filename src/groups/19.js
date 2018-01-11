@@ -329,6 +329,7 @@ var urlfix_grouplist = {
     "9399": "https://fujoshissisters.blogspot.com/",
     "9439": "https://bato.to/group/_/r/read-manhua-r7435",
     "9459": "https://hyakuros.tumblr.com/",
+    "9479": "https://www.facebook.com/SUGDW.Yabai.1",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

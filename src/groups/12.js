@@ -337,6 +337,6 @@ var urlfix_grouplist = {
     "9392": "http://chinesenoveltranslations.simplegamesdev.com",
     "9412": "https://bato.to/group/_/h/himescans-r7394",
     "9432": "http://earlgreyscans.tumblr.com",
-    "9452": "http://bato.to/group/_/r/rotten-noodles-r7447",
+    "9452": "https://n00dlekun.tumblr.com/",
     "972": "http://tarngation.net/nhk"
 };
