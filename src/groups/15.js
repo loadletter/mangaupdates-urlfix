@@ -303,7 +303,7 @@ var urlfix_grouplist = {
     "9275": "https://superradbombdotcomscans.tumblr.com/",
     "9295": "https://www.wattpad.com/user/camear1369",
     "9315": "https://orlandri-tl.tumblr.com/",
-    "9355": "http://bato.to/group/_/l/laserworks-r5806",
+    "9355": "https://lasermanga.wordpress.com/",
     "9375": "https://asterlucerne.wordpress.com/",
     "9395": "https://twitter.com/TojiEnglish",
     "9415": "http://novelsnow.com/",
