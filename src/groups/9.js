@@ -326,6 +326,7 @@ var urlfix_grouplist = {
     "9429": "https://www.reddit.com/user/OneOut/",
     "9449": "http://barf.dtdns.net:9101/",
     "9469": "http://jashinslayer.tumblr.com/",
+    "9489": "https://kurosemporiumofinteresting.wordpress.com/",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

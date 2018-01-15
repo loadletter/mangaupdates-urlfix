@@ -339,5 +339,6 @@ var urlfix_grouplist = {
     "9421": "https://allentranslation.wordpress.com/",
     "9441": "https://pas.moe/",
     "9461": "https://cloudyscans.tumblr.com/",
+    "9481": "https://twitter.com/bledascans",
     "981": "http://gensokyo.webleveling.com/"
 };

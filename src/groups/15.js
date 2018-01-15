@@ -233,7 +233,7 @@ var urlfix_grouplist = {
     "7735": "http://saezutte.tumblr.com/tagged/my%20translations",
     "7755": "http://themedicineseller.tumblr.com/",
     "7795": "http://hnkproject.tumblr.com/",
-    "7835": "https://discord.gg/9tUFPE",
+    "7835": "https://discord.gg/xzJ7uYt",
     "7855": "http://zaqscans.tumblr.com/",
     "7895": "http://snowyesque.tumblr.com/tls",
     "7915": "http://bato.to/group/_/a/aj-scans-r6366",

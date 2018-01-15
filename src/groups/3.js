@@ -319,7 +319,7 @@ var urlfix_grouplist = {
     "9103": "https://www.facebook.com/Circumcision.ThePage/",
     "9123": "http://coffeescans.tumblr.com",
     "9143": "https://bato.to/group/_/f/fairy-knight-university-r7148",
-    "9163": "http://unmeinochance.tumblr.com",
+    "9163": "https://unmeinochance.tumblr.com",
     "9203": "https://www.facebook.com/ProjectPotatoScans/",
     "9223": "https://nieracol.wordpress.com/",
     "9243": "https://yumeabyss.wordpress.com/",
@@ -333,6 +333,7 @@ var urlfix_grouplist = {
     "9423": "https://bato.to/group/_/t/takatsugu-r7402",
     "9443": "https://omqscans.wordpress.com/",
     "9463": "https://bato.to/group/_/n/natsurei-r7437",
+    "9483": "https://www.facebook.com/ComicolaFansubTeam",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

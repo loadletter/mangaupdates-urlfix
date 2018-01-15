@@ -323,5 +323,6 @@ var urlfix_grouplist = {
     "9420": "https://hecatescorner.wordpress.com",
     "9440": "https://bato.to/group/_/f/fluffy-scanlations-r7436",
     "9460": "https://www.facebook.com/jes199fsn/",
+    "9480": "https://homodachi801.tumblr.com/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

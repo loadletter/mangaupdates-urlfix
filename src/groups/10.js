@@ -321,5 +321,6 @@ var urlfix_grouplist = {
     "9390": "https://syzctranslations.github.io/",
     "9410": "https://bato.to/group/_/i/ignominia-scanlation-r7341",
     "9470": "https://twitter.com/wetriedsubbing",
+    "9490": "https://twitter.com/xolefray",
     "950": "http://kast.freehostia.com"
 };
