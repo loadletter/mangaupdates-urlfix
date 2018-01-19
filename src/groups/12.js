@@ -290,7 +290,7 @@ var urlfix_grouplist = {
     "8492": "http://danganronpa2mirror.tumblr.com/",
     "8512": "http://typeset.club/",
     "8532": "http://tamanegi-scans.blogspot.com/",
-    "8552": "http://dynasty-scans.com/scanlators/aumakua",
+    "8552": "https://nyaa.si/user/aumakua",
     "8572": "http://xianforeigners.tk/",
     "8592": "http://bato.to/group/_/d/descendants-of-god-r6660",
     "8612": "https://kanranshascans.wordpress.com/",
@@ -338,5 +338,6 @@ var urlfix_grouplist = {
     "9412": "https://bato.to/group/_/h/himescans-r7394",
     "9432": "http://earlgreyscans.tumblr.com",
     "9452": "https://n00dlekun.tumblr.com/",
+    "9492": "http://bato.to/group/_/c/colored-manga-translation-squad-r6636",
     "972": "http://tarngation.net/nhk"
 };

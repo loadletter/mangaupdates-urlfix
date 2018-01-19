@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "9438": "https://bato.to/group/_/m/mrk-r7434",
     "9458": "https://em-pirate.blogspot.com/",
     "9478": "https://bato.to/group/_/s/skt-r7449",
+    "9498": "https://sinistertranslations.wordpress.com/",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"

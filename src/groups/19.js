@@ -236,7 +236,7 @@ var urlfix_grouplist = {
     "7259": "http://hollowgenerationteam.forumcommunity.net/",
     "7279": "https://takanehana.wordpress.com/",
     "7299": "http://crayzayj.blogspot.com/",
-    "7319": "https://plottwistnofansubblog.wordpress.com/",
+    "7319": "https://www.plot-twistnf-scans.com",
     "7339": "https://firebirdsnest.org/",
     "7359": "https://monktranslation.wordpress.com/",
     "7399": "https://anonempireblog.wordpress.com/",

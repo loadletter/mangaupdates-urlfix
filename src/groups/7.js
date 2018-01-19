@@ -325,5 +325,6 @@ var urlfix_grouplist = {
     "9447": "https://www.facebook.com/Gakkou.Gurashi.world/",
     "9467": "https://tantasticscans.wordpress.com/",
     "947": "http://www.bloodknight.net/",
+    "9487": "https://phymiathts.wordpress.com/",
     "987": "http://forum.dats.us/index.php"
 };

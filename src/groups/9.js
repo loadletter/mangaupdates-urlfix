@@ -25,7 +25,7 @@ var urlfix_grouplist = {
     "1869": "http://www.darkshadowscans.com/",
     "1889": "http://mysweetsense.blogspot.com/",
     "189": "http://bato.to/group/_/m/manga-otakus-r744",
-    "1909": "http://desudesu.fakku.net/",
+    "1909": "http://desudesu.fakku.io/",
     "1929": "http://community.livejournal.com/raspberry_scans/",
     "1969": "http://aelphia.livejournal.com/",
     "1989": "http://community.livejournal.com/arinatanemura/",

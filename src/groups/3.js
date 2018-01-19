@@ -308,7 +308,7 @@ var urlfix_grouplist = {
     "8823": "http://snow-guardian.livejournal.com",
     "8843": "https://shamelessoniisan.wordpress.com/",
     "8863": "http://okubyoukun.xiaoxiaonovels.com",
-    "8883": "http://bato.to/group/_/m/mugen-shoujo-r6855",
+    "8883": "http://mugenshoujo.com",
     "8903": "http://translationchicken.wordpress.com",
     "8923": "http://ikarinobudo.tumblr.com",
     "8963": "https://sheeptranslator.wordpress.com/",

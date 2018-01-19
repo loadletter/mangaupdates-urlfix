@@ -321,7 +321,7 @@ var urlfix_grouplist = {
     "9034": "https://twitter.com/CosmicEnzyme",
     "9054": "http://wanderboyscans.tumblr.com",
     "9074": "https://aquariumtourmaline.tumblr.com/",
-    "9094": "http://bato.to/group/_/a/komi-scan-wa-komyushou-desu-r7093",
+    "9094": "http://biamamscans.com/manga/komi-san-wa-komyusho-desu/",
     "9114": "https://crimsonmagic.me/",
     "9134": "http://bato.to/group/_/k/kenrantaru-scans-r7053",
     "914": "http://www.narutobuzz.com",
@@ -340,6 +340,7 @@ var urlfix_grouplist = {
     "9434": "https://www.facebook.com/SummerDFS/",
     "9454": "https://bato.to/group/_/p/the-peach-boys-r7448",
     "9474": "https://dynasty-scans.com/scanlators/shittaste_marble",
+    "9494": "http://nehnehneji.tumblr.com/",
     "954": "http://ttkmanga.wordpress.com/",
     "974": "http://www.conan-magic.com/fruits_basket/index.html",
     "994": "http://kameko-87.livejournal.com/profile"

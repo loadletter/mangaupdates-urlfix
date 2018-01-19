@@ -266,7 +266,7 @@ var urlfix_grouplist = {
     "7902": "http://kurorosan.tumblr.com/translations",
     "7942": "http://miilkytofu.livejournal.com/",
     "7962": "http://homiesoverhoesscans.tumblr.com/",
-    "7982": "https://www.mediafire.com/folder/70y60fievaoyx/Wazawahi's_Translations",
+    "7982": "https://wazawahi.wordpress.com/",
     "8022": "http://bladesworn.tumblr.com/",
     "8042": "http://gingerybiscuit.tumblr.com/",
     "8062": "https://slothtranslations.com/",

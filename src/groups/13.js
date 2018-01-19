@@ -324,6 +324,7 @@ var urlfix_grouplist = {
     "9413": "https://bato.to/group/_/d/driftingscanlationcaf%c3%a9-r7396",
     "9433": "https://bato.to/group/_/h/hordy987-r7430",
     "9453": "http://leggo.co.vu/translations",
+    "9493": "http://kougekiscans.tumblr.com",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"

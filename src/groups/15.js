@@ -291,7 +291,7 @@ var urlfix_grouplist = {
     "8995": "http://saigotranslation.com/",
     "9015": "http://bato.to/group/_/e/eminay-r6991",
     "9035": "https://gns-scans.tumblr.com/",
-    "9055": "http://bato.to/group/_/other/7456398521-r7050",
+    "9055": "https://74translations.wordpress.com/",
     "9075": "http://hunniebbe.tumblr.com",
     "9095": "http://maknaescans.weebly.com/",
     "9115": "http://whiteuniformscanlations.tumblr.com",
@@ -307,8 +307,9 @@ var urlfix_grouplist = {
     "9375": "https://asterlucerne.wordpress.com/",
     "9395": "https://twitter.com/TojiEnglish",
     "9415": "http://novelsnow.com/",
-    "9455": "https://bato.to/group/_/s/skt-r7449",
+    "9455": "http://shittykoreantranslation.blogspot.com/",
     "9475": "https://shousanki.tumblr.com/tagged/shikugo",
+    "9495": "http://majidescans.tumblr.com",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };
