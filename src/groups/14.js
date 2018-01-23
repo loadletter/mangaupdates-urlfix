@@ -318,7 +318,7 @@ var urlfix_grouplist = {
     "8974": "https://chireiji.wordpress.com/",
     "8994": "http://www.ygscans.com/",
     "9014": "http://quicksandscans.tumblr.com",
-    "9034": "https://twitter.com/CosmicEnzyme",
+    "9034": "https://cosmicenzyme.wordpress.com",
     "9054": "http://wanderboyscans.tumblr.com",
     "9074": "https://aquariumtourmaline.tumblr.com/",
     "9094": "http://biamamscans.com/manga/komi-san-wa-komyusho-desu/",

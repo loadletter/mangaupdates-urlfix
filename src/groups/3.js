@@ -80,7 +80,7 @@ var urlfix_grouplist = {
     "3123": "http://sidoohproject.wordpress.com/",
     "3143": "http://lazyfag.wordpress.com/",
     "3163": "http://manjuubuns.boards.net/",
-    "3183": "https://chillock.wordpress.com/",
+    "3183": "https://ciaranhillock.tumblr.com",
     "323": "http://www.kakyoku.org/fctranslations",
     "3263": "http://community.livejournal.com/moy_moe_scans/",
     "3283": "http://pearsehillock.blogspot.com/",
@@ -334,6 +334,7 @@ var urlfix_grouplist = {
     "9443": "https://omqscans.wordpress.com/",
     "9463": "https://bato.to/group/_/n/natsurei-r7437",
     "9483": "https://www.facebook.com/ComicolaFansubTeam",
+    "9503": "https://azandynofansub.tumblr.com/",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

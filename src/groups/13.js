@@ -322,7 +322,7 @@ var urlfix_grouplist = {
     "9373": "http://tanukii49.blogspot.com/",
     "9393": "http://pandanovels.net/",
     "9413": "https://bato.to/group/_/d/driftingscanlationcaf%c3%a9-r7396",
-    "9433": "https://bato.to/group/_/h/hordy987-r7430",
+    "9433": "https://www.patreon.com/hordy987/posts",
     "9453": "http://leggo.co.vu/translations",
     "9493": "http://kougekiscans.tumblr.com",
     "953": "http://community.livejournal.com/isoparadigm/",

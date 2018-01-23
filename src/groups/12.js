@@ -317,7 +317,7 @@ var urlfix_grouplist = {
     "9052": "http://aurarealm.com",
     "9072": "https://www.reddit.com/user/cedditt",
     "9092": "https://www.patreon.com/motokamurakami",
-    "9112": "http://bato.to/group/_/n/nuwang-r7109",
+    "9112": "https://nuwangworks.blogspot.com/",
     "912": "http://www.mangatemple.com/",
     "9132": "http://ruthlessnightsscans.tumblr.com",
     "9152": "http://dontenproject.tumblr.com",

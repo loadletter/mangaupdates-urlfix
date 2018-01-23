@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9442": "https://myosotisproject.wordpress.com/",
     "9462": "https://discord.gg/UmGAhPk",
     "9482": "https://discord.gg/PKkFDuK",
+    "9502": "https://mangadex.com/group/369",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

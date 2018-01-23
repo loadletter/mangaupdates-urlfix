@@ -335,5 +335,6 @@ var urlfix_grouplist = {
     "9425": "https://discord.gg/YTxMXg",
     "9445": "https://www.tappytoon.com/",
     "945": "http://tsubasachronicle.e7.to/",
+    "9505": "https://hesitationscans.blogspot.com/",
     "985": "http://m-beauty.org"
 };

@@ -293,7 +293,7 @@ var urlfix_grouplist = {
     "8647": "http://moonbunnycafe.com/author/armored-raven/",
     "8667": "http://flytranslationproject.tumblr.com/",
     "867": "http://www.bleachportal.net/",
-    "8727": "http://bato.to/group/_/e/emblem-scans-r6762",
+    "8727": "https://emblemscans.wordpress.com/",
     "8747": "https://shirotl.wordpress.com/",
     "8767": "http://stalker-scans.blogspot.com/",
     "8787": "https://ninths-secretary.tumblr.com/",

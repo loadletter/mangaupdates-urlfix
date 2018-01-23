@@ -89,7 +89,7 @@ var urlfix_grouplist = {
     "3559": "http://otakublaze.blog124.fc2.com/",
     "3579": "http://shiawasenoapato.blogspot.com/",
     "3639": "http://www.otakuvids.com/",
-    "3679": "http://www.mudascantrad.tk/",
+    "3679": "https://mudascans.wordpress.com/",
     "3699": "http://hmedia.thumblogger.com/",
     "3759": "http://mangahead.com/",
     "3799": "http://webcity-road.blogspot.com",
@@ -330,6 +330,7 @@ var urlfix_grouplist = {
     "9439": "https://www.youtube.com/ReadManhua",
     "9459": "https://hyakuros.tumblr.com/",
     "9479": "https://www.facebook.com/SUGDW.Yabai.1",
+    "9499": "https://meganescans.wordpress.com",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

@@ -254,7 +254,7 @@ var urlfix_grouplist = {
     "7906": "http://hachikofansubs.com/",
     "7926": "http://hennojin.com/",
     "7946": "http://ikedafiles.tumblr.com/",
-    "7966": "http://silverleafscans.blogspot.com/",
+    "7966": "https://silverleafscans.wordpress.com",
     "7986": "http://asuratales.com/",
     "8006": "https://twomanscans.wordpress.com/",
     "8026": "http://clay-smile-soil.tumblr.com/",

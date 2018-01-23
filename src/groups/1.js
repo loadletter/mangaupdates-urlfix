@@ -329,9 +329,9 @@ var urlfix_grouplist = {
     "921": "http://community.livejournal.com/hitman_reborn/",
     "9241": "https://potatotranslation.com/",
     "9261": "https://crimsonjianghu.wordpress.com/",
-    "9281": "https://bato.to/group/_/s/pusu-pusu-scans-r6788",
+    "9281": "https://pusupususcans.wordpress.com/",
     "9301": "https://bato.to/group/_/o/heizz-r7304",
-    "9321": "https://bato.to/group/_/k/kelpy-r7327",
+    "9321": "http://shishunkibitterchange.tumblr.com/",
     "9341": "http://barnnn.blogspot.com/",
     "9361": "http://plumlizi.com",
     "9401": "https://bunnyloveinc.blogspot.com/",
@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9441": "https://pas.moe/",
     "9461": "https://cloudyscans.tumblr.com/",
     "9481": "https://twitter.com/bledascans",
+    "9501": "https://gakuseiscans.blogspot.com/",
     "981": "http://gensokyo.webleveling.com/"
 };
