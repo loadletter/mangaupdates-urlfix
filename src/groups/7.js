@@ -326,5 +326,6 @@ var urlfix_grouplist = {
     "9467": "https://tantasticscans.wordpress.com/",
     "947": "http://www.bloodknight.net/",
     "9487": "https://phymiathts.wordpress.com/",
+    "9507": "https://mangadex.com/group/37",
     "987": "http://forum.dats.us/index.php"
 };

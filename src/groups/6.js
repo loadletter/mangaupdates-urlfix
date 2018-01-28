@@ -288,7 +288,7 @@ var urlfix_grouplist = {
     "8726": "https://friendshipispower.wordpress.com/",
     "8746": "https://tadanohonyakusha.wordpress.com/",
     "8766": "http://bato.to/group/_/c/croxx-over-r6745",
-    "8786": "http://bato.to/group/_/c/cyan-steam-r6815",
+    "8786": "https://mangadex.com/group/35",
     "8806": "http://jianxis.tumblr.com",
     "8826": "http://butterflyblueye.livejournal.com",
     "8846": "http://dynasty-scans.com/scanlators/rmadokamagica",
@@ -321,5 +321,7 @@ var urlfix_grouplist = {
     "9446": "https://bato.to/group/_/p/pura-pura-scanlations-r7445",
     "946": "http://vaan.exblog.jp/",
     "9466": "https://kusomtl.wordpress.com/",
+    "9486": "https://piedpiperclash.000webhostapp.com/",
+    "9506": "https://thedragonsmind.com/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

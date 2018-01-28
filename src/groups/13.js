@@ -325,6 +325,7 @@ var urlfix_grouplist = {
     "9433": "https://www.patreon.com/hordy987/posts",
     "9453": "http://leggo.co.vu/translations",
     "9493": "http://kougekiscans.tumblr.com",
+    "9513": "http://sweetiescans.tumblr.com",
     "953": "http://community.livejournal.com/isoparadigm/",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"

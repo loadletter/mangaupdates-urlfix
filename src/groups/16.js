@@ -212,7 +212,7 @@ var urlfix_grouplist = {
     "6756": "https://fudgetranslations.wordpress.com/",
     "676": "http://www.zelda-infinite.com/",
     "6776": "http://nobodyelsescanlation.blogspot.com/",
-    "6836": "http://dracaena-scans.net/en/",
+    "6836": "http://dracaena.webd.pl",
     "6856": "https://kedelu.wordpress.com/",
     "6876": "http://ichigo-day.tumblr.com/",
     "6916": "http://crappy-bl-scanlations.tumblr.com/",

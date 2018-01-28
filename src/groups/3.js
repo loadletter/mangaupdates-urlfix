@@ -63,7 +63,7 @@ var urlfix_grouplist = {
     "2663": "https://www.mangaupdates.com/showtopic.php?tid=12047",
     "2683": "http://spaz4tw.livejournal.com/",
     "2703": "http://blueskydust.webs.com/",
-    "2723": "http://cm.jcink.net/",
+    "2723": "http://coyomoosescans.blogspot.com/",
     "2743": "http://sites.google.com/site/mascans/",
     "2783": "http://mangahelpers.com/s/random-guy-fansubs",
     "2843": "http://vaane.wordpress.com/",

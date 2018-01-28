@@ -321,6 +321,8 @@ var urlfix_grouplist = {
     "9417": "https://twitter.com/spiralmorioh",
     "9437": "https://boards.4chan.org/a",
     "9477": "http://sugarmagic.tumblr.com",
+    "9497": "https://ktmtbsn.tumblr.com/",
+    "9517": "https://kamurascans.wixsite.com/mysite",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"
 };

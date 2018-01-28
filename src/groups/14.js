@@ -243,7 +243,7 @@ var urlfix_grouplist = {
     "74": "http://www.snoopycool.com/",
     "7434": "http://zanildas.tumblr.com/",
     "7454": "http://up-subs.net/",
-    "7474": "http://drunkonschadenfreude.tumblr.com/",
+    "7474": "https://drunkonschadenfreude-scans.tumblr.com/",
     "7494": "http://sweetdevilscans.tumblr.com/",
     "7514": "http://nerunodaisuki.tumblr.com/post/104743435622/esoragoto-english-translation-version-this",
     "7534": "http://bato.to/group/_/b/bushido-pr-r6067",
@@ -341,6 +341,7 @@ var urlfix_grouplist = {
     "9454": "https://bato.to/group/_/p/the-peach-boys-r7448",
     "9474": "https://dynasty-scans.com/scanlators/shittaste_marble",
     "9494": "http://nehnehneji.tumblr.com/",
+    "9514": "https://kogarashi-scans.tumblr.com/",
     "954": "http://ttkmanga.wordpress.com/",
     "974": "http://www.conan-magic.com/fruits_basket/index.html",
     "994": "http://kameko-87.livejournal.com/profile"

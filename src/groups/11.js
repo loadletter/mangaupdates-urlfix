@@ -316,5 +316,6 @@ var urlfix_grouplist = {
     "9411": "http://bato.to/group/_/s/socomb-scanlinations-r7395",
     "9431": "https://bato.to/group/_/m/ded-r7279",
     "9491": "https://bato.to/group/_/other/athena-r7470",
-    "951": "http://believemanga.com"
+    "951": "http://believemanga.com",
+    "9511": "https://www.reddit.com/user/Miralisque/"
 };
