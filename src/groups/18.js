@@ -292,6 +292,7 @@ var urlfix_grouplist = {
     "8758": "http://sj4iy.tumblr.com",
     "8778": "http://bato.to/group/_/a/deity-scans-r6806",
     "878": "http://z9.invisionfree.com/Intercross/index.php?act=idx",
+    "8798": "https://orangepudding-translations.tumblr.com/",
     "8838": "http://runninginthenineti.es/",
     "8858": "http://spiritfingers8.weebly.com/",
     "8878": "https://trollnationreloaded.wordpress.com/",
@@ -321,6 +322,7 @@ var urlfix_grouplist = {
     "9458": "https://em-pirate.blogspot.com/",
     "9478": "https://bato.to/group/_/s/skt-r7449",
     "9498": "https://sinistertranslations.wordpress.com/",
+    "9518": "https://tsundoku-scans.tumblr.com/",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"

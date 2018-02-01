@@ -311,7 +311,7 @@ var urlfix_grouplist = {
     "8865": "http://ichiphile.tumblr.com",
     "8885": "http://eyms13.tumblr.com",
     "8945": "https://swe3tmoans-blscans.tumblr.com/",
-    "8965": "https://qwertyscans.wordpress.com/",
+    "8965": "https://qwertyscanlation.wordpress.com",
     "8985": "http://heavens-feel.com/translations.html",
     "9005": "http://bato.to/group/_/d/thed%C3%BAnedain-r7005",
     "9025": "http://bato.to/group/_/l/la-nuit-r7021",
@@ -336,5 +336,6 @@ var urlfix_grouplist = {
     "9445": "https://www.tappytoon.com/",
     "945": "http://tsubasachronicle.e7.to/",
     "9505": "https://hesitationscans.blogspot.com/",
+    "9525": "https://mangadex.com/group/675",
     "985": "http://m-beauty.org"
 };

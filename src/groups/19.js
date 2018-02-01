@@ -72,7 +72,7 @@ var urlfix_grouplist = {
     "3019": "http://cafeconlenin.com/",
     "3039": "http://loofnuk.com/",
     "3079": "http://4notherone.wordpress.com/",
-    "3119": "http://rxscans.tumblr.com",
+    "3119": "https://rxscans.wordpress.com/",
     "3139": "http://www.voodooscans.webs.com",
     "3179": "http://mangahelpers.com/s/crazyringo-on-his-own",
     "3219": "http://freyaminnie.exteen.com/",
@@ -331,6 +331,7 @@ var urlfix_grouplist = {
     "9459": "https://hyakuros.tumblr.com/",
     "9479": "https://www.facebook.com/SUGDW.Yabai.1",
     "9499": "https://meganescans.wordpress.com",
+    "9519": "https://cgtranslations.me/",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

@@ -329,7 +329,7 @@ var urlfix_grouplist = {
     "9222": "https://trackest.blog/",
     "9242": "http://crazytranslations.blogspot.com/2017/05/the-road-to-slaying-god-chapter-7.html",
     "9262": "https://soyokazeweb.wordpress.com/",
-    "9302": "https://oceanscans.wordpress.com/",
+    "9302": "https://crosstheoceans.tumblr.com/",
     "9322": "http://fate-go.us/",
     "9342": "https://nanming.wordpress.com/",
     "9362": "https://dmtranslationscn.wordpress.com/",
@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9462": "https://discord.gg/UmGAhPk",
     "9482": "https://discord.gg/PKkFDuK",
     "9502": "https://mangadex.com/group/369",
+    "9522": "https://mangadex.com/group/791",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

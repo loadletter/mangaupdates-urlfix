@@ -325,5 +325,6 @@ var urlfix_grouplist = {
     "9460": "https://www.facebook.com/jes199fsn/",
     "9480": "https://homodachi801.tumblr.com/",
     "9500": "https://teas-tl.tumblr.com/",
+    "9520": "https://mangadex.com/group/732",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

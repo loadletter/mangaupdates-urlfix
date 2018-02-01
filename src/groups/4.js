@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9464": "https://bato.to/group/_/a/silver-scans-r7455",
     "9484": "https://mikazuki-scans.tumblr.com/",
     "9504": "https://mangadex.com/group/394",
+    "9524": "https://mangadex.com/group/839",
     "984": "http://brokenwingscans.4000webs.com/"
 };

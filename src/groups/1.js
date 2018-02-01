@@ -330,7 +330,7 @@ var urlfix_grouplist = {
     "9241": "https://potatotranslation.com/",
     "9261": "https://crimsonjianghu.wordpress.com/",
     "9281": "https://pusupususcans.wordpress.com/",
-    "9301": "https://bato.to/group/_/o/heizz-r7304",
+    "9301": "https://mangadex.com/group/318",
     "9321": "http://shishunkibitterchange.tumblr.com/",
     "9341": "http://barnnn.blogspot.com/",
     "9361": "http://plumlizi.com",
@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9461": "https://cloudyscans.tumblr.com/",
     "9481": "https://twitter.com/bledascans",
     "9501": "https://gakuseiscans.blogspot.com/",
+    "9521": "https://mangadex.com/group/777",
     "981": "http://gensokyo.webleveling.com/"
 };
