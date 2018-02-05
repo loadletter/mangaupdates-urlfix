@@ -323,6 +323,7 @@ var urlfix_grouplist = {
     "9477": "http://sugarmagic.tumblr.com",
     "9497": "https://ktmtbsn.tumblr.com/",
     "9517": "https://kamurascans.wixsite.com/mysite",
+    "9537": "https://www.manga.club/",
     "957": "http://musashi.nyaatorrents.org/",
     "97": "http://www.manga-rain.com"
 };

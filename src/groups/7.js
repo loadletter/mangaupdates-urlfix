@@ -327,5 +327,6 @@ var urlfix_grouplist = {
     "947": "http://www.bloodknight.net/",
     "9487": "https://phymiathts.wordpress.com/",
     "9507": "https://mangadex.com/group/37",
+    "9527": "https://mangadex.com/group/861",
     "987": "http://forum.dats.us/index.php"
 };

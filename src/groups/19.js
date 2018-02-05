@@ -114,7 +114,7 @@ var urlfix_grouplist = {
     "4359": "http://ultimatemegax.wordpress.com/",
     "439": "http://www.hentailoversclub.net/",
     "4399": "http://mangaherescans.blogspot.com/",
-    "4419": "http://imperialscans.com/",
+    "4419": "https://www.facebook.com/imperialscans/",
     "4439": "http://lacyscanlations.blogspot.com/",
     "4459": "http://playgroundscans.com",
     "4479": "http://crimsonmoonscanlations.tk/",

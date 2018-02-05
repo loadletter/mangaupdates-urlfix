@@ -323,5 +323,6 @@ var urlfix_grouplist = {
     "9466": "https://kusomtl.wordpress.com/",
     "9486": "https://piedpiperclash.000webhostapp.com/",
     "9506": "https://thedragonsmind.com/",
+    "9526": "https://www.facebook.com/majormomoscans/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

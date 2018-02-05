@@ -296,7 +296,7 @@ var urlfix_grouplist = {
     "8773": "https://manyaktranslations.wordpress.com/",
     "8793": "http://zenithnovels.com/",
     "8813": "https://801uranus.tumblr.com/",
-    "8833": "http://bato.to/group/_/w/whimsubs-r6839",
+    "8833": "https://mangadex.com/group/898",
     "8853": "https://boyslovetranslations.wordpress.com/",
     "8873": "http://bato.to/group/_/l/lovely-ipad-r6878",
     "8893": "http://thesolitaryhobbyist.tumblr.com",
@@ -327,6 +327,7 @@ var urlfix_grouplist = {
     "9493": "http://kougekiscans.tumblr.com",
     "9513": "http://sweetiescans.tumblr.com",
     "953": "http://community.livejournal.com/isoparadigm/",
+    "9533": "https://mangadex.com/group/893",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"
 };

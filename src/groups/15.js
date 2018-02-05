@@ -310,6 +310,7 @@ var urlfix_grouplist = {
     "9455": "http://shittykoreantranslation.blogspot.com/",
     "9475": "https://shousanki.tumblr.com/tagged/shikugo",
     "9495": "http://majidescans.tumblr.com",
+    "9535": "https://chaiwiththebl.wordpress.com/",
     "955": "http://4serenity.org/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };
