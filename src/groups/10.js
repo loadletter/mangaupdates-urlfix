@@ -287,7 +287,7 @@ var urlfix_grouplist = {
     "8710": "https://mangadex.com/group/363",
     "8730": "http://amarurose.tumblr.com",
     "8750": "https://froglation.xyz/",
-    "8770": "http://bato.to/group/_/p/pingpongscans-r6758",
+    "8770": "https://mangadex.com/group/329",
     "8790": "https://etherealnovels.wordpress.com/",
     "8810": "http://isolilili.tumblr.com",
     "8830": "http://bato.to/group/_/m/murakumo-u13-r6836",
