@@ -336,6 +336,7 @@ var urlfix_grouplist = {
     "9483": "https://www.facebook.com/ComicolaFansubTeam",
     "9503": "https://azandynofansub.tumblr.com/",
     "9523": "https://mangadex.com/group/691",
+    "9543": "https://mangadex.com/group/1328",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

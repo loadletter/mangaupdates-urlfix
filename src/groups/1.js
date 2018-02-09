@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9481": "https://twitter.com/bledascans",
     "9501": "https://gakuseiscans.blogspot.com/",
     "9521": "https://mangadex.com/group/777",
+    "9541": "https://mangadex.com/group/1296",
     "981": "http://gensokyo.webleveling.com/"
 };

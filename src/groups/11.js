@@ -302,7 +302,7 @@ var urlfix_grouplist = {
     "9131": "http://snowflower-scans.tumblr.com/",
     "9151": "https://muses-scans.tumblr.com/",
     "9171": "http://bato.to/group/_/a/acf-team-r6434",
-    "9191": "https://bato.to/group/_/d/dumpster-fire-scans-r7155",
+    "9191": "https://mangadex.com/group/434",
     "9211": "https://twitter.com/minoalerano",
     "9231": "http://booklovers.zone/",
     "9251": "https://hikokitranslations.wordpress.com/",
