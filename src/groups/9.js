@@ -329,6 +329,7 @@ var urlfix_grouplist = {
     "9489": "https://kurosemporiumofinteresting.wordpress.com/",
     "9509": "https://convallariaslibrary.wordpress.com/",
     "9529": "http://richukescans.tumblr.com",
+    "9549": "http://turinconyaoi.tumblr.com",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

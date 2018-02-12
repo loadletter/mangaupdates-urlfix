@@ -324,5 +324,6 @@ var urlfix_grouplist = {
     "9490": "https://twitter.com/xolefray",
     "950": "http://kast.freehostia.com",
     "9510": "https://www.reddit.com/user/HelveticaFont",
-    "9530": "https://mangadex.com/group/895"
+    "9530": "https://mangadex.com/group/895",
+    "9550": "https://mangadex.com/group/1558"
 };

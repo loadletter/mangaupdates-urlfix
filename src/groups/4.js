@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9484": "https://mikazuki-scans.tumblr.com/",
     "9504": "https://mangadex.com/group/394",
     "9524": "https://mangadex.com/group/839",
+    "9544": "http://siusiakkun.tumblr.com",
     "984": "http://brokenwingscans.4000webs.com/"
 };

@@ -337,5 +337,6 @@ var urlfix_grouplist = {
     "945": "http://tsubasachronicle.e7.to/",
     "9505": "https://hesitationscans.blogspot.com/",
     "9525": "https://mangadex.com/group/675",
+    "9545": "https://mangadex.com/group/1400",
     "985": "http://m-beauty.org"
 };
