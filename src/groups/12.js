@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9452": "https://n00dlekun.tumblr.com/",
     "9492": "http://bato.to/group/_/c/colored-manga-translation-squad-r6636",
     "9512": "http://tonarinoscanlations.blogspot.com/",
+    "9552": "https://e621.net/pool/show/4195",
     "972": "http://tarngation.net/nhk"
 };

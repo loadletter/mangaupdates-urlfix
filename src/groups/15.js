@@ -312,5 +312,6 @@ var urlfix_grouplist = {
     "9495": "http://majidescans.tumblr.com",
     "9535": "https://chaiwiththebl.wordpress.com/",
     "955": "http://4serenity.org/",
+    "9555": "https://lost-translations.tumblr.com/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

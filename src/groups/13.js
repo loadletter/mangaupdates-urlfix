@@ -328,6 +328,7 @@ var urlfix_grouplist = {
     "9513": "http://sweetiescans.tumblr.com",
     "953": "http://community.livejournal.com/isoparadigm/",
     "9533": "https://mangadex.com/group/893",
+    "9553": "https://randerlation.wordpress.com/",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"
 };

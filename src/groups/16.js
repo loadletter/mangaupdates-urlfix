@@ -330,6 +330,7 @@ var urlfix_grouplist = {
     "9436": "https://facebook.com/hoshimemoria",
     "9456": "http://potatonatorscans.tumblr.com",
     "9536": "https://mtldao.blogspot.com/",
+    "9556": "https://mangadex.com/group/1663",
     "956": "http://straysscans.net/",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };
