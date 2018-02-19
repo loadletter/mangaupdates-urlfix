@@ -230,7 +230,7 @@ var urlfix_grouplist = {
     "7064": "http://hellscabanaboy.tumblr.com/",
     "7084": "http://forum.nihonomaru.net/yuri-and-yaoi-manga.48/thread/hyakujitsu-no-bara-maiden-rose-dj-scanlations-more-than-10-eng.211747/",
     "7104": "https://bokuwaneet.eu.org",
-    "7124": "http://chrima-scans.tumblr.com/",
+    "7124": "https://chrimascans.wordpress.com/",
     "7144": "http://iluvtranslates.tumblr.com/",
     "7164": "http://categoryg.blogspot.com/",
     "7184": "http://penparascans.livejournal.com/",
@@ -319,7 +319,7 @@ var urlfix_grouplist = {
     "8964": "http://codereiss.tumblr.com",
     "8984": "http://www.glitterberri.com/",
     "9024": "http://www.koneko-scantrad.fr/",
-    "9044": "http://bato.to/group/_/d/detective-conan-remake-r7033",
+    "9044": "https://mangadex.com/group/500",
     "9084": "https://webcomicsandscans.wordpress.com/",
     "9104": "https://e-hentai.org/uploader/ADT555",
     "9144": "http://cnoveluv.wordpress.com",
@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "9504": "https://mangadex.com/group/394",
     "9524": "https://mangadex.com/group/839",
     "9544": "http://siusiakkun.tumblr.com",
+    "9564": "https://mangadex.com/group/1862",
     "984": "http://brokenwingscans.4000webs.com/"
 };

@@ -333,6 +333,7 @@ var urlfix_grouplist = {
     "9499": "https://meganescans.wordpress.com",
     "9519": "https://cgtranslations.me/",
     "9539": "https://dynasty-scans.com/scanlators/rng_translations",
+    "9559": "https://dennou-translations.tumblr.com/",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

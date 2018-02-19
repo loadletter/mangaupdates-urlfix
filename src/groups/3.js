@@ -165,7 +165,7 @@ var urlfix_grouplist = {
     "5303": "http://www.grownupsinspandex.com/",
     "5323": "http://randomscans.blogspot.com/",
     "5383": "http://yumekotan.tumblr.com/",
-    "5403": "http://bapscans.tumblr.com/",
+    "5403": "https://bapscans.com/",
     "5423": "http://decadentdescent.blogspot.com/",
     "543": "http://snowy.gunmage.net/",
     "5463": "http://rinruritrans.x.fc2.com",
@@ -337,6 +337,7 @@ var urlfix_grouplist = {
     "9503": "https://azandynofansub.tumblr.com/",
     "9523": "https://mangadex.com/group/691",
     "9543": "https://mangadex.com/group/1328",
+    "9563": "https://mangadex.com/group/1839",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };

@@ -313,6 +313,7 @@ var urlfix_grouplist = {
     "9448": "https://passing-ghost.tumblr.com/",
     "9468": "https://bato.to/group/_/l/lost-in-the-clouds-r7460",
     "948": "http://www.mlfs.page.tl/",
+    "9488": "https://dacenttranslate.wordpress.com",
     "9508": "http://supergayscanlations.tumblr.com",
     "9528": "http://catefish.tumblr.com",
     "9548": "http://www.trashscanlations.com/",
