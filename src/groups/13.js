@@ -324,7 +324,7 @@ var urlfix_grouplist = {
     "9413": "https://mangadex.com/group/597",
     "9433": "https://www.patreon.com/hordy987/posts",
     "9453": "http://leggo.co.vu/translations",
-    "9493": "http://kougekiscans.tumblr.com",
+    "9493": "https://kougeki-scans.tumblr.com/",
     "9513": "http://sweetiescans.tumblr.com",
     "953": "http://community.livejournal.com/isoparadigm/",
     "9533": "https://mangadex.com/group/893",

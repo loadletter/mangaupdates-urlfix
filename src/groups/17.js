@@ -192,7 +192,7 @@ var urlfix_grouplist = {
     "6337": "https://spaminsubs.wordpress.com/",
     "6357": "http://www.sousetsuka.com/",
     "637": "http://community.livejournal.com/gokujyou_relief/",
-    "6377": "http://bato.to/group/_/r/rooftop-jazz-r3208",
+    "6377": "https://mangadex.com/group/1895",
     "6397": "http://archangelscans.com",
     "6437": "https://www.mediafire.com/folder/grg88e3jo1umi/%23Based_Anons",
     "6477": "https://xahkun.wordpress.com/",
@@ -325,5 +325,6 @@ var urlfix_grouplist = {
     "9517": "https://kamurascans.wixsite.com/mysite",
     "9537": "https://www.manga.club/",
     "957": "http://musashi.nyaatorrents.org/",
+    "9577": "https://bonbonbltranslations.com/",
     "97": "http://www.manga-rain.com"
 };

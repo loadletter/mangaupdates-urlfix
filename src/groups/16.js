@@ -332,5 +332,6 @@ var urlfix_grouplist = {
     "9536": "https://mtldao.blogspot.com/",
     "9556": "https://mangadex.com/group/1663",
     "956": "http://straysscans.net/",
+    "9576": "https://mangadex.com/group/2081",
     "96": "http://bato.to/group/_/b/bisquettes-r985"
 };

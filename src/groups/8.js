@@ -317,6 +317,7 @@ var urlfix_grouplist = {
     "9508": "http://supergayscanlations.tumblr.com",
     "9528": "http://catefish.tumblr.com",
     "9548": "http://www.trashscanlations.com/",
+    "9568": "http://mafyjaponica.blogspot.com/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"
 };

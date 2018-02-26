@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9492": "http://bato.to/group/_/c/colored-manga-translation-squad-r6636",
     "9512": "http://tonarinoscanlations.blogspot.com/",
     "9552": "https://e621.net/pool/show/4195",
+    "9572": "https://mangadex.com/group/1871",
     "972": "http://tarngation.net/nhk"
 };

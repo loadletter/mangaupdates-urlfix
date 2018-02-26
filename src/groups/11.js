@@ -162,7 +162,7 @@ var urlfix_grouplist = {
     "5811": "http://yander.es/",
     "5831": "http://wannabescanlations.wordpress.com/",
     "5851": "http://galacticascans.com/",
-    "5891": "http://aoc-translations.tumblr.com/",
+    "5891": "https://aoc.moe",
     "591": "http://a.sigh.org/",
     "5931": "http://divina126.livejournal.com/",
     "5951": "http://watisdisidonteven.blogspot.com/",
@@ -319,5 +319,6 @@ var urlfix_grouplist = {
     "951": "http://believemanga.com",
     "9511": "https://www.reddit.com/user/Miralisque/",
     "9531": "https://mangadex.com/group/662",
-    "9551": "https://happysheeptraduction.wordpress.com/"
+    "9551": "https://happysheeptraduction.wordpress.com/",
+    "9571": "https://mangadex.com/group/1536"
 };

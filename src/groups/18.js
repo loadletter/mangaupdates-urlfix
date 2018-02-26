@@ -325,6 +325,7 @@ var urlfix_grouplist = {
     "9518": "https://tsundoku-scans.tumblr.com/",
     "9538": "https://serenesforest.net/forums/index.php?/topic/79237-the-everyday-life-of-heroes-official-feh-manga-with-translations-0206-ch-12/",
     "9558": "https://sakuranovels.com/",
+    "9578": "https://ayyshadowtrans.wordpress.com/",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"

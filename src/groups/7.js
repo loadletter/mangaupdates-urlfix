@@ -329,5 +329,6 @@ var urlfix_grouplist = {
     "9507": "https://mangadex.com/group/37",
     "9527": "https://mangadex.com/group/861",
     "9547": "https://mangadex.com/group/1496",
+    "9567": "https://mangadex.com/group/32",
     "987": "http://forum.dats.us/index.php"
 };
