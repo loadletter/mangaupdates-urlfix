@@ -281,7 +281,7 @@ var urlfix_grouplist = {
     "8436": "http://fushicho_eien.livejournal.com",
     "8456": "https://oktranslation.wordpress.com/",
     "8476": "http://thelovelysnail.tumblr.com/translations",
-    "8496": "https://mss3k.wordpress.com/",
+    "8496": "http://mss3k.ml/",
     "8516": "http://dimensionslip.tumblr.com/",
     "8536": "http://browniesmores.tumblr.com",
     "8556": "http://talesofsea.livejournal.com/",

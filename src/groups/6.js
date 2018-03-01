@@ -325,5 +325,6 @@ var urlfix_grouplist = {
     "9506": "https://thedragonsmind.com/",
     "9526": "https://www.facebook.com/majormomoscans/",
     "9546": "https://mangadex.com/group/1423",
+    "9586": "https://uxteftl.wordpress.com/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

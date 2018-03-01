@@ -338,6 +338,7 @@ var urlfix_grouplist = {
     "9523": "https://mangadex.com/group/691",
     "9543": "https://mangadex.com/group/1328",
     "9563": "https://mangadex.com/group/1839",
+    "9583": "http://heroscans.tumblr.com",
     "963": "http://community.livejournal.com/papercut_scans/",
     "983": "http://ss-projects.blogspot.com/"
 };
