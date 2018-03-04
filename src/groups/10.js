@@ -325,5 +325,6 @@ var urlfix_grouplist = {
     "950": "http://kast.freehostia.com",
     "9510": "https://www.reddit.com/user/HelveticaFont",
     "9530": "https://mangadex.com/group/895",
-    "9550": "https://mangadex.com/group/1558"
+    "9550": "https://mangadex.com/group/1558",
+    "9590": "http://spideronthewindow.tumblr.com/"
 };

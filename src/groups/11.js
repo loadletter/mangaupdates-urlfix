@@ -320,5 +320,6 @@ var urlfix_grouplist = {
     "9511": "https://www.reddit.com/user/Miralisque/",
     "9531": "https://mangadex.com/group/662",
     "9551": "https://happysheeptraduction.wordpress.com/",
-    "9571": "https://mangadex.com/group/1536"
+    "9571": "https://mangadex.com/group/1536",
+    "9591": "https://akaiyuhimun.ru/"
 };

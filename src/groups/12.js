@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9512": "http://tonarinoscanlations.blogspot.com/",
     "9552": "https://e621.net/pool/show/4195",
     "9572": "https://mangadex.com/group/1871",
+    "9592": "https://menosfreetime.wordpress.com/",
     "972": "http://tarngation.net/nhk"
 };

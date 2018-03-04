@@ -331,6 +331,7 @@ var urlfix_grouplist = {
     "9529": "http://richukescans.tumblr.com",
     "9549": "http://turinconyaoi.tumblr.com",
     "9569": "https://mangadex.com/group/1958",
+    "9589": "https://mangadex.org/group/2203/angelic-pervert",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };
