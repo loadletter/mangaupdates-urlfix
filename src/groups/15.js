@@ -313,5 +313,6 @@ var urlfix_grouplist = {
     "9535": "https://chaiwiththebl.wordpress.com/",
     "955": "http://4serenity.org/",
     "9555": "https://lost-translations.tumblr.com/",
+    "9595": "https://mangadex.org/group/2330/mamajuku",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

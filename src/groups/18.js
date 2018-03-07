@@ -327,6 +327,7 @@ var urlfix_grouplist = {
     "9558": "https://sakuranovels.com/",
     "9578": "https://ayyshadowtrans.wordpress.com/",
     "958": "http://kaien.secret-moon.net/YasaRyuu/kien.html",
+    "9598": "http://steygerd.blogspot.com/",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"
 };
