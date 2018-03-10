@@ -245,7 +245,7 @@ var urlfix_grouplist = {
     "7706": "https://yorozuyatrans.wordpress.com/",
     "7726": "http://izanyanorihara.tumblr.com/",
     "7746": "http://dark1408.livejournal.com/",
-    "7766": "http://xiaojiangworld.tumblr.com/",
+    "7766": "https://xiaoyaoiplayground.wordpress.com/",
     "7806": "http://bato.to/group/_/k/kumomori-r6281",
     "7826": "https://incarneous.wordpress.com/",
     "7846": "http://momocommissions.tumblr.com/",
@@ -326,5 +326,6 @@ var urlfix_grouplist = {
     "9526": "https://www.facebook.com/majormomoscans/",
     "9546": "https://mangadex.com/group/1423",
     "9586": "https://uxteftl.wordpress.com/",
+    "9606": "https://mangadex.org/group/2524/orchesc-a-ns",
     "986": "http://community.livejournal.com/bushidoangels"
 };

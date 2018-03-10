@@ -345,5 +345,6 @@ var urlfix_grouplist = {
     "9544": "http://siusiakkun.tumblr.com",
     "9564": "https://mangadex.com/group/1862",
     "9584": "https://mangadex.com/group/2131",
+    "9604": "http://radlane.netne.net/",
     "984": "http://brokenwingscans.4000webs.com/"
 };

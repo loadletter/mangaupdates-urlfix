@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "9502": "https://mangadex.com/group/369",
     "9522": "https://mangadex.com/group/791",
     "9542": "http://procrastinationtranslations.tumblr.com",
+    "9602": "https://waifusims.com/",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0"
 };

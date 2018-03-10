@@ -326,5 +326,6 @@ var urlfix_grouplist = {
     "9510": "https://www.reddit.com/user/HelveticaFont",
     "9530": "https://mangadex.com/group/895",
     "9550": "https://mangadex.com/group/1558",
-    "9590": "http://spideronthewindow.tumblr.com/"
+    "9590": "http://spideronthewindow.tumblr.com/",
+    "9610": "http://www.lannyland.com/jol/jol.shtml"
 };
