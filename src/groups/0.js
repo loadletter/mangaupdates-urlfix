@@ -328,5 +328,6 @@ var urlfix_grouplist = {
     "9520": "http://sa-scans.blogspot.com/",
     "9540": "https://mangadex.com/group/1295",
     "9580": "https://mangadex.com/group/2108",
+    "9620": "https://futurezenith.blogspot.com/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

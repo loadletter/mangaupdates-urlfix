@@ -327,5 +327,6 @@ var urlfix_grouplist = {
     "9546": "https://mangadex.com/group/1423",
     "9586": "https://uxteftl.wordpress.com/",
     "9606": "https://mangadex.org/group/2524/orchesc-a-ns",
+    "9626": "https://mangadex.org/group/2480/fanlation10",
     "986": "http://community.livejournal.com/bushidoangels"
 };

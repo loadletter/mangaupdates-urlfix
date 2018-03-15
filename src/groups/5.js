@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9565": "https://behind-otaku-curtain.tumblr.com/",
     "9585": "https://robinhoodscansblog.tumblr.com/",
     "9605": "https://cyberpand4.tumblr.com/finishedprojects",
+    "9625": "https://mangadex.org/group/2631/mangashouji",
     "985": "http://m-beauty.org"
 };

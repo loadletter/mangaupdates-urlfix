@@ -345,6 +345,7 @@ var urlfix_grouplist = {
     "954": "http://ttkmanga.wordpress.com/",
     "9554": "https://twitter.com/MajimeScans",
     "9574": "http://manga.teitoku.net/",
+    "9614": "http://travelingcameracat.tumblr.com",
     "974": "http://www.conan-magic.com/fruits_basket/index.html",
     "994": "http://kameko-87.livejournal.com/profile"
 };

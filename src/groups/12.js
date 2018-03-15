@@ -169,7 +169,7 @@ var urlfix_grouplist = {
     "5652": "https://goldenshadescans.wordpress.com/",
     "5672": "http://pixinia.livejournal.com/",
     "572": "http://www.sbm.blahsoft.com/",
-    "5752": "http://lazylily.moe/",
+    "5752": "https://lazylilyfansubs.wordpress.com/",
     "5812": "http://necron99scans.com",
     "5832": "http://bato.to/group/_/d/disdeeee-r3849",
     "5852": "http://sleepingdragonslie.wordpress.com/",
@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "9552": "https://e621.net/pool/show/4195",
     "9572": "https://mangadex.com/group/1871",
     "9592": "https://menosfreetime.wordpress.com/",
+    "9612": "https://mangadex.org/group/2549/umeru-translation",
     "972": "http://tarngation.net/nhk"
 };

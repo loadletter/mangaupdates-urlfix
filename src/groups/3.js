@@ -109,7 +109,7 @@ var urlfix_grouplist = {
     "383": "http://behind.closed-doors.org/",
     "3883": "http://pandaranda.livejournal.com/",
     "3903": "http://mdscans.wordpress.com/",
-    "3923": "https://www.facebook.com/groups/APTA.Scanlation/",
+    "3923": "https://apta-scans.tumblr.com/",
     "3943": "http://shmook148.blogspot.com/",
     "3963": "http://saviourscans.wordpress.com/",
     "3983": "http://midnightsonatas.ucoz.com/",

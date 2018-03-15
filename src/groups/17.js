@@ -327,5 +327,6 @@ var urlfix_grouplist = {
     "957": "http://musashi.nyaatorrents.org/",
     "9577": "https://bonbonbltranslations.com/",
     "9597": "https://mangadex.org/group/2376/frtoenscanlation",
+    "9617": "https://mangadex.org/group/2591/missmystery94",
     "97": "http://www.manga-rain.com"
 };
