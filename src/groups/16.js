@@ -335,5 +335,6 @@ var urlfix_grouplist = {
     "9576": "https://mangadex.com/group/2081",
     "9596": "https://enemystandh.tumblr.com/",
     "96": "http://bato.to/group/_/b/bisquettes-r985",
-    "9616": "https://apollotranslationsnsfw.blogspot.com/"
+    "9616": "https://apollotranslationsnsfw.blogspot.com/",
+    "9636": "https://mangadex.org/group/2670/sweep-up-translations"
 };

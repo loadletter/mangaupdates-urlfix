@@ -184,7 +184,7 @@ var urlfix_grouplist = {
     "5964": "http://akibadetectives.tumblr.com/",
     "5984": "http://indigoscanlations.co.vu/",
     "6004": "http://bato.to/group/_/e/entente-r3838",
-    "6024": "https://twitter.com/rpapo_314156295",
+    "6024": "https://vortex-scans.com/blog/",
     "6064": "http://zettaitranslation.blogspot.com/",
     "6084": "http://m3ow.moe/",
     "6124": "https://sunrisescans.wordpress.com/",
@@ -347,5 +347,6 @@ var urlfix_grouplist = {
     "9584": "https://mangadex.com/group/2131",
     "9604": "http://radlane.netne.net/",
     "9624": "https://mangadex.org/group/1872/toloveru",
+    "9644": "http://butterflyscurse.stream/",
     "984": "http://brokenwingscans.4000webs.com/"
 };

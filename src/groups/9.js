@@ -259,7 +259,7 @@ var urlfix_grouplist = {
     "7869": "http://bato.to/group/_/u/unknown-iii-r6301",
     "7889": "https://mangadex.com/group/1254",
     "7909": "https://kicchiri.co/",
-    "7929": "https://theresnothingheresite.wordpress.com",
+    "7929": "https://fuckyeahreaders.tumblr.com/",
     "7969": "http://alice-theredqueen.tumblr.com/tagged/scanlation",
     "7989": "https://www.facebook.com/elDLIVE.AmanoAkira/",
     "8009": "http://imayooshi.tumblr.com/",
@@ -333,6 +333,7 @@ var urlfix_grouplist = {
     "9569": "https://mangadex.com/group/1958",
     "9589": "https://mangadex.org/group/2203/angelic-pervert",
     "9609": "https://limostn.wordpress.com/",
+    "9629": "https://desiringtranslation.com/",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

@@ -320,6 +320,7 @@ var urlfix_grouplist = {
     "9568": "http://mafyjaponica.blogspot.com/",
     "9588": "http://fuutsukisen.tumblr.com",
     "9608": "https://xianxiaheaven.wordpress.com",
+    "9628": "https://sjcnoveltranslations.wordpress.com/",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"
 };

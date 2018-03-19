@@ -326,7 +326,8 @@ var urlfix_grouplist = {
     "9526": "https://www.facebook.com/majormomoscans/",
     "9546": "https://mangadex.com/group/1423",
     "9586": "https://uxteftl.wordpress.com/",
-    "9606": "https://mangadex.org/group/2524/orchesc-a-ns",
+    "9606": "http://orchescans.polychord.xyz/",
     "9626": "https://mangadex.org/group/2480/fanlation10",
+    "9646": "https://mehtranslations.tumblr.com/",
     "986": "http://community.livejournal.com/bushidoangels"
 };

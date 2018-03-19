@@ -322,5 +322,6 @@ var urlfix_grouplist = {
     "9551": "https://happysheeptraduction.wordpress.com/",
     "9571": "https://mangadex.com/group/1536",
     "9591": "https://akaiyuhimun.ru/",
-    "9611": "https://gab.ai/BigGuy4U"
+    "9611": "https://gab.ai/BigGuy4U",
+    "9631": "https://slnfidels.wordpress.com/"
 };

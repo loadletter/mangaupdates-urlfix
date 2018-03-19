@@ -315,5 +315,6 @@ var urlfix_grouplist = {
     "9555": "https://lost-translations.tumblr.com/",
     "9595": "https://mangadex.org/group/2330/mamajuku",
     "9615": "https://kcgscans.tumblr.com/",
+    "9635": "https://veetranslation.wordpress.com/",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

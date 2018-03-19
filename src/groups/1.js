@@ -346,5 +346,6 @@ var urlfix_grouplist = {
     "9561": "https://rainbowpeenscans.tumblr.com/",
     "9581": "https://mangadex.com/group/858",
     "9621": "https://fromzero.cc/",
+    "9641": "https://judyscans.wordpress.com/",
     "981": "http://gensokyo.webleveling.com/"
 };

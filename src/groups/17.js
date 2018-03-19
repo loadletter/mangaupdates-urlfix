@@ -328,5 +328,6 @@ var urlfix_grouplist = {
     "9577": "https://bonbonbltranslations.com/",
     "9597": "https://mangadex.org/group/2376/frtoenscanlation",
     "9617": "https://mangadex.org/group/2591/missmystery94",
+    "9637": "http://timelessleaf.com/",
     "97": "http://www.manga-rain.com"
 };

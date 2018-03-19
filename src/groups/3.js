@@ -197,7 +197,7 @@ var urlfix_grouplist = {
     "6223": "http://penumbrale.livejournal.com/",
     "6243": "http://aria-dc-al-fine.livejournal.com/",
     "6263": "http://shinkirouscans.wordpress.com/",
-    "6283": "http://silver-garden.eigenreality.net/",
+    "6283": "http://silvergardentl.blogspot.com/",
     "63": "http://www.possible-soup.net",
     "6303": "https://pirateyoshi.wordpress.com/",
     "6323": "https://defiring.wordpress.com/",
@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9583": "http://heroscans.tumblr.com",
     "9603": "https://mangadex.org/group/2491/zeen3-typesetting",
     "963": "http://community.livejournal.com/papercut_scans/",
+    "9643": "https://yamabuki064.wordpress.com/",
     "983": "http://ss-projects.blogspot.com/"
 };
