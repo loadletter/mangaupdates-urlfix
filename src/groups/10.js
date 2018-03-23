@@ -328,5 +328,6 @@ var urlfix_grouplist = {
     "9550": "https://mangadex.com/group/1558",
     "9590": "http://spideronthewindow.tumblr.com/",
     "9610": "http://www.lannyland.com/jol/jol.shtml",
-    "9630": "https://terribletranslation.wordpress.com/"
+    "9630": "https://terribletranslation.wordpress.com/",
+    "9650": "http://rainbowpeenscans.tumblr.com"
 };

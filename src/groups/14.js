@@ -321,7 +321,7 @@ var urlfix_grouplist = {
     "9034": "https://cosmicenzyme.wordpress.com",
     "9054": "http://wanderboyscans.tumblr.com",
     "9074": "https://aquariumtourmaline.tumblr.com/",
-    "9094": "http://biamamscans.com/manga/komi-san-wa-komyusho-desu/",
+    "9094": "https://mangadex.org/group/407/komi-scan-wa-komyushou-desu",
     "9114": "https://crimsonmagic.me/",
     "9134": "https://mangadex.com/group/53",
     "914": "http://www.narutobuzz.com",

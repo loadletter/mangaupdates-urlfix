@@ -321,6 +321,7 @@ var urlfix_grouplist = {
     "9588": "http://fuutsukisen.tumblr.com",
     "9608": "https://xianxiaheaven.wordpress.com",
     "9628": "https://sjcnoveltranslations.wordpress.com/",
+    "9648": "https://mangadex.org/group/2820/fantasies_scan",
     "968": "http://minna-scan.net/",
     "988": "http://www.gensokyo.org/"
 };

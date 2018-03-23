@@ -332,6 +332,7 @@ var urlfix_grouplist = {
     "9593": "https://mangadex.org/group/2047/miyakobestgirl",
     "9613": "https://mangadex.org/group/1582/poiink-scans",
     "9633": "https://lcatherina.wordpress.com/",
+    "9653": "https://mangadex.org/group/2951/futaku-scanlation",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"
 };

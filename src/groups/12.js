@@ -345,5 +345,6 @@ var urlfix_grouplist = {
     "9592": "https://menosfreetime.wordpress.com/",
     "9612": "https://mangadex.org/group/2549/umeru-translation",
     "9632": "https://kieukieudays.com",
+    "9652": "https://mangadex.org/group/2213/kamui-scans",
     "972": "http://tarngation.net/nhk"
 };
