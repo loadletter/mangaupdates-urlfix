@@ -327,7 +327,9 @@ var urlfix_grouplist = {
     "9500": "https://teas-tl.tumblr.com/",
     "9520": "http://sa-scans.blogspot.com/",
     "9540": "https://mangadex.com/group/1295",
+    "9560": "https://mieikaz.com/",
     "9580": "https://mangadex.com/group/2108",
     "9620": "https://futurezenith.blogspot.com/",
+    "9660": "https://mangadex.org/group/2907/leaf-translation",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

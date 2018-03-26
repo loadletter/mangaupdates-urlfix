@@ -329,5 +329,6 @@ var urlfix_grouplist = {
     "9597": "https://mangadex.org/group/2376/frtoenscanlation",
     "9617": "https://mangadex.org/group/2591/missmystery94",
     "9637": "http://timelessleaf.com/",
+    "9657": "https://mangadex.org/group/2716/no-group-scanlation",
     "97": "http://www.manga-rain.com"
 };

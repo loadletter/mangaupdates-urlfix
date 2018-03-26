@@ -321,7 +321,7 @@ var urlfix_grouplist = {
     "9446": "https://mangadex.com/group/1147",
     "946": "http://vaan.exblog.jp/",
     "9466": "https://kusomtl.wordpress.com/",
-    "9486": "https://piedpiperclash.000webhostapp.com/",
+    "9486": "https://zeroscans.com/",
     "9506": "https://thedragonsmind.com/",
     "9526": "https://www.facebook.com/majormomoscans/",
     "9546": "https://mangadex.com/group/1423",

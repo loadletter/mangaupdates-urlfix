@@ -330,6 +330,7 @@ var urlfix_grouplist = {
     "9598": "http://steygerd.blogspot.com/",
     "9618": "http://tenchiforum.tumblr.com",
     "9638": "https://mangadex.org/group/2698/soukyokusei-scans-sks",
+    "9658": "https://mangadex.org/group/3046/akairingo",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"
 };

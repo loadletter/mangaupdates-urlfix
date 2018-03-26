@@ -338,6 +338,7 @@ var urlfix_grouplist = {
     "9599": "https://mangadex.org/group/2465/iscans",
     "9619": "https://mangadex.org/group/2582/jet-yau",
     "9639": "https://mangadex.org/group/2695/dear-darling",
+    "9659": "https://tansoutsukai.wordpress.com/",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

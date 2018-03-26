@@ -347,5 +347,6 @@ var urlfix_grouplist = {
     "9581": "https://mangadex.com/group/858",
     "9621": "https://fromzero.cc/",
     "9641": "https://judyscans.wordpress.com/",
+    "9661": "https://mangadex.org/group/3092/zepfur",
     "981": "http://gensokyo.webleveling.com/"
 };
