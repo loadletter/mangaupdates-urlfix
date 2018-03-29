@@ -348,5 +348,6 @@ var urlfix_grouplist = {
     "9604": "http://radlane.netne.net/",
     "9624": "https://mangadex.org/group/1872/toloveru",
     "9644": "http://butterflyscurse.stream/",
+    "9664": "https://mangadex.org/group/2589/laughingman",
     "984": "http://brokenwingscans.4000webs.com/"
 };

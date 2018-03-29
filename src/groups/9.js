@@ -335,6 +335,7 @@ var urlfix_grouplist = {
     "9609": "https://limostn.wordpress.com/",
     "9629": "https://desiringtranslation.com/",
     "9649": "https://sakuraidreader.wordpress.com",
+    "9669": "https://mangadex.org/group/3191/amaranth-scans",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

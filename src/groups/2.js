@@ -346,5 +346,6 @@ var urlfix_grouplist = {
     "9602": "https://waifusims.com/",
     "962": "http://mangahelpers.com/forum/index.php?board=296.0",
     "9622": "https://mangadex.org/group/2621/gardiens-du-jardin",
-    "9642": "https://mangadex.org/group/2722/manga-gago"
+    "9642": "https://mangadex.org/group/2722/manga-gago",
+    "9662": "https://mangadex.org/group/3144/yukicola"
 };

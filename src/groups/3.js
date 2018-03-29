@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9603": "https://mangadex.org/group/2491/zeen3-typesetting",
     "963": "http://community.livejournal.com/papercut_scans/",
     "9643": "https://yamabuki064.wordpress.com/",
+    "9663": "https://fujoshiscans.tumblr.com/",
     "983": "http://ss-projects.blogspot.com/"
 };
