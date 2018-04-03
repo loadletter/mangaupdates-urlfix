@@ -337,5 +337,6 @@ var urlfix_grouplist = {
     "96": "http://bato.to/group/_/b/bisquettes-r985",
     "9616": "https://apollotranslationsnsfw.blogspot.com/",
     "9636": "https://mangadex.org/group/2670/sweep-up-translations",
-    "9656": "https://mangadex.org/group/2997/rol-scans"
+    "9656": "https://mangadex.org/group/2997/rol-scans",
+    "9676": "https://mangadex.org/group/3262/rinn1412"
 };
