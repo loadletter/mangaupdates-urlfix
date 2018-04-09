@@ -296,7 +296,7 @@ var urlfix_grouplist = {
     "8773": "https://manyaktranslations.wordpress.com/",
     "8793": "http://zenithnovels.com/",
     "8813": "https://801uranus.tumblr.com/",
-    "8833": "https://mangadex.com/group/898",
+    "8833": "https://whimsubs.blogspot.com/",
     "8853": "https://boyslovetranslations.wordpress.com/",
     "8873": "http://bato.to/group/_/l/lovely-ipad-r6878",
     "8893": "http://thesolitaryhobbyist.tumblr.com",

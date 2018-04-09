@@ -323,5 +323,6 @@ var urlfix_grouplist = {
     "9628": "https://sjcnoveltranslations.wordpress.com/",
     "9648": "https://mangadex.org/group/2820/fantasies_scan",
     "968": "http://minna-scan.net/",
+    "9688": "https://mangadex.org/group/2978",
     "988": "http://www.gensokyo.org/"
 };

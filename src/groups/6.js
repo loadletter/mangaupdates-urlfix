@@ -330,5 +330,6 @@ var urlfix_grouplist = {
     "9626": "https://mangadex.org/group/2480/fanlation10",
     "9646": "https://mehtranslations.tumblr.com/",
     "9666": "https://mangadex.org/group/3113/grandiloquent-sonority-scanlations",
+    "9686": "http://www.imxprs.com/free/harukazehaya/gladiolus-project",
     "986": "http://community.livejournal.com/bushidoangels"
 };

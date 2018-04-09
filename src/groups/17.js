@@ -81,7 +81,7 @@ var urlfix_grouplist = {
     "3417": "http://zer0plus.wordpress.com/",
     "3437": "http://radiopowered.livejournal.com/",
     "3457": "http://remoe.wordpress.com/",
-    "3477": "http://egscans.com/",
+    "3477": "https://egscans.com/",
     "3497": "http://animephreak.wordpress.com/works/",
     "3557": "http://xnothingx.wordpress.com/",
     "3577": "http://yukimitai.wordpress.com/",
