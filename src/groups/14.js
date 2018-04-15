@@ -348,6 +348,7 @@ var urlfix_grouplist = {
     "9614": "http://travelingcameracat.tumblr.com",
     "9634": "https://secondlifetranslations.wordpress.com/",
     "9674": "https://mangadex.org/group/3246/team-duwang",
+    "9694": "https://mangadex.org/group/3600/barefoot-scans",
     "974": "http://www.conan-magic.com/fruits_basket/index.html",
     "994": "http://kameko-87.livejournal.com/profile"
 };

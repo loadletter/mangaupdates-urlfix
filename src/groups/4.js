@@ -350,5 +350,6 @@ var urlfix_grouplist = {
     "9644": "http://butterflyscurse.stream/",
     "9664": "https://mangadex.org/group/2589/laughingman",
     "9684": "https://axomiahoimoi.wordpress.com/",
+    "9704": "https://jinzeffect.wordpress.com/",
     "984": "http://brokenwingscans.4000webs.com/"
 };

@@ -318,5 +318,6 @@ var urlfix_grouplist = {
     "9635": "https://veetranslation.wordpress.com/",
     "9655": "https://mangadex.org/group/2998/ichigo-ichie-scanlation",
     "9675": "https://shmtranslations.com/",
+    "9695": "https://www.mangadex.org/group/3626/ailovexoxo",
     "975": "http://www.conan-magic.com/fruits_basket/index.html"
 };

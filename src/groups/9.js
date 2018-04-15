@@ -119,7 +119,7 @@ var urlfix_grouplist = {
     "4329": "http://fuwafuwaru.fakku.net/",
     "4349": "http://bakenekoslair.com/",
     "4369": "http://mizunokagami.blogspot.com/",
-    "4389": "http://outerworldscans.com/",
+    "4389": "https://outerworld-scans.com",
     "4429": "http://afthscans.funeralofsmiles.com/",
     "4449": "http://twistedmist.blogspot.com/",
     "4469": "http://butsu-scans.blogspot.com/",
@@ -336,6 +336,7 @@ var urlfix_grouplist = {
     "9629": "https://desiringtranslation.com/",
     "9649": "https://sakuraidreader.wordpress.com",
     "9669": "https://mangadex.org/group/3191/amaranth-scans",
+    "9689": "https://mangadex.org/group/3418/nani-scans",
     "969": "http://sf.nyaatorrents.org/",
     "989": "http://captaintsubasafan.free.fr/"
 };

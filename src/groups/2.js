@@ -324,7 +324,7 @@ var urlfix_grouplist = {
     "9122": "https://mangadex.com/group/632",
     "9142": "https://burstingchrysanthemums.tumblr.com/",
     "9162": "https://dynasty-scans.com/scanlators/snsbu",
-    "9182": "http://beikastreetirregulars.tumblr.com",
+    "9182": "https://bsi-scans.tumblr.com/",
     "922": "http://coomasieblue.livejournal.com/",
     "9222": "https://trackest.blog/",
     "9242": "http://crazytranslations.blogspot.com/2017/05/the-road-to-slaying-god-chapter-7.html",
@@ -347,5 +347,6 @@ var urlfix_grouplist = {
     "962": "http://mangahelpers.com/forum/index.php?board=296.0",
     "9622": "https://mangadex.org/group/2621/gardiens-du-jardin",
     "9642": "https://mangadex.org/group/2722/manga-gago",
-    "9662": "https://mangadex.org/group/3144/yukicola"
+    "9662": "https://mangadex.org/group/3144/yukicola",
+    "9702": "https://eternalkifune.wordpress.com/"
 };

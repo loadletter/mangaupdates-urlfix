@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "963": "http://community.livejournal.com/papercut_scans/",
     "9643": "https://yamabuki064.wordpress.com/",
     "9663": "https://fujoshiscans.tumblr.com/",
+    "9703": "https://kuro1305scan.tumblr.com/",
     "983": "http://ss-projects.blogspot.com/"
 };

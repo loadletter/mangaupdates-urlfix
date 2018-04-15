@@ -298,7 +298,7 @@ var urlfix_grouplist = {
     "8461": "http://otakkii.tumblr.com/",
     "8521": "http://maboroshi-no.tumblr.com",
     "8541": "http://www.kencephalontranslations.com/",
-    "8561": "http://lhtranslation.com/",
+    "8561": "http://lhtranslation.net/",
     "8581": "http://gretchen8642.livejournal.com",
     "861": "http://mangahelpers.com/forum/index.php?board=8.0",
     "8621": "http://seiren-project.tumblr.com/tagged/doujinshi",
@@ -349,5 +349,6 @@ var urlfix_grouplist = {
     "9641": "https://judyscans.wordpress.com/",
     "9661": "https://mangadex.org/group/3092/zepfur",
     "9681": "https://chronosvault.wordpress.com/",
+    "9701": "https://kaede721.wordpress.com",
     "981": "http://gensokyo.webleveling.com/"
 };

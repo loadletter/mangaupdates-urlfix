@@ -332,5 +332,6 @@ var urlfix_grouplist = {
     "9620": "https://futurezenith.blogspot.com/",
     "9660": "https://mangadex.org/group/2907/leaf-translation",
     "9680": "https://lazydoujinemi.tumblr.com/",
+    "9700": "https://mangadex.org/group/3518/kanami-chan",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

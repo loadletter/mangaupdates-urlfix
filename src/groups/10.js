@@ -330,5 +330,6 @@ var urlfix_grouplist = {
     "9610": "http://www.lannyland.com/jol/jol.shtml",
     "9630": "https://terribletranslation.wordpress.com/",
     "9650": "http://rainbowpeenscans.tumblr.com",
-    "9670": "https://mangadex.org/group/2188/midchilda-discord-server-translation"
+    "9670": "https://mangadex.org/group/2188/midchilda-discord-server-translation",
+    "9690": "https://mangadex.org/group/3555/moocow-scans"
 };
