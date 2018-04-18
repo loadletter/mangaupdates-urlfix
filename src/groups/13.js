@@ -335,6 +335,7 @@ var urlfix_grouplist = {
     "9653": "https://mangadex.org/group/2951/futaku-scanlation",
     "9673": "https://mangadex.org/group/3241/kuma-translation",
     "9693": "https://mangadex.org/group/3587/noob-scans/chapters/",
+    "9713": "https://mangadex.org/group/3242/papillion-productions",
     "973": "http://xinan2.blogspot.com/",
     "993": "http://lulu-rebellion.org/"
 };

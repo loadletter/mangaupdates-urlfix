@@ -23,7 +23,7 @@ var urlfix_grouplist = {
     "1818": "http://digistarlight.net/",
     "1838": "http://dardlea.livejournal.com/",
     "1858": "http://community.livejournal.com/deathtrap_dn/",
-    "1938": "http://tanjou.rocktarts.com/",
+    "1938": "https://tanjou-scanlations.blogspot.com/",
     "1958": "http://wtf.meep-scans.com/",
     "1978": "http://meggyeggy1024.livejournal.com/",
     "198": "http://pedobears.kickme.to",
@@ -332,6 +332,7 @@ var urlfix_grouplist = {
     "9638": "https://mangadex.org/group/2698/soukyokusei-scans-sks",
     "9658": "https://mangadex.org/group/3046/akairingo",
     "9678": "http://rollingthunderscans.tumblr.com",
+    "9718": "https://mangadex.org/group/3478",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"
 };

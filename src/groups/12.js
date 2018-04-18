@@ -348,5 +348,6 @@ var urlfix_grouplist = {
     "9652": "https://mangadex.org/group/2213/kamui-scans",
     "9672": "https://mangadex.org/group/349/cipherscans",
     "9692": "https://fushigitranslations.wordpress.com/",
+    "9712": "http://sweetblscans.tumblr.com",
     "972": "http://tarngation.net/nhk"
 };

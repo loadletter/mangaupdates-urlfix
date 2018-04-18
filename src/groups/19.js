@@ -340,6 +340,7 @@ var urlfix_grouplist = {
     "9639": "https://mangadex.org/group/2695/dear-darling",
     "9659": "https://tansoutsukai.wordpress.com/",
     "9699": "https://www.mangadex.org/group/3636/kaido-scans",
+    "9719": "https://mangadex.org/group/3811/no-es-fake",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

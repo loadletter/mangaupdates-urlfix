@@ -324,5 +324,6 @@ var urlfix_grouplist = {
     "9648": "https://mangadex.org/group/2820/fantasies_scan",
     "968": "http://minna-scan.net/",
     "9688": "https://mangadex.org/group/2978",
+    "9708": "https://mangadex.org/group/3699/kotori",
     "988": "http://www.gensokyo.org/"
 };

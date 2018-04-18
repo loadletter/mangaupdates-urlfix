@@ -331,5 +331,6 @@ var urlfix_grouplist = {
     "9630": "https://terribletranslation.wordpress.com/",
     "9650": "http://rainbowpeenscans.tumblr.com",
     "9670": "https://mangadex.org/group/2188/midchilda-discord-server-translation",
-    "9690": "https://mangadex.org/group/3555/moocow-scans"
+    "9690": "https://mangadex.org/group/3555/moocow-scans",
+    "9710": "https://mangadex.org/group/3726/crimson-sky-scanlations"
 };

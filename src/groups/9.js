@@ -256,7 +256,7 @@ var urlfix_grouplist = {
     "7769": "http://kuraxsawa.tumblr.com/",
     "7789": "http://bato.to/group/_/t/tivanenk-r6268",
     "7829": "http://saplings.livejournal.com/",
-    "7869": "http://bato.to/group/_/u/unknown-iii-r6301",
+    "7869": "https://mangadex.org/group/1877/unknown-iii",
     "7889": "https://mangadex.com/group/1254",
     "7909": "https://kicchiri.co/",
     "7929": "https://fuckyeahreaders.tumblr.com/",
@@ -338,5 +338,6 @@ var urlfix_grouplist = {
     "9669": "https://mangadex.org/group/3191/amaranth-scans",
     "9689": "https://mangadex.org/group/3418/nani-scans",
     "969": "http://sf.nyaatorrents.org/",
+    "9709": "https://iescans.tumblr.com/",
     "989": "http://captaintsubasafan.free.fr/"
 };

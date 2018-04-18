@@ -331,5 +331,6 @@ var urlfix_grouplist = {
     "9637": "http://timelessleaf.com/",
     "9657": "https://mangadex.org/group/2716/no-group-scanlation",
     "9697": "https://www.kpcomic.com/",
-    "97": "http://www.manga-rain.com"
+    "97": "http://www.manga-rain.com",
+    "9717": "https://mangadex.org/group/3751/gaijinscans"
 };
