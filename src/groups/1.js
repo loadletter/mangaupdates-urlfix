@@ -350,5 +350,6 @@ var urlfix_grouplist = {
     "9661": "https://mangadex.org/group/3092/zepfur",
     "9681": "https://chronosvault.wordpress.com/",
     "9701": "https://kaede721.wordpress.com",
+    "9721": "http://kofworld.com/",
     "981": "http://gensokyo.webleveling.com/"
 };
