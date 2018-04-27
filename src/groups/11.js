@@ -325,5 +325,6 @@ var urlfix_grouplist = {
     "9611": "https://gab.ai/BigGuy4U",
     "9631": "https://slnfidels.wordpress.com/",
     "9651": "http://mangasushi.net/",
-    "9671": "https://anameescans.wordpress.com/"
+    "9671": "https://anameescans.wordpress.com/",
+    "9731": "https://www.mangadex.org/group/3975/zenryoko-henai"
 };

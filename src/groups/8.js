@@ -325,5 +325,6 @@ var urlfix_grouplist = {
     "968": "http://minna-scan.net/",
     "9688": "https://mangadex.org/group/2978",
     "9708": "https://mangadex.org/group/3699/kotori",
+    "9728": "https://fuckyeahreaders.tumblr.com",
     "988": "http://www.gensokyo.org/"
 };

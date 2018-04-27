@@ -339,5 +339,6 @@ var urlfix_grouplist = {
     "9636": "https://mangadex.org/group/2670/sweep-up-translations",
     "9656": "https://mangadex.org/group/2997/rol-scans",
     "9676": "https://mangadex.org/group/3262/rinn1412",
-    "9716": "http://hello-vampire-kitty.tumblr.com"
+    "9716": "http://hello-vampire-kitty.tumblr.com",
+    "9736": "http://thousandsmilescans.blogspot.com/"
 };

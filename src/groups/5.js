@@ -94,7 +94,7 @@ var urlfix_grouplist = {
     "345": "http://www.yoshikochan.com/tenipuri/",
     "3505": "http://community.livejournal.com/our_khrproject/",
     "3525": "http://nekonekowai.blogspot.com/",
-    "3545": "http://community.livejournal.com/ikemen_scans/",
+    "3545": "https://ikemen-scans.livejournal.com/",
     "3565": "http://community.livejournal.com/bad_romances/",
     "3625": "http://www.rosanegra.ucoz.com/",
     "3645": "http://kyaa.livejournal.com/",

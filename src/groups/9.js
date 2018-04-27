@@ -339,5 +339,6 @@ var urlfix_grouplist = {
     "9689": "https://mangadex.org/group/3418/nani-scans",
     "969": "http://sf.nyaatorrents.org/",
     "9709": "https://iescans.tumblr.com/",
+    "9729": "https://mangadex.org/group/3962/moe-and-friends",
     "989": "http://captaintsubasafan.free.fr/"
 };
