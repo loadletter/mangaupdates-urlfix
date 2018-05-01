@@ -349,5 +349,6 @@ var urlfix_grouplist = {
     "9642": "https://mangadex.org/group/2722/manga-gago",
     "9662": "https://mangadex.org/group/3144/yukicola",
     "9702": "https://eternalkifune.wordpress.com/",
-    "9722": "https://mangadex.org/group/3850/tanzanitexd"
+    "9722": "https://mangadex.org/group/3850/tanzanitexd",
+    "9742": "https://kutabarescans.tumblr.com/"
 };

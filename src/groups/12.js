@@ -294,7 +294,7 @@ var urlfix_grouplist = {
     "8572": "http://xianforeigners.tk/",
     "8592": "http://bato.to/group/_/d/descendants-of-god-r6660",
     "8612": "https://kanranshascans.wordpress.com/",
-    "8652": "https://gs.smuglo.li/ditshick",
+    "8652": "https://ditshick.wordpress.com/",
     "8672": "http://onlyerearu.tumblr.com",
     "8692": "https://ianscornerblog.wordpress.com/",
     "8712": "https://matcha-scans.tumblr.com/",

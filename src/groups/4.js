@@ -352,5 +352,6 @@ var urlfix_grouplist = {
     "9684": "https://axomiahoimoi.wordpress.com/",
     "9704": "https://jinzeffect.wordpress.com/",
     "9724": "https://mangadex.org/group/3810/most-dangerous-zak",
+    "9744": "https://www.mangadex.org/group/4185/aloof-scans",
     "984": "http://brokenwingscans.4000webs.com/"
 };

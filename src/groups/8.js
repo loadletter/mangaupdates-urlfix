@@ -169,7 +169,7 @@ var urlfix_grouplist = {
     "5988": "http://almond-cream.tumblr.com",
     "6008": "http://cafescans.boards.net/",
     "6028": "http://cicada-scans.tumblr.com/",
-    "6068": "http://lonemanga.com/",
+    "6068": "https://mangadex.org/group/406",
     "6088": "http://comiplex.com/",
     "6108": "http://animefangirl.com/",
     "6128": "http://itsukimei.tumblr.com/",

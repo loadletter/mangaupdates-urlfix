@@ -345,5 +345,6 @@ var urlfix_grouplist = {
     "9663": "https://fujoshiscans.tumblr.com/",
     "9703": "https://kuro1305scan.tumblr.com/",
     "9723": "https://hokisareta.blogspot.com/",
+    "9743": "https://mangadex.org/group/4184/sol-caf-scans",
     "983": "http://ss-projects.blogspot.com/"
 };
