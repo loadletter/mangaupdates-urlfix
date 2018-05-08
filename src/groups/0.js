@@ -335,5 +335,6 @@ var urlfix_grouplist = {
     "9700": "https://mangadex.org/group/3518/kanami-chan",
     "9720": "http://zenryoku-dan.tumblr.com",
     "9740": "https://mangadex.org/group/4130/mangoose-scanlations",
+    "9760": "https://www.konkon.org/",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/"
 };

@@ -346,5 +346,6 @@ var urlfix_grouplist = {
     "9703": "https://kuro1305scan.tumblr.com/",
     "9723": "https://hokisareta.blogspot.com/",
     "9743": "https://mangadex.org/group/4184/sol-caf-scans",
+    "9763": "https://mangadex.org/group/3043",
     "983": "http://ss-projects.blogspot.com/"
 };

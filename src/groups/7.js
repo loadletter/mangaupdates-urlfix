@@ -336,5 +336,6 @@ var urlfix_grouplist = {
     "9647": "https://mangadex.org/group/2819/kibidango-scans",
     "9687": "http://wigookin-desu.tumblr.com/",
     "9727": "https://mangadex.org/group/3803/milesta",
+    "9747": "https://purrfectscans.com/",
     "987": "http://forum.dats.us/index.php"
 };

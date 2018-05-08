@@ -333,5 +333,6 @@ var urlfix_grouplist = {
     "9670": "https://mangadex.org/group/2188/midchilda-discord-server-translation",
     "9690": "https://mangadex.org/group/3555/moocow-scans",
     "9710": "https://mangadex.org/group/3726/crimson-sky-scanlations",
-    "9730": "https://mangadex.org/group/3955/black-soft-scanlations"
+    "9730": "https://mangadex.org/group/3955/black-soft-scanlations",
+    "9750": "https://shokosmanga.tumblr.com/"
 };

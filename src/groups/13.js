@@ -338,5 +338,6 @@ var urlfix_grouplist = {
     "9713": "https://mangadex.org/group/3242/papillion-productions",
     "973": "http://xinan2.blogspot.com/",
     "9733": "https://www.mangadex.org/group/3445/tgc-translations",
+    "9753": "https://unluckyslime.wordpress.com/",
     "993": "http://lulu-rebellion.org/"
 };

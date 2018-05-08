@@ -234,7 +234,7 @@ var urlfix_grouplist = {
     "7651": "http://mineralwatertranslation.blogspot.com/",
     "7691": "http://bato.to/group/_/c/curry-farmer-r6197",
     "7711": "http://translations.allthefallen.ninja/",
-    "7731": "https://mangadex.com/group/853",
+    "7731": "https://imoutosite.wordpress.com/",
     "7751": "http://cookietower.tumblr.com/",
     "7771": "http://hazeoflies.deviantart.com/",
     "7791": "http://three-musqueerteers.tumblr.com/",
@@ -326,5 +326,6 @@ var urlfix_grouplist = {
     "9631": "https://slnfidels.wordpress.com/",
     "9651": "http://mangasushi.net/",
     "9671": "https://anameescans.wordpress.com/",
-    "9731": "https://www.mangadex.org/group/3975/zenryoko-henai"
+    "9731": "https://www.mangadex.org/group/3975/zenryoko-henai",
+    "9751": "https://www.mangadex.org/group/4188/chi-fi-scans/chapters/"
 };

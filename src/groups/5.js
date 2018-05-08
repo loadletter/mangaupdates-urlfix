@@ -345,5 +345,6 @@ var urlfix_grouplist = {
     "9645": "https://cn-mtranslator.tumblr.com",
     "9665": "https://dynasty-scans.com/scanlators/mrcatt",
     "9745": "https://mangadex.org/group/4196/zeazea",
+    "9765": "https://mangadex.org/group/4388/lounge-13",
     "985": "http://m-beauty.org"
 };

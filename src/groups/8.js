@@ -326,5 +326,6 @@ var urlfix_grouplist = {
     "9688": "https://mangadex.org/group/2978",
     "9708": "https://mangadex.org/group/3699/kotori",
     "9728": "https://fuckyeahreaders.tumblr.com",
+    "9748": "https://tokkiscans.wordpress.com/",
     "988": "http://www.gensokyo.org/"
 };

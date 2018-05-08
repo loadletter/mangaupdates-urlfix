@@ -321,5 +321,6 @@ var urlfix_grouplist = {
     "9695": "https://www.mangadex.org/group/3626/ailovexoxo",
     "9715": "https://mangadex.org/group/3797/the-art-of-scanlation",
     "9735": "https://mangadex.org/group/4012/katya",
-    "975": "http://www.conan-magic.com/fruits_basket/index.html"
+    "975": "http://www.conan-magic.com/fruits_basket/index.html",
+    "9755": "https://mangadex.org/group/4296/paperkaminari-translations"
 };

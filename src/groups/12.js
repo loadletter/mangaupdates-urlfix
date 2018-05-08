@@ -350,5 +350,6 @@ var urlfix_grouplist = {
     "9692": "https://fushigitranslations.wordpress.com/",
     "9712": "http://sweetblscans.tumblr.com",
     "972": "http://tarngation.net/nhk",
-    "9732": "http://webtoonlations.tumblr.com"
+    "9732": "http://webtoonlations.tumblr.com",
+    "9752": "https://cigarettescans.wordpress.com/"
 };

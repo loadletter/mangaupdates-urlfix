@@ -342,6 +342,7 @@ var urlfix_grouplist = {
     "9699": "https://www.mangadex.org/group/3636/kaido-scans",
     "9719": "https://mangadex.org/group/3811/no-es-fake",
     "9739": "http://bananascans.com/",
+    "9759": "http://chiizukai.tumblr.com",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"
