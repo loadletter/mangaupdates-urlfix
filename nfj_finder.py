@@ -15,6 +15,9 @@ DOSEARCH = True
 QUERYURLS = ['http://google.com/search?q=%s&ie=utf-8&oe=utf-8', 'http://yandex.com/yandsearch?text=%s']
 AUTONOVEL = True
 
+requests_s = requests.Session()
+requests_s.headers.update({'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'})
+
 def parse_name(data):
 	soup = BeautifulSoup(data, convertEntities=BeautifulSoup.HTML_ENTITIES)
 	return soup.find('td', {'class' : 'specialtext'}).text
@@ -27,7 +30,7 @@ def get_slug(n):
 def novel(n):
 	results = []
 	slug = get_slug(n)
-	req = requests.get('http://www.novelupdates.com/group/%s/' % slug)
+	req = requests_s.get('http://www.novelupdates.com/group/%s/' % slug)
 	if req.status_code == 200:
 		print "Found", repr(n), "on novelupdates, parsing url..."
 		soup = BeautifulSoup(req.text)
@@ -45,7 +48,7 @@ def fujo(n):
 	for website in ['http://%s.tumblr.com', 'http://%s.livejournal.com']:
 		url = website % n.lower()
 		try:
-			req = requests.get(url)
+			req = requests_s.get(url)
 		except requests.exceptions.InvalidURL:
 			pass
 		else:
@@ -55,7 +58,7 @@ def fujo(n):
 	return results
 
 def get_content(url):
-	req = requests.get(url)
+	req = requests_s.get(url)
 	soup = BeautifulSoup(req.text)
 	return soup.find('td', {'id': 'main_content'})
 
@@ -76,7 +79,7 @@ def get_start_id():
 	return int(first_id)
 
 def submit_result(gid, url):
-	postreq = requests.post('http://mufix.herokuapp.com/' + 'submit', data={"groupid" : gid, "refer" : "meme", "groupwww" : url})
+	postreq = requests_s.post('http://mufix.herokuapp.com/' + 'submit', data={"groupid" : gid, "refer" : "meme", "groupwww" : url})
 	if "Sent" in postreq.text:
 		print "OK"
 	else:
@@ -86,8 +89,8 @@ def run(start_id, end_id):
 	print start_id, "-->", end_id
 	for g in range(start_id, end_id + 1):
 		urls = []
-		muurl = 'http://www.mangaupdates.com/groups.html?id=%i' % g
-		req = requests.get(muurl)
+		muurl = 'https://www.mangaupdates.com/groups.html?id=%i' % g
+		req = requests_s.get(muurl)
 		t = req.text
 		if INVALID in t:
 			print "Invalid group:", g
