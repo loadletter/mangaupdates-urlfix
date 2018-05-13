@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9709": "https://iescans.tumblr.com/",
     "9729": "https://mangadex.org/group/3962/moe-and-friends",
     "9749": "https://mangadex.org/group/4014/renaissance-man-scans",
+    "9769": "https://mangadex.org/group/4398/kakuriyo-scans",
     "989": "http://captaintsubasafan.free.fr/"
 };

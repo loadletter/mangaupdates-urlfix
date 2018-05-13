@@ -334,5 +334,6 @@ var urlfix_grouplist = {
     "9690": "https://mangadex.org/group/3555/moocow-scans",
     "9710": "https://mangadex.org/group/3726/crimson-sky-scanlations",
     "9730": "https://mangadex.org/group/3955/black-soft-scanlations",
-    "9750": "https://shokosmanga.tumblr.com/"
+    "9750": "https://shokosmanga.tumblr.com/",
+    "9770": "https://mangadex.org/group/4403/wowe-scans"
 };

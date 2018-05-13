@@ -343,6 +343,7 @@ var urlfix_grouplist = {
     "9719": "https://mangadex.org/group/3811/no-es-fake",
     "9739": "http://bananascans.com/",
     "9759": "http://chiizukai.tumblr.com",
+    "9779": "https://mangadex.org/group/4366/fire-syndicate",
     "979": "http://www.shijin-tenshi.us.tt/",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"

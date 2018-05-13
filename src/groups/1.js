@@ -352,5 +352,6 @@ var urlfix_grouplist = {
     "9701": "https://kaede721.wordpress.com",
     "9721": "http://kofworld.com/",
     "9761": "https://mangadex.org/group/4372/merinocaramel",
+    "9781": "https://mangadex.org/group/4480/tea-time-scans",
     "981": "http://gensokyo.webleveling.com/"
 };

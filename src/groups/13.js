@@ -339,5 +339,6 @@ var urlfix_grouplist = {
     "973": "http://xinan2.blogspot.com/",
     "9733": "https://www.mangadex.org/group/3445/tgc-translations",
     "9753": "https://unluckyslime.wordpress.com/",
+    "9773": "http://phoenix-scans.pl/",
     "993": "http://lulu-rebellion.org/"
 };
