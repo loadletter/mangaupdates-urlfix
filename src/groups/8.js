@@ -328,5 +328,6 @@ var urlfix_grouplist = {
     "9728": "https://fuckyeahreaders.tumblr.com",
     "9748": "https://tokkiscans.wordpress.com/",
     "9768": "https://mangadex.org/group/4402/shunraiki-no-yume",
+    "9788": "https://mangadex.org/group/4569/tgw-scans",
     "988": "http://www.gensokyo.org/"
 };

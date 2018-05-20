@@ -346,5 +346,6 @@ var urlfix_grouplist = {
     "9665": "https://dynasty-scans.com/scanlators/mrcatt",
     "9745": "https://mangadex.org/group/4196/zeazea",
     "9765": "https://mangadex.org/group/4388/lounge-13",
+    "9785": "https://mangadex.org/group/36/akaiyuhimun-team",
     "985": "http://m-beauty.org"
 };

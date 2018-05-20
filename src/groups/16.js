@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9716": "http://hello-vampire-kitty.tumblr.com",
     "9736": "http://thousandsmilescans.blogspot.com/",
     "9756": "https://mangadex.org/group/4233/erfs-scans",
-    "9776": "https://mangadex.org/group/4433/fujo-tetsurou"
+    "9776": "https://mangadex.org/group/4433/fujo-tetsurou",
+    "9796": "https://mangadex.org/group/4620/kuso-scans"
 };

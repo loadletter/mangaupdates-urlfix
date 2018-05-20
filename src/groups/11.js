@@ -328,5 +328,6 @@ var urlfix_grouplist = {
     "9671": "https://anameescans.wordpress.com/",
     "9731": "https://www.mangadex.org/group/3975/zenryoko-henai",
     "9751": "https://www.mangadex.org/group/4188/chi-fi-scans/chapters/",
-    "9771": "https://chocolate-empire-scans.tumblr.com/"
+    "9771": "https://chocolate-empire-scans.tumblr.com/",
+    "9791": "https://mangadex.org/group/3328/theelusivetaco"
 };

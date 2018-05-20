@@ -352,5 +352,6 @@ var urlfix_grouplist = {
     "972": "http://tarngation.net/nhk",
     "9732": "http://webtoonlations.tumblr.com",
     "9752": "https://cigarettescans.wordpress.com/",
-    "9772": "https://mangadex.org/group/4421/beyondthesea25"
+    "9772": "https://mangadex.org/group/4421/beyondthesea25",
+    "9792": "https://mangadex.org/group/4463/khaosscans"
 };

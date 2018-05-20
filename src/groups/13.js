@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9733": "https://www.mangadex.org/group/3445/tgc-translations",
     "9753": "https://unluckyslime.wordpress.com/",
     "9773": "http://phoenix-scans.pl/",
+    "9793": "https://jazscans.leprd.space/",
     "993": "http://lulu-rebellion.org/"
 };
