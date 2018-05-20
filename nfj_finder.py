@@ -106,8 +106,8 @@ def run(start_id, end_id):
 					continue
 			else:
 				urls.extend(novel(name))
-		if re.match('^[A-Za-z0-9\- ]+$', name):
-			urls.extend(fujo(name.replace(' ','')))
+		#if re.match('^[A-Za-z0-9\- ]+$', name):
+		#	urls.extend(fujo(name.replace(' ','')))
 		if urls:
 			browserargs = [WWWBROWSER, muurl] + urls
 			subprocess.call(browserargs)
