@@ -355,5 +355,6 @@ var urlfix_grouplist = {
     "9744": "https://www.mangadex.org/group/4185/aloof-scans",
     "9764": "https://www.mangadex.org/group/4385/15avaughn",
     "9784": "https://shadowmadnesss.blogspot.com/",
+    "9804": "https://mangadex.org/group/4692/tonari-no-eroneko",
     "984": "http://brokenwingscans.4000webs.com/"
 };

@@ -353,5 +353,6 @@ var urlfix_grouplist = {
     "9721": "http://kofworld.com/",
     "9761": "https://mangadex.org/group/4372/merinocaramel",
     "9781": "https://mangadex.org/group/4480/tea-time-scans",
+    "9801": "https://mangadex.org/group/4670/tempura",
     "981": "http://gensokyo.webleveling.com/"
 };

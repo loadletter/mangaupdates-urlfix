@@ -334,5 +334,6 @@ var urlfix_grouplist = {
     "97": "http://www.manga-rain.com",
     "9717": "https://mangadex.org/group/3751/gaijinscans",
     "9737": "https://mangadex.org/group/4067/maximaxiscans",
-    "9777": "https://madeinabyss.me/"
+    "9777": "https://madeinabyss.me/",
+    "9797": "https://mangadex.org/group/4494/sugoi-gyaru-scans"
 };

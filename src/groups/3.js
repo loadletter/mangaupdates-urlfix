@@ -348,5 +348,6 @@ var urlfix_grouplist = {
     "9743": "https://mangadex.org/group/4184/sol-caf-scans",
     "9763": "https://mangadex.org/group/3043",
     "9783": "https://translatedino.blogspot.com/",
+    "9803": "http://baratwink.tumblr.com",
     "983": "http://ss-projects.blogspot.com/"
 };

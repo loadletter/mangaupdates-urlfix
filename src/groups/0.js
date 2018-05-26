@@ -337,5 +337,6 @@ var urlfix_grouplist = {
     "9740": "https://mangadex.org/group/4130/mangoose-scanlations",
     "9760": "https://www.konkon.org/",
     "9780": "https://mangadex.org/group/3686/the-team",
-    "980": "http://www.shonen-ai.co.uk/chocolatebox/"
+    "980": "http://www.shonen-ai.co.uk/chocolatebox/",
+    "9800": "https://mochidzukiii.tumblr.com"
 };

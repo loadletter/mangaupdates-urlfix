@@ -335,6 +335,7 @@ var urlfix_grouplist = {
     "9718": "https://mangadex.org/group/3478",
     "9758": "https://mangadex.org/group/3941/napskamun",
     "9778": "https://mangahonyaku.wordpress.com/",
+    "9798": "https://mangadex.org/group/4643/baileferrero",
     "98": "http://bato.to/group/_/f/the-furry-triangle-r252",
     "998": "http://yatta-scans.aniartworks.com"
 };
