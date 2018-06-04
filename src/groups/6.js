@@ -336,5 +336,6 @@ var urlfix_grouplist = {
     "9746": "https://mangadex.org/group/3809/ankou",
     "9766": "https://mangadex.org/group/4394/manga-library-project",
     "9786": "https://mangadex.org/group/584/azurebluephoenix-mizuki-san",
+    "9806": "https://mangadex.org/group/3170/cappy",
     "986": "http://community.livejournal.com/bushidoangels"
 };

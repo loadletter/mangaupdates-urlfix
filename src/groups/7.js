@@ -338,5 +338,6 @@ var urlfix_grouplist = {
     "9727": "https://mangadex.org/group/3803/milesta",
     "9747": "https://purrfectscans.com/",
     "9767": "https://sekaisscans.wordpress.com/",
+    "9807": "https://mangadex.org/group/4660/laser-girl-scans",
     "987": "http://forum.dats.us/index.php"
 };

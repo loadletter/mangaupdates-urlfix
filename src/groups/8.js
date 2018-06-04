@@ -329,5 +329,6 @@ var urlfix_grouplist = {
     "9748": "https://tokkiscans.wordpress.com/",
     "9768": "https://mangadex.org/group/4402/shunraiki-no-yume",
     "9788": "https://mangadex.org/group/4569/tgw-scans",
+    "9808": "https://moonbunscans.tumblr.com/",
     "988": "http://www.gensokyo.org/"
 };

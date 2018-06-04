@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9753": "https://unluckyslime.wordpress.com/",
     "9773": "http://phoenix-scans.pl/",
     "9793": "https://jazscans.leprd.space/",
+    "9813": "http://solartranslations.tumblr.com/",
     "993": "http://lulu-rebellion.org/"
 };

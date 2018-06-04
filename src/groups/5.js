@@ -335,6 +335,7 @@ var urlfix_grouplist = {
     "9425": "https://discord.gg/YTxMXg",
     "9445": "https://www.tappytoon.com/",
     "945": "http://tsubasachronicle.e7.to/",
+    "9485": "https://soscans.wordpress.com/",
     "9505": "https://hesitationscans.blogspot.com/",
     "9525": "https://mangadex.com/group/675",
     "9545": "https://mangadex.com/group/1400",
@@ -347,5 +348,6 @@ var urlfix_grouplist = {
     "9745": "https://mangadex.org/group/4196/zeazea",
     "9765": "https://mangadex.org/group/4388/lounge-13",
     "9785": "https://mangadex.org/group/36/akaiyuhimun-team",
+    "9805": "https://kayura452.tumblr.com/",
     "985": "http://m-beauty.org"
 };

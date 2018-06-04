@@ -352,5 +352,6 @@ var urlfix_grouplist = {
     "9734": "https://mangadex.org/group/4053/kuros",
     "974": "http://www.conan-magic.com/fruits_basket/index.html",
     "9754": "http://blog.onehallyu.com/",
+    "9814": "https://mangadex.org/group/4801/nightingale-scans",
     "994": "http://kameko-87.livejournal.com/profile"
 };

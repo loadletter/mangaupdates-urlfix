@@ -189,7 +189,7 @@ var urlfix_grouplist = {
     "6410": "http://avertranslation.org/",
     "6450": "http://a0132.blogspot.com/",
     "6470": "https://shintranslations.com/",
-    "6490": "http://www.shirohato-scans.com/",
+    "6490": "https://mega.nz/#F!Rg0RlJSI!7qqNrcqQ3dwmrmHXmTIV6w",
     "650": "http://alizionmanga.googlepages.com",
     "6550": "http://aki00113.tumblr.com/",
     "6610": "http://daomubiji.tumblr.com/",
@@ -336,5 +336,6 @@ var urlfix_grouplist = {
     "9730": "https://mangadex.org/group/3955/black-soft-scanlations",
     "9750": "https://shokosmanga.tumblr.com/",
     "9770": "https://mangadex.org/group/4403/wowe-scans",
-    "9790": "https://mangadex.org/group/4561/rototiller"
+    "9790": "https://mangadex.org/group/4561/rototiller",
+    "9810": "https://creativenovels.com/"
 };
