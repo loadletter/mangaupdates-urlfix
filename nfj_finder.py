@@ -12,7 +12,7 @@ from update import GROUPSJSON, jsonloadf
 INVALID = "You specified an invalid group id."
 WWWBROWSER = "firefox"
 DOSEARCH = True
-QUERYURLS = ['http://google.com/search?q=%s&ie=utf-8&oe=utf-8', 'http://yandex.com/yandsearch?text=%s']
+QUERYURLS = ['https://mangadex.org/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8', 'http://yandex.com/yandsearch?text=%s']
 AUTONOVEL = True
 
 requests_s = requests.Session()
@@ -129,7 +129,8 @@ def run(start_id, end_id):
 
 		elif DOSEARCH:
 			browserargs = [WWWBROWSER, muurl]
-			browserargs += map(lambda x: x % ('"' + urllib.quote(name.encode('utf-8')) + '"'), QUERYURLS)
+			#browserargs += map(lambda x: x % ('"' + urllib.quote(name.encode('utf-8')) + '"'), QUERYURLS)
+			browserargs += map(lambda x: x % (urllib.quote(name.encode('utf-8'))), QUERYURLS)
 			subprocess.call(browserargs)
 
 if __name__ == "__main__":
