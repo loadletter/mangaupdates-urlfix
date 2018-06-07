@@ -354,5 +354,6 @@ var urlfix_grouplist = {
     "9761": "https://mangadex.org/group/4372/merinocaramel",
     "9781": "https://mangadex.org/group/4480/tea-time-scans",
     "9801": "https://mangadex.org/group/4670/tempura",
-    "981": "http://gensokyo.webleveling.com/"
+    "981": "http://gensokyo.webleveling.com/",
+    "9821": "https://mangadex.org/group/4890/badluckpoppy"
 };

@@ -110,7 +110,7 @@ var urlfix_grouplist = {
     "4171": "http://tsukihana-scans.dreamwidth.org/",
     "4191": "http://clockworklies.com/",
     "4211": "http://www.oompaloompascans.com/",
-    "4231": "http://kireicake.com/",
+    "4231": "https://kireicake.com/",
     "4291": "http://fandom-business.blogspot.com/",
     "431": "http://www.kazenokoe.com/",
     "4311": "http://johnpessoa.wordpress.com/",

@@ -178,7 +178,7 @@ var urlfix_grouplist = {
     "5982": "http://zeus7ex.wordpress.com/",
     "6002": "https://theendmanga.wordpress.com/",
     "602": "http://www.emsmanga.com/",
-    "6022": "http://artificialdemons.boards.net/",
+    "6022": "http://artificialdemons.wixsite.com/adscans",
     "6042": "http://rolybearpress.blogspot.com/",
     "6062": "http://yudy-arzachel.blogspot.com/",
     "6082": "http://pyralisa.tumblr.com",
@@ -352,5 +352,6 @@ var urlfix_grouplist = {
     "9722": "https://mangadex.org/group/3850/tanzanitexd",
     "9742": "https://kutabarescans.tumblr.com/",
     "9782": "https://soojiki.wordpress.com/",
-    "9802": "https://mangadex.org/group/3271/ellieberrie"
+    "9802": "https://mangadex.org/group/3271/ellieberrie",
+    "9822": "https://mangadex.org/group/4891/cheese758"
 };

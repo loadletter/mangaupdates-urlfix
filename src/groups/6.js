@@ -119,7 +119,7 @@ var urlfix_grouplist = {
     "4486": "http://lelei.org",
     "4506": "http://tokyoillusion.wordpress.com/",
     "4526": "http://bakagirl26.livejournal.com/",
-    "4566": "http://yuriproject.net/",
+    "4566": "http://yuri-project.net/",
     "46": "http://manga-mania.sinbios.org/",
     "4606": "https://www.facebook.com/CreativeManga",
     "4726": "http://krossnetsu.blogspot.com/",
@@ -337,5 +337,6 @@ var urlfix_grouplist = {
     "9766": "https://mangadex.org/group/4394/manga-library-project",
     "9786": "https://mangadex.org/group/584/azurebluephoenix-mizuki-san",
     "9806": "https://mangadex.org/group/3170/cappy",
+    "9826": "https://mangadex.org/group/4889/yunii",
     "986": "http://community.livejournal.com/bushidoangels"
 };

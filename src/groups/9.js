@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "9749": "https://mangadex.org/group/4014/renaissance-man-scans",
     "9769": "https://mangadex.org/group/4398/kakuriyo-scans",
     "9789": "https://mangadex.org/group/4559/zenorocz",
+    "9829": "https://mangadex.org/group/4894/dks",
     "989": "http://captaintsubasafan.free.fr/"
 };

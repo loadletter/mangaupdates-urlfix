@@ -349,5 +349,6 @@ var urlfix_grouplist = {
     "9765": "https://mangadex.org/group/4388/lounge-13",
     "9785": "https://mangadex.org/group/36/akaiyuhimun-team",
     "9805": "https://kayura452.tumblr.com/",
+    "9825": "https://mangadex.org/group/4887/uchuuneet",
     "985": "http://m-beauty.org"
 };
