@@ -344,5 +344,6 @@ var urlfix_grouplist = {
     "9756": "https://mangadex.org/group/4233/erfs-scans",
     "9776": "https://mangadex.org/group/4433/fujo-tetsurou",
     "9796": "https://mangadex.org/group/4620/kuso-scans",
-    "9816": "https://mangadex.org/group/2045/mukashi-manga"
+    "9816": "https://mangadex.org/group/2045/mukashi-manga",
+    "9836": "https://mangadex.org/group/4816/global-honkaiimpact3"
 };

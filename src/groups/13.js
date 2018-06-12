@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9773": "http://phoenix-scans.pl/",
     "9793": "https://jazscans.leprd.space/",
     "9813": "http://solartranslations.tumblr.com/",
+    "9833": "https://komikcast.com/",
     "993": "http://lulu-rebellion.org/"
 };

@@ -324,5 +324,6 @@ var urlfix_grouplist = {
     "975": "http://www.conan-magic.com/fruits_basket/index.html",
     "9755": "https://mangadex.org/group/4296/paperkaminari-translations",
     "9775": "https://mangadex.org/group/4427/shoujo-manhua-scans",
-    "9795": "https://mangadex.org/group/4420/henry9960-scans"
+    "9795": "https://mangadex.org/group/4420/henry9960-scans",
+    "9835": "https://mangadex.org/group/4929/ikemen-guys"
 };

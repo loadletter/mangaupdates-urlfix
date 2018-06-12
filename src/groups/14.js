@@ -353,5 +353,6 @@ var urlfix_grouplist = {
     "974": "http://www.conan-magic.com/fruits_basket/index.html",
     "9754": "http://blog.onehallyu.com/",
     "9814": "https://mangadex.org/group/4801/nightingale-scans",
+    "9834": "https://mangadex.org/group/4927/ultramarine-skies",
     "994": "http://kameko-87.livejournal.com/profile"
 };

@@ -353,5 +353,6 @@ var urlfix_grouplist = {
     "9742": "https://kutabarescans.tumblr.com/",
     "9782": "https://soojiki.wordpress.com/",
     "9802": "https://mangadex.org/group/3271/ellieberrie",
-    "9822": "https://mangadex.org/group/4891/cheese758"
+    "9822": "https://mangadex.org/group/4891/cheese758",
+    "9842": "https://www.facebook.com/WeebTranslator/"
 };

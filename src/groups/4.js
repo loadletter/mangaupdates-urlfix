@@ -305,7 +305,7 @@ var urlfix_grouplist = {
     "8704": "http://bato.to/group/_/a/colors-of-spring-scans-r6736",
     "8724": "https://xoscans.wordpress.com/",
     "8744": "https://thesomethingstranslations.wordpress.com/",
-    "8764": "http://hatigarmscans.eu/hs/",
+    "8764": "https://www.hatigarmscans.net/",
     "8784": "http://hakoiriemusume.tumblr.com/",
     "8804": "http://akito666us.tumblr.com",
     "8824": "http://nakanantoka.tumblr.com/",
@@ -357,5 +357,6 @@ var urlfix_grouplist = {
     "9784": "https://shadowmadnesss.blogspot.com/",
     "9804": "https://mangadex.org/group/4692/tonari-no-eroneko",
     "9824": "https://n4tsuyu.com/",
-    "984": "http://brokenwingscans.4000webs.com/"
+    "984": "http://brokenwingscans.4000webs.com/",
+    "9844": "https://mangadex.org/group/5024/kuzunoha-scanlation-agency"
 };

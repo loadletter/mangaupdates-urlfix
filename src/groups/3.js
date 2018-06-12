@@ -350,5 +350,6 @@ var urlfix_grouplist = {
     "9783": "https://translatedino.blogspot.com/",
     "9803": "http://baratwink.tumblr.com",
     "9823": "https://mangadex.org/group/3462/the-edge-translation-team",
-    "983": "http://ss-projects.blogspot.com/"
+    "983": "http://ss-projects.blogspot.com/",
+    "9843": "https://mangadex.org/group/5008/emariblog"
 };
