@@ -326,7 +326,7 @@ var urlfix_grouplist = {
     "92": "http://bato.to/group/_/l/lost-heaven-r1457",
     "9212": "http://honyakusha.tumblr.com",
     "9232": "https://miritranslations.wordpress.com/",
-    "9252": "https://mangadex.com/group/995",
+    "9252": "https://mangadex.org/group/995",
     "9272": "https://lunalotusscans.wordpress.com/",
     "9292": "https://waifusims.com/Manga",
     "9312": "https://muffinmellowtranslations.wordpress.com/",
@@ -335,13 +335,13 @@ var urlfix_grouplist = {
     "9352": "https://rozenfantasyblog.wordpress.com/",
     "9372": "https://myswallowtails.com/",
     "9392": "http://chinesenoveltranslations.simplegamesdev.com",
-    "9412": "https://mangadex.com/group/751",
+    "9412": "https://mangadex.org/group/751",
     "9432": "http://earlgreyscans.tumblr.com",
     "9452": "https://n00dlekun.tumblr.com/",
     "9492": "http://bato.to/group/_/c/colored-manga-translation-squad-r6636",
     "9512": "http://tonarinoscanlations.blogspot.com/",
     "9552": "https://e621.net/pool/show/4195",
-    "9572": "https://mangadex.com/group/1871",
+    "9572": "https://mangadex.org/group/1871",
     "9592": "https://menosfreetime.wordpress.com/",
     "9612": "https://mangadex.org/group/2549/umeru-translation",
     "9632": "https://kieukieudays.com",
@@ -356,5 +356,5 @@ var urlfix_grouplist = {
     "9792": "https://mangadex.org/group/4463/khaosscans",
     "9812": "https://mangadex.org/group/4749/soaringpegasus",
     "9832": "https://mangadex.org/group/4926/xereste",
-    "9852": "https://mangadex.org/group/3848/mindthegap"
+    "9852": "https://mangadex.org/group/3848"
 };
