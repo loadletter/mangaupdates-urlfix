@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9767": "https://sekaisscans.wordpress.com/",
     "9807": "https://mangadex.org/group/4660/laser-girl-scans",
     "9827": "https://amarikaori.tumblr.com/",
+    "9847": "https://mangadex.org/group/5094/lost-marbles",
     "987": "http://forum.dats.us/index.php"
 };

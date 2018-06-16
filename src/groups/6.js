@@ -305,7 +305,7 @@ var urlfix_grouplist = {
     "9066": "https://dynasty-scans.com/scanlators/maple_leaf_scans",
     "9086": "https://twitter.com/kiirobon",
     "9106": "http://www.buka.cn/",
-    "9126": "https://discord.gg/Z8HSZVs",
+    "9126": "https://discord.gg/fAwufyM",
     "9146": "https://iamabananaweb.wordpress.com/",
     "9186": "http://bato.to/group/_/g/gourmet-world-scanlation-r5714",
     "9226": "https://www.facebook.com/FYGenbuKaiden",

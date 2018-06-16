@@ -337,5 +337,6 @@ var urlfix_grouplist = {
     "9750": "https://shokosmanga.tumblr.com/",
     "9770": "https://mangadex.org/group/4403/wowe-scans",
     "9790": "https://mangadex.org/group/4561/rototiller",
-    "9810": "https://creativenovels.com/"
+    "9810": "https://creativenovels.com/",
+    "9850": "https://mangadex.org/group/5103/paula"
 };

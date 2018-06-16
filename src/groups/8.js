@@ -331,5 +331,6 @@ var urlfix_grouplist = {
     "9788": "https://mangadex.org/group/4569/tgw-scans",
     "9808": "https://moonbunscans.tumblr.com/",
     "9828": "https://mangadex.org/group/4908/tabun-scans",
+    "9848": "https://mangadex.org/group/5096/4eyes",
     "988": "http://www.gensokyo.org/"
 };
