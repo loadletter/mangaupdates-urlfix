@@ -354,5 +354,6 @@ var urlfix_grouplist = {
     "9754": "http://blog.onehallyu.com/",
     "9814": "https://mangadex.org/group/4801/nightingale-scans",
     "9834": "https://mangadex.org/group/4927/ultramarine-skies",
+    "9854": "https://mangadex.org/group/3896/corsair",
     "994": "http://kameko-87.livejournal.com/profile"
 };

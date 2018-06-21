@@ -325,5 +325,6 @@ var urlfix_grouplist = {
     "9755": "https://mangadex.org/group/4296/paperkaminari-translations",
     "9775": "https://mangadex.org/group/4427/shoujo-manhua-scans",
     "9795": "https://mangadex.org/group/4420/henry9960-scans",
-    "9835": "https://mangadex.org/group/4929/ikemen-guys"
+    "9835": "https://mangadex.org/group/4929/ikemen-guys",
+    "9855": "https://xianxianovel.wordpress.com/"
 };

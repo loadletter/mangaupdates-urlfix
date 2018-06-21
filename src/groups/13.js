@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "9793": "https://jazscans.leprd.space/",
     "9813": "http://solartranslations.tumblr.com/",
     "9833": "https://komikcast.com/",
+    "9853": "https://mangadex.org/group/3895/by",
     "993": "http://lulu-rebellion.org/"
 };

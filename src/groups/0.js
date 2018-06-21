@@ -296,7 +296,7 @@ var urlfix_grouplist = {
     "8840": "http://shatteredtenshi.livejournal.com",
     "8860": "http://atruebluewarrior.tumblr.com",
     "8880": "https://elementalcobalt.wordpress.com/",
-    "8920": "https://www.facebook.com/ValhallaScanlation",
+    "8920": "https://valhallascans.com/",
     "8940": "http://qvfamma.tumblr.com/",
     "8960": "https://silverheliosscans.wordpress.com/",
     "8980": "https://carelesssujing.tumblr.com/",
@@ -339,5 +339,6 @@ var urlfix_grouplist = {
     "9780": "https://mangadex.org/group/3686/the-team",
     "980": "http://www.shonen-ai.co.uk/chocolatebox/",
     "9800": "https://mochidzukiii.tumblr.com",
-    "9820": "https://mangadex.org/group/4722/btnt"
+    "9820": "https://mangadex.org/group/4722/btnt",
+    "9860": "https://mangadex.org/group/5279/one-scans"
 };

@@ -337,5 +337,6 @@ var urlfix_grouplist = {
     "9777": "https://madeinabyss.me/",
     "9797": "https://mangadex.org/group/4494/sugoi-gyaru-scans",
     "9817": "https://www.j-garden.fr/",
-    "9837": "https://hiscension.com/"
+    "9837": "https://hiscension.com/",
+    "9857": "https://mangadex.org/group/4875/thebenefactor"
 };
