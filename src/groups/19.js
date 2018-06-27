@@ -327,7 +327,7 @@ var urlfix_grouplist = {
     "9359": "https://orizurusite.wordpress.com/",
     "9379": "https://www.facebook.com/TheRealWaitochan/",
     "9399": "https://fujoshissisters.blogspot.com/",
-    "9439": "http://readmanhua.net/",
+    "9439": "https://www.readmanhua.net/",
     "9459": "https://hyakuros.tumblr.com/",
     "9479": "https://www.facebook.com/SUGDW.Yabai.1",
     "9499": "https://meganescans.wordpress.com",

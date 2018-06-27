@@ -358,5 +358,6 @@ var urlfix_grouplist = {
     "9804": "https://mangadex.org/group/4692/tonari-no-eroneko",
     "9824": "https://n4tsuyu.com/",
     "984": "http://brokenwingscans.4000webs.com/",
-    "9844": "https://mangadex.org/group/5024/kuzunoha-scanlation-agency"
+    "9844": "https://mangadex.org/group/5024/kuzunoha-scanlation-agency",
+    "9864": "https://mangadex.org/group/5329/graveyard-of-airships"
 };

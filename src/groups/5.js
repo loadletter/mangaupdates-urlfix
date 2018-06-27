@@ -351,5 +351,6 @@ var urlfix_grouplist = {
     "9805": "https://kayura452.tumblr.com/",
     "9825": "https://mangadex.org/group/4887/uchuuneet",
     "9845": "https://mangadex.org/group/2562/hanabira-scans",
-    "985": "http://m-beauty.org"
+    "985": "http://m-beauty.org",
+    "9865": "https://mangadex.org/group/4915/teammpk"
 };
