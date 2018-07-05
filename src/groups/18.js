@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9818": "https://shadowmadnesss.blogspot.com/p/blog-page_3.html",
     "9838": "https://mangadex.org/group/4921/kobold-scans",
     "9858": "https://mangadex.org/group/5224/shiiira",
+    "9878": "https://www.esterior.net/",
     "998": "http://yatta-scans.aniartworks.com"
 };

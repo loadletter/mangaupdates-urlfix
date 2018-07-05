@@ -295,7 +295,7 @@ var urlfix_grouplist = {
     "8503": "http://burger-shake.tumblr.com/",
     "8523": "http://x0401x.tumblr.com",
     "8543": "http://dynasty-scans.com/scanlators/drmario_et_al",
-    "8563": "https://madamelepoop-scans.tumblr.com/",
+    "8563": "https://madamelepoo-scan.tumblr.com",
     "8583": "http://moontyger.livejournal.com",
     "8603": "https://kitakamiooi.wordpress.com/",
     "8643": "https://mangadex.org/group/787",

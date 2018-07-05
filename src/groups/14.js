@@ -355,5 +355,6 @@ var urlfix_grouplist = {
     "9814": "https://mangadex.org/group/4801/nightingale-scans",
     "9834": "https://mangadex.org/group/4927/ultramarine-skies",
     "9854": "https://mangadex.org/group/3896/corsair",
+    "9874": "https://mangadex.org/group/4314/mythical-phoenix-scanlations",
     "994": "http://kameko-87.livejournal.com/profile"
 };

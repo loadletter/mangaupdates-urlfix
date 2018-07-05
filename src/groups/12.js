@@ -356,5 +356,6 @@ var urlfix_grouplist = {
     "9792": "https://mangadex.org/group/4463/khaosscans",
     "9812": "https://mangadex.org/group/4749/soaringpegasus",
     "9832": "https://mangadex.org/group/4926/xereste",
-    "9852": "https://mangadex.org/group/3848"
+    "9852": "https://mangadex.org/group/3848",
+    "9872": "https://mangadex.org/group/5425/cut-a-hole"
 };

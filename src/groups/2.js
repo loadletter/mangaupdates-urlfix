@@ -339,7 +339,7 @@ var urlfix_grouplist = {
     "9422": "https://padlet.com/kagopoii/kagopoii",
     "9442": "https://myosotisproject.wordpress.com/",
     "9462": "https://discord.gg/UmGAhPk",
-    "9482": "https://renascencescans.weebly.com/",
+    "9482": "https://renascans.com/",
     "9502": "https://mangadex.org/group/369",
     "9522": "https://mangadex.org/group/791",
     "9542": "http://procrastinationtranslations.tumblr.com",

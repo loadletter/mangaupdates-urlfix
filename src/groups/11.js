@@ -331,5 +331,6 @@ var urlfix_grouplist = {
     "9771": "https://chocolate-empire-scans.tumblr.com/",
     "9791": "https://mangadex.org/group/3328/theelusivetaco",
     "9811": "https://mangadex.org/group/4737/lowercase-e",
-    "9851": "https://mangadex.org/group/2410/poisoned-candy-scans"
+    "9851": "https://mangadex.org/group/2410/poisoned-candy-scans",
+    "9871": "https://mangadex.org/group/5349/neverland-translations"
 };
