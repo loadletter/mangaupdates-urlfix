@@ -352,5 +352,6 @@ var urlfix_grouplist = {
     "9823": "https://mangadex.org/group/3462/the-edge-translation-team",
     "983": "http://ss-projects.blogspot.com/",
     "9843": "https://mangadex.org/group/5008/emariblog",
-    "9863": "https://alwaysinadream.wordpress.com/"
+    "9863": "https://alwaysinadream.wordpress.com/",
+    "9883": "https://mangadex.org/group/5531/freyr-scans"
 };

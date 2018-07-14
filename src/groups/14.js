@@ -329,6 +329,7 @@ var urlfix_grouplist = {
     "9194": "https://when-will-i-sleep.tumblr.com/",
     "9234": "http://isohungrytls.com",
     "9254": "https://himatranslations.wordpress.com/",
+    "9274": "https://fuckyeahreaders.tumblr.com/",
     "9294": "https://mirrortranslationsblog.wordpress.com/",
     "9314": "https://lewd4yaoi.tumblr.com/",
     "9334": "https://meiraevetranslation.wordpress.com",
@@ -356,5 +357,6 @@ var urlfix_grouplist = {
     "9834": "https://mangadex.org/group/4927/ultramarine-skies",
     "9854": "https://mangadex.org/group/3896/corsair",
     "9874": "https://mangadex.org/group/4314/mythical-phoenix-scanlations",
+    "9894": "http://jamsatsuten.tumblr.com/",
     "994": "http://kameko-87.livejournal.com/profile"
 };

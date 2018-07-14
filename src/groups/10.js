@@ -339,5 +339,6 @@ var urlfix_grouplist = {
     "9790": "https://mangadex.org/group/4561/rototiller",
     "9810": "https://creativenovels.com/",
     "9850": "https://mangadex.org/group/5103/paula",
-    "9870": "https://coffeetoobitter.tumblr.com/"
+    "9870": "https://coffeetoobitter.tumblr.com/",
+    "9890": "https://mangadex.org/group/5558/carrot-the-xin"
 };

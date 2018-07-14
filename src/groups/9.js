@@ -346,5 +346,6 @@ var urlfix_grouplist = {
     "9829": "https://mangadex.org/group/4894/dks",
     "9849": "https://mangadex.org/group/5095/awootism",
     "9869": "https://flowermoontranslations.wordpress.com/",
+    "9889": "https://mangadex.org/group/5557/narehatescans",
     "989": "http://captaintsubasafan.free.fr/"
 };

@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "980": "http://www.shonen-ai.co.uk/chocolatebox/",
     "9800": "https://mochidzukiii.tumblr.com",
     "9820": "https://mangadex.org/group/4722/btnt",
-    "9860": "https://mangadex.org/group/5279/one-scans"
+    "9860": "https://mangadex.org/group/5279/one-scans",
+    "9880": "https://mangadex.org/group/5514/swb-scans"
 };

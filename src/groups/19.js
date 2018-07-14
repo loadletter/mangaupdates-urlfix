@@ -348,6 +348,7 @@ var urlfix_grouplist = {
     "9799": "https://mangadex.org/group/4007/tritium-decay",
     "9839": "https://lattescans.tumblr.com/",
     "9859": "https://mangadex.org/group/5268/fighting-scans",
+    "9879": "https://mangadex.org/group/5506/azuki-scans-2",
     "99": "http://www.bwys.org/",
     "999": "http://www.onepiecehq.com/"
 };

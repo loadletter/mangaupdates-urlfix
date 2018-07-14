@@ -346,5 +346,6 @@ var urlfix_grouplist = {
     "9796": "https://mangadex.org/group/4620/kuso-scans",
     "9816": "https://mangadex.org/group/2045/mukashi-manga",
     "9836": "https://mangadex.org/group/4816/global-honkaiimpact3",
-    "9856": "https://moeshitscans.wordpress.com/"
+    "9856": "https://moeshitscans.wordpress.com/",
+    "9896": "https://mangadex.org/group/5577/quickk-translations"
 };

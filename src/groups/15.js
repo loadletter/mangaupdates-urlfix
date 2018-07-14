@@ -290,7 +290,7 @@ var urlfix_grouplist = {
     "8975": "http://forum.wuxiaworld.com/categories/translations",
     "8995": "http://saigotranslation.com/",
     "9015": "http://bato.to/group/_/e/eminay-r6991",
-    "9035": "https://gns-scans.tumblr.com/",
+    "9035": "https://getnaughtyscans.tumblr.com/",
     "9055": "https://74translations.wordpress.com/",
     "9075": "http://hunniebbe.tumblr.com",
     "9095": "http://maknaescans.weebly.com/",
@@ -327,5 +327,6 @@ var urlfix_grouplist = {
     "9795": "https://mangadex.org/group/4420/henry9960-scans",
     "9835": "https://mangadex.org/group/4929/ikemen-guys",
     "9855": "https://xianxianovel.wordpress.com/",
-    "9875": "https://mangadex.org/group/5486/rakunscans"
+    "9875": "https://mangadex.org/group/5486/rakunscans",
+    "9895": "http://coco-dreamland.tumblr.com/"
 };

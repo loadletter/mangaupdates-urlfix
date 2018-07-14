@@ -352,5 +352,6 @@ var urlfix_grouplist = {
     "9825": "https://mangadex.org/group/4887/uchuuneet",
     "9845": "https://mangadex.org/group/2562/hanabira-scans",
     "985": "http://m-beauty.org",
-    "9865": "https://mangadex.org/group/4915/teammpk"
+    "9865": "https://mangadex.org/group/4915/teammpk",
+    "9885": "http://idolish-seven.tumblr.com/tagged/atom-scans"
 };
