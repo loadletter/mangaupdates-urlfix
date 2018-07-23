@@ -357,5 +357,7 @@ var urlfix_grouplist = {
     "981": "http://gensokyo.webleveling.com/",
     "9821": "https://mangadex.org/group/4890/badluckpoppy",
     "9841": "https://mangadex.org/group/4997/we-demon-now-scanlations",
-    "9861": "https://mewscans.wixsite.com/mew-scans"
+    "9861": "https://mewscans.wixsite.com/mew-scans",
+    "9901": "https://mangadex.org/group/5587/masu",
+    "9921": "https://mangadex.org/group/5660/natsukashii-scans"
 };

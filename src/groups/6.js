@@ -281,7 +281,7 @@ var urlfix_grouplist = {
     "8566": "http://bato.to/group/_/a/all-buttered-up-scans-r2159",
     "8586": "http://kazenblown.livejournal.com",
     "86": "http://www.omanga.net/",
-    "8646": "http://atelierdunoir.org/",
+    "8646": "https://atelierdunoir.wordpress.com/",
     "8666": "https://omegaverseaddicted.tumblr.com/",
     "8686": "http://mizaya.tumblr.com/",
     "8706": "https://mongolfier.wordpress.com/",
@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9826": "https://mangadex.org/group/4889/yunii",
     "9846": "https://mangadex.org/group/4360/amaryllis",
     "986": "http://community.livejournal.com/bushidoangels",
-    "9866": "https://mangadex.org/group/5076/mina"
+    "9866": "https://mangadex.org/group/5076/mina",
+    "9906": "https://mangadex.org/group/5615/frisia-scans"
 };

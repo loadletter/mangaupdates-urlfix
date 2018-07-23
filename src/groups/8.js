@@ -334,5 +334,6 @@ var urlfix_grouplist = {
     "9848": "https://mangadex.org/group/5096/4eyes",
     "9868": "http://isekaicentral.com/",
     "988": "http://www.gensokyo.org/",
-    "9888": "https://www.seiyuuri.com/"
+    "9888": "https://www.seiyuuri.com/",
+    "9908": "https://mangadex.org/group/5065/the-beginner-scans"
 };

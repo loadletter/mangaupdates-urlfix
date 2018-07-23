@@ -346,5 +346,6 @@ var urlfix_grouplist = {
     "9853": "https://mangadex.org/group/3895/by",
     "9873": "https://mangadex.org/group/4682/prism-note",
     "9893": "https://mangadex.org/group/5565/_anq",
+    "9913": "https://mangadex.org/group/5646/apricity",
     "993": "http://lulu-rebellion.org/"
 };

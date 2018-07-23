@@ -356,5 +356,7 @@ var urlfix_grouplist = {
     "9822": "https://mangadex.org/group/4891/cheese758",
     "9842": "https://www.facebook.com/WeebTranslator/",
     "9862": "http://j2translations.com/",
-    "9882": "https://mangadex.org/group/5524/jm-funscans"
+    "9882": "https://mangadex.org/group/5524/jm-funscans",
+    "9902": "https://mangadex.org/group/5591/sdream10",
+    "9922": "https://mangadex.org/group/5659/white-garden"
 };

@@ -328,5 +328,6 @@ var urlfix_grouplist = {
     "9835": "https://mangadex.org/group/4929/ikemen-guys",
     "9855": "https://xianxianovel.wordpress.com/",
     "9875": "https://mangadex.org/group/5486/rakunscans",
-    "9895": "http://coco-dreamland.tumblr.com/"
+    "9895": "http://coco-dreamland.tumblr.com/",
+    "9915": "https://chibiloverscans.wordpress.com/"
 };

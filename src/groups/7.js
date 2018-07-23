@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9827": "https://amarikaori.tumblr.com/",
     "9847": "https://mangadex.org/group/5094/lost-marbles",
     "9867": "https://mangadex.org/group/5379/weebworks",
-    "987": "http://forum.dats.us/index.php"
+    "987": "http://forum.dats.us/index.php",
+    "9907": "https://mangadex.org/group/1082/wandering-scans"
 };

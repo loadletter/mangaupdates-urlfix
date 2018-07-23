@@ -359,5 +359,7 @@ var urlfix_grouplist = {
     "9824": "https://n4tsuyu.com/",
     "984": "http://brokenwingscans.4000webs.com/",
     "9844": "https://mangadex.org/group/5024/kuzunoha-scanlation-agency",
-    "9864": "https://mangadex.org/group/5329/graveyard-of-airships"
+    "9864": "https://mangadex.org/group/5329/graveyard-of-airships",
+    "9904": "https://yakisobascans.wordpress.com/",
+    "9924": "https://mangadex.org/group/5663/areeb-m"
 };

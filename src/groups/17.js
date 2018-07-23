@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9837": "https://hiscension.com/",
     "9857": "https://mangadex.org/group/4875/thebenefactor",
     "9877": "https://mangadex.org/group/4931/mika-scans",
-    "9897": "https://mangadex.org/group/5581/mikami-scans"
+    "9897": "https://mangadex.org/group/5581/mikami-scans",
+    "9917": "https://mangadex.org/group/5656/raisineescans"
 };

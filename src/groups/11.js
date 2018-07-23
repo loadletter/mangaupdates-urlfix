@@ -333,5 +333,6 @@ var urlfix_grouplist = {
     "9811": "https://mangadex.org/group/4737/lowercase-e",
     "9851": "https://mangadex.org/group/2410/poisoned-candy-scans",
     "9871": "https://mangadex.org/group/5349/neverland-translations",
-    "9891": "https://mangadex.org/group/5560/mangatoon"
+    "9891": "https://mangadex.org/group/5560/mangatoon",
+    "9911": "https://idolishtranslations.tumblr.com/"
 };

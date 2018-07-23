@@ -349,6 +349,8 @@ var urlfix_grouplist = {
     "9839": "https://lattescans.tumblr.com/",
     "9859": "https://mangadex.org/group/5268/fighting-scans",
     "9879": "https://mangadex.org/group/5506/azuki-scans-2",
+    "9899": "https://elpsykongroo.pw/r/team/nyaosscans/",
     "99": "http://www.bwys.org/",
+    "9919": "https://mangadex.org/group/5657/ayakashi-ghost-scanlation-eng",
     "999": "http://www.onepiecehq.com/"
 };

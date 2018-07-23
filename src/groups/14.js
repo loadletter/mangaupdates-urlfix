@@ -246,7 +246,7 @@ var urlfix_grouplist = {
     "7474": "https://drunkonschadenfreude-scans.tumblr.com/",
     "7494": "http://sweetdevilscans.tumblr.com/",
     "7514": "http://nerunodaisuki.tumblr.com/post/104743435622/esoragoto-english-translation-version-this",
-    "7534": "http://bato.to/group/_/b/bushido-pr-r6067",
+    "7534": "https://mangadex.org/group/1619/bushido-pr",
     "754": "http://www.zakuro.ca.tc/",
     "7574": "http://subascans.yolasite.com/",
     "7594": "http://bato.to/group/_/k/king-vessel-scans-r6131",
@@ -358,5 +358,6 @@ var urlfix_grouplist = {
     "9854": "https://mangadex.org/group/3896/corsair",
     "9874": "https://mangadex.org/group/4314/mythical-phoenix-scanlations",
     "9894": "http://jamsatsuten.tumblr.com/",
+    "9914": "https://mangadex.org/group/5645/kingdom-italia-eng",
     "994": "http://kameko-87.livejournal.com/profile"
 };

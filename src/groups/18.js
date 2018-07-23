@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9858": "https://mangadex.org/group/5224/shiiira",
     "9878": "https://www.esterior.net/",
     "9898": "https://mangadex.org/group/2612/",
+    "9918": "https://mangadex.org/group/5655/allexio-scans",
     "998": "http://yatta-scans.aniartworks.com"
 };

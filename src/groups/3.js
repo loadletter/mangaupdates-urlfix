@@ -353,5 +353,7 @@ var urlfix_grouplist = {
     "983": "http://ss-projects.blogspot.com/",
     "9843": "https://mangadex.org/group/5008/emariblog",
     "9863": "https://alwaysinadream.wordpress.com/",
-    "9883": "https://mangadex.org/group/5531/freyr-scans"
+    "9883": "https://mangadex.org/group/5531/freyr-scans",
+    "9903": "https://wafflescans.wordpress.com/",
+    "9923": "https://mangadex.org/group/4632/kikaluna"
 };
