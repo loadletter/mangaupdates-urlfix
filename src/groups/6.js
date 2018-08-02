@@ -341,5 +341,6 @@ var urlfix_grouplist = {
     "9846": "https://mangadex.org/group/4360/amaryllis",
     "986": "http://community.livejournal.com/bushidoangels",
     "9866": "https://mangadex.org/group/5076/mina",
-    "9906": "https://mangadex.org/group/5615/frisia-scans"
+    "9906": "https://mangadex.org/group/5615/frisia-scans",
+    "9926": "https://mangadoctr.blogspot.com/"
 };

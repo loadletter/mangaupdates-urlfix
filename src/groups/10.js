@@ -340,5 +340,6 @@ var urlfix_grouplist = {
     "9810": "https://creativenovels.com/",
     "9850": "https://mangadex.org/group/5103/paula",
     "9870": "https://coffeetoobitter.tumblr.com/",
-    "9890": "https://mangadex.org/group/5558/carrot-the-xin"
+    "9890": "https://mangadex.org/group/5558/carrot-the-xin",
+    "9930": "https://mangadex.org/group/5677/lone-ranger-scans"
 };

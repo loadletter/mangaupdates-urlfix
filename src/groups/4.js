@@ -194,7 +194,7 @@ var urlfix_grouplist = {
     "624": "http://www.gs-x.xamayon.org/",
     "6244": "http://yaoidesirerevolution.tumblr.com/",
     "6284": "http://wingfril.livejournal.com/",
-    "6324": "http://www.raisingthedead.ninja",
+    "6324": "https://rtd.moe/",
     "6344": "http://bato.to/group/_/t/team-bbp-r4569",
     "6364": "http://bubblemilkgreenteascans.blogspot.com/",
     "6384": "http://kurose.co.vu/",

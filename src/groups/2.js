@@ -141,7 +141,7 @@ var urlfix_grouplist = {
     "4782": "http://www.bondbirthmarks.info/",
     "4802": "http://kuudere2.wordpress.com/",
     "4842": "http://pikachikako.blogspot.com/",
-    "4882": "https://almostbakkin.wordpress.com/",
+    "4882": "https://bakkin.moe/",
     "4902": "http://mahomahoscans.wordpress.com/",
     "4922": "https://serenade.moe/",
     "4982": "https://wonderlandafterhours.wordpress.com/",

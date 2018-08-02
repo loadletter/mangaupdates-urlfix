@@ -347,5 +347,6 @@ var urlfix_grouplist = {
     "9816": "https://mangadex.org/group/2045/mukashi-manga",
     "9836": "https://mangadex.org/group/4816/global-honkaiimpact3",
     "9856": "https://moeshitscans.wordpress.com/",
-    "9896": "https://mangadex.org/group/5577/quickk-translations"
+    "9896": "https://mangadex.org/group/5577/quickk-translations",
+    "9936": "https://mangadex.org/group/5702/pinpou-kun"
 };

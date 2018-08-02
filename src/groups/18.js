@@ -297,7 +297,7 @@ var urlfix_grouplist = {
     "8858": "http://spiritfingers8.weebly.com/",
     "8878": "https://trollnationreloaded.wordpress.com/",
     "8958": "http://hikarizone.tumblr.com",
-    "8978": "https://discord.gg/c3j5hnD",
+    "8978": "http://dysaniascans.tumblr.com/",
     "898": "http://crossbonepirates.blogspot.com/",
     "8998": "http://bato.to/group/_/t/they-are-a-couple-r6958",
     "9018": "http://bato.to/group/_/d/deadlocke-r7007",
@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "9878": "https://www.esterior.net/",
     "9898": "https://mangadex.org/group/2612/",
     "9918": "https://mangadex.org/group/5655/allexio-scans",
+    "9938": "https://dreams-of-tea-translations.tumblr.com/",
     "998": "http://yatta-scans.aniartworks.com"
 };

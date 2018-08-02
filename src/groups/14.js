@@ -359,5 +359,6 @@ var urlfix_grouplist = {
     "9874": "https://mangadex.org/group/4314/mythical-phoenix-scanlations",
     "9894": "http://jamsatsuten.tumblr.com/",
     "9914": "https://mangadex.org/group/5645/kingdom-italia-eng",
+    "9934": "https://mangadex.org/group/5025/melonmelonhydra",
     "994": "http://kameko-87.livejournal.com/profile"
 };

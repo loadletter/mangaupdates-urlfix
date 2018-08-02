@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "9860": "https://mangadex.org/group/5279/one-scans",
     "9880": "https://mangadex.org/group/5514/swb-scans",
     "9900": "https://horionmangaenglish.tumblr.com/",
-    "9920": "https://mangadex.org/group/5631/lonely-boy-scans"
+    "9920": "https://mangadex.org/group/5631/lonely-boy-scans",
+    "9940": "https://mangadex.org/group/5716/hellion-scans"
 };
