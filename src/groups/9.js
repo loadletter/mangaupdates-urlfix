@@ -341,7 +341,7 @@ var urlfix_grouplist = {
     "9709": "https://iescans.tumblr.com/",
     "9729": "https://mangadex.org/group/3962/moe-and-friends",
     "9749": "https://mangadex.org/group/4014/renaissance-man-scans",
-    "9769": "https://mangadex.org/group/4398/kakuriyo-scans",
+    "9769": "https://kakuriyoscanlation.wordpress.com/",
     "9789": "https://mangadex.org/group/4559/zenorocz",
     "9829": "https://mangadex.org/group/4894/dks",
     "9849": "https://mangadex.org/group/5095/awootism",

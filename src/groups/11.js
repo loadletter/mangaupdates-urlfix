@@ -230,7 +230,7 @@ var urlfix_grouplist = {
     "7551": "http://amayaokami.tumblr.com/",
     "7571": "http://z-ani.net/",
     "7591": "http://littlenovel.com/",
-    "7631": "https://pinksakura4ever.wordpress.com/",
+    "7631": "https://pinksakurascans.wordpress.com/",
     "7651": "http://mineralwatertranslation.blogspot.com/",
     "7691": "http://bato.to/group/_/c/curry-farmer-r6197",
     "7711": "http://translations.allthefallen.ninja/",

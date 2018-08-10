@@ -344,5 +344,6 @@ var urlfix_grouplist = {
     "9867": "https://mangadex.org/group/5379/weebworks",
     "987": "http://forum.dats.us/index.php",
     "9907": "https://mangadex.org/group/1082/wandering-scans",
-    "9927": "http://lonelyhikikomori.com/"
+    "9927": "http://lonelyhikikomori.com/",
+    "9947": "https://mangadex.org/group/5731/duwang-empire"
 };

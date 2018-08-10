@@ -355,5 +355,7 @@ var urlfix_grouplist = {
     "9863": "https://alwaysinadream.wordpress.com/",
     "9883": "https://mangadex.org/group/5531/freyr-scans",
     "9903": "https://wafflescans.wordpress.com/",
-    "9923": "https://mangadex.org/group/4632/kikaluna"
+    "9923": "https://mangadex.org/group/4632/kikaluna",
+    "9943": "https://mangadex.org/group/5737/afproductions",
+    "9963": "https://mangadex.org/group/5791/random-english-scanlations"
 };

@@ -348,5 +348,6 @@ var urlfix_grouplist = {
     "9893": "https://mangadex.org/group/5565/_anq",
     "9913": "https://mangadex.org/group/5646/apricity",
     "993": "http://lulu-rebellion.org/",
-    "9933": "https://doujins.com/"
+    "9933": "https://doujins.com/",
+    "9953": "https://mangadex.org/group/3531/knives-kun"
 };

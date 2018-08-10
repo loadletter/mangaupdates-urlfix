@@ -3,7 +3,7 @@ var urlfix_grouplist = {
     "1096": "http://Quatrain-of-love.awardspace.com",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",
-    "1176": "http://whatever-project.com/",
+    "1176": "https://whatever.services/",
     "1196": "http://stardust-crusaders.blogspot.com/",
     "1216": "http://www.myeternalsunshine.net/",
     "1276": "http://gagakhitam.wordpress.com/",
@@ -348,5 +348,6 @@ var urlfix_grouplist = {
     "9836": "https://mangadex.org/group/4816/global-honkaiimpact3",
     "9856": "https://moeshitscans.wordpress.com/",
     "9896": "https://mangadex.org/group/5577/quickk-translations",
-    "9936": "https://mangadex.org/group/5702/pinpou-kun"
+    "9936": "https://mangadex.org/group/5702/pinpou-kun",
+    "9956": "https://stonetranslation.wixsite.com/stone"
 };

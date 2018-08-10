@@ -336,5 +336,6 @@ var urlfix_grouplist = {
     "988": "http://www.gensokyo.org/",
     "9888": "https://www.seiyuuri.com/",
     "9908": "https://mangadex.org/group/5065/the-beginner-scans",
-    "9928": "https://djurasico.blogspot.com/"
+    "9928": "https://djurasico.blogspot.com/",
+    "9948": "http://hni-scantrad.com/"
 };

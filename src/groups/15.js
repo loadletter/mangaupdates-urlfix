@@ -330,5 +330,6 @@ var urlfix_grouplist = {
     "9875": "https://mangadex.org/group/5486/rakunscans",
     "9895": "http://coco-dreamland.tumblr.com/",
     "9915": "https://chibiloverscans.wordpress.com/",
-    "9935": "https://mangadex.org/group/5700/ebinoz"
+    "9935": "https://mangadex.org/group/5700/ebinoz",
+    "9955": "https://mangadex.org/group/5760/stalker-scans"
 };

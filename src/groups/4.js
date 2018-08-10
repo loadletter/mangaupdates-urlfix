@@ -361,5 +361,6 @@ var urlfix_grouplist = {
     "9844": "https://mangadex.org/group/5024/kuzunoha-scanlation-agency",
     "9864": "https://mangadex.org/group/5329/graveyard-of-airships",
     "9904": "https://yakisobascans.wordpress.com/",
-    "9924": "https://mangadex.org/group/5663/areeb-m"
+    "9924": "https://mangadex.org/group/5663/areeb-m",
+    "9964": "https://nekonohimetranslates.tumblr.com/"
 };

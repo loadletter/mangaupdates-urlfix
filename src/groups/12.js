@@ -359,5 +359,6 @@ var urlfix_grouplist = {
     "9852": "https://mangadex.org/group/3848",
     "9872": "https://mangadex.org/group/5425/cut-a-hole",
     "9892": "https://mangadex.org/group/5540/dacascos-scanlations",
-    "9932": "https://mangadex.org/group/5483/solistrad"
+    "9932": "https://mangadex.org/group/5483/solistrad",
+    "9952": "https://mangadex.org/group/5759/dinomyte"
 };
