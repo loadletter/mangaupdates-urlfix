@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9870": "https://coffeetoobitter.tumblr.com/",
     "9890": "https://mangadex.org/group/5558/carrot-the-xin",
     "9930": "https://mangadex.org/group/5677/lone-ranger-scans",
-    "9950": "https://mangadex.org/group/5755/tagame-scans"
+    "9950": "https://mangadex.org/group/5755/tagame-scans",
+    "9970": "https://mangadex.org/group/5809/runaway-translations"
 };

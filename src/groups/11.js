@@ -335,5 +335,6 @@ var urlfix_grouplist = {
     "9871": "https://mangadex.org/group/5349/neverland-translations",
     "9891": "https://mangadex.org/group/5560/mangatoon",
     "9911": "https://idolishtranslations.tumblr.com/",
-    "9931": "https://mangadex.org/group/5676/ryina-s-sakuras"
+    "9931": "https://mangadex.org/group/5676/ryina-s-sakuras",
+    "9971": "https://mangadex.org/group/5816/shojo-for-the-life"
 };
