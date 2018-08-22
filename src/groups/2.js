@@ -360,5 +360,6 @@ var urlfix_grouplist = {
     "9902": "https://mangadex.org/group/5591/sdream10",
     "9922": "https://mangadex.org/group/5659/white-garden",
     "9942": "https://mangadex.org/group/5730/mangaland-scanlations",
-    "9962": "https://mangadex.org/group/4487/shonenjump0998"
+    "9962": "https://mangadex.org/group/4487/shonenjump0998",
+    "9982": "https://mangadex.org/group/5895/cheesecake-scans"
 };

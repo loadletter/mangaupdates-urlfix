@@ -296,7 +296,7 @@ var urlfix_grouplist = {
     "8534": "http://lovelyxday.wordpress.com",
     "854": "http://mangahelpers.com/forum/index.php?board=50.0",
     "8554": "https://mythicalpagoda.wordpress.com",
-    "8574": "http://bato.to/group/_/a/mangascammers-r6648",
+    "8574": "https://mangadex.org/group/5735/mangascammers",
     "8594": "http://dynasty-scans.com/scanlators/lesher",
     "8614": "http://dynasty-scans.com/scanlators/estherlea",
     "8634": "http://keikcake.tumblr.com",

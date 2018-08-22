@@ -349,5 +349,6 @@ var urlfix_grouplist = {
     "9856": "https://moeshitscans.wordpress.com/",
     "9896": "https://mangadex.org/group/5577/quickk-translations",
     "9936": "https://mangadex.org/group/5702/pinpou-kun",
-    "9956": "https://stonetranslation.wixsite.com/stone"
+    "9956": "https://stonetranslation.wixsite.com/stone",
+    "9976": "https://mangadex.org/group/5793/zts"
 };

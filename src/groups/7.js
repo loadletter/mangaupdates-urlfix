@@ -346,5 +346,6 @@ var urlfix_grouplist = {
     "9907": "https://mangadex.org/group/1082/wandering-scans",
     "9927": "http://lonelyhikikomori.com/",
     "9947": "https://mangadex.org/group/5731/duwang-empire",
-    "9967": "https://mangadex.org/group/5804/spectacular-scanlations"
+    "9967": "https://mangadex.org/group/5804/spectacular-scanlations",
+    "9987": "http://coldkittenliz-chan.tumblr.com/"
 };

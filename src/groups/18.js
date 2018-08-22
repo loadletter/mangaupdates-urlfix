@@ -345,5 +345,6 @@ var urlfix_grouplist = {
     "9918": "https://mangadex.org/group/5655/allexio-scans",
     "9938": "https://dreams-of-tea-translations.tumblr.com/",
     "9958": "https://mangadex.org/group/5762/stickerdamage",
+    "9978": "https://mangadex.org/group/5878/desu-vult",
     "998": "http://yatta-scans.aniartworks.com"
 };

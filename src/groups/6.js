@@ -343,5 +343,6 @@ var urlfix_grouplist = {
     "9866": "https://mangadex.org/group/5076/mina",
     "9906": "https://mangadex.org/group/5615/frisia-scans",
     "9926": "https://mangadoctr.blogspot.com/",
-    "9966": "https://mangadex.org/group/5798/literal_genie_"
+    "9966": "https://mangadex.org/group/5798/literal_genie_",
+    "9986": "https://mangadex.org/group/5910/yukkuri-discord-lazy-manga-translation"
 };

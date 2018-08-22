@@ -360,5 +360,6 @@ var urlfix_grouplist = {
     "9861": "https://mewscans.wixsite.com/mew-scans",
     "9901": "https://mangadex.org/group/5587/masu",
     "9921": "https://mangadex.org/group/5660/natsukashii-scans",
-    "9961": "https://mangadex.org/group/5787/thanos"
+    "9961": "https://mangadex.org/group/5787/thanos",
+    "9981": "https://xtrawhippedcream.wordpress.com/"
 };

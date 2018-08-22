@@ -345,5 +345,6 @@ var urlfix_grouplist = {
     "9900": "https://horionmangaenglish.tumblr.com/",
     "9920": "https://mangadex.org/group/5631/lonely-boy-scans",
     "9940": "https://mangadex.org/group/5716/hellion-scans",
-    "9960": "https://cheeeka-scans.tumblr.com/"
+    "9960": "https://cheeeka-scans.tumblr.com/",
+    "9980": "https://mangadex.org/group/5883/i-m-not-a-scanlator"
 };

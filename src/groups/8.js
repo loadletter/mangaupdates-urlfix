@@ -338,5 +338,6 @@ var urlfix_grouplist = {
     "9908": "https://mangadex.org/group/5065/the-beginner-scans",
     "9928": "https://djurasico.blogspot.com/",
     "9948": "http://hni-scantrad.com/",
-    "9968": "https://mangadex.org/group/5807/dimurie-and-co"
+    "9968": "https://mangadex.org/group/5807/dimurie-and-co",
+    "9988": "http://pigrabbitscans.blogspot.com/"
 };
