@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 4;
 var urlfix_grouplist = {
+    "10004": "https://takeyourheartscan.tumblr.com/",
     "1004": "http://nzane2k.net/longbjs.html",
     "1024": "http://4chan.biz/",
     "104": "http://www.boku-tachi.net/",
