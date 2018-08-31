@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 2;
 var urlfix_grouplist = {
+    "10002": "https://www.noveluniverse.com/",
     "1002": "http://www.onamichan.com/",
     "102": "http://sakuracrisis.ukepile.com/",
     "1022": "http://thevproject.blogspot.com/",

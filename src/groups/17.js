@@ -342,5 +342,6 @@ var urlfix_grouplist = {
     "9877": "https://mangadex.org/group/4931/mika-scans",
     "9897": "https://mangadex.org/group/5581/mikami-scans",
     "9917": "https://mangadex.org/group/5656/raisineescans",
-    "9977": "https://aboxofnoodles.wordpress.com/"
+    "9977": "https://aboxofnoodles.wordpress.com/",
+    "9997": "https://mangadex.org/group/5743/idolm-ster-subs"
 };

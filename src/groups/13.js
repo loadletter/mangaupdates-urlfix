@@ -350,5 +350,6 @@ var urlfix_grouplist = {
     "993": "http://lulu-rebellion.org/",
     "9933": "https://doujins.com/",
     "9953": "https://mangadex.org/group/3531/knives-kun",
-    "9973": "https://randomraws.wordpress.com/"
+    "9973": "https://randomraws.wordpress.com/",
+    "9993": "https://dnetranslationteam.blogspot.com/"
 };

@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 1;
 var urlfix_grouplist = {
+    "10001": "https://mangadex.org/group/4950/faulheit",
     "1001": "http://www.animecouncil.net/",
     "101": "http://www.selene-scans.net/",
     "1041": "http://www.fmahq.com",

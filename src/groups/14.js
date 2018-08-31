@@ -362,5 +362,6 @@ var urlfix_grouplist = {
     "9934": "https://mangadex.org/group/5025/melonmelonhydra",
     "994": "http://kameko-87.livejournal.com/profile",
     "9954": "https://mangadex.org/group/5681/mizore",
-    "9974": "https://mangadex.org/group/5855/jikan-scans"
+    "9974": "https://mangadex.org/group/5855/jikan-scans",
+    "9994": "https://mangadex.org/group/5938/yuri-ichigo"
 };

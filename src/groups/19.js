@@ -353,5 +353,6 @@ var urlfix_grouplist = {
     "99": "http://www.bwys.org/",
     "9919": "https://mangadex.org/group/5657/ayakashi-ghost-scanlation-eng",
     "9979": "https://mangadex.org/group/5882/n0r1x",
-    "999": "http://www.onepiecehq.com/"
+    "999": "http://www.onepiecehq.com/",
+    "9999": "https://mangadex.org/group/5946/mrmedoman"
 };

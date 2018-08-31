@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 3;
 var urlfix_grouplist = {
+    "10003": "https://mangadex.org/group/5958/diytranslations",
     "1003": "http://www.serenus-dreamers.com/",
     "1023": "http://eternal-enchantment.kageyoshi.net/",
     "103": "http://dragonvoice.org",
@@ -346,7 +347,7 @@ var urlfix_grouplist = {
     "9703": "https://kuro1305scan.tumblr.com/",
     "9723": "https://hokisareta.blogspot.com/",
     "9743": "https://mangadex.org/group/4184/sol-caf-scans",
-    "9763": "https://mangadex.org/group/3043",
+    "9763": "https://www.boredomsociety.xyz/",
     "9783": "https://translatedino.blogspot.com/",
     "9803": "http://baratwink.tumblr.com",
     "9823": "https://mangadex.org/group/3462/the-edge-translation-team",
