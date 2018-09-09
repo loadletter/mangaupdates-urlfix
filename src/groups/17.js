@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 17;
 var urlfix_grouplist = {
+    "10017": "https://mangadex.org/group/6016/yoi",
     "1017": "http://tobeasian.com",
     "1037": "http://mewteam2.altervista.org/",
     "1097": "http://joufu.nyaatorrents.org/",

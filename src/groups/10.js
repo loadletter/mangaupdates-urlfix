@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 10;
 var urlfix_grouplist = {
+    "10010": "https://mangadex.org/group/5020/asdasdgfrw",
     "1010": "http://mangahelpers.com/forum/index.php?topic=12112.0",
     "1030": "http://phase3.vnmanga.com/",
     "1070": "http://community.livejournal.com/hp_scanlation/",

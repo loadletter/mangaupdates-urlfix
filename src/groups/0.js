@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 0;
 var urlfix_grouplist = {
     "1000": "http://www.anime-gundam.com/",
     "10000": "https://mangadex.org/group/5929/magical-translators",
+    "10020": "https://mangadex.org/group/534/ikkifansub",
     "1020": "http://community.livejournal.com/futari_kiri/",
     "1040": "http://anime-rg.com/",
     "1120": "http://animeit.blogspot.com",

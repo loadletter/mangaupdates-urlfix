@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 18;
 var urlfix_grouplist = {
+    "10018": "https://mandarinmikan.wordpress.com/projects/",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",

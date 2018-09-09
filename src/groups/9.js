@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 9;
 var urlfix_grouplist = {
+    "10009": "https://mangadex.org/group/4253/petbastard",
     "1009": "http://shinra-lackey.livejournal.com/",
     "1029": "http://tsurayuki.net/divertimento/",
     "1049": "http://www.asian-jesus.com/",
@@ -348,6 +349,7 @@ var urlfix_grouplist = {
     "9869": "https://flowermoontranslations.wordpress.com/",
     "9889": "https://mangadex.org/group/5557/narehatescans",
     "989": "http://captaintsubasafan.free.fr/",
+    "9929": "http://fujitsuix500.tumblr.com",
     "9969": "https://mangadex.org/group/5806/spring-turtle-scans",
     "9989": "https://mangadex.org/group/5922/roguetranslations"
 };

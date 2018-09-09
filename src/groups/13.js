@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 13;
 var urlfix_grouplist = {
+    "10013": "https://mangadex.org/group/5991/otomepharie",
     "1013": "http://loveandvoice.thelabrys.com/main.html",
     "1033": "http://scscans.wordpress.com/",
     "1093": "http://www.tadanohito.net/",

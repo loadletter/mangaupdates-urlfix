@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 19;
 var urlfix_grouplist = {
+    "10019": "https://mangadex.org/group/6019/berg-typesetters",
     "1019": "http://volyund.livejournal.com/",
     "1039": "http://community.livejournal.com/boys_framed/",
     "1079": "http://desertbus.blogspot.com/",
@@ -218,7 +219,7 @@ var urlfix_grouplist = {
     "6879": "http://doujinshicrazedscans.tumblr.com/",
     "6899": "http://english.ravens-scans.com/",
     "6919": "http://lmaonadelol.tumblr.com",
-    "6939": "https://timelessscans.wixsite.com/time",
+    "6939": "https://timelessscans.wordpress.com/",
     "6959": "http://ladder-sama.tumblr.com/",
     "6979": "http://kumagemonmon.tumblr.com/",
     "699": "http://pbhm.kiriau.net",

@@ -1,5 +1,6 @@
 var urlfix_grouplist_shard = 11;
 var urlfix_grouplist = {
+    "10011": "https://mangadex.org/group/5986/kongkalikong-scanlation",
     "1011": "http://mangahelpers.com/forum/",
     "1031": "http://www.yaoi.ca/scprojects.php",
     "1051": "http://rainingmangas.awardspace.com/",
