@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 2;
 var urlfix_grouplist = {
     "10002": "https://www.noveluniverse.com/",
     "1002": "http://www.onamichan.com/",
+    "10022": "https://mangadex.org/group/6041/world-of-abyss-scanlations",
     "102": "http://sakuracrisis.ukepile.com/",
     "1022": "http://thevproject.blogspot.com/",
     "1062": "http://goldie.livejournal.com/",

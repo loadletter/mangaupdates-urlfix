@@ -1,6 +1,7 @@
 var urlfix_grouplist_shard = 18;
 var urlfix_grouplist = {
     "10018": "https://mandarinmikan.wordpress.com/projects/",
+    "10038": "https://mangadex.org/group/6059/sixiang-scans",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",

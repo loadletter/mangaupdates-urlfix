@@ -1,6 +1,7 @@
 var urlfix_grouplist_shard = 17;
 var urlfix_grouplist = {
     "10017": "https://mangadex.org/group/6016/yoi",
+    "10037": "https://mangadex.org/group/6058/akabanasuiren",
     "1017": "http://tobeasian.com",
     "1037": "http://mewteam2.altervista.org/",
     "1097": "http://joufu.nyaatorrents.org/",
@@ -309,7 +310,7 @@ var urlfix_grouplist = {
     "9017": "http://gaysatanscans.tumblr.com",
     "9037": "http://bato.to/group/_/m/murakumo-scans-r6973",
     "9057": "http://19days-translation.tumblr.com",
-    "9077": "http://elpsycongroo.tk/",
+    "9077": "https://elpsykongroo.pw/",
     "9137": "https://bato.to/group/_/g/gununu-r7147",
     "9157": "https://skydustscanlations.wordpress.com/",
     "9217": "https://mangadex.org/group/58",
