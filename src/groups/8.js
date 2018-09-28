@@ -1,6 +1,7 @@
 var urlfix_grouplist_shard = 8;
 var urlfix_grouplist = {
     "10008": "https://darkroomscans.wordpress.com/",
+    "10048": "https://dijoninpieces.wordpress.com/",
     "1008": "http://frozen-yoghurt.livejournal.com/",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",

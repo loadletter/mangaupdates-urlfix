@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 3;
 var urlfix_grouplist = {
     "10003": "https://mangadex.org/group/5958/diytranslations",
     "1003": "http://www.serenus-dreamers.com/",
+    "10043": "https://mangadex.org/group/6074/japanese-unloved-mangas-jum",
     "1023": "http://eternal-enchantment.kageyoshi.net/",
     "103": "http://dragonvoice.org",
     "1043": "http://www.toukoubi.com/",

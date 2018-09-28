@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 4;
 var urlfix_grouplist = {
     "10004": "https://takeyourheartscan.tumblr.com/",
     "1004": "http://nzane2k.net/longbjs.html",
+    "10044": "https://mangadex.org/group/6087/gandez",
     "1024": "http://4chan.biz/",
     "104": "http://www.boku-tachi.net/",
     "1084": "http://presencedear.com/",
@@ -361,7 +362,7 @@ var urlfix_grouplist = {
     "984": "http://brokenwingscans.4000webs.com/",
     "9844": "https://mangadex.org/group/5024/kuzunoha-scanlation-agency",
     "9864": "https://mangadex.org/group/5329/graveyard-of-airships",
-    "9904": "https://yakisobascans.wordpress.com/",
+    "9904": "https://yakisoba.mangadex.com/",
     "9924": "https://mangadex.org/group/5663/areeb-m",
     "9964": "https://nekonohimetranslates.tumblr.com/",
     "9984": "https://mangadex.org/group/5747/rai-scans"

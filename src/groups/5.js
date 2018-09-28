@@ -1,6 +1,7 @@
 var urlfix_grouplist_shard = 5;
 var urlfix_grouplist = {
     "10005": "https://mangadex.org/group/5963/n4scans",
+    "10045": "https://mangadex.org/group/6092/inazuma-eleven-translations",
     "1005": "http://lyrebird.aithine.org/oriyaukyou/",
     "1025": "http://www.crossbonepirates.blogspot.com/",
     "105": "http://ephd.pixiefetish.net/",

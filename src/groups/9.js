@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 9;
 var urlfix_grouplist = {
     "10009": "https://mangadex.org/group/4253/petbastard",
     "10029": "https://mangadex.org/group/3106/dullian",
+    "10049": "https://mangadex.org/group/6104/izone-scanlations",
     "1009": "http://shinra-lackey.livejournal.com/",
     "1029": "http://tsurayuki.net/divertimento/",
     "1049": "http://www.asian-jesus.com/",
