@@ -12,7 +12,8 @@ from update import GROUPSJSON, jsonloadf
 INVALID = "You specified an invalid group id."
 WWWBROWSER = "firefox"
 DOSEARCH = True
-QUERYURLS = ['https://mangadex.org/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8', 'http://yandex.com/yandsearch?text=%s']
+#QUERYURLS = ['https://mangadex.org/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8', 'http://yandex.com/yandsearch?text=%s']
+QUERYURLS = ['https://mangadex.org/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8']
 AUTONOVEL = True
 
 requests_s = requests.Session()
