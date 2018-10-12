@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 6;
 var urlfix_grouplist = {
     "10006": "https://mangadex.org/group/5974/owari-no-manga",
     "1006": "http://aether-scans.bravehost.com/",
+    "10066": "https://mangadex.org/group/5683/pab-scans",
     "1026": "http://community.livejournal.com/otakupink/",
     "1046": "http://www.hanaji-scans.blogspot.com/",
     "106": "http://www.ignition-one.org/",

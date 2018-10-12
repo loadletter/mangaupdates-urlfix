@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 7;
 var urlfix_grouplist = {
     "10007": "https://animeacescans.wordpress.com/",
     "10047": "https://mangadex.org/group/6093/lonesome-scans",
+    "10067": "https://www.reddit.com/r/RoughScans/",
     "1027": "http://cinderella-story.110mb.com/index.html",
     "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",

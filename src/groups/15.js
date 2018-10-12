@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 15;
 var urlfix_grouplist = {
     "10015": "https://mangadex.org/group/6003/ibi",
     "10035": "https://mangadex.org/group/5885/dead-chrysanthemum",
+    "10075": "http://www.manhuaonlineproject.com/",
     "1035": "http://www.snow-kiss.net/",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",

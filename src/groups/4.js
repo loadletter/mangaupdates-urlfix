@@ -3,6 +3,7 @@ var urlfix_grouplist = {
     "10004": "https://takeyourheartscan.tumblr.com/",
     "1004": "http://nzane2k.net/longbjs.html",
     "10044": "https://mangadex.org/group/6087/gandez",
+    "10064": "https://mangadex.org/group/6182/sss",
     "1024": "http://4chan.biz/",
     "104": "http://www.boku-tachi.net/",
     "1084": "http://presencedear.com/",

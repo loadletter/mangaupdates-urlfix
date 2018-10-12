@@ -3,6 +3,7 @@ var urlfix_grouplist = {
     "10013": "https://mangadex.org/group/5991/otomepharie",
     "10033": "https://mangadex.org/group/6048/lucille",
     "10053": "https://mangadex.org/group/6100/slowaf",
+    "10073": "https://toomics.com/en/",
     "1013": "http://loveandvoice.thelabrys.com/main.html",
     "1033": "http://scscans.wordpress.com/",
     "1093": "http://www.tadanohito.net/",

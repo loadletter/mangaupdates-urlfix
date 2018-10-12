@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 19;
 var urlfix_grouplist = {
     "10019": "https://mangadex.org/group/6019/berg-typesetters",
     "10039": "https://mangadex.org/group/6062/araragi_san",
+    "10059": "https://lunalilyx.tumblr.com/",
     "1019": "http://volyund.livejournal.com/",
     "1039": "http://community.livejournal.com/boys_framed/",
     "1079": "http://desertbus.blogspot.com/",

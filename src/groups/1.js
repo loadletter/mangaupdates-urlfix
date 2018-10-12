@@ -4,6 +4,7 @@ var urlfix_grouplist = {
     "1001": "http://www.animecouncil.net/",
     "10021": "https://mangadex.org/group/6036/kikuchino",
     "10041": "https://miyumafia.wordpress.com/",
+    "10061": "https://catsycats.tumblr.com/",
     "101": "http://www.selene-scans.net/",
     "1041": "http://www.fmahq.com",
     "1081": "http://champloo4u.livejournal.com/",

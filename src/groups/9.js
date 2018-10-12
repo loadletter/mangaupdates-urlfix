@@ -339,7 +339,7 @@ var urlfix_grouplist = {
     "9629": "https://desiringtranslation.com/",
     "9649": "https://sakuraidreader.wordpress.com",
     "9669": "https://mangadex.org/group/3191/amaranth-scans",
-    "9689": "https://mangadex.org/group/3418/nani-scans",
+    "9689": "https://naniscans.xyz/",
     "969": "http://sf.nyaatorrents.org/",
     "9709": "https://iescans.tumblr.com/",
     "9729": "https://mangadex.org/group/3962/moe-and-friends",

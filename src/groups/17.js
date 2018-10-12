@@ -2,6 +2,8 @@ var urlfix_grouplist_shard = 17;
 var urlfix_grouplist = {
     "10017": "https://mangadex.org/group/6016/yoi",
     "10037": "https://mangadex.org/group/6058/akabanasuiren",
+    "10057": "https://mangadex.org/group/6150/jin-sensei-s-fan",
+    "10077": "https://mangadex.org/group/6208/the-bigg-gey",
     "1017": "http://tobeasian.com",
     "1037": "http://mewteam2.altervista.org/",
     "1097": "http://joufu.nyaatorrents.org/",
