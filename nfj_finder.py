@@ -91,7 +91,11 @@ def run(start_id, end_id):
 	for g in range(start_id, end_id + 1):
 		urls = []
 		muurl = 'https://www.mangaupdates.com/groups.html?id=%i' % g
-		req = requests_s.get(muurl)
+		try:
+			req = requests_s.get(muurl)
+		except requests.exceptions.ConnectionError:
+			print "Connection error:", g
+			continue
 		t = req.text
 		if INVALID in t:
 			print "Invalid group:", g
