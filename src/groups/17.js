@@ -190,7 +190,7 @@ var urlfix_grouplist = {
     "6077": "http://lifeofkimssunset.blogspot.com/",
     "6117": "http://www.reddit.com/r/Souka/",
     "6137": "http://www.jcafe24.net/index.php?topic=42679.0",
-    "6157": "http://www.finemang.tk/",
+    "6157": "https://finemangscans.wordpress.com/",
     "6217": "http://krytykal.org/alice-tale/",
     "6297": "https://hatoken.wordpress.com/",
     "6337": "https://spaminsubs.wordpress.com/",

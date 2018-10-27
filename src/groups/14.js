@@ -2,6 +2,7 @@ var urlfix_grouplist_shard = 14;
 var urlfix_grouplist = {
     "10014": "https://mangadex.org/group/5999/melon-scans",
     "10054": "https://taisetsu-project.tumblr.com/",
+    "10114": "https://mangadex.org/group/6173/epistaxis-productions",
     "1014": "http://www.mangabuzz.com/",
     "1034": "http://community.livejournal.com/eastern_blue/",
     "1054": "http://loversdreams.wordpress.com",

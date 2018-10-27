@@ -4,6 +4,7 @@ var urlfix_grouplist = {
     "10038": "https://mangadex.org/group/6059/sixiang-scans",
     "10058": "https://jakurantl.wordpress.com/",
     "10078": "https://mangadex.org/group/4690/m-m-mangas",
+    "10098": "https://mangadex.org/group/6253/kokona-scanlations",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",

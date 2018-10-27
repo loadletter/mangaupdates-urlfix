@@ -4,6 +4,8 @@ var urlfix_grouplist = {
     "1004": "http://nzane2k.net/longbjs.html",
     "10044": "https://mangadex.org/group/6087/gandez",
     "10064": "https://mangadex.org/group/6182/sss",
+    "10084": "https://mangadex.org/group/6222/striptease",
+    "10104": "https://onewingedbaphomet.blogspot.com/",
     "1024": "http://4chan.biz/",
     "104": "http://www.boku-tachi.net/",
     "1084": "http://presencedear.com/",

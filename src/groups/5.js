@@ -4,6 +4,7 @@ var urlfix_grouplist = {
     "10045": "https://mangadex.org/group/6092/inazuma-eleven-translations",
     "1005": "http://lyrebird.aithine.org/oriyaukyou/",
     "10065": "https://mangadex.org/group/6186/qwertyuiop",
+    "10085": "https://mangadex.org/group/6223/doryoku",
     "1025": "http://www.crossbonepirates.blogspot.com/",
     "105": "http://ephd.pixiefetish.net/",
     "1065": "http://www.dctp.ws/",

@@ -4,6 +4,7 @@ var urlfix_grouplist = {
     "10032": "https://mangadex.org/group/5722/btd-scans",
     "10052": "https://level99alchemist.mangadex.com/",
     "10072": "https://mangadex.org/group/6195/violet-garden-scans",
+    "10112": "https://mangadex.org/group/6294/xankar-s-scans",
     "1012": "http://leviosa8.livejournal.com/",
     "1032": "http://brokenpromisescans.wordpress.com/",
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",

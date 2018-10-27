@@ -5,6 +5,7 @@ var urlfix_grouplist = {
     "10022": "https://mangadex.org/group/6041/world-of-abyss-scanlations",
     "10042": "https://ariettescans.tumblr.com/",
     "10062": "https://mangadex.org/group/6116/aoi-ichigo",
+    "10082": "https://mangadex.org/group/6217/kyulations",
     "102": "http://sakuracrisis.ukepile.com/",
     "1022": "http://thevproject.blogspot.com/",
     "1062": "http://goldie.livejournal.com/",
