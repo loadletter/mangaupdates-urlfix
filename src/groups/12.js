@@ -6,6 +6,8 @@ var urlfix_grouplist = {
     "10072": "https://mangadex.org/group/6195/violet-garden-scans",
     "10112": "https://mangadex.org/group/6294/xankar-s-scans",
     "1012": "http://leviosa8.livejournal.com/",
+    "10132": "https://mangadex.org/group/6293/marv",
+    "10152": "https://mangadex.org/group/6408/sometrash",
     "1032": "http://brokenpromisescans.wordpress.com/",
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",
     "1072": "http://community.livejournal.com/yazaworld/",

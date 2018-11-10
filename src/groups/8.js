@@ -6,6 +6,8 @@ var urlfix_grouplist = {
     "1008": "http://frozen-yoghurt.livejournal.com/",
     "10088": "https://mangadex.org/group/6097/spirit-fingers-scans",
     "10108": "https://mangadex.org/group/6283/extra-ordinary-scans",
+    "10128": "https://listeningstories.wordpress.com/",
+    "10148": "https://scanbeans.tumblr.com/",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",
     "1088": "http://www.blissful-sin.com/",

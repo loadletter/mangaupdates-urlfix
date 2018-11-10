@@ -4,6 +4,7 @@ var urlfix_grouplist = {
     "10036": "https://mangadex.org/group/6056/humble-scan",
     "10096": "https://mangadex.org/group/6216/faggotweebshitlates",
     "10116": "https://mangadex.org/group/6316/kirari",
+    "10136": "https://mangadex.org/group/6342/sakurau121",
     "1096": "http://Quatrain-of-love.awardspace.com",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",

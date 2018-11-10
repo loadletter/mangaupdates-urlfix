@@ -5,6 +5,8 @@ var urlfix_grouplist = {
     "10050": "https://twitter.com/EuropoorS",
     "10090": "https://mangadex.org/group/5356/hachinai-scans",
     "1010": "http://mangahelpers.com/forum/index.php?topic=12112.0",
+    "10130": "https://mangadex.org/group/6346/version",
+    "10150": "http://thennosscans.xyz/",
     "1030": "http://phase3.vnmanga.com/",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",

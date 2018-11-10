@@ -5,6 +5,8 @@ var urlfix_grouplist = {
     "10059": "https://lunalilyx.tumblr.com/",
     "10079": "https://mangadex.org/group/5807/lifecode",
     "10099": "https://mangadex.org/group/6239/natsucule",
+    "10119": "https://akumatsutranslations.tumblr.com/",
+    "10139": "https://mangadex.org/group/6365/strictly-anonymous-team",
     "1019": "http://volyund.livejournal.com/",
     "1039": "http://community.livejournal.com/boys_framed/",
     "1079": "http://desertbus.blogspot.com/",

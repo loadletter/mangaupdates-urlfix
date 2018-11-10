@@ -8,6 +8,8 @@ var urlfix_grouplist = {
     "10081": "https://mangadex.org/group/6218/troll-trap-translations",
     "101": "http://www.selene-scans.net/",
     "10101": "https://mangadex.org/group/6260/darkdhaos",
+    "10121": "https://mangadex.org/group/1558/kasen-translations",
+    "10141": "http://mangareru.blogspot.com/",
     "1041": "http://www.fmahq.com",
     "1081": "http://champloo4u.livejournal.com/",
     "1181": "http://www.naruto-mx.com/us",

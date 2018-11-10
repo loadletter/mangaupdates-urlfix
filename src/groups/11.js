@@ -2,10 +2,12 @@ var urlfix_grouplist_shard = 11;
 var urlfix_grouplist = {
     "10011": "https://mangadex.org/group/5986/kongkalikong-scanlation",
     "10031": "https://mangadex.org/group/3108/striborg",
-    "10071": "https://multiscans.wordpress.com/",
+    "10071": "https://www.ninjascans.com/",
     "10091": "https://mangadex.org/group/6233/isekais-scan",
     "1011": "http://mangahelpers.com/forum/",
     "10111": "https://mangadex.org/group/6259/sutekisteak-translations",
+    "10131": "https://rosesquadscans.tumblr.com/",
+    "10151": "https://mangadex.org/group/439/einherjar-scan",
     "1031": "http://www.yaoi.ca/scprojects.php",
     "1051": "http://rainingmangas.awardspace.com/",
     "1091": "http://www.mydailymanga.com/",

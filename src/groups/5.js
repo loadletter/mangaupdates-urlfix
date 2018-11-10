@@ -5,6 +5,8 @@ var urlfix_grouplist = {
     "1005": "http://lyrebird.aithine.org/oriyaukyou/",
     "10065": "https://mangadex.org/group/6186/qwertyuiop",
     "10085": "https://mangadex.org/group/6223/doryoku",
+    "10125": "https://sorcererweekly.com/",
+    "10145": "https://www.ninjascans.com/",
     "1025": "http://www.crossbonepirates.blogspot.com/",
     "105": "http://ephd.pixiefetish.net/",
     "1065": "http://www.dctp.ws/",

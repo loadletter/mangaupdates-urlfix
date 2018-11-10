@@ -4,6 +4,8 @@ var urlfix_grouplist = {
     "1006": "http://aether-scans.bravehost.com/",
     "10066": "https://mangadex.org/group/5683/pab-scans",
     "10106": "https://mangadex.org/group/6023/unorganised-otakus",
+    "10126": "https://mangadex.org/group/6334/of-the-jungle",
+    "10146": "https://mangadex.org/group/6381/team-daigaijin",
     "1026": "http://community.livejournal.com/otakupink/",
     "1046": "http://www.hanaji-scans.blogspot.com/",
     "106": "http://www.ignition-one.org/",

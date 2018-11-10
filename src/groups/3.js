@@ -6,6 +6,8 @@ var urlfix_grouplist = {
     "10063": "https://mangadex.org/group/6178/killingallies",
     "10083": "https://mangadex.org/group/4718/yuutousei-scans",
     "10103": "https://mangadex.org/group/6265/2huproject",
+    "10123": "https://mysteryweeb.tumblr.com/",
+    "10143": "https://mangadex.org/group/6360/luxyscans",
     "1023": "http://eternal-enchantment.kageyoshi.net/",
     "103": "http://dragonvoice.org",
     "1043": "http://www.toukoubi.com/",

@@ -215,7 +215,7 @@ var urlfix_grouplist = {
     "677": "http://wai-yeng.livejournal.com/",
     "6777": "http://jnmbs.blogspot.com/",
     "6797": "https://www.facebook.com/UnchartedScanlations/",
-    "6857": "https://lovelystrangedark.wordpress.com/",
+    "6857": "https://lsd.mangadex.com/",
     "6877": "http://fuj0shi-heaven.tumblr.com/",
     "6897": "http://cafeconirst.com/",
     "6917": "http://shokkan.tumblr.com/",

@@ -6,6 +6,8 @@ var urlfix_grouplist = {
     "10060": "https://mangadex.org/group/6165/bigk40k",
     "10080": "https://lemonmanhua.tumblr.com/",
     "10100": "https://mangadex.org/group/6257/milkyway",
+    "10120": "https://chogagetranslations.tumblr.com/",
+    "10140": "https://mangadex.org/group/6317/freekscans",
     "1020": "http://community.livejournal.com/futari_kiri/",
     "1040": "http://anime-rg.com/",
     "1120": "http://animeit.blogspot.com",

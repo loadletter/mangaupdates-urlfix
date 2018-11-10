@@ -4,6 +4,7 @@ var urlfix_grouplist = {
     "10035": "https://mangadex.org/group/5885/dead-chrysanthemum",
     "10075": "http://www.manhuaonlineproject.com/",
     "10095": "https://mangadex.org/group/6234/odyssey-scans",
+    "10135": "https://mangadex.org/group/6340/rokkaku",
     "1035": "http://www.snow-kiss.net/",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",
