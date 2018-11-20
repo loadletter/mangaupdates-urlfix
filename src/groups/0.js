@@ -8,6 +8,7 @@ var urlfix_grouplist = {
     "10100": "https://mangadex.org/group/6257/milkyway",
     "10120": "https://chogagetranslations.tumblr.com/",
     "10140": "https://mangadex.org/group/6317/freekscans",
+    "10160": "https://wordexcerpt.com/",
     "1020": "http://community.livejournal.com/futari_kiri/",
     "1040": "http://anime-rg.com/",
     "1120": "http://animeit.blogspot.com",

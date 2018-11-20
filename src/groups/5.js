@@ -7,6 +7,7 @@ var urlfix_grouplist = {
     "10085": "https://mangadex.org/group/6223/doryoku",
     "10125": "https://sorcererweekly.com/",
     "10145": "https://www.ninjascans.com/",
+    "10165": "https://mangadex.org/group/6457/shoujo-no-kuni",
     "1025": "http://www.crossbonepirates.blogspot.com/",
     "105": "http://ephd.pixiefetish.net/",
     "1065": "http://www.dctp.ws/",

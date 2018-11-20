@@ -7,6 +7,7 @@ var urlfix_grouplist = {
     "10098": "https://mangadex.org/group/6253/kokona-scanlations",
     "10118": "https://mangadex.org/group/6321/thepaulbunyantrophy",
     "10138": "https://pyroxenescanning.wordpress.com/",
+    "10158": "https://mangadex.org/group/6438/acceleorderao",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",

@@ -4,6 +4,7 @@ var urlfix_grouplist = {
     "10037": "https://mangadex.org/group/6058/akabanasuiren",
     "10057": "https://mangadex.org/group/6150/jin-sensei-s-fan",
     "10077": "https://mangadex.org/group/6208/the-bigg-gey",
+    "10157": "https://mangadex.org/group/6385/5o5-scans",
     "1017": "http://tobeasian.com",
     "1037": "http://mewteam2.altervista.org/",
     "1097": "http://joufu.nyaatorrents.org/",

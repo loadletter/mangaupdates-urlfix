@@ -7,6 +7,7 @@ var urlfix_grouplist = {
     "10062": "https://mangadex.org/group/6116/aoi-ichigo",
     "10082": "https://mangadex.org/group/6217/kyulations",
     "10122": "https://mangadex.org/group/5418/spiral-scans",
+    "10162": "https://mangadex.org/group/2187/digital-team",
     "102": "http://sakuracrisis.ukepile.com/",
     "1022": "http://thevproject.blogspot.com/",
     "1062": "http://goldie.livejournal.com/",

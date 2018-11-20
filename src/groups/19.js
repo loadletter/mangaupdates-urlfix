@@ -7,6 +7,7 @@ var urlfix_grouplist = {
     "10099": "https://mangadex.org/group/6239/natsucule",
     "10119": "https://akumatsutranslations.tumblr.com/",
     "10139": "https://mangadex.org/group/6365/strictly-anonymous-team",
+    "10159": "https://mangadex.org/group/6421/the-one-man-army-scans",
     "1019": "http://volyund.livejournal.com/",
     "1039": "http://community.livejournal.com/boys_framed/",
     "1079": "http://desertbus.blogspot.com/",
