@@ -7,6 +7,7 @@ var urlfix_grouplist = {
     "10107": "https://mangadex.org/group/4886/glossydarts",
     "10127": "https://mangadex.org/group/6333/big-strong-scans",
     "10147": "https://ygwypfslashyougetwhatyoupaidforslashyscans.wordpress.com/",
+    "10167": "https://mangadex.org/group/2233/mangadex-scans",
     "1027": "http://cinderella-story.110mb.com/index.html",
     "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",
