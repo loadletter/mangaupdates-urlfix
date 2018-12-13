@@ -9,6 +9,8 @@ var urlfix_grouplist = {
     "10124": "https://bahabahamut.tumblr.com/",
     "10144": "https://mangadex.org/group/6375/momoscans",
     "10164": "https://mangadex.org/group/6456/criminal-scans",
+    "10184": "https://naabii.home.blog/",
+    "10204": "https://mangadex.org/group/6627/nekoniku-scans",
     "1024": "http://4chan.biz/",
     "104": "http://www.boku-tachi.net/",
     "1084": "http://presencedear.com/",

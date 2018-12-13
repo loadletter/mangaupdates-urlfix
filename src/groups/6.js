@@ -7,6 +7,8 @@ var urlfix_grouplist = {
     "10126": "https://mangadex.org/group/6334/of-the-jungle",
     "10146": "https://mangadex.org/group/6381/team-daigaijin",
     "10166": "https://wanderingmusetranslation.wordpress.com",
+    "10186": "https://dumplingisnicetranslations.blogspot.com/",
+    "10206": "https://mangadex.org/group/6634/lq-scans",
     "1026": "http://community.livejournal.com/otakupink/",
     "1046": "http://www.hanaji-scans.blogspot.com/",
     "106": "http://www.ignition-one.org/",

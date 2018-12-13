@@ -9,6 +9,7 @@ var urlfix_grouplist = {
     "10129": "https://daisuki.mangadex.com/",
     "10149": "https://popstarpress.wordpress.com/",
     "10169": "https://mangadex.org/group/6471/steffortless",
+    "10189": "https://mangadex.org/group/4795/scanaloupe",
     "1029": "http://tsurayuki.net/divertimento/",
     "1049": "http://www.asian-jesus.com/",
     "109": "http://www.storminheaven.org/",

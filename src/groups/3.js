@@ -9,6 +9,8 @@ var urlfix_grouplist = {
     "10123": "https://mysteryweeb.tumblr.com/",
     "10143": "https://mangadex.org/group/6360/luxyscans",
     "10163": "https://mangadex.org/group/511/demone-celeste-scan-team",
+    "10183": "https://mangadex.org/group/3146/plykiya",
+    "10203": "https://mangadex.org/group/6553/_-_-scans",
     "1023": "http://eternal-enchantment.kageyoshi.net/",
     "103": "http://dragonvoice.org",
     "1043": "http://www.toukoubi.com/",

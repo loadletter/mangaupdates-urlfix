@@ -5,6 +5,8 @@ var urlfix_grouplist = {
     "10075": "http://www.manhuaonlineproject.com/",
     "10095": "https://mangadex.org/group/6234/odyssey-scans",
     "10135": "https://mangadex.org/group/6340/rokkaku",
+    "10175": "https://mangadex.org/group/6490/isekai-manhwa-clan",
+    "10195": "https://mangadex.org/group/6494/abaj-scans",
     "1035": "http://www.snow-kiss.net/",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",

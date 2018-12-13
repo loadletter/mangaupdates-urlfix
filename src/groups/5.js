@@ -8,6 +8,8 @@ var urlfix_grouplist = {
     "10125": "https://sorcererweekly.com/",
     "10145": "https://www.ninjascans.com/",
     "10165": "https://mangadex.org/group/6457/shoujo-no-kuni",
+    "10185": "https://mangadex.org/group/6537/loli-soul",
+    "10205": "https://mangadex.org/group/6631/geass-activate",
     "1025": "http://www.crossbonepirates.blogspot.com/",
     "105": "http://ephd.pixiefetish.net/",
     "1065": "http://www.dctp.ws/",
@@ -363,5 +365,5 @@ var urlfix_grouplist = {
     "9885": "http://idolish-seven.tumblr.com/tagged/atom-scans",
     "9905": "https://mangadex.org/group/5567/insanity-scan",
     "9925": "https://mangadex.org/group/5522/notodayaka",
-    "9945": "https://mangadex.org/group/4896/xun"
+    "9945": "https://xunscans.xyz/"
 };

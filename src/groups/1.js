@@ -11,6 +11,8 @@ var urlfix_grouplist = {
     "10121": "https://mangadex.org/group/1558/kasen-translations",
     "10141": "http://mangareru.blogspot.com/",
     "10161": "https://mangadex.org/group/6454/lunectar",
+    "10181": "https://mangadex.org/group/6517/kuromin",
+    "10201": "https://mangadex.org/group/6607/inverte-scans",
     "1041": "http://www.fmahq.com",
     "1081": "http://champloo4u.livejournal.com/",
     "1181": "http://www.naruto-mx.com/us",
