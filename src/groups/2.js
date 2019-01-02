@@ -12,6 +12,7 @@ var urlfix_grouplist = {
     "102": "http://sakuracrisis.ukepile.com/",
     "10202": "https://mangadex.org/group/6346/dork-scans",
     "1022": "http://thevproject.blogspot.com/",
+    "10222": "https://mangadex.org/group/6658/tl-dr",
     "1062": "http://goldie.livejournal.com/",
     "1082": "http://www.cutelucca.com/",
     "1122": "http://forever.chusha-ki.net/",

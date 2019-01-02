@@ -8,6 +8,7 @@ var urlfix_grouplist = {
     "10130": "https://mangadex.org/group/6346/version",
     "10150": "http://thennosscans.xyz/",
     "10170": "https://mangadex.org/group/6475/bigbellygroup",
+    "10210": "https://mangadex.org/group/6654/chichananime-scans",
     "1030": "http://phase3.vnmanga.com/",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",

@@ -10,6 +10,7 @@ var urlfix_grouplist = {
     "10158": "https://mangadex.org/group/6438/acceleorderao",
     "10178": "https://mangadex.org/group/6496/sweet-temptations",
     "10198": "https://mangadex.org/group/6614/pocket-angel-scans",
+    "10218": "https://builddesks.wordpress.com/",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",

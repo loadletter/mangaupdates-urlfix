@@ -10,6 +10,7 @@ var urlfix_grouplist = {
     "10133": "https://mangadex.org/group/6353/frostycactus",
     "10153": "https://mangadex.org/group/5936/archivers-scanlation",
     "10193": "https://mangadex.org/group/6582/absquatulate-scans",
+    "10213": "https://mangadex.org/group/6579/himasugi",
     "1033": "http://scscans.wordpress.com/",
     "1093": "http://www.tadanohito.net/",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",

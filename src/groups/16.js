@@ -8,6 +8,7 @@ var urlfix_grouplist = {
     "10156": "https://mangadex.org/group/6427/yurigasmscan",
     "10176": "https://mangadex.org/group/6499/gochiusa-translations",
     "10196": "https://mangadex.org/group/6589/modan-scans",
+    "10216": "https://kedamascans.wordpress.com/",
     "1096": "http://Quatrain-of-love.awardspace.com",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",
