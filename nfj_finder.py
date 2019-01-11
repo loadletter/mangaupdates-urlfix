@@ -15,6 +15,8 @@ DOSEARCH = True
 #QUERYURLS = ['https://mangadex.org/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8', 'http://yandex.com/yandsearch?text=%s']
 QUERYURLS = ['https://mangadex.org/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8']
 AUTONOVEL = True
+RUN_OFFSET = 100
+LAST_OFFSET = 20
 
 requests_s = requests.Session()
 requests_s.headers.update({'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'})
@@ -58,22 +60,6 @@ def fujo(n):
 				results.append(url)
 	return results
 
-def get_content(url):
-	req = requests_s.get(url)
-	soup = BeautifulSoup(req.text)
-	return soup.find('td', {'id': 'main_content'})
-
-def get_end_id():
-	con = get_content('http://www.mangaupdates.com/groups.html')
-	for a in con.findAll('a'):
-		if a.text == 'Last' and a['title'].startswith('Goto page'):
-			last_page = a['href']
-			break
-	con = get_content(last_page)
-	urls = con.findAll('a', {'alt': 'Group Info'})
-	last_url = urls[-1]['href']
-	return int(last_url.split('=')[-1])
-
 def get_start_id():
 	groups = jsonloadf(GROUPSJSON)
 	first_id = max(groups.keys(), key=int)
@@ -86,9 +72,15 @@ def submit_result(gid, url):
 	else:
 		print "Error!"
 
-def run(start_id, end_id):
-	print start_id, "-->", end_id
-	for g in range(start_id, end_id + 1):
+def run(start_id):
+	print "START:", start_id
+	invalid_count = 0
+	last_valid = None
+	for g in range(start_id, start_id + RUN_OFFSET):
+		if invalid_count > LAST_OFFSET:
+			print "END:", last_valid
+			break
+				
 		urls = []
 		muurl = 'https://www.mangaupdates.com/groups.html?id=%i' % g
 		try:
@@ -99,8 +91,11 @@ def run(start_id, end_id):
 		t = req.text
 		if INVALID in t:
 			print "Invalid group:", g
+			invalid_count += 1
 			continue
 		name = parse_name(t)
+		invalid_count = 0
+		last_valid = g
 		if "Novel" in t:
 			if AUTONOVEL:
 				novelurls = novel(name)
@@ -137,6 +132,8 @@ def run(start_id, end_id):
 			#browserargs += map(lambda x: x % ('"' + urllib.quote(name.encode('utf-8')) + '"'), QUERYURLS)
 			browserargs += map(lambda x: x % (urllib.quote(name.encode('utf-8'))), QUERYURLS)
 			subprocess.call(browserargs)
+	if invalid_count <= LAST_OFFSET:
+		print "SHORT RUN!"
 
 if __name__ == "__main__":
-	run(get_start_id() + 1, get_end_id())
+	run(get_start_id() + 1)
