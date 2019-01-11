@@ -9,6 +9,8 @@ var urlfix_grouplist = {
     "10132": "https://mangadex.org/group/6293/marv",
     "10152": "https://mangadex.org/group/6408/sometrash",
     "10212": "https://sleepypandascans.co/",
+    "10232": "https://mangadex.org/group/6794/tritinia-scans",
+    "10252": "https://mangadex.org/group/6864/monika",
     "1032": "http://brokenpromisescans.wordpress.com/",
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",
     "1072": "http://community.livejournal.com/yazaworld/",

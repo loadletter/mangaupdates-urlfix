@@ -9,6 +9,7 @@ var urlfix_grouplist = {
     "10174": "https://mangadex.org/group/5622/facebook-project-tokyo-dolls",
     "10194": "https://mangadex.org/group/6594/leadrous",
     "10214": "https://jasminetriedthescansandtea.tumblr.com/",
+    "10254": "https://mangadex.org/group/3086/",
     "1034": "http://community.livejournal.com/eastern_blue/",
     "1054": "http://loversdreams.wordpress.com",
     "1094": "http://www.dtmangas.tk/",

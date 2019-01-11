@@ -12,6 +12,7 @@ var urlfix_grouplist = {
     "1019": "http://volyund.livejournal.com/",
     "10199": "https://mangadex.org/group/6615/theyellowcats",
     "10219": "https://mangadex.org/group/6721/bloatedbunny",
+    "10239": "https://mangadex.org/group/6628/super-gogeta",
     "1039": "http://community.livejournal.com/boys_framed/",
     "1079": "http://desertbus.blogspot.com/",
     "1119": "http://community.livejournal.com/polaris_scans/profile",

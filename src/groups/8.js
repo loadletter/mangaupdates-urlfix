@@ -10,6 +10,8 @@ var urlfix_grouplist = {
     "10148": "https://scanbeans.tumblr.com/",
     "10188": "https://mangadex.org/group/6560/delle",
     "10208": "https://mangadex.org/group/6643/pokeonimac-s-amateur-hour-translations",
+    "10228": "https://mangadex.org/group/6792/badnewbiescanlations",
+    "10248": "https://mangadex.org/group/4005/degenerate_x",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",
     "1088": "http://www.blissful-sin.com/",

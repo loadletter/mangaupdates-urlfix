@@ -10,6 +10,7 @@ var urlfix_grouplist = {
     "10165": "https://mangadex.org/group/6457/shoujo-no-kuni",
     "10185": "https://mangadex.org/group/6537/loli-soul",
     "10205": "https://mangadex.org/group/6631/geass-activate",
+    "10245": "https://mangadex.org/group/6848/lupin-s-translations",
     "1025": "http://www.crossbonepirates.blogspot.com/",
     "105": "http://ephd.pixiefetish.net/",
     "1065": "http://www.dctp.ws/",

@@ -9,6 +9,8 @@ var urlfix_grouplist = {
     "10150": "http://thennosscans.xyz/",
     "10170": "https://mangadex.org/group/6475/bigbellygroup",
     "10210": "https://mangadex.org/group/6654/chichananime-scans",
+    "10230": "https://mobofdeer.wordpress.com/",
+    "10250": "https://mangadex.org/group/6856/sssss",
     "1030": "http://phase3.vnmanga.com/",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",

@@ -14,6 +14,7 @@ var urlfix_grouplist = {
     "10181": "https://mangadex.org/group/6517/kuromin",
     "10201": "https://mangadex.org/group/6607/inverte-scans",
     "10221": "https://mangadex.org/group/6730/zexi-trans",
+    "10241": "https://mangadex.org/group/6832/steak-in-the-mud",
     "1041": "http://www.fmahq.com",
     "1081": "http://champloo4u.livejournal.com/",
     "1181": "http://www.naruto-mx.com/us",

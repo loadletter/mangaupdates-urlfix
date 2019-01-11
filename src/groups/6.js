@@ -10,6 +10,7 @@ var urlfix_grouplist = {
     "10186": "https://dumplingisnicetranslations.blogspot.com/",
     "10206": "https://mangadex.org/group/6634/lq-scans",
     "10226": "https://mangadex.org/group/6698/eishun-team",
+    "10246": "https://mangadex.org/group/6852/wxlf",
     "1026": "http://community.livejournal.com/otakupink/",
     "1046": "http://www.hanaji-scans.blogspot.com/",
     "106": "http://www.ignition-one.org/",

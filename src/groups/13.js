@@ -11,6 +11,8 @@ var urlfix_grouplist = {
     "10153": "https://mangadex.org/group/5936/archivers-scanlation",
     "10193": "https://mangadex.org/group/6582/absquatulate-scans",
     "10213": "https://mangadex.org/group/6579/himasugi",
+    "10233": "https://mangadex.org/group/6801/eater-of-cakes",
+    "10253": "https://mangadex.org/group/704/kurai-labs",
     "1033": "http://scscans.wordpress.com/",
     "1093": "http://www.tadanohito.net/",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",

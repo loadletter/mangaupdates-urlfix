@@ -11,6 +11,8 @@ var urlfix_grouplist = {
     "10171": "https://mangadex.org/group/6476/shibe-scans",
     "10191": "https://mangadex.org/group/6458/alonescan",
     "10211": "https://mangadex.org/group/6659/fe-scans",
+    "10231": "https://mazinou.blogspot.com/",
+    "10251": "https://mangadex.org/group/6858/ieatloli",
     "1031": "http://www.yaoi.ca/scprojects.php",
     "1051": "http://rainingmangas.awardspace.com/",
     "1091": "http://www.mydailymanga.com/",
