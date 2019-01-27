@@ -13,6 +13,7 @@ var urlfix_grouplist = {
     "10211": "https://mangadex.org/group/6659/fe-scans",
     "10231": "https://mazinou.blogspot.com/",
     "10251": "https://mangadex.org/group/6858/ieatloli",
+    "10271": "https://mangadex.org/group/6312/dead-chan",
     "1031": "http://www.yaoi.ca/scprojects.php",
     "1051": "http://rainingmangas.awardspace.com/",
     "1091": "http://www.mydailymanga.com/",

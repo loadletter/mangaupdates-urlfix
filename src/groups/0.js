@@ -14,6 +14,7 @@ var urlfix_grouplist = {
     "10200": "https://mangadex.org/group/6613/asafoo-scans",
     "10220": "https://slugtranslation-hypmic.tumblr.com/",
     "10240": "https://mangadex.org/group/6825/abandoned-heroes",
+    "10260": "https://mangadex.org/group/6960/maaku",
     "1040": "http://anime-rg.com/",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",

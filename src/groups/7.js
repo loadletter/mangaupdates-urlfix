@@ -11,6 +11,7 @@ var urlfix_grouplist = {
     "10187": "https://mangadex.org/group/6527/rng-madness-scan",
     "10207": "https://wujizun.com/",
     "10227": "https://mangadex.org/group/6787/aqp",
+    "10267": "https://mangadex.org/group/6871/scscans",
     "1027": "http://cinderella-story.110mb.com/index.html",
     "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",

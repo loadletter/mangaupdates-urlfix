@@ -12,6 +12,7 @@ var urlfix_grouplist = {
     "10198": "https://mangadex.org/group/6614/pocket-angel-scans",
     "10218": "https://builddesks.wordpress.com/",
     "10238": "https://ssjmanga.wordpress.com/",
+    "10258": "https://diamonddropscans.tumblr.com/",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",

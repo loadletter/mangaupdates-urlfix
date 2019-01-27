@@ -14,6 +14,7 @@ var urlfix_grouplist = {
     "1022": "http://thevproject.blogspot.com/",
     "10222": "https://mangadex.org/group/6658/tl-dr",
     "10242": "https://mangadex.org/group/6840/fetdoge-scans",
+    "10262": "https://rindascan.wordpress.com/",
     "1062": "http://goldie.livejournal.com/",
     "1082": "http://www.cutelucca.com/",
     "1122": "http://forever.chusha-ki.net/",

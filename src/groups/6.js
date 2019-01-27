@@ -12,6 +12,7 @@ var urlfix_grouplist = {
     "10226": "https://mangadex.org/group/6698/eishun-team",
     "10246": "https://mangadex.org/group/6852/wxlf",
     "1026": "http://community.livejournal.com/otakupink/",
+    "10266": "https://resurrectedscans.wordpress.com/",
     "1046": "http://www.hanaji-scans.blogspot.com/",
     "106": "http://www.ignition-one.org/",
     "1086": "http://nibo.desudesu.org/",

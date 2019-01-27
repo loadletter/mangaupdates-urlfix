@@ -12,6 +12,7 @@ var urlfix_grouplist = {
     "10205": "https://mangadex.org/group/6631/geass-activate",
     "10245": "https://mangadex.org/group/6848/lupin-s-translations",
     "1025": "http://www.crossbonepirates.blogspot.com/",
+    "10265": "https://traviatascans.tumblr.com/",
     "105": "http://ephd.pixiefetish.net/",
     "1065": "http://www.dctp.ws/",
     "1085": "http://persepolis130.livejournal.com/",

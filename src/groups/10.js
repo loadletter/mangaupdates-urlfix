@@ -11,6 +11,7 @@ var urlfix_grouplist = {
     "10210": "https://mangadex.org/group/6654/chichananime-scans",
     "10230": "https://mobofdeer.wordpress.com/",
     "10250": "https://mangadex.org/group/6856/sssss",
+    "10270": "https://mangadex.org/group/7000/smartphone-translations",
     "1030": "http://phase3.vnmanga.com/",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",
