@@ -13,6 +13,7 @@ var urlfix_grouplist = {
     "10203": "https://mangadex.org/group/6553/_-_-scans",
     "1023": "http://eternal-enchantment.kageyoshi.net/",
     "10243": "https://mangadex.org/group/6831/itsdanystormborn",
+    "10283": "https://mangadex.org/group/7055/born-as-a-slave-scans",
     "103": "http://dragonvoice.org",
     "1043": "http://www.toukoubi.com/",
     "1083": "http://athena8.livejournal.com/",

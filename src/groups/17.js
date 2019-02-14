@@ -10,6 +10,8 @@ var urlfix_grouplist = {
     "10217": "https://sadisticnyx.blogspot.com/",
     "10237": "https://mangadex.org/group/6820/orion-scans",
     "10257": "https://mangadex.org/group/6552/seed-scans",
+    "10277": "https://mangadex.org/group/7033/qt-scanlations",
+    "10297": "https://mangadex.org/group/7042/ahotoxin4649",
     "1037": "http://mewteam2.altervista.org/",
     "1097": "http://joufu.nyaatorrents.org/",
     "1117": "http://bokuchu.dreamhosters.com/",

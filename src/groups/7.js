@@ -13,6 +13,8 @@ var urlfix_grouplist = {
     "10227": "https://mangadex.org/group/6787/aqp",
     "10267": "https://mangadex.org/group/6871/scscans",
     "1027": "http://cinderella-story.110mb.com/index.html",
+    "10287": "https://mangadex.org/group/6525/harmless-monsters",
+    "10307": "https://necroscanlation.wordpress.com/",
     "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",
     "1147": "http://miyuun.livejournal.com/",

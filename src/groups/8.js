@@ -13,6 +13,7 @@ var urlfix_grouplist = {
     "10228": "https://mangadex.org/group/6792/badnewbiescanlations",
     "10248": "https://mangadex.org/group/4005/degenerate_x",
     "10268": "https://apothecary-scans.tumblr.com/",
+    "10288": "https://mangadex.org/group/6673/genki-girls",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",
     "1088": "http://www.blissful-sin.com/",

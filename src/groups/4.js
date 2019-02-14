@@ -14,6 +14,8 @@ var urlfix_grouplist = {
     "1024": "http://4chan.biz/",
     "10244": "https://mangadex.org/group/6826/purple-watercolor-scans",
     "10264": "https://mangadex.org/group/6983/nidhogg-scans",
+    "10284": "https://mangadex.org/group/5316/kaiserz-scanlation",
+    "10304": "https://mangadex.org/group/6685/scp-foundation",
     "104": "http://www.boku-tachi.net/",
     "1084": "http://presencedear.com/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",

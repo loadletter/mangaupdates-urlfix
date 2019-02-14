@@ -12,6 +12,7 @@ var urlfix_grouplist = {
     "10232": "https://mangadex.org/group/6794/tritinia-scans",
     "10252": "https://mangadex.org/group/6864/monika",
     "10272": "https://mangadex.org/group/7034/ac-dc-town",
+    "10292": "https://yuutsukimori.tumblr.com/",
     "1032": "http://brokenpromisescans.wordpress.com/",
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",
     "1072": "http://community.livejournal.com/yazaworld/",

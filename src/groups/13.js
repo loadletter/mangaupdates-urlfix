@@ -14,6 +14,8 @@ var urlfix_grouplist = {
     "10233": "https://mangadex.org/group/6801/eater-of-cakes",
     "10253": "https://mangadex.org/group/704/kurai-labs",
     "10273": "https://mangadex.org/group/7015/dangankou",
+    "10293": "https://mangadex.org/group/7087/hawk-scans",
+    "10313": "https://mangadex.org/group/5668/memento-scans",
     "1033": "http://scscans.wordpress.com/",
     "1093": "http://www.tadanohito.net/",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",

@@ -9,6 +9,8 @@ var urlfix_grouplist = {
     "10195": "https://mangadex.org/group/6494/abaj-scans",
     "10235": "https://mangadex.org/group/6779/melon-cult",
     "10255": "https://mangadex.org/group/6869/oil-scans",
+    "10275": "https://mangadex.org/group/7037/lilygarden",
+    "10315": "https://deilkan.tumblr.com/",
     "1035": "http://www.snow-kiss.net/",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",
