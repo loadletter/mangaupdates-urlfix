@@ -51,7 +51,7 @@ function fix_irc() {
   	for (var i=0; i<list.length; i++) {
     		if(list[i].innerHTML == "<u>IRC</u>") {
           	list[i].id = "fixed_irc_url";
-          	if ((irc=list[i].nextElementSibling.innerText) != "<i>No IRC</i>") {
+          	if ((irc=list[i].nextElementSibling.innerText) != "No IRC") {
               	var a = irc.replace(/^.+@/,'');
               	var b = irc.replace('#','').replace(/@.*/,'');
               	list[++i].innerHTML='<a href="irc://'+a+'/'+b+'"><u>'+a+'/'+b+'</u></a>';
