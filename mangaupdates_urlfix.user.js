@@ -9,6 +9,8 @@
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @grant       none
+// February 2019 fixes by https://github.com/anon-programmer
+// February 2019 UI fixes by https://github.com/Hyacia
 // ==/UserScript==
 
 if (window.location.pathname === "/mylist.html") {
@@ -44,17 +46,17 @@ function fix_url() {
 }
 
 function fix_irc() {
-    var list = document.getElementsByClassName("text");
-    var irc='';
-    
-    for (i=0; i<list.length; i++){
-        if(list[i].innerHTML == "<u>IRC</u>") {
-            list[i].id = "fixed_irc_url";
-            if((irc=list[i].nextSibling.innerHTML) != "<i>No IRC</i>") {
-                var a = irc.replace(/^.+@/,'');
-                var b = irc.replace('#','').replace(/@.*/,'');
-                list[i].nextSibling.innerHTML='<a href="irc://'+a+'/'+b+'"><u>'+a+'/'+b+'</u></a>';
+		var list = document.getElementsByClassName("text");
+  	var irc='';
+  	for (var i=0; i<list.length; i++) {
+    		if(list[i].innerHTML == "<u>IRC</u>") {
+          	list[i].id = "fixed_irc_url";
+          	if ((irc=list[i].nextElementSibling.innerText) != "No IRC") {
+              	var a = irc.replace(/^.+@/,'');
+              	var b = irc.replace('#','').replace(/@.*/,'');
+              	list[++i].innerHTML='<a href="irc://'+a+'/'+b+'"><u>'+a+'/'+b+'</u></a>';
             }
+          	break;
         }
     }
 }
@@ -69,7 +71,7 @@ function get_query_params() {
     urlParams = {};
     while (match = search.exec(query))
         urlParams[decode(match[1])] = decode(match[2]);
-    
+
     return urlParams;
 }
 
@@ -162,7 +164,7 @@ function insertScript() {
         return;
     }
     var urlfix_local;
-    var urlfix_local_name = "loadletter.urlfix.groups." + (window.urlfix_groupID % 20);    
+    var urlfix_local_name = "loadletter.urlfix.groups." + (window.urlfix_groupID % 20);
     if(typeof(window.urlfix_grouplist) !== "undefined") {
         window.urlfix_groupSite = window.urlfix_grouplist[String(window.urlfix_groupID)];
         if(typeof(localStorage) !== "undefined") {
@@ -189,13 +191,26 @@ function insertScript() {
             suggboxurl += "&update=yes";
         window.open(suggboxurl, '', 'scrollbars=no,resizable=yes, width=700,height=200,status=no,location=no,toolbar=no');
     };
-    var urlfix_site_fixed = document.getElementById('fixed_group_url_plus_suggestion');
-    var urlfix_site = urlfix_site_fixed || document.createElement('tr');
-    urlfix_site.id = "fixed_group_url_plus_suggestion";
-    urlfix_site.innerHTML = '<td class="text"><u>Site</u><a href="#" onclick="urlfix_openSuggBox();"> (Suggest an update)</a></td><td class="text">' + (urlfix_groupSite === undefined ? '<i>No Info</i>' : ('<a target="_blank" alt="" href="' + urlfix_groupSite + '"><u>' + urlfix_groupSite + '</u></a>')) + '</td>';
-    if(!urlfix_site_fixed) {
+    var urlfix_site_fixed = document.getElementById('fixed_group_suggestion');
+    var urlfix_site = urlfix_site_fixed || document.createElement('div');
+  	urlfix_site.setAttribute("class", "p-1 col-6 text");
+    urlfix_site.id = "fixed_group_suggestion";
+    urlfix_site.innerHTML = '<u>Site</u><a href="#" onclick="urlfix_openSuggBox();"> (Suggest an update)</a>';
+  	var urlfix_site_par = document.querySelector('div.general_table:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(5)');
+    urlfix_site_par.parentNode.insertBefore(urlfix_site, urlfix_site_par);
+  	if(!urlfix_site_fixed) {
         var urlfix_irc_par = document.getElementById("fixed_irc_url").parentNode;
-        urlfix_irc_par.parentNode.insertBefore(urlfix_site, urlfix_irc_par.nextSibling);
+        urlfix_irc_par.parentNode.insertAfter(urlfix_site, urlfix_irc_par.nextSibling);
+    }
+  	var site_link_fixed = document.getElementById('fixed_site_link');
+  	var site_link = site_link_fixed || document.createElement('div');
+  	site_link.setAttribute("class", "p-1 col-6 text");
+  	site_link.id = "fixed_site_link";
+  	site_link.innerHTML = (urlfix_groupSite === undefined ? '<i>No Info</i>' : ('<a target="_blank" alt="" href="' + urlfix_groupSite + '"><u>' + urlfix_groupSite + '</u></a>'));
+  	var site_link_par = document.querySelector('#fixed_group_suggestion');
+    site_link_par.parentNode.insertBefore(site_link, urlfix_site);
+  	if(!site_link_fixed) {
+      	var site_link_par = document.getElementById("fixed_site_link");
+      	site_link_par.parentNode.insertBefore(site_link, urlfix_site_par.nextSibling);
     }
 }
-
