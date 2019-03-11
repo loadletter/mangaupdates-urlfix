@@ -23,7 +23,7 @@ requests_s.headers.update({'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebK
 
 def parse_name(data):
 	soup = BeautifulSoup(data, convertEntities=BeautifulSoup.HTML_ENTITIES)
-	return soup.find('td', {'class' : 'specialtext'}).text
+	return soup.find('div', {'class' : 'p-1 col-6 specialtext'}).text
 
 def get_slug(n):
 	a = re.sub('[^a-z0-9\-\.\ ]', '' , n.lower())
