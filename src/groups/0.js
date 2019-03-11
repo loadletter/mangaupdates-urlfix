@@ -18,6 +18,8 @@ var urlfix_grouplist = {
     "10280": "https://mangaplus.shueisha.co.jp/updates",
     "10300": "https://mangadex.org/group/5081/therobotsghost",
     "10320": "https://mangadex.org/group/7183/grand-owl-scanlations",
+    "10340": "https://mangadex.org/group/7299/hisshi-scans",
+    "10380": "https://mangadex.org/group/7400/kaiju-girls-wiki",
     "1040": "http://anime-rg.com/",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",

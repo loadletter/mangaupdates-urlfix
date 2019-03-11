@@ -14,6 +14,8 @@ var urlfix_grouplist = {
     "10248": "https://mangadex.org/group/4005/degenerate_x",
     "10268": "https://apothecary-scans.tumblr.com/",
     "10288": "https://mangadex.org/group/6673/genki-girls",
+    "10328": "https://mangadex.org/group/7231/purin",
+    "10368": "https://www.nhktanteidan.info/",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",
     "1088": "http://www.blissful-sin.com/",

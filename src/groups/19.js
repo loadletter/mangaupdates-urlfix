@@ -17,6 +17,8 @@ var urlfix_grouplist = {
     "10279": "https://mangadex.org/group/7043/youjo-kishidan",
     "10299": "https://mangadex.org/groups/0/1/Fujoshi%20Undercover",
     "10319": "https://mangadex.org/group/2420/the-local-moonman",
+    "10339": "https://mangadex.org/group/7298/a-flash-in-the-pan",
+    "10379": "https://mangadex.org/group/7399/jim-s-manga",
     "1039": "http://community.livejournal.com/boys_framed/",
     "1079": "http://desertbus.blogspot.com/",
     "1119": "http://community.livejournal.com/polaris_scans/profile",

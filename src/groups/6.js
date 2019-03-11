@@ -14,6 +14,8 @@ var urlfix_grouplist = {
     "1026": "http://community.livejournal.com/otakupink/",
     "10266": "https://resurrectedscans.wordpress.com/",
     "10306": "https://mangadex.org/group/7136/mh-translator",
+    "10326": "https://mangadex.org/group/5939/pinpin",
+    "10366": "https://mangadex.org/group/7343/spscans",
     "1046": "http://www.hanaji-scans.blogspot.com/",
     "106": "http://www.ignition-one.org/",
     "1086": "http://nibo.desudesu.org/",
