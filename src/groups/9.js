@@ -17,6 +17,7 @@ var urlfix_grouplist = {
     "1029": "http://tsurayuki.net/divertimento/",
     "10309": "https://mangadex.org/group/6833/fukkatsu",
     "10329": "https://sparklingwatertrans.wordpress.com/",
+    "10409": "https://spaceformemory.wordpress.com",
     "1049": "http://www.asian-jesus.com/",
     "109": "http://www.storminheaven.org/",
     "1149": "http://www.omake.org/project-801/",

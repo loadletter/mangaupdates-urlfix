@@ -16,6 +16,8 @@ var urlfix_grouplist = {
     "10306": "https://mangadex.org/group/7136/mh-translator",
     "10326": "https://mangadex.org/group/5939/pinpin",
     "10366": "https://mangadex.org/group/7343/spscans",
+    "10386": "https://mangadex.org/group/7379/ikigai-scan",
+    "10406": "https://mangadex.org/group/409/anonyneko",
     "1046": "http://www.hanaji-scans.blogspot.com/",
     "106": "http://www.ignition-one.org/",
     "1086": "http://nibo.desudesu.org/",

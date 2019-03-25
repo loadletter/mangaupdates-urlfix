@@ -15,6 +15,7 @@ var urlfix_grouplist = {
     "10337": "https://mangadex.org/group/7263/purpleheartclub",
     "1037": "http://mewteam2.altervista.org/",
     "10377": "https://mangadex.org/group/7382/sampler-bookshelf",
+    "10397": "https://mangadex.org/group/7470/hetzek-scans",
     "1097": "http://joufu.nyaatorrents.org/",
     "1117": "http://bokuchu.dreamhosters.com/",
     "117": "http://www.mangascreener.com/",

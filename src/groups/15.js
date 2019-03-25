@@ -15,6 +15,7 @@ var urlfix_grouplist = {
     "1035": "http://www.snow-kiss.net/",
     "10355": "https://mangadex.org/group/7334/mint1412",
     "10375": "https://mangadex.org/group/4549/cesegura",
+    "10395": "https://mangadex.org/group/1058/bridges-you-cross-you-didn-t-know",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",

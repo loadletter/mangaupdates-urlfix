@@ -17,6 +17,7 @@ var urlfix_grouplist = {
     "10336": "https://mangadex.org/group/7276/midnight-cinderella",
     "10356": "https://kouhaiscans.tumblr.com/",
     "10376": "https://mangadex.org/group/7387/blacksnakehouse",
+    "10396": "https://mangadex.org/group/6582/coming-soon-scans",
     "1096": "http://Quatrain-of-love.awardspace.com",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",

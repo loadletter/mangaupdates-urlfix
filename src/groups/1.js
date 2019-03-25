@@ -20,6 +20,7 @@ var urlfix_grouplist = {
     "10301": "https://mangadex.org/group/6551/t-rex-scans",
     "10321": "http://crowkarasutranslations.blogspot.com/",
     "10361": "https://mangadex.org/group/7340/formerly-vanscans",
+    "10381": "https://mangadex.org/group/7321/kaede-scans",
     "1041": "http://www.fmahq.com",
     "1081": "http://champloo4u.livejournal.com/",
     "1181": "http://www.naruto-mx.com/us",

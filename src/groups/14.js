@@ -16,6 +16,7 @@ var urlfix_grouplist = {
     "10334": "https://penjournalhappy.wordpress.com",
     "1034": "http://community.livejournal.com/eastern_blue/",
     "10354": "https://betwixtedbutterfly.com/",
+    "10394": "https://mangadex.org/group/7468/noaxb-translations",
     "1054": "http://loversdreams.wordpress.com",
     "1094": "http://www.dtmangas.tk/",
     "1114": "http://blanketfort.uninhibited.net/",

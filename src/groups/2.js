@@ -18,6 +18,7 @@ var urlfix_grouplist = {
     "10282": "https://xiejiaotranslations.wordpress.com/",
     "10302": "https://mangadex.org/group/6870/dolls",
     "10322": "https://cclawtranslations.com/",
+    "10382": "https://mangadex.org/group/6219/event-line-junction-out-of-phase",
     "1062": "http://goldie.livejournal.com/",
     "1082": "http://www.cutelucca.com/",
     "1122": "http://forever.chusha-ki.net/",

@@ -19,6 +19,8 @@ var urlfix_grouplist = {
     "10311": "https://mangadex.org/group/7152/dolce-scans",
     "10351": "https://mangadex.org/group/7331/kate-s-heart",
     "10371": "https://youdiescans.wordpress.com/",
+    "10391": "http://kuhakulightnoveltranslations.com/",
+    "10411": "https://mangadex.org/group/7007/suzuri-fansub",
     "1051": "http://rainingmangas.awardspace.com/",
     "1091": "http://www.mydailymanga.com/",
     "1171": "http://www.rycolaa.com/",

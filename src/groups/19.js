@@ -13,7 +13,7 @@ var urlfix_grouplist = {
     "10199": "https://mangadex.org/group/6615/theyellowcats",
     "10219": "https://mangadex.org/group/6721/bloatedbunny",
     "10239": "https://mangadex.org/group/6628/super-gogeta",
-    "10259": "https://pochaccoscans.wordpress.com/",
+    "10259": "https://pochaccoscans.mangadex.com/",
     "10279": "https://mangadex.org/group/7043/youjo-kishidan",
     "10299": "https://mangadex.org/groups/0/1/Fujoshi%20Undercover",
     "10319": "https://mangadex.org/group/2420/the-local-moonman",
