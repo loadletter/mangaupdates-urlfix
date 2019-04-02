@@ -21,6 +21,7 @@ var urlfix_grouplist = {
     "10340": "https://mangadex.org/group/7299/hisshi-scans",
     "10380": "https://mangadex.org/group/7400/kaiju-girls-wiki",
     "1040": "http://anime-rg.com/",
+    "10420": "https://mangadex.org/group/7570/kim-yeon-joo-we-love-your-manhwa",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",

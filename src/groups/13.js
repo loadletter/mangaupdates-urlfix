@@ -20,6 +20,8 @@ var urlfix_grouplist = {
     "10353": "https://mangadex.org/group/7293/caliburn-x-scanlation",
     "10373": "https://prophetsrelease.mangadex.com/",
     "10393": "https://mangadex.org/group/5566/inkstrike-reserve",
+    "10413": "https://mangadex.org/group/7525/the-wanderers-scans",
+    "10433": "https://mangadex.org/group/7619/slave-chan-translation",
     "1093": "http://www.tadanohito.net/",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
     "1133": "http://community.livejournal.com/8018_project/",

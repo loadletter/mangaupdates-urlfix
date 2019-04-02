@@ -20,6 +20,7 @@ var urlfix_grouplist = {
     "10358": "https://mangadex.org/user/160822/yanbang",
     "10378": "https://mangadex.org/group/7363/cattofreetime-scans",
     "10398": "https://mangadex.org/group/7479/rainy-day-and-you",
+    "10418": "https://mangadex.org/group/7552/legend-of-ace-scans",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",

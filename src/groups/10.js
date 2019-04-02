@@ -19,6 +19,7 @@ var urlfix_grouplist = {
     "10370": "https://mangadex.org/group/7370/yae-is-the-best-girl-my-reason-picking-this-up-is-her",
     "10390": "https://mangadex.org/group/7407/nakamachi-scanlation",
     "10410": "https://tamagohanproject.wordpress.com/",
+    "10430": "https://mangadex.org/group/7590/sioe",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",
     "1190": "http://jiboujiki.com/highsociety/",

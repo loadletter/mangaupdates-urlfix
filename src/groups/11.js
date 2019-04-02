@@ -21,6 +21,7 @@ var urlfix_grouplist = {
     "10371": "https://youdiescans.wordpress.com/",
     "10391": "http://kuhakulightnoveltranslations.com/",
     "10411": "https://mangadex.org/group/7007/suzuri-fansub",
+    "10431": "https://mangadex.org/group/7603/skeleton-warriors",
     "1051": "http://rainingmangas.awardspace.com/",
     "1091": "http://www.mydailymanga.com/",
     "1171": "http://www.rycolaa.com/",

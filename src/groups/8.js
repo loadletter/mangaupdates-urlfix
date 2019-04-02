@@ -18,6 +18,7 @@ var urlfix_grouplist = {
     "10368": "https://www.nhktanteidan.info/",
     "10388": "https://mangadex.org/group/7425/kawauso-translations",
     "10408": "https://mangadex.org/group/7527/heaven_uploads",
+    "10428": "https://hellsgatescans.wordpress.com/",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",
     "1088": "http://www.blissful-sin.com/",

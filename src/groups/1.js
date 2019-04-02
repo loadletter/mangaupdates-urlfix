@@ -9,7 +9,7 @@ var urlfix_grouplist = {
     "101": "http://www.selene-scans.net/",
     "10101": "https://mangadex.org/group/6260/darkdhaos",
     "10121": "https://mangadex.org/group/1558/kasen-translations",
-    "10141": "http://mangareru.blogspot.com/",
+    "10141": "https://mangaruru.blogspot.com/",
     "10161": "https://mangadex.org/group/6454/lunectar",
     "10181": "https://mangadex.org/group/6517/kuromin",
     "10201": "https://mangadex.org/group/6607/inverte-scans",

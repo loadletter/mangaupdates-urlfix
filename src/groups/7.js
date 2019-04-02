@@ -19,6 +19,7 @@ var urlfix_grouplist = {
     "10367": "http://oh-my-manhwa.blogspot.com/",
     "10387": "https://mangadex.org/group/7241/tsukinara",
     "10407": "https://mangadex.org/group/7524/git-chan-translations",
+    "10427": "https://hexyren.blogspot.com/",
     "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",
     "1147": "http://miyuun.livejournal.com/",

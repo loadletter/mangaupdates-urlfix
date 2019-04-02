@@ -16,6 +16,7 @@ var urlfix_grouplist = {
     "10355": "https://mangadex.org/group/7334/mint1412",
     "10375": "https://mangadex.org/group/4549/cesegura",
     "10395": "https://mangadex.org/group/1058/bridges-you-cross-you-didn-t-know",
+    "10415": "https://mangadex.org/group/7547/177013",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",

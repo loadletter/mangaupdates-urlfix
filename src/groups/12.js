@@ -18,6 +18,8 @@ var urlfix_grouplist = {
     "10352": "https://mangadex.org/group/7329/yukimitsu",
     "10372": "https://mangadex.org/group/7377/returning-dimension-group",
     "10392": "https://kowpop.com/beware-of-demons/",
+    "10412": "https://isaactranslations.wordpress.com/",
+    "10432": "https://mangadex.org/group/7325/akame-fansub",
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",
     "1072": "http://community.livejournal.com/yazaworld/",
     "1092": "http://musumetrans.wordpress.com/",

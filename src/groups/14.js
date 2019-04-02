@@ -17,6 +17,7 @@ var urlfix_grouplist = {
     "1034": "http://community.livejournal.com/eastern_blue/",
     "10354": "https://betwixtedbutterfly.com/",
     "10394": "https://mangadex.org/group/7468/noaxb-translations",
+    "10414": "https://www.facebook.com/Fable.Net/?eid=ARDlz4CqojnaZphbl7PfgM-Tveax21X4gXJFrtniRb3qaRJeGsaBKlj19lu8kfcMJUYxWllcudeiiWaQ",
     "1054": "http://loversdreams.wordpress.com",
     "1094": "http://www.dtmangas.tk/",
     "1114": "http://blanketfort.uninhibited.net/",
