@@ -22,6 +22,8 @@ var urlfix_grouplist = {
     "10403": "https://happyteascans.com/",
     "10423": "https://mangadex.org/group/5781/danmachi-coloring-project",
     "1043": "http://www.toukoubi.com/",
+    "10443": "https://crappyasstranslations.wordpress.com/",
+    "10463": "https://kainantranslations.wordpress.com/",
     "1083": "http://athena8.livejournal.com/",
     "1103": "http://community.livejournal.com/ichigonokaze/",
     "1123": "http://shounennoyorokobi.blogspot.com/",

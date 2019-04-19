@@ -22,6 +22,8 @@ var urlfix_grouplist = {
     "104": "http://www.boku-tachi.net/",
     "10404": "https://mangadex.org/group/7162/flamingpizza",
     "10424": "https://mangadex.org/group/7246/anego-scans",
+    "10444": "https://mangadex.org/group/7639/highest-judge",
+    "10464": "https://www.vmnovels.com/",
     "1084": "http://presencedear.com/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",

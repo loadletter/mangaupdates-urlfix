@@ -22,6 +22,8 @@ var urlfix_grouplist = {
     "10361": "https://mangadex.org/group/7340/formerly-vanscans",
     "10381": "https://mangadex.org/group/7321/kaede-scans",
     "1041": "http://www.fmahq.com",
+    "10441": "https://tigertranslations.org/",
+    "10461": "https://mangadex.org/group/7731/sukairain-translation",
     "1081": "http://champloo4u.livejournal.com/",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",

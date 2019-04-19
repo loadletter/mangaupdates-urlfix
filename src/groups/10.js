@@ -20,6 +20,8 @@ var urlfix_grouplist = {
     "10390": "https://mangadex.org/group/7407/nakamachi-scanlation",
     "10410": "https://tamagohanproject.wordpress.com/",
     "10430": "https://mangadex.org/group/7590/sioe",
+    "10450": "https://mangadex.org/group/7670/silverjewels",
+    "10470": "https://mangadex.org/group/5852/iambobokay",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",
     "1190": "http://jiboujiki.com/highsociety/",

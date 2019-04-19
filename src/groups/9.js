@@ -19,6 +19,8 @@ var urlfix_grouplist = {
     "10329": "https://sparklingwatertrans.wordpress.com/",
     "10409": "https://spaceformemory.wordpress.com",
     "10429": "https://skeletonqueen06.wordpress.com",
+    "10449": "https://harasho.mangadex.com/",
+    "10469": "https://mangadex.org/group/6758/i-d-s-j",
     "1049": "http://www.asian-jesus.com/",
     "109": "http://www.storminheaven.org/",
     "1149": "http://www.omake.org/project-801/",

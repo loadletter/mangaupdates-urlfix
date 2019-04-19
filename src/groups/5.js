@@ -18,6 +18,7 @@ var urlfix_grouplist = {
     "10345": "https://secretlandcastle.wordpress.com/",
     "10385": "https://mangadex.org/group/7385/cora-scans",
     "10425": "https://bokuranokiseki.livejournal.com/",
+    "10445": "https://mangadex.org/group/5822/obsoletezero",
     "105": "http://ephd.pixiefetish.net/",
     "1065": "http://www.dctp.ws/",
     "1085": "http://persepolis130.livejournal.com/",
