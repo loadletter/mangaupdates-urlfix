@@ -19,6 +19,8 @@ var urlfix_grouplist = {
     "10417": "https://ruinohonyaku.wordpress.com/",
     "10437": "https://mangadex.org/group/7621/shirikommanders",
     "10457": "https://mangadex.org/group/7717/wild-west-scans",
+    "10477": "https://mangadex.org/group/7838/elevenxtwelve794",
+    "10497": "https://mangadex.org/group/7914/not-a-scans-scans-group",
     "1097": "http://joufu.nyaatorrents.org/",
     "1117": "http://bokuchu.dreamhosters.com/",
     "117": "http://www.mangascreener.com/",

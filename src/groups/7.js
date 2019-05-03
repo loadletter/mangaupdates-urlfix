@@ -22,6 +22,7 @@ var urlfix_grouplist = {
     "10427": "https://hexyren.blogspot.com/",
     "10447": "https://mangadex.org/group/7483/casual-tapir",
     "10467": "https://mangadex.org/group/7756/tempor-a-ry-scans",
+    "10487": "https://sawakaya.blogspot.com/",
     "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",
     "1147": "http://miyuun.livejournal.com/",

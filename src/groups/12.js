@@ -21,6 +21,8 @@ var urlfix_grouplist = {
     "10412": "https://isaactranslations.wordpress.com/",
     "10432": "https://mangadex.org/group/7325/akame-fansub",
     "10452": "https://mangadex.org/group/7626/adekhamilbang",
+    "10492": "https://hellitranslations.wordpress.com/",
+    "10512": "https://mangadex.org/group/7987/ftm",
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",
     "1072": "http://community.livejournal.com/yazaworld/",
     "1092": "http://musumetrans.wordpress.com/",

@@ -22,6 +22,8 @@ var urlfix_grouplist = {
     "10430": "https://mangadex.org/group/7590/sioe",
     "10450": "https://mangadex.org/group/7670/silverjewels",
     "10470": "https://mangadex.org/group/5852/iambobokay",
+    "10490": "https://mangadex.org/group/7897/fbd-fenix",
+    "10510": "https://watabout.me/",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",
     "1190": "http://jiboujiki.com/highsociety/",

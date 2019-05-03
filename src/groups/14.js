@@ -20,6 +20,7 @@ var urlfix_grouplist = {
     "10414": "https://www.facebook.com/Fable.Net/?eid=ARDlz4CqojnaZphbl7PfgM-Tveax21X4gXJFrtniRb3qaRJeGsaBKlj19lu8kfcMJUYxWllcudeiiWaQ",
     "10434": "http://www.webcomicsapp.com/",
     "10474": "https://www.reddit.com/user/VibhavM",
+    "10494": "https://mangadex.org/group/6777/leviatanscans",
     "1054": "http://loversdreams.wordpress.com",
     "1094": "http://www.dtmangas.tk/",
     "1114": "http://blanketfort.uninhibited.net/",

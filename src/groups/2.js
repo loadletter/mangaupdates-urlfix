@@ -22,6 +22,8 @@ var urlfix_grouplist = {
     "10422": "https://mangadex.org/group/7569/rednecked_crake",
     "10442": "https://mangadex.org/group/7732/day0311",
     "10462": "https://hotaruworld.home.blog/",
+    "10482": "https://mangadex.org/group/7867/vodka-trio",
+    "10502": "https://mangadex.org/group/7942/jarofolives",
     "1062": "http://goldie.livejournal.com/",
     "1082": "http://www.cutelucca.com/",
     "1122": "http://forever.chusha-ki.net/",

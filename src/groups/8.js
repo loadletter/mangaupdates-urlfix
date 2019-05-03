@@ -21,6 +21,8 @@ var urlfix_grouplist = {
     "10428": "https://hellsgatescans.wordpress.com/",
     "10448": "https://mangadex.org/group/7668/reaper",
     "10468": "https://mangadex.org/group/7755/asenshi",
+    "10488": "https://mangadex.org/group/7886/hunlight-scans",
+    "10508": "https://mangadex.org/group/5171/hunterfansub-scan",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",
     "1088": "http://www.blissful-sin.com/",

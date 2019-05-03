@@ -21,6 +21,7 @@ var urlfix_grouplist = {
     "10416": "https://shiroritranslations.wordpress.com",
     "10436": "https://mangadex.org/group/7623/hand-of-time-translations",
     "10476": "https://mangadex.org/group/7819/thirsty-scans",
+    "10496": "https://mangadex.org/group/7913/roof-korean",
     "1096": "http://Quatrain-of-love.awardspace.com",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",

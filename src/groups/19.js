@@ -22,6 +22,7 @@ var urlfix_grouplist = {
     "1039": "http://community.livejournal.com/boys_framed/",
     "10439": "https://mangadex.org/group/7630/kasper",
     "10459": "https://mineohsleepyscanlation.wordpress.com/",
+    "10499": "https://mangadex.org/group/7921/memorable",
     "1079": "http://desertbus.blogspot.com/",
     "1119": "http://community.livejournal.com/polaris_scans/profile",
     "1139": "http://www.court-records.net/",

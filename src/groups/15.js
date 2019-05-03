@@ -19,6 +19,8 @@ var urlfix_grouplist = {
     "10415": "https://mangadex.org/group/7547/177013",
     "10455": "https://karitranslations.wordpress.com/",
     "10475": "https://mangadex.org/group/7826/mangatomanhu",
+    "10495": "https://mangadex.org/group/7451/entropia-scans",
+    "10515": "https://mangadex.org/group/7989/rul-scanlations",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",

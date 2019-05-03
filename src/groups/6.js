@@ -21,6 +21,8 @@ var urlfix_grouplist = {
     "10446": "https://mangadex.org/group/7649/chaotic-gnome-scans",
     "1046": "http://www.hanaji-scans.blogspot.com/",
     "10466": "https://mangadex.org/group/7743/sawhorse-uploads",
+    "10486": "https://piranhaplant1.blogspot.com/",
+    "10506": "https://mangadex.org/group/7277/real-yeowang-scan",
     "106": "http://www.ignition-one.org/",
     "1086": "http://nibo.desudesu.org/",
     "1146": "http://www.geocities.com/fogp_scans/",
