@@ -23,6 +23,7 @@ var urlfix_grouplist = {
     "10447": "https://mangadex.org/group/7483/casual-tapir",
     "10467": "https://mangadex.org/group/7756/tempor-a-ry-scans",
     "10487": "https://sawakaya.blogspot.com/",
+    "10527": "https://mangadex.org/group/7991/orenji-circle",
     "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",
     "1147": "http://miyuun.livejournal.com/",

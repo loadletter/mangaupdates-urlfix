@@ -24,6 +24,7 @@ var urlfix_grouplist = {
     "10492": "https://hellitranslations.wordpress.com/",
     "10512": "https://mangadex.org/group/7987/ftm",
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",
+    "10532": "https://mangadex.org/group/7946/broken-blade-revival",
     "1072": "http://community.livejournal.com/yazaworld/",
     "1092": "http://musumetrans.wordpress.com/",
     "1112": "http://ravyn-09.livejournal.com/32636.html",

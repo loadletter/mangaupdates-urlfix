@@ -23,6 +23,8 @@ var urlfix_grouplist = {
     "10466": "https://mangadex.org/group/7743/sawhorse-uploads",
     "10486": "https://piranhaplant1.blogspot.com/",
     "10506": "https://mangadex.org/group/7277/real-yeowang-scan",
+    "10526": "https://mangadex.org/group/8027/mongaikan-translations",
+    "10546": "https://mangadex.org/group/8162/chads-no-teikoku",
     "106": "http://www.ignition-one.org/",
     "1086": "http://nibo.desudesu.org/",
     "1146": "http://www.geocities.com/fogp_scans/",

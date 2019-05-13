@@ -26,6 +26,8 @@ var urlfix_grouplist = {
     "10464": "https://www.vmnovels.com/",
     "10484": "http://sirtetris.com/?a=d932debd",
     "10504": "https://mangadex.org/group/7956/iltrof",
+    "10524": "https://mangadex.org/group/8026/green-tea-bitch-translations",
+    "10544": "https://www.maotln.com/",
     "1084": "http://presencedear.com/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",

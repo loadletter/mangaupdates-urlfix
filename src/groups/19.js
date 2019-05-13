@@ -23,6 +23,8 @@ var urlfix_grouplist = {
     "10439": "https://mangadex.org/group/7630/kasper",
     "10459": "https://mineohsleepyscanlation.wordpress.com/",
     "10499": "https://mangadex.org/group/7921/memorable",
+    "10519": "https://mangadex.org/group/7612/sleeping-dragons-team-sdt",
+    "10539": "https://mangadex.org/group/8128/jesterly-s-scanlations",
     "1079": "http://desertbus.blogspot.com/",
     "1119": "http://community.livejournal.com/polaris_scans/profile",
     "1139": "http://www.court-records.net/",

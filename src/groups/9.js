@@ -24,6 +24,7 @@ var urlfix_grouplist = {
     "10489": "https://mangadex.org/group/7888/a-bored-loner",
     "1049": "http://www.asian-jesus.com/",
     "10509": "https://mangadex.org/group/1796/reiwa-scans",
+    "10529": "https://mangadex.org/group/7818/lonely-soul-translations",
     "109": "http://www.storminheaven.org/",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",

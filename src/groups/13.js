@@ -26,6 +26,7 @@ var urlfix_grouplist = {
     "10473": "https://mangadex.org/group/345/mii-scans",
     "10493": "https://mangadex.org/group/7910/hero-lol-scans",
     "10513": "https://kurokurori.wordpress.com/",
+    "10533": "https://mangadex.org/group/8060/iko-syndrome",
     "1093": "http://www.tadanohito.net/",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
     "1133": "http://community.livejournal.com/8018_project/",

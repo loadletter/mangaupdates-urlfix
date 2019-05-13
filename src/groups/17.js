@@ -21,6 +21,8 @@ var urlfix_grouplist = {
     "10457": "https://mangadex.org/group/7717/wild-west-scans",
     "10477": "https://mangadex.org/group/7838/elevenxtwelve794",
     "10497": "https://mangadex.org/group/7914/not-a-scans-scans-group",
+    "10517": "https://mangadex.org/group/8002/blue-cosmos-scans",
+    "10537": "https://mangadex.org/group/8108/ayaoi",
     "1097": "http://joufu.nyaatorrents.org/",
     "1117": "http://bokuchu.dreamhosters.com/",
     "117": "http://www.mangascreener.com/",

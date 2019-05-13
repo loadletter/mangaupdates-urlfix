@@ -26,6 +26,8 @@ var urlfix_grouplist = {
     "10460": "https://mistersundayscanlations.wordpress.com/",
     "10480": "https://silversoultr.tumblr.com/",
     "10500": "https://mangadex.org/group/7912/anejlek",
+    "10520": "https://mangadex.org/group/8012/magatama-scans",
+    "10540": "https://mangadex.org/group/6376/knight-no-fansub",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",

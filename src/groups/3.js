@@ -26,6 +26,8 @@ var urlfix_grouplist = {
     "10463": "https://kainantranslations.wordpress.com/",
     "10483": "https://mangadex.org/group/7849/hana-tsu",
     "10503": "https://mangadex.org/group/7955/0mniessence",
+    "10523": "https://mangadex.org/group/8021/cocaine-spyder",
+    "10543": "https://solacetranslations.home.blog/",
     "1083": "http://athena8.livejournal.com/",
     "1103": "http://community.livejournal.com/ichigonokaze/",
     "1123": "http://shounennoyorokobi.blogspot.com/",
