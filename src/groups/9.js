@@ -25,6 +25,7 @@ var urlfix_grouplist = {
     "1049": "http://www.asian-jesus.com/",
     "10509": "https://mangadex.org/group/1796/reiwa-scans",
     "10529": "https://mangadex.org/group/7818/lonely-soul-translations",
+    "10549": "https://mangadex.org/group/8112/vs-scans",
     "109": "http://www.storminheaven.org/",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",

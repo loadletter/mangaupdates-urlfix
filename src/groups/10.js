@@ -25,6 +25,7 @@ var urlfix_grouplist = {
     "10490": "https://mangadex.org/group/7897/fbd-fenix",
     "10510": "https://watabout.me/",
     "10530": "https://mangadex.org/group/8015/ree",
+    "10550": "https://mangadex.org/group/8178/ara-ara-publishing",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",
     "1190": "http://jiboujiki.com/highsociety/",

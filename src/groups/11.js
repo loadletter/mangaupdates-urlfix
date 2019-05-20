@@ -27,6 +27,7 @@ var urlfix_grouplist = {
     "1051": "http://rainingmangas.awardspace.com/",
     "10511": "https://mangadex.org/group/7832/relightsen",
     "10531": "https://mangadex.org/group/8039/kanan-s-sexy-abs",
+    "10551": "https://mangadex.org/group/8187/yannu-no-mahou",
     "1091": "http://www.mydailymanga.com/",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",

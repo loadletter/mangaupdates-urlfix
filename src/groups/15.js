@@ -22,6 +22,7 @@ var urlfix_grouplist = {
     "10495": "https://mangadex.org/group/7451/entropia-scans",
     "10515": "https://mangadex.org/group/7989/rul-scanlations",
     "10535": "https://mangadex.org/group/8065/fayodaru",
+    "10555": "https://mangadex.org/group/8210/imanity-scans",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",

@@ -24,6 +24,7 @@ var urlfix_grouplist = {
     "10488": "https://mangadex.org/group/7886/hunlight-scans",
     "10508": "https://mangadex.org/group/5171/hunterfansub-scan",
     "10528": "https://mangadex.org/group/8041/liberio-linguists",
+    "10548": "https://mangadex.org/group/8165/chapter-1",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",
     "1088": "http://www.blissful-sin.com/",

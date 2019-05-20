@@ -24,6 +24,7 @@ var urlfix_grouplist = {
     "10505": "https://mangadex.org/group/7920/material-burst-s-scanlations",
     "10525": "https://mangadex.org/group/7727/perfect-fifth",
     "10545": "https://mangadex.org/group/8146/head-pantsu-scans",
+    "10565": "https://mangadex.org/group/8270/yopparai-scans",
     "1065": "http://www.dctp.ws/",
     "1085": "http://persepolis130.livejournal.com/",
     "1145": "http://pinkeverlasting.net/",

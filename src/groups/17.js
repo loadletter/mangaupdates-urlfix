@@ -23,6 +23,7 @@ var urlfix_grouplist = {
     "10497": "https://mangadex.org/group/7914/not-a-scans-scans-group",
     "10517": "https://mangadex.org/group/8002/blue-cosmos-scans",
     "10537": "https://mangadex.org/group/8108/ayaoi",
+    "10557": "https://mangadex.org/group/8211/mechaotome-scans",
     "1097": "http://joufu.nyaatorrents.org/",
     "1117": "http://bokuchu.dreamhosters.com/",
     "117": "http://www.mangascreener.com/",
