@@ -35,7 +35,7 @@ var urlfix_grouplist = {
     "1455": "http://potatoland.jp.pn/",
     "15": "http://bato.to/group/_/m/mangarchive-r2359",
     "1535": "http://chiyochan.net/azu",
-    "155": "http://bato.to/group/_/t/tama-chan-scans-r743",
+    "155": "https://mangadex.org/group/2370/tama-chan-scans",
     "1555": "http://megavolts-den.freehostia.com/eaglescans/",
     "1575": "http://siamesedestiny.blogspot.com/",
     "1595": "http://kylara.livejournal.com/",

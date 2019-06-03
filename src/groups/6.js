@@ -50,7 +50,7 @@ var urlfix_grouplist = {
     "1766": "http://www.freewebs.com/sin-scans/",
     "1806": "http://aurasuki.apocalypsecheesecake.com",
     "1846": "http://www.gintama.tk/",
-    "186": "http://bato.to/group/_/e/essence-of-purity-r966",
+    "186": "https://mangadex.org/group/2065/essence-of-purity",
     "1866": "http://www.munyu.info/phpBB3/",
     "1906": "http://younglizbeth.livejournal.com/",
     "1946": "http://don-amoeba.livejournal.com/",

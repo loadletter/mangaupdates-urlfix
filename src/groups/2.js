@@ -190,7 +190,7 @@ var urlfix_grouplist = {
     "5562": "http://defective-production.tumblr.com/",
     "5582": "http://kamisamascans.wordpress.com",
     "5622": "http://amatoempire.livejournal.com/",
-    "5642": "http://bato.to/group/_/d/desuchan-scans-r3467",
+    "5642": "https://mangadex.org/group/2854/desuchan-scans",
     "5682": "http://alice-michiyo.tumblr.com/",
     "5802": "http://sunflowerscans.wordpress.com/",
     "582": "http://community.livejournal.com/sakuragi_yaya/",

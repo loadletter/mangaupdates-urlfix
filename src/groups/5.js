@@ -66,7 +66,7 @@ var urlfix_grouplist = {
     "2185": "http://projectnoir.net/",
     "2225": "http://nonamescan.wordpress.com/",
     "2245": "http://arararara.wordpress.com/",
-    "225": "http://bato.to/group/_/y/ya-ha-r669",
+    "225": "https://mangadex.org/group/1375/ya-ha",
     "2325": "http://kaya83.wordpress.com/",
     "2365": "http://community.livejournal.com/kagerounostalga/",
     "2385": "http://prettyanonymo.us/",
