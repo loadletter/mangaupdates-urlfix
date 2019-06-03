@@ -28,6 +28,7 @@ var urlfix_grouplist = {
     "10518": "https://mangadex.org/group/6000/beach-team",
     "10538": "https://mangadex.org/group/8121/soseki",
     "10558": "https://mangadex.org/group/8230/scammer-scans",
+    "10578": "https://mangadex.org/group/7835/mahouka-latino",
     "1058": "http://lostheaven-sc.livejournal.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",

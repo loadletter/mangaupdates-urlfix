@@ -25,6 +25,7 @@ var urlfix_grouplist = {
     "10487": "https://sawakaya.blogspot.com/",
     "10527": "https://mangadex.org/group/7991/orenji-circle",
     "10567": "https://mangadex.org/group/6388/otaku-cloud-scans",
+    "10587": "https://imemotranslations.com/",
     "107": "http://nakamanga.tumblr.com/tagged/releases",
     "1087": "http://www.chux-roadhouse.com/",
     "1147": "http://miyuun.livejournal.com/",

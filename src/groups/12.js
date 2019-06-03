@@ -26,6 +26,8 @@ var urlfix_grouplist = {
     "1052": "http://www.geocities.com/futari_ecchi_scanlations/",
     "10532": "https://mangadex.org/group/7946/broken-blade-revival",
     "10552": "https://mangadex.org/group/8115/endless-journey",
+    "10572": "https://mangadex.org/group/8314/hassasin",
+    "10592": "https://otokonokoscans.tumblr.com/",
     "1072": "http://community.livejournal.com/yazaworld/",
     "1092": "http://musumetrans.wordpress.com/",
     "1112": "http://ravyn-09.livejournal.com/32636.html",

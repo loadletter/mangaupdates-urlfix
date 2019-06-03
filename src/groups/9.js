@@ -26,6 +26,8 @@ var urlfix_grouplist = {
     "10509": "https://mangadex.org/group/1796/reiwa-scans",
     "10529": "https://mangadex.org/group/7818/lonely-soul-translations",
     "10549": "https://mangadex.org/group/8112/vs-scans",
+    "10569": "https://mangadex.org/group/8285/pr-scans",
+    "10589": "https://mangadex.org/group/8397/bernd-scans",
     "109": "http://www.storminheaven.org/",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",

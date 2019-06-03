@@ -23,6 +23,7 @@ var urlfix_grouplist = {
     "10494": "https://leviatanscans.com/",
     "1054": "http://loversdreams.wordpress.com",
     "10554": "https://mangadex.org/group/7882/catie-sai-scans",
+    "10574": "https://mangadex.org/group/8321/without-moe",
     "1094": "http://www.dtmangas.tk/",
     "1114": "http://blanketfort.uninhibited.net/",
     "114": "http://hush.imess.net/",

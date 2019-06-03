@@ -27,6 +27,7 @@ var urlfix_grouplist = {
     "10522": "https://jtranslation516320481.wordpress.com/",
     "10542": "https://mangadex.org/group/8129/trap-scans",
     "10562": "https://www.reddit.com/r/Group_01000001",
+    "10582": "https://purifiedscans.wordpress.com/",
     "1062": "http://goldie.livejournal.com/",
     "1082": "http://www.cutelucca.com/",
     "1122": "http://forever.chusha-ki.net/",

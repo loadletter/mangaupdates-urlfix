@@ -25,6 +25,7 @@ var urlfix_grouplist = {
     "10525": "https://mangadex.org/group/7727/perfect-fifth",
     "10545": "https://mangadex.org/group/8146/head-pantsu-scans",
     "10565": "https://mangadex.org/group/8270/yopparai-scans",
+    "10585": "https://mangadex.org/group/8377/hero_cerebrum",
     "1065": "http://www.dctp.ws/",
     "1085": "http://persepolis130.livejournal.com/",
     "1145": "http://pinkeverlasting.net/",
