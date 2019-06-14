@@ -28,6 +28,8 @@ var urlfix_grouplist = {
     "10550": "https://mangadex.org/group/8178/ara-ara-publishing",
     "10570": "https://www.mangasy.com/",
     "10590": "https://houseofrain.home.blog/",
+    "10610": "https://mangadex.org/group/8503/dwd",
+    "10630": "https://mangadex.org/group/8500/gem-of-desire",
     "1070": "http://community.livejournal.com/hp_scanlation/",
     "110": "http://swa-swa.com/",
     "1190": "http://jiboujiki.com/highsociety/",

@@ -28,6 +28,7 @@ var urlfix_grouplist = {
     "10549": "https://mangadex.org/group/8112/vs-scans",
     "10569": "https://mangadex.org/group/8285/pr-scans",
     "10589": "https://mangadex.org/group/8397/bernd-scans",
+    "10629": "https://thel5project.tumblr.com/",
     "109": "http://www.storminheaven.org/",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",

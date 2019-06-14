@@ -26,6 +26,8 @@ var urlfix_grouplist = {
     "10536": "https://ttrscans.haliya.net/",
     "10556": "https://mangadex.org/group/7408/one-night-stand",
     "10576": "https://mangadex.org/group/5047/otakudo",
+    "10616": "https://letsmoseyscans.home.blog/",
+    "10636": "https://mangadex.org/group/8551/fair-trade-scans",
     "1096": "http://Quatrain-of-love.awardspace.com",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",

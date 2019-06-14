@@ -27,6 +27,8 @@ var urlfix_grouplist = {
     "10548": "https://mangadex.org/group/8165/chapter-1",
     "10568": "https://sanshouowo.wordpress.com/",
     "10588": "https://mangadex.org/group/8407/machine-learning-scanlations",
+    "10608": "https://dynasty-scans.com/scanlators/Lab",
+    "10628": "https://mangadex.org/group/8508/h-c-m-chi-c-c-hacamchicac",
     "1068": "http://www.completely-oblivious.net",
     "108": "http://att.nagi-fanboi.net/",
     "1088": "http://www.blissful-sin.com/",

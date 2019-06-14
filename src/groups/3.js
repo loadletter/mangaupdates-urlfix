@@ -30,6 +30,8 @@ var urlfix_grouplist = {
     "10543": "https://solacetranslations.home.blog/",
     "10563": "https://www.reddit.com/r/Beastars/",
     "10583": "https://mangadex.org/group/8364/rumpi-with-potato",
+    "10603": "https://mangadex.org/group/6120/shinsengumi-translations",
+    "10623": "https://mangadex.org/group/8549/sumebe-scans",
     "1083": "http://athena8.livejournal.com/",
     "1103": "http://community.livejournal.com/ichigonokaze/",
     "1123": "http://shounennoyorokobi.blogspot.com/",

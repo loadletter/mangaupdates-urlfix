@@ -28,6 +28,8 @@ var urlfix_grouplist = {
     "10521": "http://ignition-one.org/",
     "10541": "https://mangadex.org/group/8040/honshou-aru-best-girl",
     "10581": "https://mangadex.org/group/8356/awesome-sauce",
+    "10601": "https://fanaticscans.blogspot.com/",
+    "10621": "https://peaceofmindscans.home.blog/",
     "1081": "http://champloo4u.livejournal.com/",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
