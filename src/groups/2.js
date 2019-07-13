@@ -31,6 +31,9 @@ var urlfix_grouplist = {
     "10602": "https://mangadex.org/group/8390/bella-scans",
     "1062": "http://goldie.livejournal.com/",
     "10622": "https://mangadex.org/group/8518/baby-one-more-time",
+    "10642": "https://mangadex.org/group/8523/overlooked-scans",
+    "10662": "https://mangadex.org/group/8678/lustrous-scans",
+    "10702": "https://mangadex.org/group/8926/branscans",
     "1082": "http://www.cutelucca.com/",
     "1122": "http://forever.chusha-ki.net/",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
@@ -385,7 +388,7 @@ var urlfix_grouplist = {
     "9862": "http://j2translations.com/",
     "9882": "https://mangadex.org/group/5524/jm-funscans",
     "9902": "https://mangadex.org/group/5591/sdream10",
-    "9922": "https://mangadex.org/group/5659/white-garden",
+    "9922": "https://whitegardenscans.wordpress.com/",
     "9942": "https://mangadex.org/group/5730/mangaland-scanlations",
     "9962": "https://mangadex.org/group/4487/shonenjump0998",
     "9982": "https://mangadex.org/group/5895/cheesecake-scans"
