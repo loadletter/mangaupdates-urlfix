@@ -33,6 +33,8 @@ var urlfix_grouplist = {
     "10666": "https://mangadex.org/group/8725/two-idiot-s-translations",
     "10686": "https://mangadex.org/group/8832/bunch",
     "10706": "https://mangadex.org/group/8940/konpeito-scans",
+    "10746": "https://mangadex.org/group/9061/kamikoto-scans",
+    "10766": "http://readnanatsutaizai.net/",
     "1086": "http://nibo.desudesu.org/",
     "1146": "http://www.geocities.com/fogp_scans/",
     "1166": "http://conan-magic.com/",

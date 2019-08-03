@@ -33,6 +33,8 @@ var urlfix_grouplist = {
     "10669": "https://mangadex.org/group/8730/hikotoshi",
     "10689": "https://mangadex.org/group/7904/5toubun-sc-a-ns",
     "10709": "https://mangadex.org/group/6981/hachimitsu-lemon",
+    "10729": "https://mangadex.org/group/2237/ks-scanlation",
+    "10769": "https://experimentaltranslations.wordpress.com",
     "109": "http://www.storminheaven.org/",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",
