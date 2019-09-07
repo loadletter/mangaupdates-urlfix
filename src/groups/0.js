@@ -37,6 +37,7 @@ var urlfix_grouplist = {
     "10720": "https://mangadex.org/group/8022/happy-neko-scan",
     "10740": "https://mangadex.org/group/6530/dorofinu",
     "10780": "https://kurukurutl.wordpress.com/",
+    "10800": "https://mangadex.org/group/9301/veritas-translations",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",

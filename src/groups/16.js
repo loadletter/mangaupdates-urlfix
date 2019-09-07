@@ -34,6 +34,7 @@ var urlfix_grouplist = {
     "10716": "https://mangadex.org/group/8877/non-human-scan",
     "10736": "https://mangadex.org/group/9030/ice-shaved-subs",
     "10776": "https://mangadex.org/group/9184/cetagandane",
+    "10796": "https://mangadex.org/group/9285/swan-lake-scans",
     "1096": "http://Quatrain-of-love.awardspace.com",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",

@@ -6,6 +6,7 @@ import sys
 import re
 import subprocess
 import urllib
+import time
 from BeautifulSoup import BeautifulSoup
 from update import GROUPSJSON, jsonloadf
 
@@ -131,6 +132,7 @@ def run(start_id):
 			browserargs = [WWWBROWSER, muurl]
 			#browserargs += map(lambda x: x % ('"' + urllib.quote(name.encode('utf-8')) + '"'), QUERYURLS)
 			browserargs += map(lambda x: x % (urllib.quote(name.encode('utf-8'))), QUERYURLS)
+			time.sleep(1)
 			subprocess.call(browserargs)
 	if invalid_count <= LAST_OFFSET:
 		print "SHORT RUN!"

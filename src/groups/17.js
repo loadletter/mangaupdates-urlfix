@@ -31,6 +31,7 @@ var urlfix_grouplist = {
     "10717": "https://mangadex.org/group/8977/a-nameless-dreamer",
     "10737": "https://mangadex.org/group/9034/horizon-alliance",
     "10757": "https://otterscans.wordpress.com/",
+    "10797": "https://mangadex.org/group/9270/please-recycle",
     "1097": "http://joufu.nyaatorrents.org/",
     "1117": "http://bokuchu.dreamhosters.com/",
     "117": "http://www.mangascreener.com/",

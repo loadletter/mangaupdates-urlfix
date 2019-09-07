@@ -37,6 +37,8 @@ var urlfix_grouplist = {
     "10731": "https://mangadex.org/group/9016/devils-workshop-scans",
     "10751": "https://mangadex.org/group/104/ron",
     "10771": "https://mangadex.org/group/9174/witch-hat",
+    "10791": "https://mangadex.org/group/9259/i-really-gotta-do-everything-my-fuckin-self-huh",
+    "10811": "https://hibari-asamishiina.tumblr.com/",
     "1091": "http://www.mydailymanga.com/",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",

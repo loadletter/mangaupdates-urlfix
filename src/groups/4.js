@@ -39,6 +39,7 @@ var urlfix_grouplist = {
     "10744": "https://mangadex.org/group/8058/noobsub",
     "10764": "https://mangadex.org/group/9165/virtuewolves-scans",
     "10784": "https://mangadex.org/group/9021/sincity-scanlation",
+    "10804": "https://mangadex.org/group/9304/rainy-day-translations",
     "1084": "http://presencedear.com/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",

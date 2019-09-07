@@ -37,6 +37,7 @@ var urlfix_grouplist = {
     "10721": "https://mangadex.org/group/9006/spirit-griffon",
     "10741": "https://mangadex.org/group/8971/council-of-scans",
     "10781": "https://sorazoranaya.home.blog/",
+    "10801": "https://mangadex.org/group/7802/",
     "1081": "http://champloo4u.livejournal.com/",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",

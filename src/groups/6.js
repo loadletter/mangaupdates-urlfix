@@ -35,6 +35,8 @@ var urlfix_grouplist = {
     "10706": "https://mangadex.org/group/8940/konpeito-scans",
     "10746": "https://mangadex.org/group/9061/kamikoto-scans",
     "10766": "http://readnanatsutaizai.net/",
+    "10786": "https://mangadex.org/group/9218/pet-shop-scans",
+    "10806": "https://mangadex.org/group/9310/1-2-translations",
     "1086": "http://nibo.desudesu.org/",
     "1146": "http://www.geocities.com/fogp_scans/",
     "1166": "http://conan-magic.com/",
