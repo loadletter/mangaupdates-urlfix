@@ -36,6 +36,8 @@ var urlfix_grouplist = {
     "10776": "https://mangadex.org/group/9184/cetagandane",
     "10796": "https://mangadex.org/group/9285/swan-lake-scans",
     "10836": "https://mangadex.org/group/9380/husky-scans",
+    "10856": "https://mangadex.org/group/9365/trianglecult",
+    "10876": "https://mangadex.org/group/5586/the-holy-mother-of-yuri",
     "1096": "http://Quatrain-of-love.awardspace.com",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",

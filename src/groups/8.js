@@ -40,6 +40,7 @@ var urlfix_grouplist = {
     "108": "http://att.nagi-fanboi.net/",
     "10808": "https://mangadex.org/group/9334/k9",
     "10848": "https://mangadex.org/group/9444/blackysensei",
+    "10868": "https://mangadex.org/group/9384/taishou-scans",
     "1088": "http://www.blissful-sin.com/",
     "1148": "http://home.eol.ca/~basara/saiyuuki",
     "1228": "http://reimirei.livejournal.com/",

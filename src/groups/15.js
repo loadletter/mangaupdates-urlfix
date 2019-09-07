@@ -36,6 +36,7 @@ var urlfix_grouplist = {
     "10795": "https://mangadex.org/group/9453/peach-kyoudai",
     "10815": "https://mangadex.org/group/5812/hdx514",
     "10835": "https://mangadex.org/group/9403/project-eode",
+    "10855": "https://mangadex.org/group/9470/nme-scans",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",

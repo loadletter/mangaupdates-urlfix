@@ -39,6 +39,7 @@ var urlfix_grouplist = {
     "10780": "https://kurukurutl.wordpress.com/",
     "10800": "https://mangadex.org/group/9301/veritas-translations",
     "10840": "https://mangadex.org/group/9407/shitty-snipers",
+    "10860": "https://mangadex.org/group/4702/gabuex",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",

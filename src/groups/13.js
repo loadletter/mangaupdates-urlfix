@@ -42,6 +42,8 @@ var urlfix_grouplist = {
     "10793": "https://mangadex.org/group/9052/evelynisgroup",
     "10813": "https://mangadex.org/group/2710/nutzlose-bersetzungen",
     "10833": "https://mangadex.org/group/7041/eorzea-scans",
+    "10853": "https://mangadex.org/group/9467/r3br0k_eng",
+    "10873": "https://mangadex.org/group/7187/junji-ito-manga",
     "1093": "http://www.tadanohito.net/",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
     "1133": "http://community.livejournal.com/8018_project/",

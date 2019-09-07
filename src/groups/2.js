@@ -39,6 +39,7 @@ var urlfix_grouplist = {
     "10782": "https://mangadex.org/group/9193/inssa-subs",
     "10802": "https://sbapon-koreannovels.weebly.com",
     "1082": "http://www.cutelucca.com/",
+    "10862": "https://lunawolf.home.blog/",
     "1122": "http://forever.chusha-ki.net/",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "1162": "http://chez-maltesers.livejournal.com/",

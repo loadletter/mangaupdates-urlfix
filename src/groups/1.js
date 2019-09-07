@@ -40,6 +40,7 @@ var urlfix_grouplist = {
     "10801": "https://mangadex.org/group/7802/",
     "1081": "http://champloo4u.livejournal.com/",
     "10841": "https://mangadex.org/group/6378/7thspacevelocity",
+    "10861": "http://buccigang.net/",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

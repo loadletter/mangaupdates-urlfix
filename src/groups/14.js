@@ -35,6 +35,8 @@ var urlfix_grouplist = {
     "10774": "https://futekiya.com/",
     "10794": "https://ptscans.com/",
     "10834": "https://mangadex.org/group/9401/tsunjumpp",
+    "10854": "https://mangadex.org/group/8853/darling-itf",
+    "10874": "https://mangadex.org/group/9552/flex-tape-scanlation",
     "1094": "http://www.dtmangas.tk/",
     "1114": "http://blanketfort.uninhibited.net/",
     "114": "http://hush.imess.net/",

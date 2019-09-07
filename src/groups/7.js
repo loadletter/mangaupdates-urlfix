@@ -38,6 +38,7 @@ var urlfix_grouplist = {
     "10767": "https://mangadex.org/group/7823/phoenix-no-fansub",
     "10787": "https://mangadex.org/group/7166/u-stonedyordle",
     "10807": "https://mangadex.org/group/9312/lunary",
+    "10867": "https://mangadex.org/group/9522/discreetus",
     "1087": "http://www.chux-roadhouse.com/",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",

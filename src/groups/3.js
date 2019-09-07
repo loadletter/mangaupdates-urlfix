@@ -42,6 +42,7 @@ var urlfix_grouplist = {
     "10803": "https://mangadex.org/group/9303/international-detective-agency",
     "1083": "http://athena8.livejournal.com/",
     "10843": "https://mangadex.org/group/9417/bonk",
+    "10863": "https://mangadex.org/group/9412/palmtop-scans",
     "1103": "http://community.livejournal.com/ichigonokaze/",
     "1123": "http://shounennoyorokobi.blogspot.com/",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
