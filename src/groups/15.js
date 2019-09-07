@@ -230,7 +230,7 @@ var urlfix_grouplist = {
     "6735": "http://veloyay.tumblr.com/",
     "675": "http://www.cotrj.com/md-sd/index.php",
     "6755": "https://ensjtrans.wordpress.com/",
-    "6775": "http://bato.to/group/_/a/ace-of-diamond-brigade-r5389",
+    "6775": "https://mangadex.org/group/1632/ace-of-diamond-brigade",
     "6815": "http://gurotranslation.blogspot.com/",
     "6835": "https://thevelia.wordpress.com/",
     "6855": "https://sabertranslations.wordpress.com/",

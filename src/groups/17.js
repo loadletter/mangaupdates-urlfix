@@ -234,7 +234,7 @@ var urlfix_grouplist = {
     "6557": "http://kurobasu-comics.tumblr.com/",
     "6577": "http://blacksky-scans.livejournal.com/487.html",
     "6617": "http://amaitsumi.tumblr.com/",
-    "6657": "http://bato.to/group/_/m/mirai-scanlations-r5314",
+    "6657": "https://mangadex.org/group/3453/mirai-scanlations",
     "6677": "http://bato.to/group/_/h/hc-r5296",
     "6697": "https://vinceled.wordpress.com/",
     "6717": "http://delicousdungeondmscans.wordpress.com/",

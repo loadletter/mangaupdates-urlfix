@@ -247,7 +247,7 @@ var urlfix_grouplist = {
     "686": "http://www.hanazuke.tk/",
     "6866": "http://www.wuxiaworld.com",
     "6886": "http://wuxiasociety.freeforums.net/thread/544/martial-odyssey",
-    "6906": "http://bato.to/group/_/b/bored-af-translator-r5473",
+    "6906": "https://mangadex.org/group/2600/bored-af-translator",
     "6966": "http://sevenfortynine.tumblr.com/",
     "6986": "http://thatanonperson.tumblr.com/",
     "7026": "http://meidorin.tumblr.com/",

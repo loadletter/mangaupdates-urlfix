@@ -231,7 +231,7 @@ var urlfix_grouplist = {
     "6731": "http://courage-a-word-of-justice.tumblr.com/",
     "6751": "http://kuroshionofansub.blogspot.com/",
     "6771": "https://aoitenshi.com/",
-    "6811": "http://bato.to/group/_/m/mariofan215-r5305",
+    "6811": "https://mangadex.org/group/1527/mariofan215",
     "6831": "http://yoh.chocolatkey.com/",
     "6871": "http://play-ball-scans.tumblr.com/",
     "6891": "https://wuxiaheroes.wordpress.com/",

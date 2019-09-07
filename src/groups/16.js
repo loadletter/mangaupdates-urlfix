@@ -245,7 +245,7 @@ var urlfix_grouplist = {
     "6656": "https://unchainedtranslation.wordpress.com/",
     "6676": "https://miraclesmay.wordpress.com/",
     "6696": "http://tlekc.blogspot.com/",
-    "6716": "http://bato.to/group/_/w/ws-scan-r5357",
+    "6716": "https://mangadex.org/group/1834/ws-scan",
     "6736": "http://unnaturalsolace.tumblr.com/tagged/scanlation",
     "6756": "https://fudgetranslations.wordpress.com/",
     "676": "http://www.zelda-infinite.com/",

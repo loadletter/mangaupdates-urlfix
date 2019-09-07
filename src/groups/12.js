@@ -209,7 +209,7 @@ var urlfix_grouplist = {
     "572": "http://www.sbm.blahsoft.com/",
     "5752": "https://lazylilyfansubs.wordpress.com/",
     "5812": "http://necron99scans.com",
-    "5832": "http://bato.to/group/_/d/disdeeee-r3849",
+    "5832": "https://mangadex.org/group/1626/disdeeee",
     "5852": "http://sleepingdragonslie.wordpress.com/",
     "5872": "http://kotatsuscans.tumblr.com/",
     "5892": "http://the-moonlighters.ml/",

@@ -263,7 +263,7 @@ var urlfix_grouplist = {
     "7133": "http://chinanovel.net/",
     "7153": "https://wizthief.wordpress.com/",
     "7193": "http://murkki.tumblr.com/nein-testament",
-    "7213": "http://bato.to/group/_/c/comic-scans-ms-r5773",
+    "7213": "https://mangadex.org/group/4314/comic-scans-ms",
     "7233": "http://harebarekazokuscans.blogspot.com/",
     "7253": "http://kirbyeggs.tumblr.com/",
     "7313": "http://bato.to/group/_/d/dookietheferret-r5640",

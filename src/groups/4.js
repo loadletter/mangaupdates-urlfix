@@ -235,7 +235,7 @@ var urlfix_grouplist = {
     "6244": "http://yaoidesirerevolution.tumblr.com/",
     "6284": "http://wingfril.livejournal.com/",
     "6324": "https://rtd.moe/",
-    "6344": "http://bato.to/group/_/t/team-bbp-r4569",
+    "6344": "https://mangadex.org/group/4411/team-b-b-p",
     "6364": "http://bubblemilkgreenteascans.blogspot.com/",
     "6384": "http://kurose.co.vu/",
     "64": "http://www.manga-sketchbook.org/",
