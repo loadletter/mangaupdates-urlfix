@@ -35,6 +35,7 @@ var urlfix_grouplist = {
     "10779": "https://yaygayscans.tumblr.com/",
     "1079": "http://desertbus.blogspot.com/",
     "10799": "https://mangadex.org/group/9276/high-rise-translations",
+    "10839": "https://mangadex.org/group/9399/hnevern",
     "1119": "http://community.livejournal.com/polaris_scans/profile",
     "1139": "http://www.court-records.net/",
     "1179": "http://mangaabyss.webs.com/",

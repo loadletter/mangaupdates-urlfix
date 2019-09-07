@@ -38,6 +38,7 @@ var urlfix_grouplist = {
     "10765": "https://mangadex.org/group/9143/m00nr4bb1t",
     "10785": "https://mangadex.org/group/6677/doujin-dungeon",
     "10805": "https://mangadex.org/group/9175/u-smoof101",
+    "10845": "https://ej9ej9.livejournal.com/",
     "1085": "http://persepolis130.livejournal.com/",
     "1145": "http://pinkeverlasting.net/",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",

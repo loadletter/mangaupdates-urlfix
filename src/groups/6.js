@@ -37,6 +37,7 @@ var urlfix_grouplist = {
     "10766": "http://readnanatsutaizai.net/",
     "10786": "https://mangadex.org/group/9218/pet-shop-scans",
     "10806": "https://mangadex.org/group/9310/1-2-translations",
+    "10846": "https://mangadex.org/group/9446/theoccultism",
     "1086": "http://nibo.desudesu.org/",
     "1146": "http://www.geocities.com/fogp_scans/",
     "1166": "http://conan-magic.com/",

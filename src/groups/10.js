@@ -39,6 +39,7 @@ var urlfix_grouplist = {
     "10770": "https://ziyodan-scanlation.tumblr.com/",
     "10790": "https://mangadex.org/group/3901/mystletainn",
     "10810": "https://mangadex.org/group/7738/bottle-comics",
+    "10850": "https://mangadex.org/group/9435/aquila-scans",
     "110": "http://swa-swa.com/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",

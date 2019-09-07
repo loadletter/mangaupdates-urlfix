@@ -37,6 +37,7 @@ var urlfix_grouplist = {
     "10769": "https://experimentaltranslations.wordpress.com",
     "10789": "https://mangadex.org/group/9243/mashu-potatoes",
     "10809": "https://mangadex.org/group/9313/watermark-scans",
+    "10849": "https://mangadex.org/group/9436/infernos",
     "109": "http://www.storminheaven.org/",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",

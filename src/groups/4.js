@@ -41,6 +41,7 @@ var urlfix_grouplist = {
     "10784": "https://mangadex.org/group/9021/sincity-scanlation",
     "10804": "https://mangadex.org/group/9304/rainy-day-translations",
     "1084": "http://presencedear.com/",
+    "10844": "https://dropmangascan.blogspot.com/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",

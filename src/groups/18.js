@@ -40,6 +40,7 @@ var urlfix_grouplist = {
     "10758": "https://mangadex.org/group/9083/sunset-lullaby-kingdom",
     "10778": "https://manhwa18.com/",
     "10798": "https://hardworkingtranslations.com/",
+    "10838": "https://tsikottranslations.blogspot.com/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
