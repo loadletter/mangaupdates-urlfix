@@ -290,7 +290,7 @@ var urlfix_grouplist = {
     "7503": "http://thingsilikeaboutyaoi.tumblr.com/",
     "7543": "https://somepotatoes.wordpress.com/",
     "7583": "http://crossroad--demon.tumblr.com/",
-    "7603": "http://bato.to/group/_/b/black-karma-scans-r5775",
+    "7603": "https://mangadex.org/group/3244/black-karma-scans",
     "7623": "http://yaoitotheextreme.tumblr.com/",
     "7643": "http://humanitys-scans.livejournal.com/",
     "7663": "http://www.novelsground.com/",

@@ -40,6 +40,7 @@ var urlfix_grouplist = {
     "10791": "https://mangadex.org/group/9259/i-really-gotta-do-everything-my-fuckin-self-huh",
     "10811": "https://hibari-asamishiina.tumblr.com/",
     "10851": "https://mangadex.org/group/7227/azoraa",
+    "10891": "https://mangadex.org/group/9609/a-bit-full-scans",
     "1091": "http://www.mydailymanga.com/",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",

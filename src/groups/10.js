@@ -41,6 +41,7 @@ var urlfix_grouplist = {
     "10810": "https://mangadex.org/group/7738/bottle-comics",
     "10850": "https://mangadex.org/group/9435/aquila-scans",
     "10870": "https://kittenhair.tumblr.com/",
+    "10890": "https://gomaedits.blogspot.com/",
     "110": "http://swa-swa.com/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",

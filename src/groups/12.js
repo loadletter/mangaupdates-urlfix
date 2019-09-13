@@ -42,6 +42,7 @@ var urlfix_grouplist = {
     "10832": "https://becauseheloveshim.tumblr.com/",
     "10852": "https://mangadex.org/group/9083/sleepycaf",
     "10872": "https://mangadex.org/group/4719/zwei-scanlation",
+    "10892": "https://japanesetranslationinc.com/",
     "1092": "http://musumetrans.wordpress.com/",
     "1112": "http://ravyn-09.livejournal.com/32636.html",
     "112": "http://www.mangadownloads.org/",
