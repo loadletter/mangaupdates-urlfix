@@ -44,6 +44,7 @@ var urlfix_grouplist = {
     "1088": "http://www.blissful-sin.com/",
     "10888": "https://mangadex.org/group/9597/jingzooi",
     "10908": "https://mangadex.org/group/9718/shepherds-of-the-lost-scans",
+    "10928": "https://mangadex.org/group/9800/mermaidprincess",
     "1148": "http://home.eol.ca/~basara/saiyuuki",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",

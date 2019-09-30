@@ -288,7 +288,7 @@ var urlfix_grouplist = {
     "7890": "https://magictrans.wordpress.com/",
     "7930": "http://nexus-scans.com/",
     "7950": "http://www.giantbomb.com/profile/pepsiman/blog/",
-    "7970": "http://bato.to/group/_/d/daddy-why-did-you-eat-my-fries-r6409",
+    "7970": "https://mangadex.org/group/4142/daddy-why-did-you-eat-my-fries",
     "7990": "http://nanashinomine.tumblr.com/",
     "8010": "https://www.lezhin.com/en/",
     "8030": "http://renna-translations.tumblr.com/",

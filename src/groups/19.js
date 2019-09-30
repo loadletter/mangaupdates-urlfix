@@ -295,7 +295,7 @@ var urlfix_grouplist = {
     "7839": "https://poorlydrawnstickman.wordpress.com/",
     "7859": "http://pastenaga.tumblr.com/",
     "7879": "http://www.novelsaga.com/",
-    "7899": "http://bato.to/group/_/s/sniper-joe-r6346",
+    "7899": "https://mangadex.org/group/1893/sniper-joe",
     "79": "http://mangaart.us/",
     "7919": "http://kirbyeggs.tumblr.com/",
     "7939": "https://fatedfujoshisblcdsblog.wordpress.com/",
