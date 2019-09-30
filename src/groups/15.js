@@ -37,6 +37,8 @@ var urlfix_grouplist = {
     "10815": "https://mangadex.org/group/5812/hdx514",
     "10835": "https://mangadex.org/group/9403/project-eode",
     "10855": "https://mangadex.org/group/9470/nme-scans",
+    "10895": "https://selloutbro.wordpress.com/",
+    "10915": "https://mangadex.org/group/9744/rbndr",
     "1095": "http://www.vnmanga.com",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",

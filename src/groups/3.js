@@ -44,6 +44,7 @@ var urlfix_grouplist = {
     "10843": "https://mangadex.org/group/9417/bonk",
     "10863": "https://mangadex.org/group/9412/palmtop-scans",
     "10883": "https://mangadex.org/group/9584/windyfall",
+    "10903": "https://mangadex.org/group/9710/solo-leveling-scans",
     "1103": "http://community.livejournal.com/ichigonokaze/",
     "1123": "http://shounennoyorokobi.blogspot.com/",
     "1183": "http://www.perseveration.ru/index.php?sect=news",

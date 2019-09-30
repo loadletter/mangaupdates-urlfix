@@ -37,6 +37,8 @@ var urlfix_grouplist = {
     "10834": "https://mangadex.org/group/9401/tsunjumpp",
     "10854": "https://mangadex.org/group/8853/darling-itf",
     "10874": "https://mangadex.org/group/9552/flex-tape-scanlation",
+    "10894": "https://mangadex.org/group/9647/u-xxxxxxxxxiii",
+    "10914": "https://mangadex.org/group/9742/home-hero-scans",
     "1094": "http://www.dtmangas.tk/",
     "1114": "http://blanketfort.uninhibited.net/",
     "114": "http://hush.imess.net/",

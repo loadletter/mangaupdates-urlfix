@@ -42,6 +42,8 @@ var urlfix_grouplist = {
     "10798": "https://hardworkingtranslations.com/",
     "10838": "https://tsikottranslations.blogspot.com/",
     "10858": "https://love-me-some-alex.tumblr.com/",
+    "10898": "https://mangadex.org/group/9590/why-no-scams",
+    "10918": "https://mangadex.org/group/9761/snowy-scans",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",

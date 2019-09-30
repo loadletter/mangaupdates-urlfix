@@ -41,6 +41,7 @@ var urlfix_grouplist = {
     "10869": "https://mangadex.org/group/9513/hachirumi-scans",
     "10889": "https://mangadex.org/group/9606/pyco-scans",
     "109": "http://www.storminheaven.org/",
+    "10909": "https://mangadex.org/group/9720/hippo-kingdom",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",

@@ -44,6 +44,7 @@ var urlfix_grouplist = {
     "10844": "https://dropmangascan.blogspot.com/",
     "10864": "https://mangadex.org/group/9504/citrus-translations",
     "10884": "https://mangadex.org/group/9533/cosmic-team",
+    "10904": "https://mangadex.org/group/9712/feline-govt",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",

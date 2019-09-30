@@ -41,6 +41,7 @@ var urlfix_grouplist = {
     "10867": "https://mangadex.org/group/9522/discreetus",
     "1087": "http://www.chux-roadhouse.com/",
     "10887": "https://mangadex.org/group/9596/fresh-peach-heart-shower",
+    "10907": "https://mangadex.org/group/6368/kaguyacolor",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",

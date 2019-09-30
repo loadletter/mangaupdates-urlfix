@@ -41,6 +41,7 @@ var urlfix_grouplist = {
     "1082": "http://www.cutelucca.com/",
     "10862": "https://lunawolf.home.blog/",
     "10882": "https://mangadex.org/group/9450/koten-gars-manga",
+    "10902": "https://mangadex.org/group/9699/poniente-scans",
     "1122": "http://forever.chusha-ki.net/",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "1162": "http://chez-maltesers.livejournal.com/",

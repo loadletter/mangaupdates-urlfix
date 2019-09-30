@@ -42,6 +42,7 @@ var urlfix_grouplist = {
     "1085": "http://persepolis130.livejournal.com/",
     "10865": "https://mangadex.org/group/9511/pear-translations",
     "10885": "https://mangadex.org/group/9585/roboasimov",
+    "10905": "https://mangadex.org/group/7680/animeweegs",
     "1145": "http://pinkeverlasting.net/",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "1205": "http://community.livejournal.com/todokanai_gw/",
