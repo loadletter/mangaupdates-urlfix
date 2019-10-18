@@ -45,6 +45,7 @@ var urlfix_grouplist = {
     "10920": "https://comic-days.com/",
     "10940": "https://nasunosuki.wordpress.com/",
     "10960": "https://mangadex.org/group/9815/pure-heart",
+    "10980": "https://mangadex.org/group/9975/grapejelly-scans",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",

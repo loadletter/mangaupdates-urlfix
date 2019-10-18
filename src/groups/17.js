@@ -36,6 +36,7 @@ var urlfix_grouplist = {
     "10857": "https://mangadex.org/group/9032/shoshinsha",
     "10937": "https://yenpress.com/",
     "1097": "http://joufu.nyaatorrents.org/",
+    "10977": "https://mangadex.org/group/9973/mineoh",
     "1117": "http://bokuchu.dreamhosters.com/",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",

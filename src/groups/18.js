@@ -46,6 +46,7 @@ var urlfix_grouplist = {
     "10918": "https://mangadex.org/group/9761/snowy-scans",
     "10938": "https://mangadex.org/group/9833/turnscans",
     "10958": "http://snowynotes.home.blog",
+    "10978": "https://kajipedia.home.blog/",
     "1098": "http://community.livejournal.com/nova_5/",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
