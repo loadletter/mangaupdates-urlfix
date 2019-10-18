@@ -44,6 +44,8 @@ var urlfix_grouplist = {
     "10885": "https://mangadex.org/group/9585/roboasimov",
     "10905": "https://mangadex.org/group/7680/animeweegs",
     "10925": "https://mangadex.org/group/9794/sweet-treats-scans",
+    "10945": "https://mangadex.org/group/9615/coincidence",
+    "10965": "https://baragakiscans.tumblr.com/",
     "1145": "http://pinkeverlasting.net/",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "1205": "http://community.livejournal.com/todokanai_gw/",

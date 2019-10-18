@@ -46,6 +46,8 @@ var urlfix_grouplist = {
     "10873": "https://mangadex.org/group/7187/junji-ito-manga",
     "10893": "https://mangadex.org/group/9635/dekinai-scans",
     "1093": "http://www.tadanohito.net/",
+    "10933": "https://gregscans.blogspot.com/",
+    "10953": "https://h942204573.wordpress.com/",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
     "1133": "http://community.livejournal.com/8018_project/",
     "1193": "http://www.bsmanga.com/",

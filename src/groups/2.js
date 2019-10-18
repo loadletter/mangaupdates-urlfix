@@ -43,6 +43,8 @@ var urlfix_grouplist = {
     "10882": "https://mangadex.org/group/9450/koten-gars-manga",
     "10902": "https://mangadex.org/group/9699/poniente-scans",
     "10922": "https://staygoldstill.wordpress.com/",
+    "10942": "https://xenontranslations.video.blog/",
+    "10962": "https://mangadex.org/group/9910/random-teki-scanlations",
     "1122": "http://forever.chusha-ki.net/",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "1162": "http://chez-maltesers.livejournal.com/",

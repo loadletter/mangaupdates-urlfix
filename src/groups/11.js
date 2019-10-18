@@ -44,6 +44,8 @@ var urlfix_grouplist = {
     "1091": "http://www.mydailymanga.com/",
     "10911": "https://mangadex.org/group/9726/dull-scan",
     "10931": "https://mangadex.org/group/9808/teamcrazyroadracing",
+    "10951": "https://mangadex.org/group/9885/nanyakost205-scans",
+    "10971": "https://pomnavi.carrd.co/",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

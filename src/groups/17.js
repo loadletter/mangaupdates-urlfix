@@ -34,6 +34,7 @@ var urlfix_grouplist = {
     "10797": "https://mangadex.org/group/9270/please-recycle",
     "10837": "https://mangadex.org/group/7001/nekonet-tl",
     "10857": "https://mangadex.org/group/9032/shoshinsha",
+    "10937": "https://yenpress.com/",
     "1097": "http://joufu.nyaatorrents.org/",
     "1117": "http://bokuchu.dreamhosters.com/",
     "117": "http://www.mangascreener.com/",

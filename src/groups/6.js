@@ -42,6 +42,8 @@ var urlfix_grouplist = {
     "10866": "https://mangadex.org/group/6491/dark-room-fansub",
     "10906": "https://mangadex.org/group/4/vilis16",
     "10926": "https://mangadex.org/group/9792/i-am-insane",
+    "10946": "https://mangadex.org/group/9857/fumikiri",
+    "10966": "https://pmkscanlations.tumblr.com/",
     "1146": "http://www.geocities.com/fogp_scans/",
     "1166": "http://conan-magic.com/",
     "1186": "http://thehetre.vn/ChouGroup",

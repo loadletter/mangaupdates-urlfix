@@ -43,6 +43,8 @@ var urlfix_grouplist = {
     "10887": "https://mangadex.org/group/9596/fresh-peach-heart-shower",
     "10907": "https://mangadex.org/group/6368/kaguyacolor",
     "10927": "https://mangadex.org/group/9785/little-clover",
+    "10947": "https://mangadex.org/group/9861/heresy-scans",
+    "10967": "https://komorebiscans.tumblr.com/",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",

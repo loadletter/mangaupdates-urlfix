@@ -43,6 +43,8 @@ var urlfix_grouplist = {
     "10861": "http://buccigang.net/",
     "10881": "https://mangadex.org/group/9555/heroz-scanlation",
     "10921": "https://mangadex.org/group/9776/penny-theater",
+    "10941": "http://www.miraslation.net",
+    "10961": "https://jungleemperorleomanga.wordpress.com/",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

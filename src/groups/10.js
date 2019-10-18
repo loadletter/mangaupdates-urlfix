@@ -43,6 +43,8 @@ var urlfix_grouplist = {
     "10870": "https://kittenhair.tumblr.com/",
     "10890": "https://gomaedits.blogspot.com/",
     "10910": "https://mangadex.org/group/4391/ngomik",
+    "10950": "https://blackkodou.wordpress.com/",
+    "10970": "https://mangadex.org/group/9946/hoshi-no-yume",
     "110": "http://swa-swa.com/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
