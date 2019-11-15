@@ -45,6 +45,8 @@ var urlfix_grouplist = {
     "10921": "https://mangadex.org/group/9776/penny-theater",
     "10941": "http://www.miraslation.net",
     "10961": "https://jungleemperorleomanga.wordpress.com/",
+    "10981": "https://mangadex.org/group/9957/notosolo-scans",
+    "11001": "https://mangadex.org/group/731/tjincit",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

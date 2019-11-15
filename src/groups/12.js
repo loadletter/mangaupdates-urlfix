@@ -48,6 +48,7 @@ var urlfix_grouplist = {
     "10932": "https://kantopia.wordpress.com/",
     "10952": "https://mangadex.org/group/3950/zombie-otaku",
     "10972": "https://13-rashii.tumblr.com/",
+    "10992": "https://mangadex.org/group/10005/the-human-trash",
     "1112": "http://ravyn-09.livejournal.com/32636.html",
     "112": "http://www.mangadownloads.org/",
     "1132": "http://meep-scans.com/",

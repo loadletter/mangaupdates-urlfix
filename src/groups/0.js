@@ -46,6 +46,7 @@ var urlfix_grouplist = {
     "10940": "https://nasunosuki.wordpress.com/",
     "10960": "https://mangadex.org/group/9815/pure-heart",
     "10980": "https://mangadex.org/group/9975/grapejelly-scans",
+    "11000": "https://mangadex.org/group/10027/librarian",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",

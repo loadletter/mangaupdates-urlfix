@@ -47,6 +47,7 @@ var urlfix_grouplist = {
     "10928": "https://mangadex.org/group/9800/mermaidprincess",
     "10948": "https://mangadex.org/group/9867/ashhh-scans",
     "10968": "https://mangadex.org/group/9928/superbaby",
+    "10988": "https://mangadex.org/group/9988/suibian-scanlations",
     "1148": "http://home.eol.ca/~basara/saiyuuki",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",

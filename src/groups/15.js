@@ -42,6 +42,7 @@ var urlfix_grouplist = {
     "10935": "https://mangadex.org/group/1077/got-nyu",
     "1095": "http://www.vnmanga.com",
     "10955": "https://mangadex.org/group/9899/absolute-casual",
+    "10995": "https://mangadex.org/group/5335/ouroboros-scans",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",

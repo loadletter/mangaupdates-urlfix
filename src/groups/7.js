@@ -45,6 +45,7 @@ var urlfix_grouplist = {
     "10927": "https://mangadex.org/group/9785/little-clover",
     "10947": "https://mangadex.org/group/9861/heresy-scans",
     "10967": "https://komorebiscans.tumblr.com/",
+    "10987": "https://mangadex.org/group/9987/shadow_scans",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",
