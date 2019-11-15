@@ -48,6 +48,7 @@ var urlfix_grouplist = {
     "10958": "http://snowynotes.home.blog",
     "10978": "https://kajipedia.home.blog/",
     "1098": "http://community.livejournal.com/nova_5/",
+    "11078": "https://mangadex.org/group/9282/acme-scans",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1278": "http://www.maboroshi.110mb.com/",
