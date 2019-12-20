@@ -47,6 +47,8 @@ var urlfix_grouplist = {
     "10967": "https://komorebiscans.tumblr.com/",
     "10987": "https://mangadex.org/group/9987/shadow_scans",
     "11087": "https://mangadex.org/group/10265/the-aristocrats",
+    "11147": "https://mangadex.org/group/10484/nekomancer",
+    "11167": "https://mangadex.org/group/10298/untitled-goose-scans",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",

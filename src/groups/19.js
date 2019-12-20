@@ -43,6 +43,8 @@ var urlfix_grouplist = {
     "10999": "https://mangadex.org/group/10018/helpless-wonderland",
     "11079": "https://mangadex.org/group/10195/magnificent-aurora-scans",
     "11099": "https://vochtr.wordpress.com/",
+    "11139": "https://mangadex.org/group/10441/xei-scans",
+    "11159": "https://mangadex.org/group/1784/tsuki-to-chikyuu-translations",
     "1119": "http://community.livejournal.com/polaris_scans/profile",
     "1139": "http://www.court-records.net/",
     "1179": "http://mangaabyss.webs.com/",

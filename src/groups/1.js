@@ -49,6 +49,8 @@ var urlfix_grouplist = {
     "11001": "https://mangadex.org/group/731/tjincit",
     "11081": "https://mangadex.org/group/10202/neph-scans-stuff",
     "11101": "https://mangadex.org/group/9882/danke-f-rs-lesen",
+    "11141": "https://mangadex.org/group/10463/chewbaca-scans",
+    "11161": "https://mangadex.org/group/10095/the-empire-scans",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

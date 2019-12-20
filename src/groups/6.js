@@ -46,6 +46,7 @@ var urlfix_grouplist = {
     "10966": "https://pmkscanlations.tumblr.com/",
     "10986": "https://mangadex.org/group/9986/koolio-n-pals",
     "11086": "https://mangadex.org/group/3924/junk-guild-publications",
+    "11166": "https://alparslantl.blogspot.com/",
     "1146": "http://www.geocities.com/fogp_scans/",
     "1166": "http://conan-magic.com/",
     "1186": "http://thehetre.vn/ChouGroup",

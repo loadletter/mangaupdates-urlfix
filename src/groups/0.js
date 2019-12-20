@@ -50,6 +50,8 @@ var urlfix_grouplist = {
     "11080": "https://mangadex.org/group/10237/miracle-scans",
     "11100": "https://mangadex.org/group/10316/endless-moment",
     "11120": "https://mangadex.org/group/10371/no-qc-we-die-like-men",
+    "11140": "https://mangadex.org/group/10465/morishi-translations",
+    "11160": "https://mangadex.org/group/10413/bugcat-scans",
     "1120": "http://animeit.blogspot.com",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",

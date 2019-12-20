@@ -50,6 +50,8 @@ var urlfix_grouplist = {
     "10953": "https://h942204573.wordpress.com/",
     "11073": "https://mangadex.org/group/10215/kumakumakugroup",
     "11093": "https://ilovekakairu.livejournal.com/",
+    "11153": "https://mangadex.org/group/10494/10cent-investor-scans",
+    "11173": "https://mangadex.org/group/4561/west-egg-translations",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
     "1133": "http://community.livejournal.com/8018_project/",
     "1193": "http://www.bsmanga.com/",

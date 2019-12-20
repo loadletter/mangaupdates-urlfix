@@ -50,6 +50,7 @@ var urlfix_grouplist = {
     "10984": "https://animangated.blogspot.com/",
     "11084": "https://mangadex.org/group/10264/team-josou",
     "11104": "https://mangadex.org/group/10319/sonyeo-project",
+    "11144": "https://mangadex.org/group/10469/cuteshiburin",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",

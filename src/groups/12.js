@@ -52,6 +52,8 @@ var urlfix_grouplist = {
     "11052": "https://mangadex.org/group/10162/the-corporation",
     "11092": "https://gomimushi.livejournal.com/",
     "1112": "http://ravyn-09.livejournal.com/32636.html",
+    "11152": "https://mangadex.org/group/10493/mrogz-translations",
+    "11172": "https://mangadex.org/group/10545/all-by-aiself-translations",
     "112": "http://www.mangadownloads.org/",
     "1132": "http://meep-scans.com/",
     "1172": "http://www.kuu-scans.info",

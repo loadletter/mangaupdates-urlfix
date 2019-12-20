@@ -38,6 +38,8 @@ var urlfix_grouplist = {
     "1097": "http://joufu.nyaatorrents.org/",
     "10977": "https://mangadex.org/group/9973/mineoh",
     "11077": "https://mangadex.org/group/10226/aoi-shoujo-scan",
+    "11137": "https://mangadex.org/group/5973/rm0_project",
+    "11157": "https://mangadex.org/group/10504/vanitas",
     "1117": "http://bokuchu.dreamhosters.com/",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",

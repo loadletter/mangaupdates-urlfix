@@ -49,6 +49,8 @@ var urlfix_grouplist = {
     "10968": "https://mangadex.org/group/9928/superbaby",
     "10988": "https://mangadex.org/group/9988/suibian-scanlations",
     "11088": "https://catorablog.wordpress.com/",
+    "11148": "https://mangadex.org/group/10449/lumii-scans",
+    "11168": "https://mangadex.org/group/10377/nimrod-scans",
     "1148": "http://home.eol.ca/~basara/saiyuuki",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",

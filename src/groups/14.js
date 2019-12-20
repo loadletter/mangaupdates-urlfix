@@ -46,6 +46,7 @@ var urlfix_grouplist = {
     "10994": "https://mangadex.org/group/10016/chaoticcloverscans",
     "11094": "https://sekomako.livejournal.com/",
     "1114": "http://blanketfort.uninhibited.net/",
+    "11174": "https://mangadex.org/group/10556/iketanirc",
     "114": "http://hush.imess.net/",
     "1174": "http://bakemono.info/",
     "1194": "http://franky-house.com/",

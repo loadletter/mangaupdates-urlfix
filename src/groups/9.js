@@ -46,6 +46,7 @@ var urlfix_grouplist = {
     "10949": "https://mangadex.org/group/9870/hapless-scans",
     "10969": "https://mangadex.org/group/9920/holrik",
     "10989": "https://mangadex.org/group/9727/terserah",
+    "11169": "https://mangadex.org/group/10537/cute-princess-hunter-scans",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",

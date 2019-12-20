@@ -46,6 +46,8 @@ var urlfix_grouplist = {
     "10995": "https://mangadex.org/group/5335/ouroboros-scans",
     "11075": "https://mangadex.org/group/10216/m-onkey-business",
     "11095": "https://mangadex.org/group/10303/takoyaki",
+    "11155": "https://mangadex.org/group/10021/iro-shikisai",
+    "11175": "https://mangadex.org/group/6138/crime-pays-but-scanlation-doesn-t",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",

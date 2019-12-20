@@ -51,6 +51,8 @@ var urlfix_grouplist = {
     "1103": "http://community.livejournal.com/ichigonokaze/",
     "11083": "https://mangadex.org/group/10260/afterhours",
     "11103": "https://mangadex.org/group/739/kami-no-fansub",
+    "11143": "https://mangadex.org/group/10467/kitaka-scans",
+    "11163": "http://www.divinedaolibrary.com/",
     "1123": "http://shounennoyorokobi.blogspot.com/",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
     "1223": "http://twinkle-dust.deadly-desire.org/",
