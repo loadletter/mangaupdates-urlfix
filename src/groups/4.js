@@ -346,7 +346,7 @@ var urlfix_grouplist = {
     "8584": "http://twitchdemon.livejournal.com",
     "8604": "http://g.e-hentai.org/uploader/amoskandy",
     "864": "http://mangahelpers.com/forum/index.php?board=8.0",
-    "8644": "http://bato.to/group/_/s/sirelo-r6693",
+    "8644": "https://mangadex.org/group/2796/sirelo",
     "8664": "http://wuxianation.com/",
     "8684": "http://xcaneolupusx.tumblr.com/",
     "8704": "http://bato.to/group/_/a/colors-of-spring-scans-r6736",

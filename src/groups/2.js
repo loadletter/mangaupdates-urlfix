@@ -348,7 +348,7 @@ var urlfix_grouplist = {
     "8762": "http://bato.to/group/_/s/sojammy-r6788",
     "8782": "http://injiru-chan.tumblr.com/",
     "8802": "http://richea.tumblr.com",
-    "8822": "http://bato.to/group/_/d/dondake-r6835",
+    "8822": "https://mangadex.org/group/3476/dondake",
     "8842": "https://usaginf.wordpress.com/",
     "8862": "http://kitsune.club/",
     "8882": "http://mahoikutranslationproject.tumblr.com/",

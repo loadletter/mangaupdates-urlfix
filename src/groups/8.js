@@ -347,7 +347,7 @@ var urlfix_grouplist = {
     "9148": "https://ikigainovels.wordpress.com/",
     "9168": "https://www.viz.com/",
     "9188": "http://redlantern.translatednovels.com/",
-    "9208": "http://bato.to/group/_/h/hitsujikai-scanlation-r7214",
+    "9208": "https://mangadex.org/group/3420/hitsujikai-scanlation",
     "9228": "https://iianes.wordpress.com/",
     "9248": "http://kii-chan-no-honyaku.tumblr.com",
     "9268": "http://storyandtranslate.blogspot.com/",

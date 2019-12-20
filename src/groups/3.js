@@ -338,7 +338,7 @@ var urlfix_grouplist = {
     "8423": "http://bato.to/group/_/s/silverivy13-r6573",
     "8443": "http://goremet.tumblr.com/post/68727653217/story-thirst-for-artist-carawey-scanner-mitsu",
     "8463": "http://khiwatari.tumblr.com",
-    "8483": "http://bato.to/group/_/s/sai-corp-translation-service-r6593",
+    "8483": "https://mangadex.org/group/5275/sai-corp-translation-service",
     "8503": "http://burger-shake.tumblr.com/",
     "8523": "http://x0401x.tumblr.com",
     "8543": "http://dynasty-scans.com/scanlators/drmario_et_al",

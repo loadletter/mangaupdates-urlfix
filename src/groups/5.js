@@ -358,7 +358,7 @@ var urlfix_grouplist = {
     "8965": "https://qwertyscanlation.wordpress.com",
     "8985": "http://heavens-feel.com/translations.html",
     "9005": "https://mangadex.org/group/961",
-    "9025": "http://bato.to/group/_/l/la-nuit-r7021",
+    "9025": "https://mangadex.org/group/3483/la-nuit",
     "9045": "http://cuteisanarchy.tumblr.com",
     "9065": "http://acupofoppa.tumblr.com",
     "9085": "https://e-hentai.org/uploader/Shend",
