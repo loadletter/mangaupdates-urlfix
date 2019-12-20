@@ -47,6 +47,8 @@ var urlfix_grouplist = {
     "10961": "https://jungleemperorleomanga.wordpress.com/",
     "10981": "https://mangadex.org/group/9957/notosolo-scans",
     "11001": "https://mangadex.org/group/731/tjincit",
+    "11081": "https://mangadex.org/group/10202/neph-scans-stuff",
+    "11101": "https://mangadex.org/group/9882/danke-f-rs-lesen",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

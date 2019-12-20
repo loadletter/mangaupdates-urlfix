@@ -47,6 +47,7 @@ var urlfix_grouplist = {
     "10951": "https://mangadex.org/group/9885/nanyakost205-scans",
     "10971": "https://pomnavi.carrd.co/",
     "10991": "https://mangadex.org/group/8422/von",
+    "11051": "https://mangadex.org/group/10104/shitty-incognito-scans",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

@@ -47,6 +47,7 @@ var urlfix_grouplist = {
     "10970": "https://mangadex.org/group/9946/hoshi-no-yume",
     "10990": "https://mangadex.org/group/9994/utricularscans",
     "110": "http://swa-swa.com/",
+    "11090": "https://gamesaccessories.blogspot.com/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

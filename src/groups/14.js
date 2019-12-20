@@ -44,6 +44,7 @@ var urlfix_grouplist = {
     "1094": "http://www.dtmangas.tk/",
     "10954": "https://emirin0301.blogspot.com/",
     "10994": "https://mangadex.org/group/10016/chaoticcloverscans",
+    "11094": "https://sekomako.livejournal.com/",
     "1114": "http://blanketfort.uninhibited.net/",
     "114": "http://hush.imess.net/",
     "1174": "http://bakemono.info/",

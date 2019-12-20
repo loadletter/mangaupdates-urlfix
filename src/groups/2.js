@@ -46,6 +46,8 @@ var urlfix_grouplist = {
     "10942": "https://xenontranslations.video.blog/",
     "10962": "https://mangadex.org/group/9910/random-teki-scanlations",
     "10982": "https://mangadex.org/group/9829/led-mex-scans",
+    "11082": "https://mangadex.org/group/4048/mangatr",
+    "11102": "https://mangadex.org/group/10318/seven-swords-conglomerate",
     "1122": "http://forever.chusha-ki.net/",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "1162": "http://chez-maltesers.livejournal.com/",

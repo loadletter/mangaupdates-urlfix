@@ -41,6 +41,8 @@ var urlfix_grouplist = {
     "10959": "https://yuikotranslation.wordpress.com/",
     "10979": "https://mangadex.org/group/9974/nanoha-odds-and-ends-translation",
     "10999": "https://mangadex.org/group/10018/helpless-wonderland",
+    "11079": "https://mangadex.org/group/10195/magnificent-aurora-scans",
+    "11099": "https://vochtr.wordpress.com/",
     "1119": "http://community.livejournal.com/polaris_scans/profile",
     "1139": "http://www.court-records.net/",
     "1179": "http://mangaabyss.webs.com/",

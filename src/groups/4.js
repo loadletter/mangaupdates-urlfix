@@ -48,6 +48,8 @@ var urlfix_grouplist = {
     "10924": "https://mangadex.org/group/9796/scan-co-productions",
     "10964": "https://mangadex.org/group/9914/david-the-great",
     "10984": "https://animangated.blogspot.com/",
+    "11084": "https://mangadex.org/group/10264/team-josou",
+    "11104": "https://mangadex.org/group/10319/sonyeo-project",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",

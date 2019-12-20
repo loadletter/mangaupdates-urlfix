@@ -46,6 +46,8 @@ var urlfix_grouplist = {
     "10976": "https://mangadex.org/group/9970/bambi-scans",
     "10996": "https://mangadex.org/group/6763/azuki",
     "11076": "https://mangadex.org/group/10204/nimbus-scans",
+    "11096": "https://mangadex.org/group/10310/forehead",
+    "11136": "https://mangadex.org/group/10437/miinta",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",
     "1176": "https://whatever.services/",

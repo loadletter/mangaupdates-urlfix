@@ -46,6 +46,7 @@ var urlfix_grouplist = {
     "10947": "https://mangadex.org/group/9861/heresy-scans",
     "10967": "https://komorebiscans.tumblr.com/",
     "10987": "https://mangadex.org/group/9987/shadow_scans",
+    "11087": "https://mangadex.org/group/10265/the-aristocrats",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",
