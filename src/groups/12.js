@@ -56,6 +56,7 @@ var urlfix_grouplist = {
     "11172": "https://mangadex.cc/group/10545/all-by-aiself-translations",
     "112": "http://www.mangadownloads.org/",
     "11212": "https://arigatari.tumblr.com/",
+    "11232": "https://mangadex.cc/group/10266/the-quick-brown-fox",
     "1132": "http://meep-scans.com/",
     "1172": "http://www.kuu-scans.info",
     "1192": "http://muning.livejournal.com/",

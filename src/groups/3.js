@@ -57,6 +57,7 @@ var urlfix_grouplist = {
     "11203": "https://mangadex.cc/group/10594/wescans",
     "11223": "https://mangadex.cc/group/10400/r-charlotteanime",
     "1123": "http://shounennoyorokobi.blogspot.com/",
+    "11243": "https://mangadex.cc/group/10623/mangaqc-franco",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.cc/group/1738/ushi",

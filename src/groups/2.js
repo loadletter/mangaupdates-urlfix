@@ -51,6 +51,7 @@ var urlfix_grouplist = {
     "11182": "https://mangadex.cc/group/10570/gaikotsuupdates",
     "11202": "https://mangadex.cc/group/10591/hyoretsu",
     "1122": "http://forever.chusha-ki.net/",
+    "11242": "https://mangadex.cc/group/10665/the-void",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "1162": "http://chez-maltesers.livejournal.com/",
     "1182": "http://4dawgz.blogspot.com/",

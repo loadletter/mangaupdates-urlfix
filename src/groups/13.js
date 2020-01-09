@@ -53,6 +53,7 @@ var urlfix_grouplist = {
     "11153": "https://mangadex.cc/group/10494/10cent-investor-scans",
     "11173": "https://mangadex.cc/group/4561/west-egg-translations",
     "11193": "https://mangadex.cc/group/10328/edelgarde-scans",
+    "11233": "https://mangadex.cc/group/10637/alien-scans",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
     "1133": "http://community.livejournal.com/8018_project/",
     "1193": "http://www.bsmanga.com/",

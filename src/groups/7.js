@@ -50,6 +50,7 @@ var urlfix_grouplist = {
     "11147": "https://mangadex.cc/group/10484/nekomancer",
     "11167": "https://mangadex.cc/group/10298/untitled-goose-scans",
     "11207": "https://mangadex.cc/group/10600/sunadokei-scans",
+    "11227": "https://mangadex.cc/group/7565/la-vie-en-rose",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",

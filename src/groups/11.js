@@ -51,6 +51,7 @@ var urlfix_grouplist = {
     "11111": "https://mangadex.cc/group/10346/just-me",
     "11151": "https://mangadex.cc/group/10483/stranger",
     "11171": "https://mangadex.cc/group/603/helheim",
+    "11231": "https://floraisoncadre.wordpress.com/",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

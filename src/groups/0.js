@@ -56,6 +56,7 @@ var urlfix_grouplist = {
     "1120": "http://animeit.blogspot.com",
     "11200": "https://mangadex.cc/title/44127/smoke-honey",
     "11220": "https://mangadex.cc/group/10564/what-is-this-scans",
+    "11240": "https://mangadex.cc/group/10659/devmax",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",
     "1180": "http://www.freewebs.com/mmmdraco",

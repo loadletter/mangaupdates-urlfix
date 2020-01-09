@@ -53,6 +53,7 @@ var urlfix_grouplist = {
     "11161": "https://mangadex.cc/group/10095/the-empire-scans",
     "11181": "https://mangadex.cc/group/10566/loli-appreciation-bureau",
     "11221": "https://mangadex.cc/group/10615/ruic-fansubs",
+    "11241": "https://mangadex.cc/group/10662/slothful-translator",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

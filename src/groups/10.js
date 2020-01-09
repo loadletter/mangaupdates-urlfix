@@ -51,6 +51,7 @@ var urlfix_grouplist = {
     "11150": "https://mangadex.cc/group/10489/saving-your-tooches-since-2k19",
     "11170": "https://mangadex.cc/group/10531/astral-library",
     "11190": "https://mangadex.cc/group/9524/araznovel",
+    "11230": "https://yaoieuphoria.blogspot.com/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

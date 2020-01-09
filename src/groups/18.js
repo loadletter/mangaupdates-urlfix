@@ -54,6 +54,7 @@ var urlfix_grouplist = {
     "11178": "https://onesnowyday.wordpress.com/",
     "11198": "https://mangadex.cc/group/10507/disappointing-translations",
     "11218": "https://kuromantic.tumblr.com/",
+    "11238": "https://mangadex.cc/group/9275/dubious",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1278": "http://www.maboroshi.110mb.com/",

@@ -48,6 +48,7 @@ var urlfix_grouplist = {
     "11179": "https://bananashiki.wordpress.com/",
     "1119": "http://community.livejournal.com/polaris_scans/profile",
     "11199": "https://mangadex.cc/group/10363/teruteruscans",
+    "11239": "https://mangadex.cc/group/6171/janime6",
     "1139": "http://www.court-records.net/",
     "1179": "http://mangaabyss.webs.com/",
     "119": "http://starbruin.com/",
