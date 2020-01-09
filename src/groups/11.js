@@ -48,6 +48,7 @@ var urlfix_grouplist = {
     "10971": "https://pomnavi.carrd.co/",
     "10991": "https://mangadex.org/group/8422/von",
     "11051": "https://mangadex.org/group/10104/shitty-incognito-scans",
+    "11111": "https://mangadex.org/group/10346/just-me",
     "11151": "https://mangadex.org/group/10483/stranger",
     "11171": "https://mangadex.org/group/603/helheim",
     "1171": "http://www.rycolaa.com/",

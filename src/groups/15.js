@@ -48,6 +48,7 @@ var urlfix_grouplist = {
     "11095": "https://mangadex.org/group/10303/takoyaki",
     "11155": "https://mangadex.org/group/10021/iro-shikisai",
     "11175": "https://mangadex.org/group/6138/crime-pays-but-scanlation-doesn-t",
+    "11195": "https://mangadex.cc/group/10523/the-metal-ravenclaw",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",

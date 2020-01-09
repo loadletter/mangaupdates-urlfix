@@ -51,6 +51,8 @@ var urlfix_grouplist = {
     "11078": "https://mangadex.org/group/9282/acme-scans",
     "11138": "https://mangadex.org/group/10443/three-silver-coins",
     "11158": "https://mangadex.org/group/9632/concupiscence",
+    "11178": "https://onesnowyday.wordpress.com/",
+    "11198": "https://mangadex.cc/group/10507/disappointing-translations",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1278": "http://www.maboroshi.110mb.com/",

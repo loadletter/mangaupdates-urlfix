@@ -48,6 +48,8 @@ var urlfix_grouplist = {
     "10982": "https://mangadex.org/group/9829/led-mex-scans",
     "11082": "https://mangadex.org/group/4048/mangatr",
     "11102": "https://mangadex.org/group/10318/seven-swords-conglomerate",
+    "11182": "https://mangadex.cc/group/10570/gaikotsuupdates",
+    "11202": "https://mangadex.cc/group/10591/hyoretsu",
     "1122": "http://forever.chusha-ki.net/",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "1162": "http://chez-maltesers.livejournal.com/",

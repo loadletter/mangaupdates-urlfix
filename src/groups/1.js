@@ -51,6 +51,7 @@ var urlfix_grouplist = {
     "11101": "https://mangadex.org/group/9882/danke-f-rs-lesen",
     "11141": "https://mangadex.org/group/10463/chewbaca-scans",
     "11161": "https://mangadex.org/group/10095/the-empire-scans",
+    "11181": "https://mangadex.cc/group/10566/loli-appreciation-bureau",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

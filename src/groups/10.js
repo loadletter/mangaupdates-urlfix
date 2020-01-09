@@ -50,6 +50,7 @@ var urlfix_grouplist = {
     "11090": "https://gamesaccessories.blogspot.com/",
     "11150": "https://mangadex.org/group/10489/saving-your-tooches-since-2k19",
     "11170": "https://mangadex.org/group/10531/astral-library",
+    "11190": "https://mangadex.cc/group/9524/araznovel",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

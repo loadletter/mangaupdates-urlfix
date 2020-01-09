@@ -49,6 +49,7 @@ var urlfix_grouplist = {
     "11085": "https://mangadex.org/group/10271/mifune-dolphins",
     "11145": "https://mangadex.org/group/10473/jagaaaaaanscans",
     "11165": "https://dridesp.ooo/n",
+    "11185": "https://sexyryu28.livejournal.com/",
     "1145": "http://pinkeverlasting.net/",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "1205": "http://community.livejournal.com/todokanai_gw/",

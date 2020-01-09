@@ -14,7 +14,7 @@ INVALID = "You specified an invalid group id."
 WWWBROWSER = "firefox"
 DOSEARCH = True
 #QUERYURLS = ['https://mangadex.org/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8', 'http://yandex.com/yandsearch?text=%s']
-QUERYURLS = ['https://mangadex.org/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8']
+QUERYURLS = ['https://mangadex.cc/groups/0/1/%s', 'http://google.com/search?q=%s&ie=utf-8&oe=utf-8']
 AUTONOVEL = True
 RUN_OFFSET = 100
 LAST_OFFSET = 20
