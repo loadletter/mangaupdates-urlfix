@@ -49,6 +49,7 @@ var urlfix_grouplist = {
     "11174": "https://mangadex.cc/group/10556/iketanirc",
     "11214": "https://mangadex.cc/group/6652/taste-the-rainbow",
     "11234": "https://mangadex.cc/group/10642/benjiman-tenjiman",
+    "11274": "https://mtl-fannovel.blogspot.com/",
     "114": "http://hush.imess.net/",
     "1174": "http://bakemono.info/",
     "1194": "http://franky-house.com/",

@@ -55,6 +55,7 @@ var urlfix_grouplist = {
     "11193": "https://mangadex.cc/group/10328/edelgarde-scans",
     "11233": "https://mangadex.cc/group/10637/alien-scans",
     "11253": "http://www.mangago.me/home/mangalist/234199/",
+    "11273": "https://mangadex.cc/group/5302/jhoms-no-fansub",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
     "1133": "http://community.livejournal.com/8018_project/",
     "1193": "http://www.bsmanga.com/",
