@@ -51,6 +51,7 @@ var urlfix_grouplist = {
     "11196": "https://mangadex.cc/group/10559/king-scans",
     "11216": "https://mangadex.cc/group/10612/suno-i-guess",
     "11236": "https://mangadex.cc/group/4080/pandacronic",
+    "11256": "https://mangadex.cc/group/10686/the-avengers",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",
     "1176": "https://whatever.services/",

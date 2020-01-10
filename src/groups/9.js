@@ -48,6 +48,7 @@ var urlfix_grouplist = {
     "10989": "https://mangadex.cc/group/9727/terserah",
     "11169": "https://mangadex.cc/group/10537/cute-princess-hunter-scans",
     "11229": "https://mangadex.cc/group/10632/midnight-snaccs-scans",
+    "11269": "https://mangadex.cc/group/9943/ards",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",

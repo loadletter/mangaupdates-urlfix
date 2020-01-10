@@ -45,6 +45,7 @@ var urlfix_grouplist = {
     "11197": "https://mangadex.cc/group/3362/nippa-team",
     "11217": "https://chibitranslates.tumblr.com/",
     "11237": "https://mangadex.cc/group/10647/wild-half",
+    "11257": "https://mangadex.cc/group/10666/scans-for-the-boys",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",
     "1217": "http://dragonhalf.aswembar.net/",

@@ -51,6 +51,8 @@ var urlfix_grouplist = {
     "11165": "https://dridesp.ooo/n",
     "11185": "https://sexyryu28.livejournal.com/",
     "11205": "https://mangadex.cc/group/10516/talentless-scanlators",
+    "11245": "https://seductivesugar.neocities.org/",
+    "11265": "https://mangadex.cc/group/10579/evil-twin-scans",
     "1145": "http://pinkeverlasting.net/",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "1205": "http://community.livejournal.com/todokanai_gw/",

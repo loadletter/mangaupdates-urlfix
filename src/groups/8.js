@@ -54,6 +54,8 @@ var urlfix_grouplist = {
     "11168": "https://mangadex.cc/group/10377/nimrod-scans",
     "11208": "https://mangadex.cc/group/10126/valhalla-scans",
     "11228": "https://mangadex.cc/group/10614/galaxy-degen-scans",
+    "11248": "https://mangadex.cc/group/10680/waffle-castle",
+    "11268": "https://mangadex.cc/group/10655/lusario-scans",
     "1148": "http://home.eol.ca/~basara/saiyuuki",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",

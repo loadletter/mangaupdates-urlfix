@@ -49,6 +49,8 @@ var urlfix_grouplist = {
     "11166": "https://alparslantl.blogspot.com/",
     "11186": "https://ramen-lover30.livejournal.com/",
     "11206": "https://mangadex.cc/group/10601/kanojo-okarishimasu-scans",
+    "11246": "https://mangadex.cc/group/10673/babylonian",
+    "11266": "https://mangadex.cc/group/10273/lord-akari",
     "1146": "http://www.geocities.com/fogp_scans/",
     "1166": "http://conan-magic.com/",
     "1186": "http://thehetre.vn/ChouGroup",

@@ -51,6 +51,8 @@ var urlfix_grouplist = {
     "11167": "https://mangadex.cc/group/10298/untitled-goose-scans",
     "11207": "https://mangadex.cc/group/10600/sunadokei-scans",
     "11227": "https://mangadex.cc/group/7565/la-vie-en-rose",
+    "11247": "https://mangadex.cc/group/10678/drovvy",
+    "11267": "https://mangadex.cc/group/10499/sendiri-scans",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",

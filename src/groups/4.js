@@ -53,6 +53,8 @@ var urlfix_grouplist = {
     "11144": "https://mangadex.cc/group/10469/cuteshiburin",
     "11204": "https://mangadex.cc/group/10588/first-division-scanlations",
     "11224": "https://fuckyeahtodobaku.tumblr.com/",
+    "11244": "https://mangadex.cc/group/10475/vk-scans",
+    "11264": "https://cc-alonesnowflake.tumblr.com/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
