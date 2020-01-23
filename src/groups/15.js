@@ -52,6 +52,7 @@ var urlfix_grouplist = {
     "11215": "https://mangadex.cc/group/10604/shinyklefkey",
     "11235": "https://mangadex.cc/group/10641/hatch-potch-cafe",
     "11275": "https://mangadex.cc/group/10755/rspreet",
+    "11295": "https://xiphearts.tumblr.com/",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",

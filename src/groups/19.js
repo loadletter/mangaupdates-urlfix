@@ -51,6 +51,7 @@ var urlfix_grouplist = {
     "11239": "https://mangadex.cc/group/6171/janime6",
     "11259": "https://mangadex.cc/group/8038/mint-wood",
     "11279": "https://www.earlymanga.ml/",
+    "11299": "https://mangadex.org/group/10759/nebula-cafe-scans",
     "1139": "http://www.court-records.net/",
     "1179": "http://mangaabyss.webs.com/",
     "119": "http://starbruin.com/",

@@ -57,6 +57,7 @@ var urlfix_grouplist = {
     "11238": "https://mangadex.cc/group/9275/dubious",
     "11258": "http://kaorihikari.blogspot.com/",
     "11278": "https://mangadex.cc/group/10752/never-ending-scans",
+    "11298": "https://novelonomicon.com/",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1278": "http://www.maboroshi.110mb.com/",

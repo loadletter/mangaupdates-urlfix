@@ -53,6 +53,7 @@ var urlfix_grouplist = {
     "1122": "http://forever.chusha-ki.net/",
     "11242": "https://mangadex.cc/group/10665/the-void",
     "11282": "https://mangadex.org/group/10780/sahashi74",
+    "11302": "https://nenatranslates.tumblr.com/",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "1162": "http://chez-maltesers.livejournal.com/",
     "1182": "http://4dawgz.blogspot.com/",
