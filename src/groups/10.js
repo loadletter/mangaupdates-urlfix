@@ -53,6 +53,7 @@ var urlfix_grouplist = {
     "11190": "https://mangadex.cc/group/9524/araznovel",
     "11230": "https://yaoieuphoria.blogspot.com/",
     "11270": "https://midoritora.wordpress.com/",
+    "11290": "https://mangadex.org/group/10782/chiriwaka",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

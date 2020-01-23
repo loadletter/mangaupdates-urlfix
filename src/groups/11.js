@@ -53,6 +53,7 @@ var urlfix_grouplist = {
     "11171": "https://mangadex.cc/group/603/helheim",
     "11231": "https://floraisoncadre.wordpress.com/",
     "11271": "https://mangadex.cc/group/10727/tsukimirage",
+    "11291": "https://mangadex.org/group/10783/no-named-group",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

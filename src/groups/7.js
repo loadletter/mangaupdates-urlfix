@@ -53,6 +53,7 @@ var urlfix_grouplist = {
     "11227": "https://mangadex.cc/group/7565/la-vie-en-rose",
     "11247": "https://mangadex.cc/group/10678/drovvy",
     "11267": "https://mangadex.cc/group/10499/sendiri-scans",
+    "11287": "https://mangadex.org/group/10800/puberty-fairy",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",
