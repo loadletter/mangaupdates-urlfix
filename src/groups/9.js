@@ -50,6 +50,7 @@ var urlfix_grouplist = {
     "11229": "https://mangadex.cc/group/10632/midnight-snaccs-scans",
     "11269": "https://mangadex.cc/group/9943/ards",
     "11289": "https://guccijotaro.tumblr.com/",
+    "11329": "https://reverie-scans.tumblr.com/",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",

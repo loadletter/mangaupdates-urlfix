@@ -58,6 +58,7 @@ var urlfix_grouplist = {
     "11212": "https://arigatari.tumblr.com/",
     "11232": "https://mangadex.cc/group/10266/the-quick-brown-fox",
     "11272": "https://mangadex.cc/group/10572/podi-scans",
+    "11312": "https://mangadex.org/group/9985/1-11-scans",
     "1132": "http://meep-scans.com/",
     "1172": "http://www.kuu-scans.info",
     "1192": "http://muning.livejournal.com/",

@@ -56,6 +56,8 @@ var urlfix_grouplist = {
     "11228": "https://mangadex.cc/group/10614/galaxy-degen-scans",
     "11248": "https://mangadex.cc/group/10680/waffle-castle",
     "11268": "https://mangadex.cc/group/10655/lusario-scans",
+    "11308": "https://mangadex.org/group/6413/le-cercle-du-scan",
+    "11328": "https://mangadex.org/group/7024/iscariote-scantrad",
     "1148": "http://home.eol.ca/~basara/saiyuuki",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",

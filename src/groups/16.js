@@ -53,6 +53,8 @@ var urlfix_grouplist = {
     "11236": "https://mangadex.cc/group/4080/pandacronic",
     "11256": "https://mangadex.cc/group/10686/the-avengers",
     "11276": "https://mangadex.cc/group/10756/soukyuu-scans",
+    "11316": "https://todokugou.wordpress.com/",
+    "11336": "https://www.instagram.com/devilwife.translate/",
     "1136": "http://www.blood-scanlations.com/",
     "116": "http://community.livejournal.com/fushichou_manga/",
     "1176": "https://whatever.services/",

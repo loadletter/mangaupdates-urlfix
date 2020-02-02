@@ -47,6 +47,7 @@ var urlfix_grouplist = {
     "11237": "https://mangadex.cc/group/10647/wild-half",
     "11257": "https://mangadex.cc/group/10666/scans-for-the-boys",
     "11277": "https://mangadex.cc/group/10757/spookywhispering",
+    "11337": "https://mangadex.org/group/10784/archkey-tl",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",
     "1217": "http://dragonhalf.aswembar.net/",

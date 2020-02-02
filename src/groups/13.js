@@ -57,6 +57,7 @@ var urlfix_grouplist = {
     "11253": "http://www.mangago.me/home/mangalist/234199/",
     "11273": "https://mangadex.cc/group/5302/jhoms-no-fansub",
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
+    "11313": "https://mangadex.org/group/10803/alpha-gugs",
     "1133": "http://community.livejournal.com/8018_project/",
     "1193": "http://www.bsmanga.com/",
     "1273": "http://mangahelpers.com/s/yoniekai",

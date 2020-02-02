@@ -54,6 +54,8 @@ var urlfix_grouplist = {
     "11230": "https://yaoieuphoria.blogspot.com/",
     "11270": "https://midoritora.wordpress.com/",
     "11290": "https://mangadex.org/group/10782/chiriwaka",
+    "11310": "https://mangadex.org/group/10768/catbeard-crew",
+    "11330": "https://www.instagram.com/oikahoe.desu/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

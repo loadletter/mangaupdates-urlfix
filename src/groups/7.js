@@ -54,6 +54,8 @@ var urlfix_grouplist = {
     "11247": "https://mangadex.cc/group/10678/drovvy",
     "11267": "https://mangadex.cc/group/10499/sendiri-scans",
     "11287": "https://mangadex.org/group/10800/puberty-fairy",
+    "11307": "https://immortalupdates.com/",
+    "11327": "https://mangadex.org/group/9733/project-z-scans",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",

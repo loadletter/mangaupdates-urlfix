@@ -50,6 +50,7 @@ var urlfix_grouplist = {
     "11214": "https://mangadex.cc/group/6652/taste-the-rainbow",
     "11234": "https://mangadex.cc/group/10642/benjiman-tenjiman",
     "11274": "https://mtl-fannovel.blogspot.com/",
+    "11334": "https://mangadex.org/group/6894/mutsuko-scantrad",
     "114": "http://hush.imess.net/",
     "1174": "http://bakemono.info/",
     "1194": "http://franky-house.com/",
@@ -408,5 +409,5 @@ var urlfix_grouplist = {
     "994": "http://kameko-87.livejournal.com/profile",
     "9954": "https://mangadex.cc/group/5681/mizore",
     "9974": "https://mangadex.cc/group/5855/jikan-scans",
-    "9994": "https://mangadex.cc/group/5938/yuri-ichigo"
+    "9994": "https://yuri-ichigo.tumblr.com/"
 };

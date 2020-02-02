@@ -59,6 +59,7 @@ var urlfix_grouplist = {
     "11240": "https://mangadex.cc/group/10659/devmax",
     "11260": "https://mangadex.cc/group/9181/why-d-the-last-dude-stop",
     "11280": "https://mangadex.org/group/10766/sleepyhead",
+    "11320": "https://mangadex.org/group/10808/bunny-stella",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",
     "1180": "http://www.freewebs.com/mmmdraco",
