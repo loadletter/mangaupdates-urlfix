@@ -56,6 +56,7 @@ var urlfix_grouplist = {
     "11302": "https://nenatranslates.tumblr.com/",
     "11342": "https://mangadex.org/group/7496/yuri-scanlations",
     "11362": "https://mangadex.org/group/10855/murdoch-murdoch-scans",
+    "11382": "https://mangadex.org/group/10830/quack-scans",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "1162": "http://chez-maltesers.livejournal.com/",
     "1182": "http://4dawgz.blogspot.com/",

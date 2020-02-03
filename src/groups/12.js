@@ -61,6 +61,8 @@ var urlfix_grouplist = {
     "11312": "https://mangadex.org/group/9985/1-11-scans",
     "1132": "http://meep-scans.com/",
     "11352": "https://mangadex.org/group/10833/honey-bee",
+    "11372": "https://fukushuunoyuusha.blogspot.com/",
+    "11412": "https://mangadex.org/group/10954/power-team",
     "1172": "http://www.kuu-scans.info",
     "1192": "http://muning.livejournal.com/",
     "1232": "http://daphira.livejournal.com/",

@@ -55,6 +55,7 @@ var urlfix_grouplist = {
     "11265": "https://mangadex.org/group/10579/evil-twin-scans",
     "11325": "https://gvenevera.tumblr.com/",
     "11365": "https://mangadex.org/group/10861/black-guy-falls-of-chair-translations",
+    "11405": "https://marumochiscans.tumblr.com/",
     "1145": "http://pinkeverlasting.net/",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "1205": "http://community.livejournal.com/todokanai_gw/",

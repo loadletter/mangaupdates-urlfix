@@ -53,6 +53,8 @@ var urlfix_grouplist = {
     "11329": "https://reverie-scans.tumblr.com/",
     "11349": "https://mangadex.org/group/10827/qnd",
     "11369": "https://adobsnk-scans.tumblr.com/",
+    "11389": "https://klwritesstuff.tumblr.com/",
+    "11409": "https://mangadex.org/group/10944/twilight-scanlations",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",

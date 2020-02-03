@@ -57,6 +57,8 @@ var urlfix_grouplist = {
     "11307": "https://immortalupdates.com/",
     "11327": "https://mangadex.org/group/9733/project-z-scans",
     "11347": "https://mangadex.org/group/10804/shakyamuni-scans",
+    "11387": "https://mangadex.org/group/10847/wooloo-s-dreamland",
+    "11407": "https://mangadex.org/group/7461/syndicate-manga-team",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",

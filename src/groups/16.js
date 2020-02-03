@@ -56,6 +56,8 @@ var urlfix_grouplist = {
     "11316": "https://todokugou.wordpress.com/",
     "11336": "https://www.instagram.com/devilwife.translate/",
     "1136": "http://www.blood-scanlations.com/",
+    "11376": "https://snh-raviolli.tumblr.com/",
+    "11396": "https://mangadex.org/group/10919/weshojo-scanz",
     "116": "http://community.livejournal.com/fushichou_manga/",
     "1176": "https://whatever.services/",
     "1196": "http://stardust-crusaders.blogspot.com/",

@@ -58,6 +58,7 @@ var urlfix_grouplist = {
     "11330": "https://www.instagram.com/oikahoe.desu/",
     "11350": "https://mocopersonal.tumblr.com/",
     "11370": "https://mangadex.org/group/9047/mustard-jar-scans",
+    "11410": "https://mangadex.org/group/10948/white-dragon-and-black-dragon",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

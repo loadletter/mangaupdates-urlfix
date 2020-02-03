@@ -49,6 +49,7 @@ var urlfix_grouplist = {
     "11277": "https://mangadex.org/group/10757/spookywhispering",
     "11337": "https://mangadex.org/group/10784/archkey-tl",
     "11357": "https://daijob.tumblr.com/",
+    "11397": "https://mangadex.org/group/10911/scanlation-you-need-but-don-t-deserve",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",
     "1217": "http://dragonhalf.aswembar.net/",
