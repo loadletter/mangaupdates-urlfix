@@ -59,6 +59,7 @@ var urlfix_grouplist = {
     "113": "http://web.archive.org/web/20080127104513/www.hochuuami.com/downloads.php",
     "11313": "https://mangadex.org/group/10803/alpha-gugs",
     "1133": "http://community.livejournal.com/8018_project/",
+    "11353": "https://mangadex.org/group/10836/coffee-is-for-the-fucking-weak",
     "1193": "http://www.bsmanga.com/",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",

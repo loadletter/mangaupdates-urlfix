@@ -57,6 +57,7 @@ var urlfix_grouplist = {
     "11264": "https://cc-alonesnowflake.tumblr.com/",
     "11284": "https://mangadex.org/group/10518/wayward-hearts-scans",
     "11344": "https://riffkaa.tumblr.com/",
+    "11364": "https://skyfallscans.ga/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",

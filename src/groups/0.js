@@ -61,6 +61,7 @@ var urlfix_grouplist = {
     "11280": "https://mangadex.org/group/10766/sleepyhead",
     "11320": "https://mangadex.org/group/10808/bunny-stella",
     "11340": "https://otps-trash.tumblr.com/",
+    "11360": "https://mangadex.org/group/10851/nihongo-wakarahen",
     "1140": "http://samehat.blogspot.com/",
     "1160": "http://www.anime-destiny.org/",
     "1180": "http://www.freewebs.com/mmmdraco",

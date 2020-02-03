@@ -54,6 +54,7 @@ var urlfix_grouplist = {
     "11275": "https://mangadex.org/group/10755/rspreet",
     "11295": "https://xiphearts.tumblr.com/",
     "11335": "https://mangadex.org/group/3849/relentless-midotaka-scans",
+    "11355": "https://hizurikun.tumblr.com/",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",

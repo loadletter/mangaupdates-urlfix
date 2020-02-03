@@ -51,6 +51,7 @@ var urlfix_grouplist = {
     "11234": "https://mangadex.org/group/10642/benjiman-tenjiman",
     "11274": "https://mtl-fannovel.blogspot.com/",
     "11334": "https://mangadex.org/group/6894/mutsuko-scantrad",
+    "11354": "https://mangadex.org/group/10829/kkj-scans",
     "114": "http://hush.imess.net/",
     "1174": "http://bakemono.info/",
     "1194": "http://franky-house.com/",

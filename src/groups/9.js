@@ -51,6 +51,8 @@ var urlfix_grouplist = {
     "11269": "https://mangadex.org/group/9943/ards",
     "11289": "https://guccijotaro.tumblr.com/",
     "11329": "https://reverie-scans.tumblr.com/",
+    "11349": "https://mangadex.org/group/10827/qnd",
+    "11369": "https://adobsnk-scans.tumblr.com/",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",

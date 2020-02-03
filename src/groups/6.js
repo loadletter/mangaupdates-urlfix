@@ -54,6 +54,7 @@ var urlfix_grouplist = {
     "11266": "https://mangadex.org/group/10273/lord-akari",
     "11286": "https://mangadex.org/group/10799/meowchi",
     "11346": "https://mangadex.org/group/10794/once-upon-a-dreamland",
+    "11366": "https://mangadex.org/group/10834/summer-scans",
     "1146": "http://www.geocities.com/fogp_scans/",
     "1166": "http://conan-magic.com/",
     "1186": "http://thehetre.vn/ChouGroup",
