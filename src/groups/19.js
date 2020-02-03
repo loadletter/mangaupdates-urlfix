@@ -57,6 +57,7 @@ var urlfix_grouplist = {
     "11379": "https://mangadex.org/group/10883/admirers-of-miss-bertia",
     "1139": "http://www.court-records.net/",
     "11399": "https://mangadex.org/group/10923/sloppy-scans",
+    "11419": "https://www.novicetranslations.com/",
     "1179": "http://mangaabyss.webs.com/",
     "119": "http://starbruin.com/",
     "1279": "http://kupoke.livejournal.com/",

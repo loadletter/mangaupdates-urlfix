@@ -65,6 +65,7 @@ var urlfix_grouplist = {
     "11380": "https://fluffysparklebutt.tumblr.com/",
     "1140": "http://samehat.blogspot.com/",
     "11400": "https://mangadex.org/group/10886/heart-lamp-scanlations",
+    "11420": "https://mangadex.org/group/10983/translational-trainwreck",
     "1160": "http://www.anime-destiny.org/",
     "1180": "http://www.freewebs.com/mmmdraco",
     "120": "http://www.furinkazan.us/",

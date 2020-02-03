@@ -59,6 +59,7 @@ var urlfix_grouplist = {
     "11344": "https://riffkaa.tumblr.com/",
     "11364": "https://skyfallscans.ga/",
     "11404": "https://mangadex.org/group/10930/genome-translator",
+    "11424": "https://mangadex.org/group/10984/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
