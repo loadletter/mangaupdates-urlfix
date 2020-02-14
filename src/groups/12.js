@@ -63,6 +63,8 @@ var urlfix_grouplist = {
     "11352": "https://mangadex.org/group/10833/honey-bee",
     "11372": "https://fukushuunoyuusha.blogspot.com/",
     "11412": "https://mangadex.org/group/10954/power-team",
+    "11432": "https://mangadex.org/group/6825/the-abandoned",
+    "11452": "https://w15.readheroacademia.com/",
     "1172": "http://www.kuu-scans.info",
     "1192": "http://muning.livejournal.com/",
     "1232": "http://daphira.livejournal.com/",

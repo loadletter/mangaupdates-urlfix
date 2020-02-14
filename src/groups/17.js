@@ -50,6 +50,8 @@ var urlfix_grouplist = {
     "11337": "https://mangadex.org/group/10784/archkey-tl",
     "11357": "https://daijob.tumblr.com/",
     "11397": "https://mangadex.org/group/10911/scanlation-you-need-but-don-t-deserve",
+    "11437": "https://mangadex.org/group/11012/unknown-moon-scans",
+    "11457": "https://mangadex.org/group/10953/quixotic",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",
     "1217": "http://dragonhalf.aswembar.net/",

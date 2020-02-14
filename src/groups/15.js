@@ -58,6 +58,8 @@ var urlfix_grouplist = {
     "11375": "https://mangadex.org/group/10858/farnessetl",
     "11395": "https://mangadex.org/group/10764/sub-a-dub",
     "11415": "https://mangadex.org/group/10970/noca-scans",
+    "11435": "https://mangadex.org/group/10914/smiley-machine",
+    "11455": "https://mangadex.org/group/10763/literary-stray-scans",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",

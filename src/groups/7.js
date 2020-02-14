@@ -59,6 +59,8 @@ var urlfix_grouplist = {
     "11347": "https://mangadex.org/group/10804/shakyamuni-scans",
     "11387": "https://mangadex.org/group/10847/wooloo-s-dreamland",
     "11407": "https://mangadex.org/group/7461/syndicate-manga-team",
+    "11427": "https://mangadex.org/group/10994/the-cook-s-table",
+    "11447": "https://mangadex.org/group/11026/hoggy-momo-scans",
     "1147": "http://miyuun.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",

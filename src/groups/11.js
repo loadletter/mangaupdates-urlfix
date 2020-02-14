@@ -57,6 +57,7 @@ var urlfix_grouplist = {
     "11371": "https://mangadex.org/group/5775/kscanlations-esp",
     "11391": "https://mangadex.org/group/10895/thecupboard",
     "11411": "https://mangadex.org/group/10952/blazescans",
+    "11431": "https://chin2.jp/",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

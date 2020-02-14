@@ -59,6 +59,8 @@ var urlfix_grouplist = {
     "11308": "https://mangadex.org/group/6413/le-cercle-du-scan",
     "11328": "https://mangadex.org/group/7024/iscariote-scantrad",
     "11408": "https://mangadex.org/group/10951/non-stop-scans",
+    "11428": "https://mangadex.org/group/10956/team-anjou",
+    "11448": "https://mangadex.org/group/9339/red-scans",
     "1148": "http://home.eol.ca/~basara/saiyuuki",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",

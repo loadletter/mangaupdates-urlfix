@@ -59,6 +59,7 @@ var urlfix_grouplist = {
     "11382": "https://mangadex.org/group/10830/quack-scans",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "11422": "https://mangadex.org/group/10988/zilocybn",
+    "11442": "https://mangadex.org/group/11022/midnight-bruisers",
     "1162": "http://chez-maltesers.livejournal.com/",
     "1182": "http://4dawgz.blogspot.com/",
     "1202": "http://azure.freehostia.com/",

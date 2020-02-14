@@ -58,6 +58,8 @@ var urlfix_grouplist = {
     "1136": "http://www.blood-scanlations.com/",
     "11376": "https://snh-raviolli.tumblr.com/",
     "11396": "https://mangadex.org/group/10919/weshojo-scanz",
+    "11436": "https://mangadex.org/group/6813/meow-fansub",
+    "11456": "https://mangadex.org/group/11044/opera-omnia-scans",
     "116": "http://community.livejournal.com/fushichou_manga/",
     "1176": "https://whatever.services/",
     "1196": "http://stardust-crusaders.blogspot.com/",

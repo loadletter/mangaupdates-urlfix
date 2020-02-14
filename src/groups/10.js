@@ -59,6 +59,8 @@ var urlfix_grouplist = {
     "11350": "https://mocopersonal.tumblr.com/",
     "11370": "https://mangadex.org/group/9047/mustard-jar-scans",
     "11410": "https://mangadex.org/group/10948/white-dragon-and-black-dragon",
+    "11430": "https://mangadex.org/group/10620/a-dolf-hitler-scanlations",
+    "11450": "https://mangadex.org/group/11017/fanicorn-scamlations",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

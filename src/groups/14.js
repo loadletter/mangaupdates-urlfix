@@ -56,6 +56,7 @@ var urlfix_grouplist = {
     "11394": "https://mangaschools.com/",
     "114": "http://hush.imess.net/",
     "11414": "http://anothershittynsfwblog.tumblr.com",
+    "11434": "https://mangadex.org/group/10199/naga",
     "1174": "http://bakemono.info/",
     "1194": "http://franky-house.com/",
     "1214": "http://ravyn-09.livejournal.com/",
