@@ -59,6 +59,7 @@ var urlfix_grouplist = {
     "11399": "https://mangadex.org/group/10923/sloppy-scans",
     "11419": "https://www.novicetranslations.com/",
     "11439": "https://mangadex.org/group/10950/cookie-s-bakery",
+    "11459": "https://mangadex.org/group/11055/fatso",
     "1179": "http://mangaabyss.webs.com/",
     "119": "http://starbruin.com/",
     "1279": "http://kupoke.livejournal.com/",

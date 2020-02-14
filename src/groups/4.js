@@ -62,6 +62,7 @@ var urlfix_grouplist = {
     "11424": "https://mangadex.org/group/10984/",
     "1144": "http://www.hadesomega.info/Wakaba-Scans/",
     "11444": "https://nympsycho-ao3.tumblr.com/",
+    "11464": "https://mangadex.org/group/10424/xinsu-translations",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",

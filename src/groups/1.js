@@ -59,6 +59,7 @@ var urlfix_grouplist = {
     "11361": "https://mangadex.org/group/9586/radio-gufo",
     "11421": "https://mangadex.org/group/3459/cuervo-scanlation",
     "11441": "https://mangadex.org/group/11021/one-man-army",
+    "11461": "https://mangadex.org/group/10938/the-lechery",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

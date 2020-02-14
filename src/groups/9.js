@@ -56,6 +56,7 @@ var urlfix_grouplist = {
     "11389": "https://klwritesstuff.tumblr.com/",
     "11409": "https://mangadex.org/group/10944/twilight-scanlations",
     "11429": "https://mangadex.org/group/11007/cat-cafe",
+    "11469": "https://mangadex.org/group/9933/rtc-group",
     "1149": "http://www.omake.org/project-801/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",

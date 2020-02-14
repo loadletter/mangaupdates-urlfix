@@ -61,6 +61,7 @@ var urlfix_grouplist = {
     "11410": "https://mangadex.org/group/10948/white-dragon-and-black-dragon",
     "11430": "https://mangadex.org/group/10620/a-dolf-hitler-scanlations",
     "11450": "https://mangadex.org/group/11017/fanicorn-scamlations",
+    "11470": "https://mangadex.org/group/11067/xianthemiguel",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

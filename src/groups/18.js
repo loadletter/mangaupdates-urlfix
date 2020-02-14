@@ -63,6 +63,7 @@ var urlfix_grouplist = {
     "11398": "https://mangadex.org/group/10924/v-video-games",
     "11418": "http://mooks-translations.tumblr.com",
     "11438": "https://mangadex.org/group/11009/send-us-pictures-of-anime-girls-eating-hamburgers",
+    "11458": "https://mangadex.org/group/11054/project-d",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1278": "http://www.maboroshi.110mb.com/",
