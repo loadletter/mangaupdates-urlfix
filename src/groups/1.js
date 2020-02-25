@@ -60,6 +60,8 @@ var urlfix_grouplist = {
     "11421": "https://mangadex.org/group/3459/cuervo-scanlation",
     "11441": "https://mangadex.org/group/11021/one-man-army",
     "11461": "https://mangadex.org/group/10938/the-lechery",
+    "11481": "https://nurikokairu.tumblr.com/",
+    "11501": "https://luukia.wordpress.com/",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

@@ -67,6 +67,8 @@ var urlfix_grouplist = {
     "11400": "https://mangadex.org/group/10886/heart-lamp-scanlations",
     "11420": "https://mangadex.org/group/10983/translational-trainwreck",
     "11460": "https://mangadex.org/group/11056/slabomeat",
+    "11480": "https://mangadex.org/group/2289/capablescoutman",
+    "11500": "https://ochofujinsama.tumblr.com/",
     "1160": "http://www.anime-destiny.org/",
     "1180": "http://www.freewebs.com/mmmdraco",
     "120": "http://www.furinkazan.us/",

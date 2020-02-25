@@ -59,6 +59,8 @@ var urlfix_grouplist = {
     "11446": "https://mangadex.org/group/7903/german-trap-scans",
     "1146": "http://www.geocities.com/fogp_scans/",
     "11466": "https://mangadex.org/group/11035/trashlations-scans",
+    "11486": "https://mangadex.org/group/11133/grubfrog",
+    "11506": "https://mangadex.org/group/11132/remoscans",
     "1166": "http://conan-magic.com/",
     "1186": "http://thehetre.vn/ChouGroup",
     "126": "http://fet.fudomine.org/",

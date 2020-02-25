@@ -63,6 +63,7 @@ var urlfix_grouplist = {
     "11363": "https://mangadex.org/group/10856/timepass",
     "11423": "https://mangadex.org/group/10990/easily-distracted-scans",
     "11463": "https://noutenki-scans.tumblr.com/",
+    "11503": "https://mangadex.org/group/11178/yttd-scans",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.org/group/1738/ushi",

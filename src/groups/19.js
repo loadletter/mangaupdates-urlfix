@@ -60,6 +60,8 @@ var urlfix_grouplist = {
     "11419": "https://www.novicetranslations.com/",
     "11439": "https://mangadex.org/group/10950/cookie-s-bakery",
     "11459": "https://mangadex.org/group/11055/fatso",
+    "11479": "https://mangadex.org/group/8907/team-angel-scanlations",
+    "11499": "https://mangadex.org/group/11169/genbu-translations",
     "1179": "http://mangaabyss.webs.com/",
     "119": "http://starbruin.com/",
     "1279": "http://kupoke.livejournal.com/",

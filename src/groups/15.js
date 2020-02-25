@@ -60,6 +60,8 @@ var urlfix_grouplist = {
     "11415": "https://mangadex.org/group/10970/noca-scans",
     "11435": "https://mangadex.org/group/10914/smiley-machine",
     "11455": "https://mangadex.org/group/10763/literary-stray-scans",
+    "11475": "https://mangadex.org/group/5904/kombatch-team",
+    "11495": "https://mangadex.org/group/9325/krakenkid",
     "115": "http://ob-session.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",

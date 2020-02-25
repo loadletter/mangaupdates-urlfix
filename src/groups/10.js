@@ -62,6 +62,8 @@ var urlfix_grouplist = {
     "11430": "https://mangadex.org/group/10620/a-dolf-hitler-scanlations",
     "11450": "https://mangadex.org/group/11017/fanicorn-scamlations",
     "11470": "https://mangadex.org/group/11067/xianthemiguel",
+    "11490": "https://nainanimonai.tumblr.com/",
+    "11510": "https://mangadex.org/group/11190/rat-scans",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

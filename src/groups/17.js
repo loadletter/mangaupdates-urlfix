@@ -52,6 +52,8 @@ var urlfix_grouplist = {
     "11397": "https://mangadex.org/group/10911/scanlation-you-need-but-don-t-deserve",
     "11437": "https://mangadex.org/group/11012/unknown-moon-scans",
     "11457": "https://mangadex.org/group/10953/quixotic",
+    "11477": "https://mangadex.org/group/4904/we-still-don-t-have-a-name-scanlations",
+    "11497": "https://mangadex.org/group/11134/cinnamon-roll-scans",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",
     "1217": "http://dragonhalf.aswembar.net/",
