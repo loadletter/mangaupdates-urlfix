@@ -61,6 +61,8 @@ var urlfix_grouplist = {
     "11471": "https://mangadex.org/group/11068/offal",
     "11491": "https://mangadex.org/group/11157/the-clover-project",
     "11511": "https://mangadex.org/group/11195/nowai",
+    "11531": "https://mangadex.org/group/11227/doggo-scans",
+    "11551": "https://dreamscans.com/",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

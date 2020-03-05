@@ -62,6 +62,8 @@ var urlfix_grouplist = {
     "11461": "https://mangadex.org/group/10938/the-lechery",
     "11481": "https://nurikokairu.tumblr.com/",
     "11501": "https://luukia.wordpress.com/",
+    "11521": "https://mangadex.org/group/8985/scans-gate",
+    "11541": "https://mangadex.org/group/10849/mayu-scans",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

@@ -66,6 +66,8 @@ var urlfix_grouplist = {
     "1147": "http://miyuun.livejournal.com/",
     "11487": "https://mangadex.org/group/11124/astral-valley",
     "11507": "https://mangadex.org/group/11037/leira-primrose-scans",
+    "11527": "https://mangadex.org/group/11220/tokuzawa-keisuke",
+    "11547": "https://mangadex.org/group/11252/dokusyo",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",
     "1267": "http://ahk.adgbc.com/",

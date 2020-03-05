@@ -64,6 +64,8 @@ var urlfix_grouplist = {
     "11470": "https://mangadex.org/group/11067/xianthemiguel",
     "11490": "https://nainanimonai.tumblr.com/",
     "11510": "https://mangadex.org/group/11190/rat-scans",
+    "11530": "https://gtscans.wordpress.com/",
+    "11550": "https://mangadex.org/group/11254/coronachan-scans",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

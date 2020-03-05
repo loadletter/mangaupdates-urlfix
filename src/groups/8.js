@@ -63,6 +63,8 @@ var urlfix_grouplist = {
     "11448": "https://mangadex.org/group/9339/red-scans",
     "1148": "http://home.eol.ca/~basara/saiyuuki",
     "11488": "https://mangadex.org/group/11135/fuckface-translations",
+    "11528": "https://gakgakche.blogspot.com/",
+    "11548": "https://mangadex.org/group/11258/raionkabusu-scans",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",

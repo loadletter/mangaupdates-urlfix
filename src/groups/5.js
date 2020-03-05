@@ -61,6 +61,8 @@ var urlfix_grouplist = {
     "11465": "https://kimidaketranslations.tumblr.com/",
     "11485": "https://mangadex.org/group/11129/ocean-poop",
     "11505": "https://umhhh.livejournal.com/",
+    "11525": "https://mangadex.org/group/11210/multicoloreddreams",
+    "11545": "https://mangadex.org/group/10138/lithe-scans",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "1205": "http://community.livejournal.com/todokanai_gw/",
     "1225": "http://community.livejournal.com/keith_ltd/",

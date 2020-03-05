@@ -61,6 +61,8 @@ var urlfix_grouplist = {
     "11466": "https://mangadex.org/group/11035/trashlations-scans",
     "11486": "https://mangadex.org/group/11133/grubfrog",
     "11506": "https://mangadex.org/group/11132/remoscans",
+    "11526": "https://www.mangalord.com/",
+    "11546": "https://twitter.com/etrangertl",
     "1166": "http://conan-magic.com/",
     "1186": "http://thehetre.vn/ChouGroup",
     "126": "http://fet.fudomine.org/",

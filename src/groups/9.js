@@ -60,6 +60,8 @@ var urlfix_grouplist = {
     "11489": "https://mangadex.org/group/11158/dodgyfansub",
     "1149": "http://www.omake.org/project-801/",
     "11509": "https://mangadex.org/group/2725/squid-scans",
+    "11529": "https://mangadex.org/group/11216/alltsunnodere",
+    "11549": "https://mangadex.org/group/10823/ecchi-brothers",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

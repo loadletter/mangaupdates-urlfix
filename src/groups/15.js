@@ -63,6 +63,8 @@ var urlfix_grouplist = {
     "11475": "https://mangadex.org/group/5904/kombatch-team",
     "11495": "https://mangadex.org/group/9325/krakenkid",
     "115": "http://ob-session.blogspot.com/",
+    "11515": "https://mangadex.org/group/11204/miya-group",
+    "11555": "https://mangadex.org/group/11269/inglorious-scans",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

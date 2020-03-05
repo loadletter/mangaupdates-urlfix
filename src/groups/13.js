@@ -68,6 +68,8 @@ var urlfix_grouplist = {
     "11473": "https://mangadex.org/group/11071/rogxx",
     "11493": "https://rof-scans.tumblr.com/",
     "11513": "https://mangadex.org/group/11175/touka-scans",
+    "11533": "https://gemscans.wordpress.com/",
+    "11553": "https://mangadex.org/group/5287/zenhoumon-scantrad",
     "1193": "http://www.bsmanga.com/",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",

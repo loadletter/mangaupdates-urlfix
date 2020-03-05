@@ -68,6 +68,7 @@ var urlfix_grouplist = {
     "11472": "https://eroyaoiscans.tumblr.com/",
     "11492": "https://mangadex.org/group/10967/wolfhead-scans",
     "11512": "https://mangadex.org/group/11193/adopt-already",
+    "11552": "https://mangadex.org/group/11229/torakyo",
     "1172": "http://www.kuu-scans.info",
     "1192": "http://muning.livejournal.com/",
     "1232": "http://daphira.livejournal.com/",
