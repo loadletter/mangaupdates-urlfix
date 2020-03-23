@@ -70,6 +70,8 @@ var urlfix_grouplist = {
     "11590": "https://mangadex.org/group/11321/wani-scanlation",
     "11610": "https://rochu-doujins.livejournal.com/",
     "11630": "https://sozuki17.livejournal.com/",
+    "11650": "https://marimo-blogger.dreamwidth.org/",
+    "11670": "https://mangadex.org/group/6586/us-two",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

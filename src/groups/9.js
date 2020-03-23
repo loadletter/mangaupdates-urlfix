@@ -66,6 +66,8 @@ var urlfix_grouplist = {
     "11589": "https://mangadex.org/group/11338/flyingdutchmanscans",
     "11609": "https://mangadex.org/group/11226/ethylene-scans",
     "11629": "https://kayiko-rkd.livejournal.com/",
+    "11649": "https://mangadex.org/group/11461/sin-translation",
+    "11669": "https://rochu-squad.livejournal.com/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

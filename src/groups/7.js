@@ -71,6 +71,8 @@ var urlfix_grouplist = {
     "11587": "https://mangadex.org/group/11334/manga-beast",
     "11607": "https://mangadex.org/group/9805/azur-eviri",
     "11627": "https://chicaneryofevil.livejournal.com/",
+    "11647": "https://maiyeng.livejournal.com/",
+    "11667": "https://mangadex.org/group/11403/culinary-scans",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",
     "1267": "http://ahk.adgbc.com/",

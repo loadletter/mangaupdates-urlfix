@@ -67,6 +67,8 @@ var urlfix_grouplist = {
     "11591": "https://mangadex.org/group/11344/seraph-scanlation",
     "11611": "https://mangadex.org/group/11386/wide-west",
     "11631": "https://arima-shiro.livejournal.com/",
+    "11651": "https://bouyant-tomato.livejournal.com/",
+    "11671": "https://twitter.com/kittycatkyla23",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

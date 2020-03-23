@@ -67,6 +67,8 @@ var urlfix_grouplist = {
     "11555": "https://mangadex.org/group/11269/inglorious-scans",
     "11575": "https://www.tinkerscans.tk/",
     "11615": "https://mangadex.org/group/10894/be-blues-project",
+    "11655": "https://blulious.livejournal.com/",
+    "11675": "https://mangadex.org/group/11471/kindly-fuck-you-yohan",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

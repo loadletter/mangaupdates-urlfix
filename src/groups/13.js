@@ -73,6 +73,7 @@ var urlfix_grouplist = {
     "11573": "https://mangadex.org/group/11043/tsf-central",
     "11593": "https://mangadex.org/group/11345/comicscoop",
     "11613": "https://mangadex.org/group/10908/dog-circle-scans",
+    "11653": "https://omgscans.candyrain.org/",
     "1193": "http://www.bsmanga.com/",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",
