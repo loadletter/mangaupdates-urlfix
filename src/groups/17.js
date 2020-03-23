@@ -57,6 +57,7 @@ var urlfix_grouplist = {
     "11517": "https://mangadex.org/group/11149/hoyoyo-project",
     "11537": "https://mangadex.org/group/3396/scan-eternal-life",
     "11557": "https://mangadex.org/group/11273/a-pair-of-2",
+    "11597": "https://longhairgirl.tumblr.com/",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",
     "1217": "http://dragonhalf.aswembar.net/",

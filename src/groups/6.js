@@ -63,6 +63,8 @@ var urlfix_grouplist = {
     "11506": "https://mangadex.org/group/11132/remoscans",
     "11526": "https://www.mangalord.com/",
     "11546": "https://twitter.com/etrangertl",
+    "11566": "https://bl-tl.tumblr.com/",
+    "11586": "https://j-comics.ru/",
     "1166": "http://conan-magic.com/",
     "1186": "http://thehetre.vn/ChouGroup",
     "126": "http://fet.fudomine.org/",

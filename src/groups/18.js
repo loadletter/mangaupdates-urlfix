@@ -69,6 +69,7 @@ var urlfix_grouplist = {
     "11518": "https://mangadex.org/group/11181/dragon-egg-rescue-mission",
     "11538": "https://mangadex.org/group/1929/hitoribocchi-translations",
     "11558": "https://mangadex.org/group/11249/dolce-dream",
+    "11578": "https://mangadex.org/group/10857/tao-scanlations",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1278": "http://www.maboroshi.110mb.com/",

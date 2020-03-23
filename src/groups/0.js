@@ -72,6 +72,7 @@ var urlfix_grouplist = {
     "11520": "https://mangadex.org/group/11179/melonpan-translation",
     "11540": "https://mangadex.org/group/11245/pikascans",
     "11560": "https://mangadex.org/group/11277/odori-tomaki",
+    "11580": "https://mangadex.org/group/135/nakama-mangas",
     "1160": "http://www.anime-destiny.org/",
     "1180": "http://www.freewebs.com/mmmdraco",
     "120": "http://www.furinkazan.us/",

@@ -65,6 +65,7 @@ var urlfix_grouplist = {
     "11519": "https://mangadex.org/group/11203/master_clown",
     "11539": "https://www.arangscans.xyz/",
     "11559": "https://mangadex.org/group/11267/qualityapologytl",
+    "11579": "https://mangadex.org/group/11323/raltzero-s-random-scans",
     "1179": "http://mangaabyss.webs.com/",
     "119": "http://starbruin.com/",
     "1279": "http://kupoke.livejournal.com/",

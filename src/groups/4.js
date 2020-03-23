@@ -67,6 +67,7 @@ var urlfix_grouplist = {
     "11504": "https://mangadex.org/group/11174/juicy",
     "11524": "https://mangadex.org/group/11202/google-tl-scans",
     "11544": "https://mrleoo01.com/",
+    "11584": "https://mangadex.org/group/11331/mummy-clap",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",

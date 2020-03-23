@@ -63,6 +63,8 @@ var urlfix_grouplist = {
     "11511": "https://mangadex.org/group/11195/nowai",
     "11531": "https://mangadex.org/group/11227/doggo-scans",
     "11551": "https://dreamscans.com/",
+    "11571": "https://mangadex.org/group/11307/dayer",
+    "11591": "https://mangadex.org/group/11344/seraph-scanlation",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

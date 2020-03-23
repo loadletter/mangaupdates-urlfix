@@ -63,6 +63,7 @@ var urlfix_grouplist = {
     "11505": "https://umhhh.livejournal.com/",
     "11525": "https://mangadex.org/group/11210/multicoloreddreams",
     "11545": "https://mangadex.org/group/10138/lithe-scans",
+    "11565": "https://mangadex.org/group/11278/honey-cornmuffins",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "1205": "http://community.livejournal.com/todokanai_gw/",
     "1225": "http://community.livejournal.com/keith_ltd/",
