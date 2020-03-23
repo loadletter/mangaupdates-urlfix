@@ -62,6 +62,7 @@ var urlfix_grouplist = {
     "11554": "https://mangadex.org/group/10199/random-shorts",
     "11574": "https://mangadex.org/group/11314/blissful-scans",
     "11594": "https://shukumeinorivals.tumblr.com/",
+    "11614": "https://mangadex.org/group/11388/accidentally-scanlation",
     "1174": "http://bakemono.info/",
     "1194": "http://franky-house.com/",
     "1214": "http://ravyn-09.livejournal.com/",

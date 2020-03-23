@@ -74,6 +74,8 @@ var urlfix_grouplist = {
     "11560": "https://mangadex.org/group/11277/odori-tomaki",
     "11580": "https://mangadex.org/group/135/nakama-mangas",
     "1160": "http://www.anime-destiny.org/",
+    "11600": "https://mangadex.org/group/11318/enaga-scans",
+    "11620": "https://shiroi-raven.livejournal.com/",
     "1180": "http://www.freewebs.com/mmmdraco",
     "120": "http://www.furinkazan.us/",
     "1200": "http://jelations.wordpress.com/",

@@ -66,6 +66,8 @@ var urlfix_grouplist = {
     "11541": "https://mangadex.org/group/10849/mayu-scans",
     "11561": "https://mangadex.org/group/11285/r-gamindustri",
     "11581": "https://mangadex.org/group/11324/aile-s-translation-adventures",
+    "11601": "https://nocturnesky.tumblr.com/",
+    "11621": "https://radittz.livejournal.com/",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

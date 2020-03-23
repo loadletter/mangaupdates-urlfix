@@ -64,6 +64,8 @@ var urlfix_grouplist = {
     "11549": "https://mangadex.org/group/10823/ecchi-brothers",
     "11569": "https://kaifijun.wordpress.com/",
     "11589": "https://mangadex.org/group/11338/flyingdutchmanscans",
+    "11609": "https://mangadex.org/group/11226/ethylene-scans",
+    "11629": "https://kayiko-rkd.livejournal.com/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

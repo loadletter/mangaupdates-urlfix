@@ -68,6 +68,8 @@ var urlfix_grouplist = {
     "11550": "https://mangadex.org/group/11254/coronachan-scans",
     "11570": "https://mangadex.org/group/11302/failure-at-grammar",
     "11590": "https://mangadex.org/group/11321/wani-scanlation",
+    "11610": "https://rochu-doujins.livejournal.com/",
+    "11630": "https://sozuki17.livejournal.com/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

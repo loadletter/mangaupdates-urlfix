@@ -70,6 +70,8 @@ var urlfix_grouplist = {
     "11538": "https://mangadex.org/group/1929/hitoribocchi-translations",
     "11558": "https://mangadex.org/group/11249/dolce-dream",
     "11578": "https://mangadex.org/group/10857/tao-scanlations",
+    "11598": "https://asubakatchin.tumblr.com/",
+    "11618": "https://mangadex.org/group/11395/amateur-hour-scanlations",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1278": "http://www.maboroshi.110mb.com/",

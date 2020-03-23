@@ -65,6 +65,8 @@ var urlfix_grouplist = {
     "11551": "https://dreamscans.com/",
     "11571": "https://mangadex.org/group/11307/dayer",
     "11591": "https://mangadex.org/group/11344/seraph-scanlation",
+    "11611": "https://mangadex.org/group/11386/wide-west",
+    "11631": "https://arima-shiro.livejournal.com/",
     "1171": "http://www.rycolaa.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",

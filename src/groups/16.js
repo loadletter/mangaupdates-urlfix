@@ -66,6 +66,7 @@ var urlfix_grouplist = {
     "11536": "https://mangadex.org/group/11235/blue-rose-scanlations",
     "11556": "https://mangadex.org/group/11069/the-seven-deadly-scans",
     "116": "http://community.livejournal.com/fushichou_manga/",
+    "11616": "https://mangadex.org/group/11392/i-turned-my-childhood-friend-into-a-scanlator",
     "1176": "https://whatever.services/",
     "1196": "http://stardust-crusaders.blogspot.com/",
     "1216": "http://www.myeternalsunshine.net/",

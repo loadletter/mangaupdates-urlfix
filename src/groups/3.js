@@ -68,6 +68,8 @@ var urlfix_grouplist = {
     "11543": "https://mangadex.org/group/11074/milk-mocha-scans",
     "11563": "https://mangadex.org/group/11274/69-iq-scans",
     "11583": "https://mangadex.org/group/11313/sleeping-knight",
+    "11603": "https://mangadex.org/group/11355/zero-heroes",
+    "11623": "https://whitebunnygroup.wordpress.com/",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.org/group/1738/ushi",

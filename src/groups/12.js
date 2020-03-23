@@ -71,6 +71,7 @@ var urlfix_grouplist = {
     "11552": "https://mangadex.org/group/11229/torakyo",
     "11572": "https://daddys-scans.tumblr.com/",
     "11592": "https://niunaico.tumblr.com",
+    "11632": "https://mangadex.org/group/11433/nikko-scanlations",
     "1172": "http://www.kuu-scans.info",
     "1192": "http://muning.livejournal.com/",
     "1232": "http://daphira.livejournal.com/",

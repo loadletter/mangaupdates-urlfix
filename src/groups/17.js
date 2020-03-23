@@ -58,6 +58,8 @@ var urlfix_grouplist = {
     "11537": "https://mangadex.org/group/3396/scan-eternal-life",
     "11557": "https://mangadex.org/group/11273/a-pair-of-2",
     "11597": "https://longhairgirl.tumblr.com/",
+    "11617": "https://mangadex.org/group/11337/serein",
+    "11637": "https://mangadex.org/group/11411/enknown-team",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",
     "1217": "http://dragonhalf.aswembar.net/",

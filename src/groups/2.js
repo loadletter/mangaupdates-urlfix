@@ -64,6 +64,7 @@ var urlfix_grouplist = {
     "11542": "https://mangadex.org/group/8056/tetsuscans",
     "11582": "https://mangadex.org/group/11327/reaper_claw-scans",
     "1162": "http://chez-maltesers.livejournal.com/",
+    "11622": "https://mangadex.org/group/10629/magic-shop-scanlations",
     "1182": "http://4dawgz.blogspot.com/",
     "1202": "http://azure.freehostia.com/",
     "1242": "http://aerandria.net/",

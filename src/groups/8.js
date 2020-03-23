@@ -67,6 +67,8 @@ var urlfix_grouplist = {
     "11548": "https://mangadex.org/group/11258/raionkabusu-scans",
     "11568": "https://mangadex.org/group/11299/singlechappy",
     "11588": "https://mangadex.org/group/11336/hikaru-s-scans",
+    "11608": "https://factory50.tumblr.com/",
+    "11628": "https://paper-poem.livejournal.com/",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",

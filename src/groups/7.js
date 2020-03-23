@@ -69,6 +69,8 @@ var urlfix_grouplist = {
     "11527": "https://mangadex.org/group/11220/tokuzawa-keisuke",
     "11547": "https://mangadex.org/group/11252/dokusyo",
     "11587": "https://mangadex.org/group/11334/manga-beast",
+    "11607": "https://mangadex.org/group/9805/azur-eviri",
+    "11627": "https://chicaneryofevil.livejournal.com/",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",
     "1267": "http://ahk.adgbc.com/",
