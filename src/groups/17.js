@@ -62,6 +62,7 @@ var urlfix_grouplist = {
     "11637": "https://mangadex.org/group/11411/enknown-team",
     "11657": "https://ramosa.livejournal.com/",
     "11677": "https://mangadex.org/group/11257/failing-flamingo-scans",
+    "11697": "https://mangadex.org/group/11535/reneguard",
     "117": "http://www.mangascreener.com/",
     "1177": "http://liliy.net/daradara",
     "1217": "http://dragonhalf.aswembar.net/",

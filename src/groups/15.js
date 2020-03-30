@@ -69,6 +69,8 @@ var urlfix_grouplist = {
     "11615": "https://mangadex.org/group/10894/be-blues-project",
     "11655": "https://blulious.livejournal.com/",
     "11675": "https://mangadex.org/group/11471/kindly-fuck-you-yohan",
+    "11695": "https://mangadex.org/group/11523/bibafeatboba",
+    "11715": "https://mangadex.org/group/11585/chihirou-senkawa-task-force",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

@@ -70,6 +70,8 @@ var urlfix_grouplist = {
     "11646": "https://ren-chan146.livejournal.com/",
     "1166": "http://conan-magic.com/",
     "11666": "https://mangadex.org/group/11449/laughing-dragon",
+    "11686": "https://mangadex.org/group/11494/kredim",
+    "11706": "https://mangadex.org/group/11583/just-an-ordinary-scans",
     "1186": "http://thehetre.vn/ChouGroup",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",

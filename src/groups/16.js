@@ -69,6 +69,8 @@ var urlfix_grouplist = {
     "11616": "https://mangadex.org/group/11392/i-turned-my-childhood-friend-into-a-scanlator",
     "11656": "https://kiku.livejournal.com/",
     "11676": "https://dotachin-chin.tumblr.com/",
+    "11696": "https://mangadex.org/group/5916/nhnl",
+    "11716": "https://mangadex.org/group/11599/hi-scan-dash-cancel",
     "1176": "https://whatever.services/",
     "1196": "http://stardust-crusaders.blogspot.com/",
     "1216": "http://www.myeternalsunshine.net/",

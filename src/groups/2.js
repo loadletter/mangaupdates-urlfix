@@ -67,6 +67,7 @@ var urlfix_grouplist = {
     "11622": "https://mangadex.org/group/10629/magic-shop-scanlations",
     "11642": "https://plextral.livejournal.com/",
     "11662": "https://mangadex.org/group/3700/tivanenk",
+    "11702": "https://mangadex.org/group/11570/kana-nyan",
     "1182": "http://4dawgz.blogspot.com/",
     "1202": "http://azure.freehostia.com/",
     "1242": "http://aerandria.net/",

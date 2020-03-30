@@ -71,6 +71,7 @@ var urlfix_grouplist = {
     "11603": "https://mangadex.org/group/11355/zero-heroes",
     "11623": "https://whitebunnygroup.wordpress.com/",
     "11663": "https://audiopilot.livejournal.com/",
+    "11703": "https://mangadex.org/group/11571/the-sergeant",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.org/group/1738/ushi",

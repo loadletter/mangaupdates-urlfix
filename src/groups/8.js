@@ -71,6 +71,8 @@ var urlfix_grouplist = {
     "11628": "https://paper-poem.livejournal.com/",
     "11648": "https://juliet-ros.livejournal.com/",
     "11668": "https://thirsthaven.blogspot.com/",
+    "11688": "https://mangadex.org/group/11509/chroniton",
+    "11708": "https://gineybycerisandroku.blogspot.com/",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",

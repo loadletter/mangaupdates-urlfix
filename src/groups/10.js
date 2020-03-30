@@ -72,6 +72,8 @@ var urlfix_grouplist = {
     "11630": "https://sozuki17.livejournal.com/",
     "11650": "https://marimo-blogger.dreamwidth.org/",
     "11670": "https://mangadex.org/group/6586/us-two",
+    "11690": "https://mangadex.org/group/11518/the-boredom-master",
+    "11710": "https://lotusinthemire.home.blog/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

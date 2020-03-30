@@ -72,6 +72,8 @@ var urlfix_grouplist = {
     "11624": "https://aprilyroseee.tumblr.com/",
     "11644": "https://mangadex.org/group/11431/manhua-scans",
     "11664": "https://fanfaluche.livejournal.com/",
+    "11684": "https://mangadex.org/group/11502/order-of-the-mystical-scanlation",
+    "11704": "https://mangadex.org/group/11279/starless-nights-scans",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",

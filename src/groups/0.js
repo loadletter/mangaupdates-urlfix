@@ -79,6 +79,7 @@ var urlfix_grouplist = {
     "11640": "https://mangadex.org/group/11451/danknny-translations",
     "11660": "https://viuviu0011.livejournal.com/",
     "11680": "https://isoyamanami.livejournal.com/",
+    "11700": "https://mangadex.org/group/11564/rebornparanoia",
     "1180": "http://www.freewebs.com/mmmdraco",
     "120": "http://www.furinkazan.us/",
     "1200": "http://jelations.wordpress.com/",
