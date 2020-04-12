@@ -71,6 +71,7 @@ var urlfix_grouplist = {
     "11705": "https://mangadex.org/group/11575/toilet-gang-scanlations",
     "11725": "https://mangadex.org/group/11557/mille-neige",
     "11745": "https://mangadex.org/group/11649/classic-literature-club",
+    "11765": "https://mangadex.org/group/11685/kusu",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "1205": "http://community.livejournal.com/todokanai_gw/",
     "1225": "http://community.livejournal.com/keith_ltd/",

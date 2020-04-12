@@ -72,6 +72,8 @@ var urlfix_grouplist = {
     "11695": "https://mangadex.org/group/11523/bibafeatboba",
     "11715": "https://mangadex.org/group/11585/chihirou-senkawa-task-force",
     "11735": "https://mangadex.org/group/11771/flying-lines",
+    "11755": "https://lachicadelyaoi.blogspot.com/",
+    "11775": "https://mangadropies.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

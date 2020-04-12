@@ -76,6 +76,8 @@ var urlfix_grouplist = {
     "11653": "https://omgscans.candyrain.org/",
     "11693": "https://mangadex.org/group/11514/raider-scans",
     "11713": "https://mangadex.org/group/11478/a-loner-s-poor-attempt-of-scanlations",
+    "11753": "https://mangadex.org/group/11659/manhua-md-scans",
+    "11773": "https://mangadex.org/group/11706/anon-chan-man",
     "1193": "http://www.bsmanga.com/",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",

@@ -74,6 +74,8 @@ var urlfix_grouplist = {
     "11701": "https://mangadex.org/group/11558/qtl-translations",
     "11721": "https://mafuyudeesu.blogspot.com/",
     "11741": "https://mangadex.org/group/11640/twilight-scans",
+    "11761": "https://mangadex.org/group/11322/inked-scanlation",
+    "11781": "https://mangadex.org/group/11733/good-fortune-roll",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",

@@ -78,6 +78,7 @@ var urlfix_grouplist = {
     "11712": "https://mangadex.org/group/11275/amuroharo-scans",
     "1172": "http://www.kuu-scans.info",
     "11732": "https://mangadex.org/group/11632/cult-of-isekai",
+    "11772": "https://bvnnyscans.tumblr.com/",
     "1192": "http://muning.livejournal.com/",
     "1232": "http://daphira.livejournal.com/",
     "1252": "http://shinai.nyaatorrents.org/",

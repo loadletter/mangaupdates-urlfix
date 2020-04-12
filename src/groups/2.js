@@ -70,6 +70,7 @@ var urlfix_grouplist = {
     "11702": "https://mangadex.org/group/11570/kana-nyan",
     "11722": "https://chookypooh.livejournal.com/",
     "11742": "https://nightokun.tumblr.com/",
+    "11762": "https://mangadex.org/group/11675/god_killers",
     "1182": "http://4dawgz.blogspot.com/",
     "1202": "http://azure.freehostia.com/",
     "1242": "http://aerandria.net/",

@@ -76,6 +76,7 @@ var urlfix_grouplist = {
     "11687": "https://mangadex.org/group/10605/euphonium-scans",
     "11707": "https://avelinescans.tumblr.com/",
     "11727": "https://mangadex.org/group/11551/ect-translations",
+    "11767": "https://mangadex.org/group/11689/clio",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",
     "1267": "http://ahk.adgbc.com/",

@@ -74,6 +74,7 @@ var urlfix_grouplist = {
     "11670": "https://mangadex.org/group/6586/us-two",
     "11690": "https://mangadex.org/group/11518/the-boredom-master",
     "11710": "https://lotusinthemire.home.blog/",
+    "11750": "https://sheneverupdates.tumblr.com/",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

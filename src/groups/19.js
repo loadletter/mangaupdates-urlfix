@@ -69,6 +69,7 @@ var urlfix_grouplist = {
     "11659": "https://mangadex.org/group/4104/grimoire-valentine",
     "11679": "https://jedishampoo.dreamwidth.org/",
     "11719": "https://www.saberscans.com/",
+    "11779": "https://mangadex.org/group/11716/singlish-department",
     "1179": "http://mangaabyss.webs.com/",
     "119": "http://starbruin.com/",
     "1279": "http://kupoke.livejournal.com/",

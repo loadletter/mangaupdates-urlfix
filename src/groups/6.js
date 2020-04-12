@@ -73,6 +73,7 @@ var urlfix_grouplist = {
     "11686": "https://mangadex.org/group/11494/kredim",
     "11706": "https://mangadex.org/group/11583/just-an-ordinary-scans",
     "11746": "https://darkstar-scans.livejournal.com/",
+    "11766": "https://mangadex.org/group/11688/yentl_scans",
     "1186": "http://thehetre.vn/ChouGroup",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",

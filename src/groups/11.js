@@ -73,6 +73,7 @@ var urlfix_grouplist = {
     "1171": "http://www.rycolaa.com/",
     "11711": "https://mangadex.org/group/8255/yoruzen-group",
     "11731": "https://rawkuma.com/",
+    "11771": "https://mangadex.org/group/6768/varrel",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",
     "1231": "http://umeboshi.uni.cc",

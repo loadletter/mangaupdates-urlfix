@@ -72,6 +72,7 @@ var urlfix_grouplist = {
     "11696": "https://mangadex.org/group/5916/nhnl",
     "11716": "https://mangadex.org/group/11599/hi-scan-dash-cancel",
     "1176": "https://whatever.services/",
+    "11776": "https://mangadex.org/group/10686/little-miss-good-sir-scanlations",
     "1196": "http://stardust-crusaders.blogspot.com/",
     "1216": "http://www.myeternalsunshine.net/",
     "1276": "http://gagakhitam.wordpress.com/",
