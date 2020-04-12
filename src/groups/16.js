@@ -54,7 +54,7 @@ var urlfix_grouplist = {
     "11256": "https://mangadex.org/group/10686/the-avengers",
     "11276": "https://mangadex.org/group/10756/soukyuu-scans",
     "11316": "https://todokugou.wordpress.com/",
-    "11336": "https://www.instagram.com/devilwife.translate/",
+    "11336": "https://imgur.com/user/devilwife",
     "1136": "http://www.blood-scanlations.com/",
     "11376": "https://snh-raviolli.tumblr.com/",
     "11396": "https://mangadex.org/group/10919/weshojo-scanz",

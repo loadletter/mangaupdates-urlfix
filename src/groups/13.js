@@ -90,7 +90,7 @@ var urlfix_grouplist = {
     "1553": "http://unlifestudios.fateback.com/manga.html",
     "1593": "http://simpliemana.com/OneLoVe/",
     "1633": "http://dooms-day.livejournal.com/",
-    "1673": "http://deadbeat-scans.com/",
+    "1673": "https://deadbeatscans.wordpress.com/",
     "1693": "http://neko-myka.livejournal.com/",
     "1713": "http://todokanai.livejournal.com/",
     "1733": "http://crazymanga.be/",

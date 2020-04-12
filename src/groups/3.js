@@ -72,6 +72,8 @@ var urlfix_grouplist = {
     "11623": "https://whitebunnygroup.wordpress.com/",
     "11663": "https://audiopilot.livejournal.com/",
     "11703": "https://mangadex.org/group/11571/the-sergeant",
+    "11723": "https://mangadex.org/group/11608/uscans",
+    "11743": "https://hikaritranslations.tumblr.com/",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.org/group/1738/ushi",

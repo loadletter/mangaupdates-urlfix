@@ -67,6 +67,7 @@ var urlfix_grouplist = {
     "11674": "https://libertea.tumblr.com/",
     "11694": "https://mangadex.org/group/10074/viola-s-huge-secret",
     "11714": "https://mangadex.org/group/11582/quartet-scans",
+    "11734": "https://mangadex.org/group/11627/arahmanhuascans",
     "1174": "http://bakemono.info/",
     "1194": "http://franky-house.com/",
     "1214": "http://ravyn-09.livejournal.com/",

@@ -72,6 +72,7 @@ var urlfix_grouplist = {
     "11691": "https://mangadex.org/group/11519/chocokara-scanlation",
     "1171": "http://www.rycolaa.com/",
     "11711": "https://mangadex.org/group/8255/yoruzen-group",
+    "11731": "https://rawkuma.com/",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",
     "1231": "http://umeboshi.uni.cc",

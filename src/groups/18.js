@@ -73,6 +73,7 @@ var urlfix_grouplist = {
     "11598": "https://asubakatchin.tumblr.com/",
     "11618": "https://mangadex.org/group/11395/amateur-hour-scanlations",
     "11658": "https://suikka.livejournal.com/",
+    "11718": "https://mangadex.org/group/11596/crandall-inc-studios",
     "1178": "http://dustballs.nutang.com/",
     "118": "http://sweet-lunacy.co.nr/",
     "1278": "http://www.maboroshi.110mb.com/",

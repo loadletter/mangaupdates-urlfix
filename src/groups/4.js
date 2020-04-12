@@ -374,7 +374,7 @@ var urlfix_grouplist = {
     "8704": "http://bato.to/group/_/a/colors-of-spring-scans-r6736",
     "8724": "https://xoscans.wordpress.com/",
     "8744": "https://thesomethingstranslations.wordpress.com/",
-    "8764": "https://www.hatigarmscans.net/",
+    "8764": "https://hatigarmscanz.net/home",
     "8784": "http://hakoiriemusume.tumblr.com/",
     "8804": "http://akito666us.tumblr.com",
     "8824": "http://nakanantoka.tumblr.com/",

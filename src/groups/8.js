@@ -73,6 +73,7 @@ var urlfix_grouplist = {
     "11668": "https://thirsthaven.blogspot.com/",
     "11688": "https://mangadex.org/group/11509/chroniton",
     "11708": "https://gineybycerisandroku.blogspot.com/",
+    "11728": "https://mangadex.org/group/11601/the-whore-house",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",

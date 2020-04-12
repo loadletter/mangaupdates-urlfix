@@ -72,6 +72,8 @@ var urlfix_grouplist = {
     "11661": "https://yuulin.livejournal.com/",
     "11681": "https://mangadex.org/group/11483/firefly-scans",
     "11701": "https://mangadex.org/group/11558/qtl-translations",
+    "11721": "https://mafuyudeesu.blogspot.com/",
+    "11741": "https://mangadex.org/group/11640/twilight-scans",
     "1181": "http://www.naruto-mx.com/us",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",
