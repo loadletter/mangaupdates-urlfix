@@ -70,6 +70,7 @@ var urlfix_grouplist = {
     "11734": "https://mangadex.org/group/11627/arahmanhuascans",
     "1174": "http://bakemono.info/",
     "11754": "https://mangadex.org/group/11128/kuuki-scans",
+    "11794": "https://yosukecchi.tumblr.com/",
     "1194": "http://franky-house.com/",
     "1214": "http://ravyn-09.livejournal.com/",
     "1294": "http://star.lucky-channel.net/",

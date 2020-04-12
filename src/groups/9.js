@@ -74,6 +74,7 @@ var urlfix_grouplist = {
     "11729": "https://mangadex.org/group/11619/xiongkeng",
     "11749": "https://caffeinekitty.livejournal.com/",
     "11769": "https://mangadex.org/group/11691/unpopular-girl-scans",
+    "11789": "https://mangadex.org/group/11769/morries",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

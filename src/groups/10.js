@@ -75,6 +75,8 @@ var urlfix_grouplist = {
     "11690": "https://mangadex.org/group/11518/the-boredom-master",
     "11710": "https://lotusinthemire.home.blog/",
     "11750": "https://sheneverupdates.tumblr.com/",
+    "11790": "https://mangadex.org/group/11684/spicy-raritteru-scanlation-and-translation-cult",
+    "11810": "https://mangadex.org/group/11665/campari-scans",
     "1190": "http://jiboujiki.com/highsociety/",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",

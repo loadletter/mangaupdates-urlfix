@@ -71,6 +71,8 @@ var urlfix_grouplist = {
     "11722": "https://chookypooh.livejournal.com/",
     "11742": "https://nightokun.tumblr.com/",
     "11762": "https://mangadex.org/group/11675/god_killers",
+    "11782": "https://mangadex.org/group/11704/crow-scans",
+    "11802": "https://ponchoro.tumblr.com/",
     "1182": "http://4dawgz.blogspot.com/",
     "1202": "http://azure.freehostia.com/",
     "1242": "http://aerandria.net/",

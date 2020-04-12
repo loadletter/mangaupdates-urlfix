@@ -82,6 +82,7 @@ var urlfix_grouplist = {
     "11700": "https://mangadex.org/group/11564/rebornparanoia",
     "11780": "https://mangadex.org/group/11703/farquaadscans",
     "1180": "http://www.freewebs.com/mmmdraco",
+    "11820": "https://mangadex.org/group/11435/petty-scans",
     "120": "http://www.furinkazan.us/",
     "1200": "http://jelations.wordpress.com/",
     "1240": "http://tea.nyaatorrents.org",

@@ -78,6 +78,8 @@ var urlfix_grouplist = {
     "11713": "https://mangadex.org/group/11478/a-loner-s-poor-attempt-of-scanlations",
     "11753": "https://mangadex.org/group/11659/manhua-md-scans",
     "11773": "https://mangadex.org/group/11706/anon-chan-man",
+    "11793": "https://mangadex.org/group/11650/oniontoosananajimi",
+    "11813": "https://mangadex.org/group/9220/thaimangatranslater",
     "1193": "http://www.bsmanga.com/",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",

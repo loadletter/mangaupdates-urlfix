@@ -74,6 +74,8 @@ var urlfix_grouplist = {
     "11703": "https://mangadex.org/group/11571/the-sergeant",
     "11723": "https://mangadex.org/group/11608/uscans",
     "11743": "https://hikaritranslations.tumblr.com/",
+    "11783": "https://mangadex.org/group/8010/ookami-scanlations",
+    "11803": "https://rabbitkara.tumblr.com/",
     "1183": "http://www.perseveration.ru/index.php?sect=news",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.org/group/1738/ushi",

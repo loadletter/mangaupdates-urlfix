@@ -74,6 +74,7 @@ var urlfix_grouplist = {
     "11735": "https://mangadex.org/group/11771/flying-lines",
     "11755": "https://lachicadelyaoi.blogspot.com/",
     "11775": "https://mangadropies.blogspot.com/",
+    "11795": "https://yaoieuphoria.blogspot.com/",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

@@ -67,6 +67,8 @@ var urlfix_grouplist = {
     "11757": "https://mangadex.org/group/11671/t-chan-scans",
     "1177": "http://liliy.net/daradara",
     "11777": "https://mangadex.org/group/11712/shadow-translations",
+    "11797": "https://mangadex.org/group/11778/asdfghjk-scans",
+    "11817": "https://mumeifumeiscans.wordpress.com/",
     "1217": "http://dragonhalf.aswembar.net/",
     "1237": "http://team.akai-inazuma.com/",
     "1257": "http://wingsangel.abyssalchronicles.com/",
