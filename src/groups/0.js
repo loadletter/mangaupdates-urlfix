@@ -83,6 +83,8 @@ var urlfix_grouplist = {
     "11780": "https://mangadex.org/group/11703/farquaadscans",
     "1180": "http://www.freewebs.com/mmmdraco",
     "11820": "https://mangadex.org/group/11435/petty-scans",
+    "11880": "https://mangadex.org/group/10272/yolo-translations",
+    "11900": "https://mangadex.org/group/11976/one-man-band",
     "120": "http://www.furinkazan.us/",
     "1200": "http://jelations.wordpress.com/",
     "1240": "http://tea.nyaatorrents.org",

@@ -79,6 +79,8 @@ var urlfix_grouplist = {
     "11801": "https://mangadex.org/group/11783/zzzzzzzz",
     "1181": "http://www.naruto-mx.com/us",
     "11821": "https://ifuqstuff.tumblr.com/",
+    "11881": "https://mangadex.org/group/11928/freedom-scans",
+    "11901": "https://mangadex.org/group/11984/nvidia-scans",
     "1201": "http://konnichiwa.teake.net/",
     "121": "http://hmrscans.ucoz.com/",
     "1261": "http://sosexyscans.com/",

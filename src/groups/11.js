@@ -78,6 +78,7 @@ var urlfix_grouplist = {
     "11811": "https://mangadex.org/group/11802/quickmachinescans",
     "11831": "https://mangadex.org/group/7849/jigoku-scanlations",
     "11851": "https://mangadex.org/group/11748/potatofoodscans",
+    "11891": "https://mangadex.org/group/11960/gugu-scans",
     "1191": "http://www.rippersanime.info/",
     "1211": "http://www.divine-sanctuary.net/",
     "1231": "http://umeboshi.uni.cc",

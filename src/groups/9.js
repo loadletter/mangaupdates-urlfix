@@ -77,6 +77,7 @@ var urlfix_grouplist = {
     "11789": "https://mangadex.org/group/11769/morries",
     "11829": "https://chiochan03.wordpress.com/",
     "11849": "https://mangadex.org/group/11803/tapioca-scans",
+    "11909": "https://beastscans.blogspot.com/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

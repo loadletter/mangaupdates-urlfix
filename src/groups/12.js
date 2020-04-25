@@ -81,6 +81,7 @@ var urlfix_grouplist = {
     "11772": "https://bvnnyscans.tumblr.com/",
     "11792": "https://mangadex.org/group/11745/iroha-no-scanlation",
     "11852": "https://mangadex.org/group/11865/name-blank",
+    "11892": "https://mangadex.org/group/11961/love-freedom",
     "1192": "http://muning.livejournal.com/",
     "1232": "http://daphira.livejournal.com/",
     "1252": "http://shinai.nyaatorrents.org/",

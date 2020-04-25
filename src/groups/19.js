@@ -73,6 +73,7 @@ var urlfix_grouplist = {
     "1179": "http://mangaabyss.webs.com/",
     "11799": "https://mangadex.org/group/10195/hour-of-lunacy-scans",
     "11839": "https://hypnotizeddivisionscans.tumblr.com/",
+    "11899": "https://mangadex.org/group/11962/daishouri-scanlation",
     "119": "http://starbruin.com/",
     "1279": "http://kupoke.livejournal.com/",
     "1299": "http://www.mangashare.com/",
