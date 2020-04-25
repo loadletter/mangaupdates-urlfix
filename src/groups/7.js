@@ -78,6 +78,7 @@ var urlfix_grouplist = {
     "11727": "https://mangadex.org/group/11551/ect-translations",
     "11767": "https://mangadex.org/group/11689/clio",
     "11807": "https://karamatsu-girls-translations.tumblr.com/",
+    "11827": "https://mangadex.org/group/11844/gorebeetle",
     "1187": "http://mdxd.mangadownload.net",
     "1207": "http://dakkumanga.bravehost.com/",
     "1267": "http://ahk.adgbc.com/",

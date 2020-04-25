@@ -75,6 +75,8 @@ var urlfix_grouplist = {
     "11684": "https://mangadex.org/group/11502/order-of-the-mystical-scanlation",
     "11704": "https://mangadex.org/group/11279/starless-nights-scans",
     "11804": "https://mangadex.org/group/11776/hg-scans",
+    "11824": "https://mangadex.org/group/10163/yuru-camp-latinoam-rica",
+    "11844": "https://mangadex.org/group/11873/mediocre-one-time-scans",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",

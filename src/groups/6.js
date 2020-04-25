@@ -75,6 +75,7 @@ var urlfix_grouplist = {
     "11746": "https://darkstar-scans.livejournal.com/",
     "11766": "https://mangadex.org/group/11688/yentl_scans",
     "11806": "https://sevenelemon.tumblr.com/",
+    "11846": "https://mangadex.org/group/11770/ryu",
     "1186": "http://thehetre.vn/ChouGroup",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",

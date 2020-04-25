@@ -75,6 +75,8 @@ var urlfix_grouplist = {
     "11755": "https://lachicadelyaoi.blogspot.com/",
     "11775": "https://mangadropies.blogspot.com/",
     "11795": "https://yaoieuphoria.blogspot.com/",
+    "11835": "https://midnightvillain.wixsite.com/home",
+    "11855": "http://scantrix.iblogger.org/?i=1",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

@@ -80,6 +80,7 @@ var urlfix_grouplist = {
     "11798": "https://mangadex.org/group/11759/sbith",
     "118": "http://sweet-lunacy.co.nr/",
     "11818": "https://mangadex.org/group/11789/sbs-scans",
+    "11838": "https://www.asianovel.com/",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",

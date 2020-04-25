@@ -80,6 +80,8 @@ var urlfix_grouplist = {
     "11773": "https://mangadex.org/group/11706/anon-chan-man",
     "11793": "https://mangadex.org/group/11650/oniontoosananajimi",
     "11813": "https://mangadex.org/group/9220/thaimangatranslater",
+    "11833": "https://beastscans.blogspot.com/",
+    "11853": "https://mangadex.org/group/11889/milk-tea-scans",
     "1193": "http://www.bsmanga.com/",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",

@@ -74,6 +74,8 @@ var urlfix_grouplist = {
     "11782": "https://mangadex.org/group/11704/crow-scans",
     "11802": "https://ponchoro.tumblr.com/",
     "1182": "http://4dawgz.blogspot.com/",
+    "11822": "https://mangadex.org/group/11489/ninthmatic",
+    "11842": "https://megafagget.blogspot.com/",
     "1202": "http://azure.freehostia.com/",
     "1242": "http://aerandria.net/",
     "1302": "http://pyupyu.wordpress.com/",

@@ -78,6 +78,8 @@ var urlfix_grouplist = {
     "11768": "https://bumingrenshix.lofter.com/",
     "11788": "https://mangadex.org/group/11764/totorbananatranslations",
     "11808": "https://nhaingen.tumblr.com/",
+    "11828": "https://yukidalemania.tumblr.com/",
+    "11848": "https://mangadex.org/group/11755/dragonsaurus-scan",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",
