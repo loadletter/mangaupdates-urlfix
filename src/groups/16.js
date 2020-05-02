@@ -78,6 +78,7 @@ var urlfix_grouplist = {
     "11876": "https://mangadex.org/group/11915/adamhoritsuru",
     "11896": "https://sin-senn-scans.tumblr.com/",
     "11916": "https://mangadex.org/group/12022/darki-toons",
+    "11936": "https://mangadex.org/group/12080/reverse-us",
     "1196": "http://stardust-crusaders.blogspot.com/",
     "1216": "http://www.myeternalsunshine.net/",
     "1276": "http://gagakhitam.wordpress.com/",

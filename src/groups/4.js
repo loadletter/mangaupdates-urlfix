@@ -80,6 +80,7 @@ var urlfix_grouplist = {
     "11864": "https://mangadex.org/group/9126/tonikaku-scans",
     "11884": "https://mangadex.org/group/11937/trying-our-best",
     "11904": "https://mangadex.org/group/11981/dynamic-scans",
+    "11924": "https://yellowcanna.tumblr.com/",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",

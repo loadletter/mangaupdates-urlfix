@@ -83,6 +83,8 @@ var urlfix_grouplist = {
     "1187": "http://mdxd.mangadownload.net",
     "11887": "https://mangadex.org/group/11946/saints-row",
     "11907": "https://mangadex.org/group/11999/sagittal-scans",
+    "11927": "https://mangadex.org/group/12063/r-wsb",
+    "11947": "https://mangadex.org/group/12095/cyrex-scans",
     "1207": "http://dakkumanga.bravehost.com/",
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",

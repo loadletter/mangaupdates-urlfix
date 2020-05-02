@@ -82,6 +82,7 @@ var urlfix_grouplist = {
     "11818": "https://mangadex.org/group/11789/sbs-scans",
     "11838": "https://www.asianovel.com/",
     "11898": "https://mangadex.org/group/11974/asslators",
+    "11938": "https://mangadex.org/group/12084/radio-scans",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",

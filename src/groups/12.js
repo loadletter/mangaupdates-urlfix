@@ -83,6 +83,7 @@ var urlfix_grouplist = {
     "11852": "https://mangadex.org/group/11865/name-blank",
     "11892": "https://mangadex.org/group/11961/love-freedom",
     "1192": "http://muning.livejournal.com/",
+    "11952": "https://mangadex.org/group/11968/smileyguy-crappy-translations",
     "1232": "http://daphira.livejournal.com/",
     "1252": "http://shinai.nyaatorrents.org/",
     "1272": "http://misoramen.co.nr/",

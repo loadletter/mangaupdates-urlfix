@@ -80,6 +80,7 @@ var urlfix_grouplist = {
     "11863": "https://manhwakingdom.home.blog/",
     "11883": "https://higyaku.wordpress.com/",
     "11903": "https://mangadex.org/group/11947/gemelli-scans",
+    "11943": "https://mangadex.org/group/12107/omegaharem",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.org/group/1738/ushi",
     "1243": "http://community.livejournal.com/kkm_manga/",

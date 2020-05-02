@@ -80,6 +80,8 @@ var urlfix_grouplist = {
     "11866": "https://17th-angel.tumblr.com/",
     "11886": "https://mangadex.org/group/11950/spina",
     "11906": "https://mangadex.org/group/8569/one-man-army",
+    "11926": "https://mangadex.org/group/12059/saint-saber-scans",
+    "11946": "https://mangadex.org/group/12120/very-bice-scans",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",

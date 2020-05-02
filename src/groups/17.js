@@ -72,6 +72,8 @@ var urlfix_grouplist = {
     "11857": "https://manhuagascans.blogspot.com/",
     "11877": "https://mangadex.org/group/11914/demon-scanlations",
     "11897": "https://mangadex.org/group/11848/maou-manga",
+    "11917": "https://mangadex.org/group/12033/elma-and-slice",
+    "11937": "https://mangadex.org/group/12065/yogi-translations",
     "1217": "http://dragonhalf.aswembar.net/",
     "1237": "http://team.akai-inazuma.com/",
     "1257": "http://wingsangel.abyssalchronicles.com/",

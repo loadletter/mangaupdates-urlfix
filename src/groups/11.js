@@ -80,6 +80,7 @@ var urlfix_grouplist = {
     "11851": "https://mangadex.org/group/11748/potatofoodscans",
     "11891": "https://mangadex.org/group/11960/gugu-scans",
     "1191": "http://www.rippersanime.info/",
+    "11951": "https://211ritsuki.blogspot.com/",
     "1211": "http://www.divine-sanctuary.net/",
     "1231": "http://umeboshi.uni.cc",
     "1271": "http://kakera-t.blogspot.com/",

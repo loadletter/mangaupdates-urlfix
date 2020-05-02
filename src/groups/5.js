@@ -77,6 +77,7 @@ var urlfix_grouplist = {
     "11825": "https://mangadex.org/group/11823/amour-parfait-scans",
     "1185": "http://www.naomio.5gbfree.com/zettaiyaoiscl/doujinshi.html",
     "11905": "https://okamihonyaku.wordpress.com/",
+    "11945": "https://mangadex.org/group/12114/r-i-p-in-peace-scanlations",
     "1205": "http://community.livejournal.com/todokanai_gw/",
     "1225": "http://community.livejournal.com/keith_ltd/",
     "1265": "http://www.sorascans.com",

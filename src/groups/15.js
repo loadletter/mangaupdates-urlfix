@@ -79,6 +79,8 @@ var urlfix_grouplist = {
     "11855": "http://scantrix.iblogger.org/?i=1",
     "11875": "https://mangadex.org/group/11913/reallybored",
     "11895": "http://www.pmscans.com/",
+    "11935": "https://random-ception.tumblr.com/",
+    "11955": "https://mangadex.org/group/12137/celerym",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

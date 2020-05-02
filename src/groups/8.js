@@ -83,6 +83,8 @@ var urlfix_grouplist = {
     "11868": "https://interforme.tumblr.com/",
     "11888": "https://mangadex.org/group/10664/silence-scan",
     "11908": "https://trapsmangacleaner.wordpress.com/",
+    "11928": "https://mangadex.org/group/12064/baka-gaijin",
+    "11948": "https://mangadex.org/group/12126/star-reach",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",

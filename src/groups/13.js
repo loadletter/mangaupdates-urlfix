@@ -84,6 +84,7 @@ var urlfix_grouplist = {
     "11853": "https://mangadex.org/group/11889/milk-tea-scans",
     "11913": "https://mangadex.org/group/12009/sneezybunny-scans",
     "1193": "http://www.bsmanga.com/",
+    "11953": "https://mangadex.org/group/11663/illusorypants-scans",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",
     "1313": "http://apathys.wordpress.com/",
