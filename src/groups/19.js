@@ -78,6 +78,8 @@ var urlfix_grouplist = {
     "11919": "https://mangadex.org/group/12035/zaku-scans",
     "11939": "https://mangadex.org/group/11939/immortal-sun-scans",
     "11959": "https://mangadex.org/group/11298/yuri-trap-scans",
+    "11979": "https://mangadex.org/group/12177/huzbiscanlations",
+    "12019": "https://pbtls.wordpress.com/",
     "1279": "http://kupoke.livejournal.com/",
     "1299": "http://www.mangashare.com/",
     "1359": "http://mangahelpers.com/s/fayte",

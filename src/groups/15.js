@@ -81,6 +81,8 @@ var urlfix_grouplist = {
     "11895": "http://www.pmscans.com/",
     "11935": "https://random-ception.tumblr.com/",
     "11955": "https://mangadex.org/group/12137/celerym",
+    "11995": "https://yusramj.wordpress.com/",
+    "12015": "https://mangadex.org/group/12283/feathers",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

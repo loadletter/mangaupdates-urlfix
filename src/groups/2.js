@@ -81,6 +81,7 @@ var urlfix_grouplist = {
     "11922": "https://mangadex.org/group/11382/doragon-no-tensei",
     "11942": "https://mangadex.org/group/11257/final-farewell-scans",
     "11962": "https://mangadex.org/group/12140/opensandwich",
+    "12002": "https://mangadex.org/group/10755/mangaplex",
     "1202": "http://azure.freehostia.com/",
     "1242": "http://aerandria.net/",
     "1302": "http://pyupyu.wordpress.com/",

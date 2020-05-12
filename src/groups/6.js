@@ -82,6 +82,8 @@ var urlfix_grouplist = {
     "11906": "https://mangadex.org/group/8569/one-man-army",
     "11926": "https://mangadex.org/group/12059/saint-saber-scans",
     "11946": "https://mangadex.org/group/12120/very-bice-scans",
+    "11966": "https://mangadex.org/group/12166/college-of-a-lchemists",
+    "12006": "https://mangadex.org/group/9836/speedphoenix-s-workshop",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",

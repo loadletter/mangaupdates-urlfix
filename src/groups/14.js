@@ -75,6 +75,8 @@ var urlfix_grouplist = {
     "11914": "https://mangadex.org/group/12012/my-mother-scanned-this",
     "1194": "http://franky-house.com/",
     "11954": "https://mangadex.org/group/12133/frozen-s-midnight-translations",
+    "11974": "https://polinsesi-bl-novels.blogspot.com/",
+    "12014": "https://www.centinni.com/",
     "1214": "http://ravyn-09.livejournal.com/",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",

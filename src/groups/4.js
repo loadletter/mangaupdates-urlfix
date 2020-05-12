@@ -81,6 +81,8 @@ var urlfix_grouplist = {
     "11884": "https://mangadex.org/group/11937/trying-our-best",
     "11904": "https://mangadex.org/group/11981/dynamic-scans",
     "11924": "https://yellowcanna.tumblr.com/",
+    "11984": "https://mangadex.org/group/11866/roku-san",
+    "12004": "https://mangadex.org/group/12243/f",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",
