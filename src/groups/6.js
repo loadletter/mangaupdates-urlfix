@@ -84,6 +84,7 @@ var urlfix_grouplist = {
     "11946": "https://mangadex.org/group/12120/very-bice-scans",
     "11966": "https://mangadex.org/group/12166/college-of-a-lchemists",
     "12006": "https://mangadex.org/group/9836/speedphoenix-s-workshop",
+    "12026": "https://mangadex.org/group/12299/xinthian-scans",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",

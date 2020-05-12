@@ -83,6 +83,7 @@ var urlfix_grouplist = {
     "11943": "https://mangadex.org/group/12107/omegaharem",
     "11983": "https://mangadex.org/group/11263/taikutsu-tl",
     "12003": "https://mangadex.org/group/12244/tall-is-love",
+    "12023": "https://mangadex.org/group/12311/the-drunken-collective",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.org/group/1738/ushi",
     "1243": "http://community.livejournal.com/kkm_manga/",

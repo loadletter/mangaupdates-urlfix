@@ -77,6 +77,7 @@ var urlfix_grouplist = {
     "11954": "https://mangadex.org/group/12133/frozen-s-midnight-translations",
     "11974": "https://polinsesi-bl-novels.blogspot.com/",
     "12014": "https://www.centinni.com/",
+    "12034": "https://mangadex.org/group/12353/balding-butterfly",
     "1214": "http://ravyn-09.livejournal.com/",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",

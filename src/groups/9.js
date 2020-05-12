@@ -82,6 +82,7 @@ var urlfix_grouplist = {
     "11969": "https://kaorukoganeidotcom.wordpress.com/",
     "11989": "https://mangadex.org/group/9915/orangescans",
     "12009": "https://mangadex.org/group/12256/stupid-weeb-scanlations",
+    "12029": "https://mangadex.org/group/12332/notarealscans",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

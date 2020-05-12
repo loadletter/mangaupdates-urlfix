@@ -88,6 +88,7 @@ var urlfix_grouplist = {
     "11973": "https://mangadex.org/group/12183/lvl-1-scans",
     "11993": "https://erotranslations.wordpress.com/",
     "12013": "https://mangadex.org/group/11918/lady",
+    "12033": "https://woopread.com/",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",
     "1313": "http://apathys.wordpress.com/",

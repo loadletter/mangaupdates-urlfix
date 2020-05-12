@@ -83,6 +83,7 @@ var urlfix_grouplist = {
     "11924": "https://yellowcanna.tumblr.com/",
     "11984": "https://mangadex.org/group/11866/roku-san",
     "12004": "https://mangadex.org/group/12243/f",
+    "12024": "https://mangadex.org/group/12315/markus2134",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",

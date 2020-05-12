@@ -83,6 +83,7 @@ var urlfix_grouplist = {
     "11962": "https://mangadex.org/group/12140/opensandwich",
     "12002": "https://mangadex.org/group/10755/mangaplex",
     "1202": "http://azure.freehostia.com/",
+    "12022": "https://mangadex.org/group/12289/tnascans",
     "1242": "http://aerandria.net/",
     "1302": "http://pyupyu.wordpress.com/",
     "1342": "http://orange-kun.blogspot.com/",

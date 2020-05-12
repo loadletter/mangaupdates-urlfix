@@ -81,6 +81,7 @@ var urlfix_grouplist = {
     "11965": "https://mangadex.org/group/12155/laughing-in-quarantine",
     "11985": "https://mangadex.org/group/12148/study-group",
     "12005": "https://mangadex.org/group/12239/senpai-kouhai-scans",
+    "12025": "https://mangadex.org/group/12306/peruvian-bad-quality-translations",
     "1205": "http://community.livejournal.com/todokanai_gw/",
     "1225": "http://community.livejournal.com/keith_ltd/",
     "1265": "http://www.sorascans.com",

@@ -83,6 +83,7 @@ var urlfix_grouplist = {
     "11955": "https://mangadex.org/group/12137/celerym",
     "11995": "https://yusramj.wordpress.com/",
     "12015": "https://mangadex.org/group/12283/feathers",
+    "12035": "https://mangadex.org/group/12312/teisoku-scans",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",
