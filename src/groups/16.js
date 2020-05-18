@@ -83,6 +83,8 @@ var urlfix_grouplist = {
     "11976": "https://awesome-box-djs.dreamwidth.org/",
     "11996": "https://mangadex.org/group/12222/darjeeling-scans",
     "12016": "https://mangadex.org/group/6863/team-takoyaki",
+    "12036": "https://mangadex.org/group/12350/going-places",
+    "12056": "https://mangadex.org/group/12415/starkaleid",
     "1216": "http://www.myeternalsunshine.net/",
     "1276": "http://gagakhitam.wordpress.com/",
     "1296": "http://www.urakai.com/",

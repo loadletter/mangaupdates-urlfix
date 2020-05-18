@@ -80,6 +80,8 @@ var urlfix_grouplist = {
     "11959": "https://mangadex.org/group/11298/yuri-trap-scans",
     "11979": "https://mangadex.org/group/12177/huzbiscanlations",
     "12019": "https://pbtls.wordpress.com/",
+    "12039": "https://mangadex.org/group/5720/chelly",
+    "12059": "https://historioddity.tumblr.com/",
     "1279": "http://kupoke.livejournal.com/",
     "1299": "http://www.mangashare.com/",
     "1359": "http://mangahelpers.com/s/fayte",

@@ -85,6 +85,7 @@ var urlfix_grouplist = {
     "11991": "https://mangadex.org/group/12172/vioscans",
     "12011": "https://potatotranslations.tumblr.com/",
     "12031": "https://mangadex.org/group/11953/raidermanga",
+    "12051": "https://mangadex.org/group/12401/asura",
     "1211": "http://www.divine-sanctuary.net/",
     "1231": "http://umeboshi.uni.cc",
     "1271": "http://kakera-t.blogspot.com/",

@@ -77,6 +77,8 @@ var urlfix_grouplist = {
     "11977": "https://mangadex.org/group/5544/unmendable-scans",
     "11997": "https://mangadex.org/group/12225/little-bird-translations",
     "12017": "https://rainyscans.tumblr.com/",
+    "12037": "https://mangadex.org/group/7385/itsakemiii",
+    "12057": "https://mangadex.org/group/12422/alpaca-scans",
     "1217": "http://dragonhalf.aswembar.net/",
     "1237": "http://team.akai-inazuma.com/",
     "1257": "http://wingsangel.abyssalchronicles.com/",

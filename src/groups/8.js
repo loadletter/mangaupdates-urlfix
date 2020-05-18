@@ -89,6 +89,7 @@ var urlfix_grouplist = {
     "11988": "https://mangadex.org/group/11955/pandamic-scans",
     "12008": "https://mangadex.org/group/11422/translations-n-stuff",
     "12028": "https://mangadex.org/group/12292/your-name-scan",
+    "12048": "https://mangadex.org/group/1685/ass-troop",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",

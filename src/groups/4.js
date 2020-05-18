@@ -85,6 +85,7 @@ var urlfix_grouplist = {
     "12004": "https://mangadex.org/group/12243/f",
     "12024": "https://mangadex.org/group/12315/markus2134",
     "1204": "http://www.jcafe24.net/index.php?board=106.0",
+    "12044": "https://mangadex.org/group/12374/canted-scans",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",
     "1284": "http://www.puripurineko.com/",

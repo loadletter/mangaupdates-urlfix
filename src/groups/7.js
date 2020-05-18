@@ -88,6 +88,7 @@ var urlfix_grouplist = {
     "11967": "https://mangadex.org/group/12175/oniichanx",
     "11987": "https://mangadex.org/group/3844/fala-scans",
     "12027": "https://mangadex.org/group/12245/deadlysins-scan",
+    "12047": "https://mangadex.org/group/12328/ning-shu-anthology",
     "1207": "http://dakkumanga.bravehost.com/",
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",
