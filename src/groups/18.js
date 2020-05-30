@@ -88,6 +88,7 @@ var urlfix_grouplist = {
     "12018": "https://mangadex.org/group/9413/k-c-c-w",
     "12038": "https://mangadex.org/group/12338/kingdomscan-s",
     "12058": "https://mangadex.org/group/12423/shocksword",
+    "12078": "https://mangadex.org/group/12339/r-bluelock",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",

@@ -86,6 +86,7 @@ var urlfix_grouplist = {
     "12022": "https://mangadex.org/group/12289/tnascans",
     "12042": "https://www.reddit.com/user/LearnJPwithH/comments/9qqqjj/request/",
     "12062": "https://sekahyyh.tumblr.com/",
+    "12082": "https://mangadex.org/group/12483/hogwarts-scans",
     "1242": "http://aerandria.net/",
     "1302": "http://pyupyu.wordpress.com/",
     "1342": "http://orange-kun.blogspot.com/",

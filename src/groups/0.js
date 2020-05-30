@@ -94,6 +94,7 @@ var urlfix_grouplist = {
     "12000": "https://heromanhua.com/",
     "12040": "https://mangadex.org/group/5720/chelly",
     "12060": "https://mangadex.org/group/9521/universal-ultimatum",
+    "12080": "https://mangadex.org/group/12472/hylaster",
     "1240": "http://tea.nyaatorrents.org",
     "1260": "http://scanslation.tonigobe.com/",
     "1320": "http://community.livejournal.com/maleshoppe/",

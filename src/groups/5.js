@@ -85,6 +85,7 @@ var urlfix_grouplist = {
     "12045": "https://mangadex.org/group/12302/56-scans",
     "1205": "http://community.livejournal.com/todokanai_gw/",
     "12065": "https://mangadex.org/group/6625/iris-cayeux",
+    "12085": "https://mangadex.org/group/12492/buttdong-translations",
     "1225": "http://community.livejournal.com/keith_ltd/",
     "1265": "http://www.sorascans.com",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",

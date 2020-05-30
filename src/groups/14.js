@@ -79,6 +79,8 @@ var urlfix_grouplist = {
     "12014": "https://www.centinni.com/",
     "12034": "https://mangadex.org/group/12353/balding-butterfly",
     "12054": "https://mangadex.org/group/12408/akatsuki-scans",
+    "12074": "https://mangadex.org/group/12458/manga-kings",
+    "12094": "https://mangadex.org/group/12301/fadreus-s-translation",
     "1214": "http://ravyn-09.livejournal.com/",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",

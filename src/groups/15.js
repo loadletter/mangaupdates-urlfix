@@ -85,6 +85,8 @@ var urlfix_grouplist = {
     "12015": "https://mangadex.org/group/12283/feathers",
     "12035": "https://mangadex.org/group/12312/teisoku-scans",
     "12055": "https://yyh-revival.blogspot.com/p/our-scanlations.html",
+    "12075": "https://mangadex.org/group/11784/kontol-nganceng",
+    "12095": "https://mangadex.org/group/12514/translatione-ex-machina",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

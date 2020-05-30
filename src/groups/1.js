@@ -90,6 +90,7 @@ var urlfix_grouplist = {
     "12021": "https://mangadex.org/group/5082/shotacat",
     "12041": "https://gaigereads.tumblr.com/",
     "12061": "https://mangadex.org/group/12416/mad-lads",
+    "12081": "https://mangadex.org/group/12478/fax-scans",
     "121": "http://hmrscans.ucoz.com/",
     "1261": "http://sosexyscans.com/",
     "1301": "http://malariousarea.livejournal.com/",

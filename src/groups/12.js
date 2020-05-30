@@ -89,6 +89,8 @@ var urlfix_grouplist = {
     "12012": "https://mangadex.org/group/12278/mr-singh-scans",
     "12032": "https://mangadex.org/group/12237/french-frog-scans",
     "12052": "https://mangadex.org/group/12111/versus",
+    "12072": "https://mangadex.org/group/12386/liartrans",
+    "12092": "https://mangadex.org/group/11219/ganbaruby-no-fansub",
     "1232": "http://daphira.livejournal.com/",
     "1252": "http://shinai.nyaatorrents.org/",
     "1272": "http://misoramen.co.nr/",
