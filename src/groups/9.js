@@ -87,6 +87,8 @@ var urlfix_grouplist = {
     "12049": "https://mangadex.org/group/12222/white-sun-scans",
     "12069": "https://mangadex.org/group/12451/aurora-hours",
     "12089": "https://mangadex.org/group/12466/ambitious-initiative",
+    "12109": "https://shiokazetls.wordpress.com/",
+    "12129": "https://mangadex.org/group/12598/misfits-scans",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

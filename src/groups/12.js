@@ -91,6 +91,8 @@ var urlfix_grouplist = {
     "12052": "https://mangadex.org/group/12111/versus",
     "12072": "https://mangadex.org/group/12386/liartrans",
     "12092": "https://mangadex.org/group/11219/ganbaruby-no-fansub",
+    "12112": "https://mangadex.org/group/11411/unknown-scans",
+    "12132": "https://mangadex.org/group/12610/rhea-s-solo-projects",
     "1232": "http://daphira.livejournal.com/",
     "1252": "http://shinai.nyaatorrents.org/",
     "1272": "http://misoramen.co.nr/",

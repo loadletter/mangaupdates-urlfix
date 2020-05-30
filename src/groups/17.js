@@ -81,6 +81,8 @@ var urlfix_grouplist = {
     "12057": "https://mangadex.org/group/12422/alpaca-scans",
     "12077": "https://otakukaizoku.tumblr.com/",
     "12097": "https://witchtwhitetraducciones.wordpress.com/",
+    "12117": "https://mangadex.org/group/12577/socialweebsh",
+    "12137": "https://mangadex.org/group/12606/warm-milk",
     "1217": "http://dragonhalf.aswembar.net/",
     "1237": "http://team.akai-inazuma.com/",
     "1257": "http://wingsangel.abyssalchronicles.com/",

@@ -87,6 +87,8 @@ var urlfix_grouplist = {
     "12056": "https://mangadex.org/group/12415/starkaleid",
     "12076": "https://mangadex.org/group/12435/headless-chicken-scans",
     "12096": "https://mangadex.org/group/8684/munyamunya",
+    "12116": "https://mangadex.org/group/12552/the-vanilla-frosty",
+    "12136": "https://mangadex.org/group/12623/animacitysubs",
     "1216": "http://www.myeternalsunshine.net/",
     "1276": "http://gagakhitam.wordpress.com/",
     "1296": "http://www.urakai.com/",

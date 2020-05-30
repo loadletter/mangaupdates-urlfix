@@ -87,6 +87,8 @@ var urlfix_grouplist = {
     "12026": "https://mangadex.org/group/12299/xinthian-scans",
     "12046": "https://mangadex.org/group/12113/the-black-market",
     "12066": "https://mangadex.org/group/11932/lighthousescanlations",
+    "12106": "https://mangadex.org/group/12224/gamer-nation",
+    "12126": "https://mangadex.org/group/12570/dou-dou-translation-sect",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",

@@ -81,6 +81,8 @@ var urlfix_grouplist = {
     "12054": "https://mangadex.org/group/12408/akatsuki-scans",
     "12074": "https://mangadex.org/group/12458/manga-kings",
     "12094": "https://mangadex.org/group/12301/fadreus-s-translation",
+    "12114": "https://mangadex.org/group/12567/spen",
+    "12134": "https://mangadex.org/group/12545/frenziedfrog-scan",
     "1214": "http://ravyn-09.livejournal.com/",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",

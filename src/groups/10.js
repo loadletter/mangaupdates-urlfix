@@ -89,6 +89,8 @@ var urlfix_grouplist = {
     "12050": "https://mangadex.org/group/12402/yuru-scans",
     "12070": "https://mangadex.org/group/12138/rsa",
     "12090": "https://mangadex.org/group/12504/inpawgnito-scans",
+    "12110": "https://synchronicityscanlations.wordpress.com/",
+    "12130": "https://mangadex.org/group/12594/huntermangakings-scans",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",
     "1330": "http://community.livejournal.com/olimoley/",

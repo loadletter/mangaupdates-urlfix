@@ -92,6 +92,8 @@ var urlfix_grouplist = {
     "12067": "https://mangadex.org/group/12443/by-myself",
     "1207": "http://dakkumanga.bravehost.com/",
     "12087": "https://mangadex.org/group/12467/party-scans",
+    "12107": "https://mangadex.org/group/12474/akashic-scans",
+    "12127": "https://mangadex.org/group/12592/painttl184",
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",
     "1327": "http://www.helz0ne-scans.com/",

@@ -92,6 +92,8 @@ var urlfix_grouplist = {
     "12053": "https://mangadex.org/group/12406/kyoto-funk",
     "12073": "https://mangadex.org/group/12456/bruh-monkey-scanlations",
     "12093": "https://mangadex.org/group/12489/culture-haven",
+    "12113": "https://mangadex.org/group/12354/moonchild-fansub",
+    "12133": "https://mangadex.org/group/12595/popcorn-scans",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",
     "1313": "http://apathys.wordpress.com/",
