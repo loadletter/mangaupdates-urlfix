@@ -97,6 +97,8 @@ var urlfix_grouplist = {
     "12141": "https://mangadex.org/group/10705/coffedrug",
     "12181": "https://peachyneko.home.blog/",
     "12201": "https://mangadex.org/group/12734/ena-gang",
+    "12221": "https://mangadex.org/group/8888/8888",
+    "12261": "https://mangadex.org/group/12601/beaver",
     "1261": "http://sosexyscans.com/",
     "1301": "http://malariousarea.livejournal.com/",
     "1321": "http://pote-scans.halcy.de/",
