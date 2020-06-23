@@ -87,6 +87,7 @@ var urlfix_grouplist = {
     "12119": "https://taekan.wordpress.com/",
     "12139": "https://mangadex.org/group/12629/reject-scans",
     "12159": "https://mangadex.org/group/12689/we-hate-isekai",
+    "12179": "https://mangadex.org/group/5945/bobo-scans",
     "1279": "http://kupoke.livejournal.com/",
     "1299": "http://www.mangashare.com/",
     "1359": "http://mangahelpers.com/s/fayte",

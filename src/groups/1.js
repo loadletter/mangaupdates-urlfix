@@ -95,6 +95,8 @@ var urlfix_grouplist = {
     "12101": "http://transmythicalation.com",
     "12121": "https://mangadex.org/group/12587/goose-hub",
     "12141": "https://mangadex.org/group/10705/coffedrug",
+    "12181": "https://peachyneko.home.blog/",
+    "12201": "https://mangadex.org/group/12734/ena-gang",
     "1261": "http://sosexyscans.com/",
     "1301": "http://malariousarea.livejournal.com/",
     "1321": "http://pote-scans.halcy.de/",

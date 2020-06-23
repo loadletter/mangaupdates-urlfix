@@ -93,6 +93,7 @@ var urlfix_grouplist = {
     "12118": "https://mangadex.org/group/12560/checkmate-scans",
     "12138": "https://mangadex.org/group/4374/ilwaz",
     "12158": "https://mangadex.org/group/12679/mediocre-scans",
+    "12198": "https://e-hentai.org/?f_search=Kalevala",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",

@@ -89,6 +89,7 @@ var urlfix_grouplist = {
     "12105": "https://mangadex.org/group/12485/mini-mochi-scamlations",
     "12145": "https://krakenscans.com/home",
     "12165": "https://mangadex.org/group/12692/oh-heckin-lurkers",
+    "12185": "https://mangadex.org/group/12743/baccanale-scans",
     "1225": "http://community.livejournal.com/keith_ltd/",
     "1265": "http://www.sorascans.com",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",

@@ -90,6 +90,7 @@ var urlfix_grouplist = {
     "12116": "https://mangadex.org/group/12552/the-vanilla-frosty",
     "12136": "https://mangadex.org/group/12623/animacitysubs",
     "1216": "http://www.myeternalsunshine.net/",
+    "12176": "https://mangadex.org/group/12718/a-i-scans",
     "1276": "http://gagakhitam.wordpress.com/",
     "1296": "http://www.urakai.com/",
     "1316": "http://community.livejournal.com/ying_kang/",

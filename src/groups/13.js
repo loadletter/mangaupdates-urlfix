@@ -95,6 +95,8 @@ var urlfix_grouplist = {
     "12113": "https://mangadex.org/group/12354/moonchild-fansub",
     "12133": "https://mangadex.org/group/12595/popcorn-scans",
     "12153": "https://mangadex.org/group/12517/kamai-tachi",
+    "12173": "https://mangadex.org/group/12720/bobbu-scans",
+    "12193": "https://mangadex.org/group/3477/constipat8",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",
     "1313": "http://apathys.wordpress.com/",

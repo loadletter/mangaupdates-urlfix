@@ -91,6 +91,8 @@ var urlfix_grouplist = {
     "12122": "https://mangadex.org/group/10492/blue-moon-translations",
     "12142": "https://mangadex.org/group/12556/doodleblob-scans",
     "12162": "https://mangadex.org/group/12565/serendipitea-scans",
+    "12182": "https://mangadex.org/group/12731/mangamy",
+    "12202": "https://mangadex.org/group/8937/hive-san",
     "1242": "http://aerandria.net/",
     "1302": "http://pyupyu.wordpress.com/",
     "1342": "http://orange-kun.blogspot.com/",

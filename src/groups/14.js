@@ -85,6 +85,8 @@ var urlfix_grouplist = {
     "12134": "https://mangadex.org/group/12545/frenziedfrog-scan",
     "1214": "http://ravyn-09.livejournal.com/",
     "12154": "https://mangadex.org/group/7329/secret-society-blanket",
+    "12174": "https://sites.google.com/view/potatofoodscans",
+    "12194": "https://mangadex.org/group/5988/metaphrastes",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",
     "1354": "http://community.livejournal.com/hitman_reborn",

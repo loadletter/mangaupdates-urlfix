@@ -95,6 +95,8 @@ var urlfix_grouplist = {
     "12107": "https://mangadex.org/group/12474/akashic-scans",
     "12127": "https://mangadex.org/group/12592/painttl184",
     "12147": "https://voidscans.com/",
+    "12187": "https://mangadex.org/group/12662/ifls-scans",
+    "12207": "https://mangadex.org/group/12767/annoyed-otaku",
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",
     "1327": "http://www.helz0ne-scans.com/",

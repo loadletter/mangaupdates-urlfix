@@ -98,6 +98,7 @@ var urlfix_grouplist = {
     "12100": "https://mangadex.org/group/12521/renegadeboi-scans",
     "12120": "https://catonhead.com/",
     "12140": "https://mangadex.org/group/12628/consistently-inconsistent-translations",
+    "12180": "https://mangadex.org/group/12727/nanimono",
     "1240": "http://tea.nyaatorrents.org",
     "1260": "http://scanslation.tonigobe.com/",
     "1320": "http://community.livejournal.com/maleshoppe/",

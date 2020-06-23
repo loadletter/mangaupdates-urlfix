@@ -92,6 +92,8 @@ var urlfix_grouplist = {
     "12110": "https://synchronicityscanlations.wordpress.com/",
     "12130": "https://mangadex.org/group/12594/huntermangakings-scans",
     "12150": "https://mangadex.org/group/12667/wirucian",
+    "12170": "https://mangadex.org/group/12605/somnolent-dog-scans",
+    "12190": "https://mangadex.org/group/8426/megasean3000",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",
     "1330": "http://community.livejournal.com/olimoley/",

@@ -85,6 +85,7 @@ var urlfix_grouplist = {
     "12137": "https://mangadex.org/group/12606/warm-milk",
     "12157": "https://mangadex.org/group/12548/tomoriscans",
     "1217": "http://dragonhalf.aswembar.net/",
+    "12197": "https://mangadex.org/group/3965/wehasband",
     "1237": "http://team.akai-inazuma.com/",
     "1257": "http://wingsangel.abyssalchronicles.com/",
     "1277": "http://seri-chan2.livejournal.com/",

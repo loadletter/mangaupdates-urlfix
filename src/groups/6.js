@@ -90,6 +90,8 @@ var urlfix_grouplist = {
     "12106": "https://mangadex.org/group/12224/gamer-nation",
     "12126": "https://mangadex.org/group/12570/dou-dou-translation-sect",
     "12146": "https://mangadex.org/group/12572/down-with-the-bourgeoisie",
+    "12186": "https://mangadex.org/group/12839/piefujo",
+    "12206": "https://mangadex.org/group/12729/jinrougame-scans",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",

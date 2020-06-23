@@ -91,6 +91,7 @@ var urlfix_grouplist = {
     "12129": "https://mangadex.org/group/12598/misfits-scans",
     "12149": "https://mangadex.org/group/12660/lilium-dragomir",
     "12169": "https://bakadata.com/",
+    "12189": "https://e-hentai.org/uploader/naxusnl",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

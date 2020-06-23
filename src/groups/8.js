@@ -95,6 +95,7 @@ var urlfix_grouplist = {
     "12128": "https://mangadex.org/group/12596/seafoam-scans",
     "12148": "https://mangadex.org/group/12655/whispers",
     "12168": "https://mangadex.org/group/12694/arachne-scans",
+    "12188": "https://mangadex.org/group/12658/giglio-pesce",
     "1228": "http://reimirei.livejournal.com/",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",
