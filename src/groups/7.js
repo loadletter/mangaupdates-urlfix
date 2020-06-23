@@ -99,6 +99,7 @@ var urlfix_grouplist = {
     "12207": "https://mangadex.org/group/12767/annoyed-otaku",
     "12247": "https://mangadex.org/group/12786/freesouls",
     "12267": "https://mangadex.org/group/12931/heresy-in-disguise",
+    "12287": "https://mangadex.org/group/12990/moqi-scans",
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",
     "1327": "http://www.helz0ne-scans.com/",

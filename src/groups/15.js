@@ -95,6 +95,8 @@ var urlfix_grouplist = {
     "12215": "https://littletreescans.tumblr.com/",
     "12235": "https://mangadex.org/group/12794/coro-scanlations",
     "12255": "https://mangadex.org/group/12906/linker1031",
+    "12275": "https://mangadex.org/group/12956/h-rny-support-team",
+    "12295": "https://mangadex.org/group/11756/lolishou-scan",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

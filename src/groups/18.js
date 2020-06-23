@@ -97,6 +97,8 @@ var urlfix_grouplist = {
     "12218": "https://mangadex.org/group/12557/gay-ops-scans",
     "12238": "https://mangadex.org/group/12842/solotrans",
     "12258": "https://mangadex.org/group/12905/eyes",
+    "12278": "https://mangadex.org/group/12796/kori-maru",
+    "12298": "https://mangadex.org/group/12992/goose-fam",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",

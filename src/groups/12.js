@@ -100,6 +100,7 @@ var urlfix_grouplist = {
     "12232": "https://mangadex.org/group/12851/amakunitranslations",
     "12252": "https://mangadex.org/group/12895/yeboi",
     "12272": "https://mangadex.org/group/12945/muri-scans",
+    "12292": "https://mangadex.org/group/12850/knights-of-earl-grey",
     "1232": "http://daphira.livejournal.com/",
     "1252": "http://shinai.nyaatorrents.org/",
     "1272": "http://misoramen.co.nr/",

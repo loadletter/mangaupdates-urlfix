@@ -94,6 +94,7 @@ var urlfix_grouplist = {
     "12231": "https://haruuraragumi.wordpress.com/",
     "12251": "https://mangadex.org/group/12840/maru-scans",
     "12271": "https://mangadex.org/group/12944/asian-scanlation-sensation",
+    "12291": "https://mangadex.org/group/12936/some-group",
     "1231": "http://umeboshi.uni.cc",
     "1271": "http://kakera-t.blogspot.com/",
     "131": "http://shi-fa.cjb.net/",

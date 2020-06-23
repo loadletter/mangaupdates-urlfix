@@ -100,6 +100,7 @@ var urlfix_grouplist = {
     "12213": "https://mangadex.org/group/6625/iris-cayeux",
     "12233": "https://mangadex.org/group/12384/sweeterscans",
     "12273": "https://mangadex.org/group/12947/shitty-robot-scans",
+    "12293": "https://mangadex.org/group/13014/breakerrvp",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",
     "1313": "http://apathys.wordpress.com/",

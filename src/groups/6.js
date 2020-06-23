@@ -95,6 +95,7 @@ var urlfix_grouplist = {
     "12226": "https://mangadex.org/group/12831/mist-scans",
     "12246": "https://mangadex.org/group/12366/blaze-scans",
     "12266": "https://mangadex.org/group/12871/real-crown",
+    "12286": "https://mangadex.org/group/12987/rentoshuuscans",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",

@@ -94,6 +94,7 @@ var urlfix_grouplist = {
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "12243": "https://cottoncandy.mangadex.com/",
     "12263": "https://mangadex.org/group/12293/phoenixtear-scanlations",
+    "12283": "https://mangadex.org/group/12980/luciascans",
     "123": "https://mangadex.org/group/1738/ushi",
     "1243": "http://community.livejournal.com/kkm_manga/",
     "1263": "http://zawazawamanga.wordpress.com/",

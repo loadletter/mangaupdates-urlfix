@@ -101,6 +101,7 @@ var urlfix_grouplist = {
     "12228": "https://loveveggiehead.tumblr.com/",
     "12248": "https://mangadex.org/group/12885/white-peach-scans",
     "1228": "http://reimirei.livejournal.com/",
+    "12288": "https://forsakenmoonlight.wordpress.com",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",
     "1308": "http://sleepystudio.livejournal.com/",

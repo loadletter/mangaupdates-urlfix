@@ -91,6 +91,7 @@ var urlfix_grouplist = {
     "12214": "https://mangadex.org/group/12785/oh-giggles",
     "12254": "https://halluheaven.home.blog/",
     "12274": "https://mangadex.org/group/12942/dos-bros-scanlations",
+    "12294": "https://mangadex.org/group/12981/bowl-of-laksa",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",
     "1354": "http://community.livejournal.com/hitman_reborn",

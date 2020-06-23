@@ -98,6 +98,7 @@ var urlfix_grouplist = {
     "12230": "https://mangadex.org/group/12841/nyandere-scans",
     "12250": "https://mangadex.org/group/12893/lone-ricotta",
     "12270": "https://mangadex.org/group/12941/eden-kawaii-fansub",
+    "12290": "https://mangadex.org/group/13000/goshiwon-scans",
     "1230": "http://www.mbtranslations.info/",
     "130": "http://www.ma-trix.tk",
     "1330": "http://community.livejournal.com/olimoley/",

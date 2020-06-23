@@ -96,6 +96,7 @@ var urlfix_grouplist = {
     "12229": "https://saiyanb.tumblr.com/",
     "12249": "https://akagarinovel.wordpress.com/",
     "12269": "https://chrysanthemumgarden.com/",
+    "12289": "https://mangadex.org/group/13001/titan-scans",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

@@ -96,6 +96,8 @@ var urlfix_grouplist = {
     "12222": "https://mangadex.org/group/12812/tasukeya-shibeta-translations",
     "12242": "https://mangadex.org/group/3865/lovelykotori",
     "12262": "https://mangadex.org/group/12923/a-port-in-any-storm",
+    "12282": "https://mangadex.org/group/12970/dogpark",
+    "12302": "https://mangadex.org/group/13028/impatient-reader",
     "1242": "http://aerandria.net/",
     "1302": "http://pyupyu.wordpress.com/",
     "1342": "http://orange-kun.blogspot.com/",

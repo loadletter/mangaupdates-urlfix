@@ -89,6 +89,8 @@ var urlfix_grouplist = {
     "12159": "https://mangadex.org/group/12689/we-hate-isekai",
     "12179": "https://mangadex.org/group/5945/bobo-scans",
     "12259": "https://mangadex.org/group/12881/pillow-book",
+    "12279": "https://mangadex.org/group/12896/dayoune",
+    "12299": "https://mangadex.org/group/13027/wolfzun",
     "1279": "http://kupoke.livejournal.com/",
     "1299": "http://www.mangashare.com/",
     "1359": "http://mangahelpers.com/s/fayte",
