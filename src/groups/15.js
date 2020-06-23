@@ -89,6 +89,7 @@ var urlfix_grouplist = {
     "12095": "https://mangadex.org/group/12514/translatione-ex-machina",
     "12115": "https://mangadex.org/group/12561/calamity-scans",
     "12135": "https://mangadex.org/group/12591/sleepyslimetl",
+    "12155": "https://mangadex.org/group/12666/biggus-degenerus-scans",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

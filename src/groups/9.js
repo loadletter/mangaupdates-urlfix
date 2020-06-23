@@ -89,6 +89,8 @@ var urlfix_grouplist = {
     "12089": "https://mangadex.org/group/12466/ambitious-initiative",
     "12109": "https://shiokazetls.wordpress.com/",
     "12129": "https://mangadex.org/group/12598/misfits-scans",
+    "12149": "https://mangadex.org/group/12660/lilium-dragomir",
+    "12169": "https://bakadata.com/",
     "1229": "http://www.ncismanga.net/",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",

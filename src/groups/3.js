@@ -88,6 +88,8 @@ var urlfix_grouplist = {
     "12083": "https://mangadex.org/group/2591/no-romance-boring-life-nrbl",
     "12103": "https://mangadex.org/group/12528/unoogpatrtp",
     "12123": "https://mangadex.org/group/12588/scanmatsu-no-valkyrie",
+    "12143": "https://mangadex.org/group/12630/taichi-best-boy",
+    "12163": "https://mangadex.org/group/12687/happily-ever-after",
     "1223": "http://twinkle-dust.deadly-desire.org/",
     "123": "https://mangadex.org/group/1738/ushi",
     "1243": "http://community.livejournal.com/kkm_manga/",

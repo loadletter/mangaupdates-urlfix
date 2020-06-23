@@ -94,6 +94,7 @@ var urlfix_grouplist = {
     "121": "http://hmrscans.ucoz.com/",
     "12101": "http://transmythicalation.com",
     "12121": "https://mangadex.org/group/12587/goose-hub",
+    "12141": "https://mangadex.org/group/10705/coffedrug",
     "1261": "http://sosexyscans.com/",
     "1301": "http://malariousarea.livejournal.com/",
     "1321": "http://pote-scans.halcy.de/",

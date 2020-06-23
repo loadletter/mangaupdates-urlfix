@@ -89,6 +89,7 @@ var urlfix_grouplist = {
     "12071": "https://mangadex.org/group/11347/one-cute",
     "1211": "http://www.divine-sanctuary.net/",
     "12111": "https://mangadex.org/group/12526/dark-scans",
+    "12151": "https://mangadex.org/group/12547/nikopyon",
     "1231": "http://umeboshi.uni.cc",
     "1271": "http://kakera-t.blogspot.com/",
     "131": "http://shi-fa.cjb.net/",
