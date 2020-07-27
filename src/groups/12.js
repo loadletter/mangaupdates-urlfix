@@ -104,6 +104,8 @@ var urlfix_grouplist = {
     "12312": "https://mangadex.org/group/13075/hibiki-translate",
     "1232": "http://daphira.livejournal.com/",
     "12332": "https://mangadex.org/group/13017/shangri-la",
+    "12352": "https://mangadex.org/group/6013/quegna-traduction-team",
+    "12372": "https://mangadex.org/group/13262/ded-reads",
     "1252": "http://shinai.nyaatorrents.org/",
     "1272": "http://misoramen.co.nr/",
     "1292": "http://covenantofdarkness.com/wp/",

@@ -103,6 +103,7 @@ var urlfix_grouplist = {
     "12288": "https://forsakenmoonlight.wordpress.com",
     "12308": "https://mangadex.org/group/13056/anko-scans",
     "12328": "https://mangadex.org/group/13045/ateteenplus",
+    "12348": "https://mangadex.org/group/13182/placeholdertranslations",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",
     "1308": "http://sleepystudio.livejournal.com/",

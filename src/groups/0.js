@@ -103,6 +103,8 @@ var urlfix_grouplist = {
     "12260": "https://mangadex.org/group/12855/so-i-can-use-delays",
     "12280": "https://mangadex.org/group/12973/3ggplants",
     "12320": "https://mangadex.org/group/13084/snail-mail",
+    "12340": "https://mangadex.org/group/4830/ryozanpaku",
+    "12360": "https://mangadex.org/group/6994/superotaku64",
     "1240": "http://tea.nyaatorrents.org",
     "1260": "http://scanslation.tonigobe.com/",
     "1320": "http://community.livejournal.com/maleshoppe/",

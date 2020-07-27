@@ -96,6 +96,8 @@ var urlfix_grouplist = {
     "12265": "https://mangadex.org/group/12930/legacy-scans",
     "12285": "https://mangadex.org/group/12342/mercury-scans",
     "12325": "https://mangadex.org/group/12643/faye",
+    "12345": "https://mangadex.org/group/12939/dj-club-scans",
+    "12365": "https://mangadex.org/group/13151/daphie-s",
     "1265": "http://www.sorascans.com",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",
     "1345": "http://boredom64.wordpress.com/",

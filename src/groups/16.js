@@ -97,6 +97,7 @@ var urlfix_grouplist = {
     "12276": "https://mangadex.org/group/12950/aryn-scans",
     "12296": "http://www.memoriesoffear.com/",
     "12336": "https://mangadex.org/group/12670/stem",
+    "12356": "https://mangadex.org/group/13207/mizukixgaku",
     "1276": "http://gagakhitam.wordpress.com/",
     "1296": "http://www.urakai.com/",
     "1316": "http://community.livejournal.com/ying_kang/",

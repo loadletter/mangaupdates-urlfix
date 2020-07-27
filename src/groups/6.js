@@ -98,6 +98,8 @@ var urlfix_grouplist = {
     "12286": "https://mangadex.org/group/12987/rentoshuuscans",
     "12306": "https://mangadex.org/group/12770/cromatkastar",
     "12326": "https://mangadex.org/group/12946/bean-me-up-scanny",
+    "12346": "https://mangadex.org/group/13123/parallelparadise",
+    "12366": "https://mangadex.org/group/13107/dead-elf-scans",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",

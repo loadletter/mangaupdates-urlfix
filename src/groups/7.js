@@ -102,6 +102,7 @@ var urlfix_grouplist = {
     "12287": "https://mangadex.org/group/12990/moqi-scans",
     "12307": "https://mangadex.org/group/13043/vanguard",
     "12327": "https://mangadex.org/group/12924/sunember-translations",
+    "12347": "https://mangadex.org/group/13183/aster-von-einzbern",
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",
     "1327": "http://www.helz0ne-scans.com/",

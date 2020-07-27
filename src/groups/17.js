@@ -91,6 +91,8 @@ var urlfix_grouplist = {
     "12257": "https://mangadex.org/group/12915/graze-scanlation",
     "12277": "https://mangadex.org/group/12964/choccy-milk-turtle-scans",
     "12297": "https://mangadex.org/group/12872/tsubaki-j-scanlations",
+    "12337": "https://myterriblescans.tumblr.com/",
+    "12357": "https://mangadex.org/group/11138/soapland",
     "1237": "http://team.akai-inazuma.com/",
     "1257": "http://wingsangel.abyssalchronicles.com/",
     "1277": "http://seri-chan2.livejournal.com/",

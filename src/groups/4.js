@@ -96,6 +96,8 @@ var urlfix_grouplist = {
     "12264": "https://mangadex.org/group/12922/beta-scans",
     "12284": "https://mangadex.org/group/12979/gakuran-spork",
     "12324": "https://mangadex.org/group/13115/99usagi99",
+    "12344": "https://www.flame-scans.com/",
+    "12364": "https://mangadex.org/group/13236/doggo",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",
     "1284": "http://www.puripurineko.com/",

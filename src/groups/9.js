@@ -100,6 +100,8 @@ var urlfix_grouplist = {
     "1229": "http://www.ncismanga.net/",
     "12309": "https://mangadex.org/group/7168/maomao-fansubs",
     "12329": "https://mangadex.org/group/13118/maadpaw",
+    "12349": "https://mangadex.org/group/13189/hezi",
+    "12369": "https://mangadex.org/group/13163/ganbare-scans",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",
     "1309": "http://www.quickmanga.com/",

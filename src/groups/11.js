@@ -98,6 +98,8 @@ var urlfix_grouplist = {
     "1231": "http://umeboshi.uni.cc",
     "12311": "https://b-kodesu.tumblr.com/",
     "12331": "https://mangadex.org/group/9351/soonji-empire",
+    "12351": "https://mangadex.org/group/13198/apep-scans",
+    "12371": "https://mangadex.org/group/13255/katanon",
     "1271": "http://kakera-t.blogspot.com/",
     "131": "http://shi-fa.cjb.net/",
     "1311": "http://midnightlove.freehostia.com/index.php",

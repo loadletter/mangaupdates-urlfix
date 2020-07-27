@@ -101,6 +101,8 @@ var urlfix_grouplist = {
     "12290": "https://mangadex.org/group/13000/goshiwon-scans",
     "1230": "http://www.mbtranslations.info/",
     "12310": "https://mangadex.org/group/13073/low-quality-trash-scans",
+    "12350": "https://mangadex.org/group/13192/euchariyuma-scans",
+    "12370": "https://mangadex.org/group/13246/peraltacorp-machine-translations",
     "130": "http://www.ma-trix.tk",
     "1330": "http://community.livejournal.com/olimoley/",
     "1370": "http://www.geocities.com/igarashim.geo/",

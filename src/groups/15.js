@@ -100,6 +100,7 @@ var urlfix_grouplist = {
     "12315": "https://mangadex.org/group/13091/pick-this-up-pls-scans",
     "12335": "https://mangadex.org/group/13041/weebs-r-us",
     "1235": "http://naroyado.mistakesofyouth.com/",
+    "12355": "https://mangadex.org/group/10569/madbooks",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",
     "1355": "http://z11.invisionfree.com/We_Are_Fairy_Tail/index.php",
