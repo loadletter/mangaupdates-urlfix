@@ -94,6 +94,8 @@ var urlfix_grouplist = {
     "12294": "https://mangadex.org/group/12981/bowl-of-laksa",
     "12314": "https://mangadex.org/group/13088/dolclation",
     "12334": "https://mangadex.org/group/9057/meraki",
+    "12374": "https://mangadex.org/group/13161/monk-sloth",
+    "12394": "https://mangadex.org/group/13294/stray-dogs-scans",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",
     "1354": "http://community.livejournal.com/hitman_reborn",

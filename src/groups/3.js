@@ -98,6 +98,8 @@ var urlfix_grouplist = {
     "123": "https://mangadex.org/group/1738/ushi",
     "12343": "https://mangadex.org/group/13164/nibbling-cowboy-scans",
     "12363": "https://mangadex.org/group/13231/durian-kem",
+    "12383": "https://mangadex.org/group/13268/baumkuchen-scans",
+    "12403": "https://mangadex.org/group/8581/jk",
     "1243": "http://community.livejournal.com/kkm_manga/",
     "1263": "http://zawazawamanga.wordpress.com/",
     "1283": "http://community.livejournal.com/frozencitrus/",

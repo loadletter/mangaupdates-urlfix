@@ -100,6 +100,7 @@ var urlfix_grouplist = {
     "12331": "https://mangadex.org/group/9351/soonji-empire",
     "12351": "https://mangadex.org/group/13198/apep-scans",
     "12371": "https://mangadex.org/group/13255/katanon",
+    "12391": "https://mangadex.org/group/12889/vale-scanlation",
     "1271": "http://kakera-t.blogspot.com/",
     "131": "http://shi-fa.cjb.net/",
     "1311": "http://midnightlove.freehostia.com/index.php",

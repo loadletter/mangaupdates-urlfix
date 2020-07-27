@@ -94,6 +94,8 @@ var urlfix_grouplist = {
     "12337": "https://myterriblescans.tumblr.com/",
     "12357": "https://mangadex.org/group/11138/soapland",
     "1237": "http://team.akai-inazuma.com/",
+    "12377": "https://mangadex.org/group/13242/sxdlxrd_en",
+    "12397": "https://mangadex.org/group/13333/dormir_please_scans",
     "1257": "http://wingsangel.abyssalchronicles.com/",
     "1277": "http://seri-chan2.livejournal.com/",
     "1297": "http://www.kuro-hanasubs.com/",

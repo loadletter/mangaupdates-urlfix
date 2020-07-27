@@ -102,6 +102,8 @@ var urlfix_grouplist = {
     "12318": "https://tempesteru.livejournal.com/",
     "12338": "https://mangadex.org/group/13152/nameless-fujoshi",
     "12358": "https://mangadex.org/group/13127/seven-stars-scanlations",
+    "12378": "https://mangadex.org/group/13264/crowscans",
+    "12398": "https://mangadex.org/group/13325/freyy",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",
