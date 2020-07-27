@@ -96,6 +96,8 @@ var urlfix_grouplist = {
     "12271": "https://mangadex.org/group/12944/asian-scanlation-sensation",
     "12291": "https://mangadex.org/group/12936/some-group",
     "1231": "http://umeboshi.uni.cc",
+    "12311": "https://b-kodesu.tumblr.com/",
+    "12331": "https://mangadex.org/group/9351/soonji-empire",
     "1271": "http://kakera-t.blogspot.com/",
     "131": "http://shi-fa.cjb.net/",
     "1311": "http://midnightlove.freehostia.com/index.php",

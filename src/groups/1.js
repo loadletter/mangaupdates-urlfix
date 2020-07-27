@@ -100,6 +100,7 @@ var urlfix_grouplist = {
     "12221": "https://mangadex.org/group/8888/8888",
     "12261": "https://mangadex.org/group/12601/beaver",
     "12281": "https://mangadex.org/group/12897/awkward-scans",
+    "12321": "https://poyun-manhua-eng-tl.tumblr.com/",
     "1261": "http://sosexyscans.com/",
     "1301": "http://malariousarea.livejournal.com/",
     "1321": "http://pote-scans.halcy.de/",

@@ -95,6 +95,7 @@ var urlfix_grouplist = {
     "12244": "https://mangadex.org/group/12861/mystic-gladiolo",
     "12264": "https://mangadex.org/group/12922/beta-scans",
     "12284": "https://mangadex.org/group/12979/gakuran-spork",
+    "12324": "https://mangadex.org/group/13115/99usagi99",
     "124": "http://perfectillusions.net/",
     "1264": "http://sahadou.com/",
     "1284": "http://www.puripurineko.com/",

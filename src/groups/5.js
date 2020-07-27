@@ -95,6 +95,7 @@ var urlfix_grouplist = {
     "1225": "http://community.livejournal.com/keith_ltd/",
     "12265": "https://mangadex.org/group/12930/legacy-scans",
     "12285": "https://mangadex.org/group/12342/mercury-scans",
+    "12325": "https://mangadex.org/group/12643/faye",
     "1265": "http://www.sorascans.com",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",
     "1345": "http://boredom64.wordpress.com/",

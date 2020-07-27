@@ -100,6 +100,7 @@ var urlfix_grouplist = {
     "12270": "https://mangadex.org/group/12941/eden-kawaii-fansub",
     "12290": "https://mangadex.org/group/13000/goshiwon-scans",
     "1230": "http://www.mbtranslations.info/",
+    "12310": "https://mangadex.org/group/13073/low-quality-trash-scans",
     "130": "http://www.ma-trix.tk",
     "1330": "http://community.livejournal.com/olimoley/",
     "1370": "http://www.geocities.com/igarashim.geo/",

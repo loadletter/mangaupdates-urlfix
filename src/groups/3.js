@@ -85,7 +85,7 @@ var urlfix_grouplist = {
     "12003": "https://mangadex.org/group/12244/tall-is-love",
     "12023": "https://mangadex.org/group/12311/the-drunken-collective",
     "12043": "https://fujoshiundercover.tumblr.com/",
-    "12083": "https://mangadex.org/group/2591/no-romance-boring-life-nrbl",
+    "12083": "https://missmysterynrbl.wordpress.com/",
     "12103": "https://mangadex.org/group/12528/unoogpatrtp",
     "12123": "https://mangadex.org/group/12588/scanmatsu-no-valkyrie",
     "12143": "https://mangadex.org/group/12630/taichi-best-boy",

@@ -96,6 +96,7 @@ var urlfix_grouplist = {
     "12256": "https://www.tainted-biblio.com/",
     "12276": "https://mangadex.org/group/12950/aryn-scans",
     "12296": "http://www.memoriesoffear.com/",
+    "12336": "https://mangadex.org/group/12670/stem",
     "1276": "http://gagakhitam.wordpress.com/",
     "1296": "http://www.urakai.com/",
     "1316": "http://community.livejournal.com/ying_kang/",

@@ -97,6 +97,8 @@ var urlfix_grouplist = {
     "12255": "https://mangadex.org/group/12906/linker1031",
     "12275": "https://mangadex.org/group/12956/h-rny-support-team",
     "12295": "https://mangadex.org/group/11756/lolishou-scan",
+    "12315": "https://mangadex.org/group/13091/pick-this-up-pls-scans",
+    "12335": "https://mangadex.org/group/13041/weebs-r-us",
     "1235": "http://naroyado.mistakesofyouth.com/",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",

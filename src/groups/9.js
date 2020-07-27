@@ -98,6 +98,8 @@ var urlfix_grouplist = {
     "12269": "https://chrysanthemumgarden.com/",
     "12289": "https://mangadex.org/group/13001/titan-scans",
     "1229": "http://www.ncismanga.net/",
+    "12309": "https://mangadex.org/group/7168/maomao-fansubs",
+    "12329": "https://mangadex.org/group/13118/maadpaw",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",
     "1309": "http://www.quickmanga.com/",

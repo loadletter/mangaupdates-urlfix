@@ -99,6 +99,7 @@ var urlfix_grouplist = {
     "12258": "https://mangadex.org/group/12905/eyes",
     "12278": "https://mangadex.org/group/12796/kori-maru",
     "12298": "https://mangadex.org/group/12992/goose-fam",
+    "12318": "https://tempesteru.livejournal.com/",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",
