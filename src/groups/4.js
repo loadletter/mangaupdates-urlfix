@@ -101,6 +101,7 @@ var urlfix_grouplist = {
     "12384": "https://mangadex.org/group/12928/fallen-camellia",
     "124": "http://perfectillusions.net/",
     "12404": "https://mangadex.org/group/13345/mochi-scans",
+    "12424": "https://mangadex.org/group/13367/spaarkbark-translations",
     "1264": "http://sahadou.com/",
     "1284": "http://www.puripurineko.com/",
     "1324": "http://shoku-dan.org",

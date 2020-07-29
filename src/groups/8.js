@@ -106,6 +106,8 @@ var urlfix_grouplist = {
     "12348": "https://mangadex.org/group/13182/placeholdertranslations",
     "12388": "https://mangadex.org/group/13293/sub-of-the-end",
     "12408": "https://mangadex.org/group/13266/bl_nk-scans",
+    "12428": "https://mangadex.org/group/13372/r-parasyte",
+    "12448": "https://mangadex.org/group/12589/crazy-fresh-beat",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",
     "1308": "http://sleepystudio.livejournal.com/",

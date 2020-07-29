@@ -108,6 +108,8 @@ var urlfix_grouplist = {
     "12372": "https://mangadex.org/group/13262/ded-reads",
     "12392": "https://mangadex.org/group/13248/yeni-world-domination",
     "12412": "https://mangadex.org/group/13317/platypuppy-tl",
+    "12432": "https://turboclassg.tumblr.com",
+    "12452": "https://mangadex.org/group/13350/the-doll-house",
     "1252": "http://shinai.nyaatorrents.org/",
     "1272": "http://misoramen.co.nr/",
     "1292": "http://covenantofdarkness.com/wp/",

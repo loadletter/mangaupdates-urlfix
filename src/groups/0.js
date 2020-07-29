@@ -108,6 +108,8 @@ var urlfix_grouplist = {
     "12380": "https://mangadex.org/group/12808/sleepy-stars-scans",
     "1240": "http://tea.nyaatorrents.org",
     "12400": "https://mangadex.org/group/13277/guowei-translations",
+    "12420": "https://mangadex.org/group/13386/freelance-machine-translations",
+    "12440": "https://mangadex.org/group/13398/therapytl",
     "1260": "http://scanslation.tonigobe.com/",
     "1320": "http://community.livejournal.com/maleshoppe/",
     "1360": "http://pawprints.reverein.net/",

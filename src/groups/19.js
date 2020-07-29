@@ -96,6 +96,8 @@ var urlfix_grouplist = {
     "12359": "https://mangadex.org/group/13223/funscans",
     "12379": "https://mangadex.org/group/13220/kiwii-scans",
     "12399": "https://mangadex.org/group/13309/meruscans",
+    "12419": "https://octonionic.org/",
+    "12439": "https://mangadex.org/group/13395/triggerhappy-scans",
     "1279": "http://kupoke.livejournal.com/",
     "1299": "http://www.mangashare.com/",
     "1359": "http://mangahelpers.com/s/fayte",

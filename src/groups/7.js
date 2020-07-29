@@ -105,6 +105,8 @@ var urlfix_grouplist = {
     "12347": "https://mangadex.org/group/13183/aster-von-einzbern",
     "12387": "https://mangadex.org/group/11380/traducciones-amistosas",
     "12407": "https://mangadex.org/group/13347/musketeer-scans",
+    "12427": "https://mel0dyscans.tumblr.com/",
+    "12447": "https://mangadex.org/group/13418/shit-scans",
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",
     "1327": "http://www.helz0ne-scans.com/",

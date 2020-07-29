@@ -104,6 +104,8 @@ var urlfix_grouplist = {
     "12350": "https://mangadex.org/group/13192/euchariyuma-scans",
     "12370": "https://mangadex.org/group/13246/peraltacorp-machine-translations",
     "12390": "https://pri.car.blog/",
+    "12430": "https://e-hentai.org/uploader/JeikWazTaken",
+    "12450": "https://mangadex.org/group/13424/i-eat-used-panties-for-breakfast",
     "130": "http://www.ma-trix.tk",
     "1330": "http://community.livejournal.com/olimoley/",
     "1370": "http://www.geocities.com/igarashim.geo/",
