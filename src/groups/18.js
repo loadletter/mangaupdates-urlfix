@@ -106,6 +106,7 @@ var urlfix_grouplist = {
     "12398": "https://mangadex.org/group/13325/freyy",
     "12418": "https://mangadex.org/group/13374/choriscans",
     "12438": "https://mangadex.org/group/13358/brs-manhua-scans",
+    "12458": "https://e-hentai.org/uploader/guduxingkong",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",

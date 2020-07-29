@@ -103,6 +103,7 @@ var urlfix_grouplist = {
     "12423": "https://mangadex.org/group/13380/isekai-cafe",
     "1243": "http://community.livejournal.com/kkm_manga/",
     "12443": "https://mangadex.org/group/13410/grape-kun-s-boys",
+    "12463": "https://mangadex.org/group/13453/jasperizhere",
     "1263": "http://zawazawamanga.wordpress.com/",
     "1283": "http://community.livejournal.com/frozencitrus/",
     "1303": "http://chocopai.net/index.php",

@@ -103,6 +103,7 @@ var urlfix_grouplist = {
     "1242": "http://aerandria.net/",
     "12422": "https://mangadex.org/group/13212/would-lick-jungkook-s-abs",
     "12442": "https://mangadex.org/group/13409/sinon-s-scans",
+    "12462": "https://mangadex.org/group/13450/tougen-scans",
     "1302": "http://pyupyu.wordpress.com/",
     "1342": "http://orange-kun.blogspot.com/",
     "1362": "http://bangaqua.com/",

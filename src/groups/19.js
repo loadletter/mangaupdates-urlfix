@@ -98,6 +98,7 @@ var urlfix_grouplist = {
     "12399": "https://mangadex.org/group/13309/meruscans",
     "12419": "https://octonionic.org/",
     "12439": "https://mangadex.org/group/13395/triggerhappy-scans",
+    "12459": "https://mangadex.org/group/13396/yamimao-scans",
     "1279": "http://kupoke.livejournal.com/",
     "1299": "http://www.mangashare.com/",
     "1359": "http://mangahelpers.com/s/fayte",

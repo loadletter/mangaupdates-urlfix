@@ -105,6 +105,7 @@ var urlfix_grouplist = {
     "12333": "https://mangadex.org/group/13083/spruce-tree-scanlations",
     "12353": "https://mangadex.org/group/13205/palu-scanlation",
     "12373": "https://mangadex.org/group/13261/all-nighter-scans",
+    "12453": "https://mangadex.org/group/13428/bored-scans",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",
     "1313": "http://apathys.wordpress.com/",

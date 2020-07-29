@@ -105,6 +105,7 @@ var urlfix_grouplist = {
     "12395": "https://mangadex.org/group/13324/gouma-den",
     "12415": "https://mangadex.org/group/13283/redvelvetworm",
     "12435": "https://mangadex.org/group/13400/hanako-desu-scan",
+    "12455": "https://mangadex.org/group/13432/lifescans",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",
     "1355": "http://z11.invisionfree.com/We_Are_Fairy_Tail/index.php",

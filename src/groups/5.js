@@ -101,6 +101,7 @@ var urlfix_grouplist = {
     "12385": "https://mangadex.org/group/13281/what-the-heck-why-not",
     "12405": "https://mangadex.org/group/13119/the-gossip-corp",
     "12425": "https://mel0dyscans.tumblr.com/",
+    "12465": "https://mangadex.org/group/13419/8monthslate",
     "1265": "http://www.sorascans.com",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",
     "1345": "http://boredom64.wordpress.com/",
