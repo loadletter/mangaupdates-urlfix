@@ -109,6 +109,7 @@ var urlfix_grouplist = {
     "12544": "https://mythrapneuma.com/",
     "12564": "https://mangadex.org/group/12992/the-geese",
     "12584": "https://mangadex.org/group/12609/i-made-a-group-to-have-a-cool-name-tag",
+    "12624": "https://mangadex.org/group/13846/snowberriii-scans",
     "1264": "http://sahadou.com/",
     "1284": "http://www.puripurineko.com/",
     "1324": "http://shoku-dan.org",

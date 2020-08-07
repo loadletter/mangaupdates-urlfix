@@ -107,6 +107,8 @@ var urlfix_grouplist = {
     "12506": "https://mangadex.org/group/13547/pinkelemonade",
     "12526": "https://mangadex.org/group/13444/otaku-nadu-scanlations",
     "126": "http://fet.fudomine.org/",
+    "12606": "https://mangadex.org/group/13799/sourtangerine_manga",
+    "12626": "https://mangadex.org/group/13848/virgin-s-ear",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",
     "1306": "http://delinquent-manga.nyaatorrents.org/",

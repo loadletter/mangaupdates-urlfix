@@ -103,6 +103,8 @@ var urlfix_grouplist = {
     "12534": "https://mangadex.org/group/13658/bs-manhua",
     "12554": "https://mangadex.org/group/13680/codecy-s-bored-translations",
     "12594": "https://mangadex.org/group/13758/nobodyman",
+    "12614": "https://mangadex.org/group/13771/dope_code",
+    "12634": "https://mangadex.org/group/13865/soleil-scans",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",
     "1354": "http://community.livejournal.com/hitman_reborn",

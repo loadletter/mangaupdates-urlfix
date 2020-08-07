@@ -109,6 +109,7 @@ var urlfix_grouplist = {
     "12542": "https://mangadex.org/group/13539/bc-scans",
     "12562": "https://mangadex.org/group/13685/moonless-lunatics",
     "12582": "https://mangadex.org/group/13673/sutefuchan",
+    "12622": "https://mangadex.org/group/13844/buckwheat-baby",
     "1302": "http://pyupyu.wordpress.com/",
     "1342": "http://orange-kun.blogspot.com/",
     "1362": "http://bangaqua.com/",

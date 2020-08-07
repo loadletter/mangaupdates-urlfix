@@ -110,6 +110,8 @@ var urlfix_grouplist = {
     "12556": "https://mangadex.org/group/12983/denpa-teki-na-kanojo",
     "12576": "https://mangadex.org/group/13543/manga-hunters",
     "12596": "https://mangadex.org/group/13762/fujoshi-queen-scan",
+    "12616": "https://mangadex.org/group/13820/0-exp",
+    "12636": "https://yumeineijiworks.wordpress.com/",
     "1276": "http://gagakhitam.wordpress.com/",
     "1296": "http://www.urakai.com/",
     "1316": "http://community.livejournal.com/ying_kang/",

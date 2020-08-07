@@ -107,6 +107,7 @@ var urlfix_grouplist = {
     "12545": "https://mangadex.org/group/13648/uforia-translates",
     "12565": "https://mangadex.org/group/13704/scantra-savior",
     "12585": "https://mangadex.org/group/13739/mangayaku-en",
+    "12605": "https://mangadex.org/group/13788/yuurei-translations",
     "1265": "http://www.sorascans.com",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",
     "1345": "http://boredom64.wordpress.com/",

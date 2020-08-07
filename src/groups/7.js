@@ -114,6 +114,8 @@ var urlfix_grouplist = {
     "12547": "https://mangadex.org/group/13651/brimhats",
     "12567": "https://mangadex.org/group/13689/oyaoya-translations",
     "12587": "https://mangadex.org/group/13738/macaroon-scans",
+    "12607": "https://mangadex.org/group/9411/tosiaki",
+    "12627": "https://mangadex.org/group/13835/juicy-watermelon-scans",
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",
     "1327": "http://www.helz0ne-scans.com/",

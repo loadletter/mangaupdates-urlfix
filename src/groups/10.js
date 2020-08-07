@@ -112,6 +112,8 @@ var urlfix_grouplist = {
     "12550": "https://mangadex.org/group/13679/ikemen-manga",
     "12570": "https://mangadex.org/group/13580/shinteni-translations",
     "12590": "https://mangadex.org/group/13608/msby-scanlations",
+    "12610": "https://mangadex.org/group/13787/hillbilly-scans",
+    "12630": "https://mangadex.org/group/8380/yami_taku",
     "130": "http://www.ma-trix.tk",
     "1330": "http://community.livejournal.com/olimoley/",
     "1370": "http://www.geocities.com/igarashim.geo/",

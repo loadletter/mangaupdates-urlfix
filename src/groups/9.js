@@ -112,6 +112,8 @@ var urlfix_grouplist = {
     "12549": "https://mangadex.org/group/13613/demon-clan",
     "12569": "https://otakutl.blogspot.com/?m=1",
     "12589": "https://mangadex.org/group/13740/midday-scans",
+    "12609": "https://mangadex.org/group/12660/dragomir-scans",
+    "12629": "https://mangadex.org/group/13857/tenyaku-translations",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",
     "1309": "http://www.quickmanga.com/",

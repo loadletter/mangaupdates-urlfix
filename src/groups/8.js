@@ -114,6 +114,7 @@ var urlfix_grouplist = {
     "12528": "https://mangadex.org/group/13625/casa-de-yuri",
     "12548": "https://mangadex.org/group/13677/unko-scans",
     "12568": "https://mangadex.org/group/13691/kodian-scans",
+    "12628": "https://mangadex.org/group/13860/unintentional-love-story",
     "1268": "http://shini-megami.com/",
     "1288": "http://community.livejournal.com/queen_o_spades/",
     "1308": "http://sleepystudio.livejournal.com/",

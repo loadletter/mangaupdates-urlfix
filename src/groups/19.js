@@ -105,6 +105,8 @@ var urlfix_grouplist = {
     "12539": "https://mangadex.org/group/13649/monky-scnas",
     "12559": "https://mangadex.org/group/13690/rururururu",
     "12599": "https://mangadex.org/group/13744/pastel-scans",
+    "12619": "https://mangadex.org/group/13772/hazzard-scans",
+    "12639": "https://mangadex.org/group/13898/baby-bean-scanlations",
     "1279": "http://kupoke.livejournal.com/",
     "1299": "http://www.mangashare.com/",
     "1359": "http://mangahelpers.com/s/fayte",

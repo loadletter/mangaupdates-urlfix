@@ -110,6 +110,7 @@ var urlfix_grouplist = {
     "12543": "https://mangadex.org/group/13672/godspeed-scanlation",
     "12563": "https://mangadex.org/group/13701/nux-scans",
     "12583": "https://mangadex.org/group/13729/charzard4261",
+    "12623": "https://mangadex.org/group/13855/ace-scans",
     "1263": "http://zawazawamanga.wordpress.com/",
     "1283": "http://community.livejournal.com/frozencitrus/",
     "1303": "http://chocopai.net/index.php",

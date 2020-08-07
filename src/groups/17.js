@@ -106,6 +106,7 @@ var urlfix_grouplist = {
     "1257": "http://wingsangel.abyssalchronicles.com/",
     "12577": "https://mangadex.org/group/13723/znotsnot",
     "12597": "https://bigchungusscans.wordpress.com/",
+    "12637": "https://mangadex.org/group/13408/honeysuckle-scans",
     "1277": "http://seri-chan2.livejournal.com/",
     "1297": "http://www.kuro-hanasubs.com/",
     "137": "https://mangadex.org/group/4056/memory-for-you",

@@ -116,6 +116,8 @@ var urlfix_grouplist = {
     "1252": "http://shinai.nyaatorrents.org/",
     "12552": "https://mangadex.org/group/13682/positive-iota-scans",
     "12592": "https://mangadex.org/group/13177/mysteltein",
+    "12612": "https://mangadex.org/group/11163/rapisu-translation",
+    "12632": "https://mangadex.org/group/13753/endless-pleasure-scans",
     "1272": "http://misoramen.co.nr/",
     "1292": "http://covenantofdarkness.com/wp/",
     "1312": "http://mintscans.wordpress.com/",

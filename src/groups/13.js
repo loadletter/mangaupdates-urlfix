@@ -113,6 +113,7 @@ var urlfix_grouplist = {
     "12553": "https://mangadex.org/group/13684/spicy-kimichi-ramen",
     "12573": "https://mangadex.org/group/13718/open-machine-translations",
     "12593": "https://mangadex.org/group/13778/_mangaworm_",
+    "12613": "https://mangadex.org/group/13717/ancap-translations",
     "1273": "http://mangahelpers.com/s/yoniekai",
     "1293": "http://saffireparadise.livejournal.com/",
     "1313": "http://apathys.wordpress.com/",

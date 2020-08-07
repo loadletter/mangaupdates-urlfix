@@ -114,6 +114,8 @@ var urlfix_grouplist = {
     "12558": "https://mangadex.org/group/13686/clouded-scans",
     "12578": "https://mangadex.org/group/13711/yoongi-scanlation",
     "12598": "https://mangadex.org/group/13763/read-heavy-object",
+    "12618": "https://mangadex.org/group/13822/friendly-translations-scan",
+    "12638": "https://mangadex.org/group/13887/idiocy-scans-op",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",

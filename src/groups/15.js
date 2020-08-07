@@ -113,6 +113,8 @@ var urlfix_grouplist = {
     "12555": "https://mangadex.org/group/13631/purple-light",
     "12575": "https://mangadex.org/group/13038/universoyuri",
     "12595": "https://mangadex.org/group/13507/chibivivi",
+    "12615": "https://mangadex.org/group/13813/honeysuckle-scanlation",
+    "12635": "https://mangadex.org/group/13817/speedcat",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",
     "1355": "http://z11.invisionfree.com/We_Are_Fairy_Tail/index.php",
