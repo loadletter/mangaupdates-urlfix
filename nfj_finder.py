@@ -39,7 +39,10 @@ def novel(n):
 		print "Found", repr(n), "on novelupdates, parsing url..."
 		soup = BeautifulSoup(req.text)
 		gi = soup.find('table', {'class' : 'groupinfo'})
-		url = gi.find('a')['href']
+		try:
+			url = gi.find('a')['href']
+		except:
+			return []
 		results.append(url)
 		if '.blogspot.' in url:
 			url2 = re.sub('blogspot(\.[A-Za-z]{2,6})+(/|$)', 'blogspot.com/', url)

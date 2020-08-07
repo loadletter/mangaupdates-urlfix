@@ -104,6 +104,8 @@ var urlfix_grouplist = {
     "12406": "https://geckcellent.tumblr.com/",
     "12446": "https://mangadex.org/group/2034/mangaryn",
     "12466": "https://mangadex.org/group/13368/minsar-s-translations",
+    "12506": "https://mangadex.org/group/13547/pinkelemonade",
+    "12526": "https://mangadex.org/group/13444/otaku-nadu-scanlations",
     "126": "http://fet.fudomine.org/",
     "1266": "http://www.spazzythegreat.com/mbg.html",
     "1286": "http://www.vicesndevices.net",
