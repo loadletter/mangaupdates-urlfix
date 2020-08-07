@@ -98,6 +98,8 @@ var urlfix_grouplist = {
     "12397": "https://mangadex.org/group/13333/dormir_please_scans",
     "12417": "https://mangadex.org/group/5962/miish3lov",
     "12437": "https://wondernovels.com",
+    "12477": "https://toonily.com/",
+    "12497": "https://mangadex.org/group/13529/meibecorrecttranslations",
     "1257": "http://wingsangel.abyssalchronicles.com/",
     "1277": "http://seri-chan2.livejournal.com/",
     "1297": "http://www.kuro-hanasubs.com/",

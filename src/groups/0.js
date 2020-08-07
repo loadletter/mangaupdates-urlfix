@@ -111,6 +111,8 @@ var urlfix_grouplist = {
     "12420": "https://mangadex.org/group/13386/freelance-machine-translations",
     "12440": "https://mangadex.org/group/13398/therapytl",
     "12460": "https://mangadex.org/group/13365/shampoo-translations",
+    "12480": "https://mangadex.org/group/13489/midnight-kittens-scans",
+    "12500": "https://mangadex.org/group/13533/junker-hq",
     "1260": "http://scanslation.tonigobe.com/",
     "1320": "http://community.livejournal.com/maleshoppe/",
     "1360": "http://pawprints.reverein.net/",

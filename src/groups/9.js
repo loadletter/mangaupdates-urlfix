@@ -105,6 +105,8 @@ var urlfix_grouplist = {
     "12389": "https://melonscans.tumblr.com/",
     "12429": "https://mangadex.org/group/13318/vera-scan",
     "12449": "https://mangadex.org/group/13335/a-parody-scans",
+    "12469": "https://mangadex.org/group/13473/marukawa-scanlation",
+    "12489": "https://mangadex.org/group/13421/manga-ballads",
     "1289": "http://ayvuir.net/",
     "129": "https://mangadex.org/group/1969/blackout",
     "1309": "http://www.quickmanga.com/",

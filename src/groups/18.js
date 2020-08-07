@@ -107,6 +107,8 @@ var urlfix_grouplist = {
     "12418": "https://mangadex.org/group/13374/choriscans",
     "12438": "https://mangadex.org/group/13358/brs-manhua-scans",
     "12458": "https://e-hentai.org/uploader/guduxingkong",
+    "12478": "https://mangadex.org/group/13394/popqwasians",
+    "12498": "https://mangadex.org/group/9580/gomi-chan-s-trash-scans",
     "1278": "http://www.maboroshi.110mb.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",

@@ -105,6 +105,7 @@ var urlfix_grouplist = {
     "12361": "https://mangadex.org/group/13227/an0nim",
     "12381": "https://mangadex.org/group/13278/stray-dog-scans",
     "12461": "https://mangadex.org/group/13443/trash-scans",
+    "12481": "https://mangadex.org/group/13495/rx-organization",
     "1261": "http://sosexyscans.com/",
     "1301": "http://malariousarea.livejournal.com/",
     "1321": "http://pote-scans.halcy.de/",

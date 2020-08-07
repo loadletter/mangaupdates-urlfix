@@ -103,6 +103,7 @@ var urlfix_grouplist = {
     "12404": "https://mangadex.org/group/13345/mochi-scans",
     "12424": "https://mangadex.org/group/13367/spaarkbark-translations",
     "12464": "https://mangadex.org/group/13449/small-moon",
+    "12484": "https://mangadex.org/group/13499/trinitylynnscans",
     "1264": "http://sahadou.com/",
     "1284": "http://www.puripurineko.com/",
     "1324": "http://shoku-dan.org",

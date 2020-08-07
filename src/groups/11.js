@@ -102,6 +102,8 @@ var urlfix_grouplist = {
     "12371": "https://mangadex.org/group/13255/katanon",
     "12391": "https://mangadex.org/group/12889/vale-scanlation",
     "12451": "https://baguetteburgerscans.home.blog/",
+    "12471": "https://mangadex.org/group/13478/lutti-koala",
+    "12491": "https://mangadex.org/group/13479/jitsuha-scans",
     "1271": "http://kakera-t.blogspot.com/",
     "131": "http://shi-fa.cjb.net/",
     "1311": "http://midnightlove.freehostia.com/index.php",

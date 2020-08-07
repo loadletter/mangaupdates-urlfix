@@ -110,6 +110,8 @@ var urlfix_grouplist = {
     "12412": "https://mangadex.org/group/13317/platypuppy-tl",
     "12432": "https://turboclassg.tumblr.com",
     "12452": "https://mangadex.org/group/13350/the-doll-house",
+    "12472": "https://mangadex.org/group/13468/chizu-scans",
+    "12492": "https://mangadex.org/group/13504/a-group-for-munchkins",
     "1252": "http://shinai.nyaatorrents.org/",
     "1272": "http://misoramen.co.nr/",
     "1292": "http://covenantofdarkness.com/wp/",

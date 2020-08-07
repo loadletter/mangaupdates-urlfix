@@ -103,6 +103,8 @@ var urlfix_grouplist = {
     "12416": "https://mangadex.org/group/12336/anonymous-man-scans",
     "12436": "https://mangadex.org/group/13397/jerkoff-motion",
     "12456": "https://mangadex.org/group/13437/spaghetti-monsters",
+    "12476": "https://mangadex.org/group/13483/id-invaded-manga-world",
+    "12496": "https://mangadex.org/group/13174/isekai-solutions-scans",
     "1276": "http://gagakhitam.wordpress.com/",
     "1296": "http://www.urakai.com/",
     "1316": "http://community.livejournal.com/ying_kang/",

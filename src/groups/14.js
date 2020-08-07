@@ -97,6 +97,8 @@ var urlfix_grouplist = {
     "12374": "https://mangadex.org/group/13161/monk-sloth",
     "12394": "https://mangadex.org/group/13294/stray-dogs-scans",
     "12454": "https://mangadex.org/group/8253/hybridgumi",
+    "12474": "https://mangadex.org/group/13475/bs-cafe",
+    "12494": "https://mangadex.org/group/13519/just-average-scans",
     "1294": "http://star.lucky-channel.net/",
     "134": "http://terrad.wishing-blue.net",
     "1354": "http://community.livejournal.com/hitman_reborn",
