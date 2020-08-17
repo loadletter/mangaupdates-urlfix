@@ -109,6 +109,8 @@ var urlfix_grouplist = {
     "12585": "https://mangadex.org/group/13739/mangayaku-en",
     "12605": "https://mangadex.org/group/13788/yuurei-translations",
     "1265": "http://www.sorascans.com",
+    "12665": "https://mangadex.org/group/13899/frozen-scans",
+    "12685": "https://mangadex.org/group/14047/manhwa-lover",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",
     "1345": "http://boredom64.wordpress.com/",
     "1365": "http://community.livejournal.com/supreme_sugar/",

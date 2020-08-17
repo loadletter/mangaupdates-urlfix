@@ -119,6 +119,8 @@ var urlfix_grouplist = {
     "1260": "http://scanslation.tonigobe.com/",
     "12620": "https://mangadex.org/group/13833/scanhaya",
     "12640": "https://mangadex.org/group/12891/frappelatte",
+    "12680": "https://mangadex.org/group/13986/lucihdos",
+    "12700": "https://mangadex.org/group/14070/ass-is-better",
     "1320": "http://community.livejournal.com/maleshoppe/",
     "1360": "http://pawprints.reverein.net/",
     "1380": "http://nuynait.multiply.com/",
