@@ -120,6 +120,8 @@ var urlfix_grouplist = {
     "1267": "http://ahk.adgbc.com/",
     "127": "http://sdcmanga.org",
     "12707": "https://mangadex.org/group/13907/tan-tiff-translations",
+    "12727": "https://shimpaku-scanlation.blogspot.com/",
+    "12747": "https://www.jjutsuscans.com/",
     "1327": "http://www.helz0ne-scans.com/",
     "1347": "http://darkichiruki.livejournal.com/",
     "1387": "http://jsisscans.wordpress.com/",

@@ -115,6 +115,8 @@ var urlfix_grouplist = {
     "12664": "https://mangadex.org/group/13979/bisqueaks",
     "12684": "https://mangadex.org/group/14045/pinkcloudz",
     "12704": "https://mangadex.org/group/14055/occult-scans",
+    "12744": "https://mangadex.org/group/13821/comic-fx",
+    "12764": "https://mangadex.org/group/14299/tanasinn",
     "1284": "http://www.puripurineko.com/",
     "1324": "http://shoku-dan.org",
     "1344": "http://www.arigatomina.com/",

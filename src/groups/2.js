@@ -113,6 +113,8 @@ var urlfix_grouplist = {
     "12662": "https://mangadex.org/group/13958/berry-scans",
     "12682": "https://manhuaplus.com/",
     "12702": "https://mangadex.org/group/14061/suntoad",
+    "12742": "https://mangadex.org/group/14217/eindrei-manhua",
+    "12782": "https://mangadex.org/group/14334/innombrable-v",
     "1302": "http://pyupyu.wordpress.com/",
     "1342": "http://orange-kun.blogspot.com/",
     "1362": "http://bangaqua.com/",
