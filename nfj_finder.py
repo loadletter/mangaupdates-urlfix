@@ -141,4 +141,7 @@ def run(start_id):
 		print "SHORT RUN!"
 
 if __name__ == "__main__":
-	run(get_start_id() + 1)
+	if len(sys.argv) > 1:
+		run(int(sys.argv[1]))
+	else:
+		run(get_start_id() + 1)
