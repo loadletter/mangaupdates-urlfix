@@ -122,6 +122,8 @@ var urlfix_grouplist = {
     "12735": "https://mangadex.org/group/14206/absolute-bare-minimum",
     "12755": "https://mangadex.org/group/14244/paracelsus-scans",
     "12775": "https://mangadex.org/group/14323/bitch-naneun-solo",
+    "12795": "https://mangadex.org/group/8295/eljeks",
+    "12815": "https://mangadex.org/group/14454/terribly-incompetent-scans",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",
     "1355": "http://z11.invisionfree.com/We_Are_Fairy_Tail/index.php",
