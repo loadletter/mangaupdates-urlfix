@@ -125,6 +125,8 @@ var urlfix_grouplist = {
     "12801": "https://mangadex.org/group/14398/taiyaki-scans",
     "12841": "https://mangadex.org/group/14510/lidl-scans",
     "12861": "https://priconne.arcticpasserine.com/manga/c4/",
+    "12881": "https://mangadex.org/group/14250/red-string-scans",
+    "12921": "https://mangadex.org/group/14753/abnormal-cuisine-mobile",
     "1301": "http://malariousarea.livejournal.com/",
     "1321": "http://pote-scans.halcy.de/",
     "1341": "http://micro-earth.maverynthia.com/",

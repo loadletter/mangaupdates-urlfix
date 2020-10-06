@@ -120,6 +120,7 @@ var urlfix_grouplist = {
     "12837": "https://lectortmo.com/groups/29715/cpc-scan",
     "12857": "https://mangadex.org/group/14530/some-salted-fish",
     "12877": "https://mangadex.org/group/14595/blooming-tea-scans",
+    "12917": "https://mangadex.org/group/9121/moonlight-dragon-scans",
     "1297": "http://www.kuro-hanasubs.com/",
     "137": "https://mangadex.org/group/4056/memory-for-you",
     "1397": "http://community.livejournal.com/division89/",

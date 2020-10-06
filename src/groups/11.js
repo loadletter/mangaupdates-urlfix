@@ -119,6 +119,8 @@ var urlfix_grouplist = {
     "12831": "https://swaytranslations.wordpress.com/",
     "12851": "https://mangadex.org/group/14500/guksu",
     "12871": "https://mangadex.org/group/13813/scarlet-blossom-scans",
+    "12891": "https://mangadex.org/group/14598/ben-s-scans",
+    "12931": "https://mangadex.org/group/14767/smiggy-scans",
     "131": "http://shi-fa.cjb.net/",
     "1311": "http://midnightlove.freehostia.com/index.php",
     "1371": "http://www.livejournal.com/~milkcandymakers",

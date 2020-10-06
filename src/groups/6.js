@@ -121,6 +121,8 @@ var urlfix_grouplist = {
     "12846": "https://mangadex.org/group/14507/wisteria-villosa",
     "1286": "http://www.vicesndevices.net",
     "12866": "https://mangadex.org/group/13856/cokerz-should-be-asleep",
+    "12906": "https://mangadex.org/group/14707/snipe4u",
+    "12926": "https://mangadex.org/group/14522/lovesick-alley",
     "1306": "http://delinquent-manga.nyaatorrents.org/",
     "1346": "http://haoscans.wordpress.com",
     "1386": "http://ff.yukizora.net",
