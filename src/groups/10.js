@@ -125,6 +125,7 @@ var urlfix_grouplist = {
     "12830": "https://mangadex.org/group/5669/ras",
     "12870": "https://mangadex.org/group/14562/zaibatsu",
     "12930": "https://sleepytranslations.wordpress.com/",
+    "12990": "https://mangadex.org/group/11872/sol-azul",
     "130": "http://www.ma-trix.tk",
     "1330": "http://community.livejournal.com/olimoley/",
     "1370": "http://www.geocities.com/igarashim.geo/",

@@ -125,6 +125,7 @@ var urlfix_grouplist = {
     "12883": "https://mangadex.org/group/14616/makoto-no-gekkou",
     "12903": "https://mangadex.org/group/4379/none123",
     "12923": "https://mangadex.org/group/14722/dominique-strauss-scans",
+    "13003": "https://mangadex.org/group/14926/mtl-min-maxing",
     "1303": "http://chocopai.net/index.php",
     "1383": "http://zorasdomainscanlations.awardspace.com/",
     "1403": "http://trippbear.wordpress.com/",

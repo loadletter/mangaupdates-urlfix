@@ -120,6 +120,7 @@ var urlfix_grouplist = {
     "12914": "https://mangadex.org/group/14535/naisu-bodi-scans",
     "12934": "https://mangadex.org/group/14787/maouzenigame",
     "1294": "http://star.lucky-channel.net/",
+    "12994": "https://twitter.com/TombaClub",
     "134": "http://terrad.wishing-blue.net",
     "1354": "http://community.livejournal.com/hitman_reborn",
     "1414": "http://leo-ueda.blogspot.com/",

@@ -130,6 +130,7 @@ var urlfix_grouplist = {
     "129": "https://mangadex.org/group/1969/blackout",
     "12909": "https://mangadex.org/group/14715/snax-scans",
     "12929": "https://hentaixuz.blogspot.com/",
+    "12989": "https://mangadex.org/group/14920/mip-scans",
     "1309": "http://www.quickmanga.com/",
     "1329": "http://desertwell.net/",
     "1389": "http://asnano.wordpress.com/",

@@ -130,6 +130,8 @@ var urlfix_grouplist = {
     "12880": "https://rooster-writes.tumblr.com/",
     "12900": "https://mangadex.org/group/14674/night-rose-scans",
     "12920": "https://mangadex.org/group/14744/dj-tile",
+    "12940": "https://mangadex.org/group/14597/celestial-bamboo-scans",
+    "13000": "https://mangadex.org/group/9246/maru-chan",
     "1320": "http://community.livejournal.com/maleshoppe/",
     "1360": "http://pawprints.reverein.net/",
     "1380": "http://nuynait.multiply.com/",

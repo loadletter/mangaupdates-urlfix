@@ -121,6 +121,8 @@ var urlfix_grouplist = {
     "12882": "https://mangadex.org/group/13958/jiangguo-translations",
     "12902": "https://mangadex.org/group/14691/monsters-in-dump-trucks",
     "12922": "https://mangadex.org/group/14651/navinabi-scans",
+    "12982": "https://lectranslations.wordpress.com/",
+    "13002": "https://mangadex.org/group/14956/qat-translations",
     "1302": "http://pyupyu.wordpress.com/",
     "1342": "http://orange-kun.blogspot.com/",
     "1362": "http://bangaqua.com/",

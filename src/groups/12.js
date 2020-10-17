@@ -133,6 +133,7 @@ var urlfix_grouplist = {
     "12892": "https://mangadex.org/group/14563/801-scans",
     "1292": "http://covenantofdarkness.com/wp/",
     "12932": "https://mangadex.org/group/14785/prima-sakti-scans",
+    "12992": "https://mangadex.org/group/14930/ultimate-grass-scanlations",
     "1312": "http://mintscans.wordpress.com/",
     "1332": "http://community.livejournal.com/raep_time/",
     "1372": "http://www.freewebs.com/freedwings/",

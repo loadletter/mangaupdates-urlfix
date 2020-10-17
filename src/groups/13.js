@@ -128,6 +128,7 @@ var urlfix_grouplist = {
     "12913": "https://mangadex.org/group/14716/black-market-translation",
     "1293": "http://saffireparadise.livejournal.com/",
     "12933": "https://mangadex.org/group/10488/3-14rate",
+    "12993": "https://mangadex.org/group/14857/mylovetiger",
     "1313": "http://apathys.wordpress.com/",
     "133": "http://www.thehawks.org/",
     "1333": "http://www.redmadness.net/",

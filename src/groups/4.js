@@ -125,6 +125,7 @@ var urlfix_grouplist = {
     "12884": "https://mangadex.org/group/11515/perf",
     "12904": "https://mangadex.org/group/10902/atr",
     "12924": "https://mangadex.org/group/14764/somedudesscans",
+    "13004": "https://mangadex.org/group/14963/june-scans",
     "1324": "http://shoku-dan.org",
     "1344": "http://www.arigatomina.com/",
     "1364": "http://shoujokiss.blogspot.com",

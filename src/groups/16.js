@@ -127,6 +127,8 @@ var urlfix_grouplist = {
     "12916": "https://mangadex.org/group/14622/lily-s-garden",
     "12936": "https://mangadex.org/group/7978/dra12345",
     "1296": "http://www.urakai.com/",
+    "12976": "https://mangadex.org/group/14889/makiheilgh",
+    "12996": "https://mukudorii.tumblr.com/",
     "1316": "http://community.livejournal.com/ying_kang/",
     "1336": "http://m1s4k0.livejournal.com/",
     "1356": "http://bunpitsu.wordpress.com/",

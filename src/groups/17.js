@@ -122,6 +122,7 @@ var urlfix_grouplist = {
     "12877": "https://mangadex.org/group/14595/blooming-tea-scans",
     "12917": "https://mangadex.org/group/9121/moonlight-dragon-scans",
     "1297": "http://www.kuro-hanasubs.com/",
+    "12997": "https://mangadex.org/group/14943/10m-sacrifices",
     "137": "https://mangadex.org/group/4056/memory-for-you",
     "1397": "http://community.livejournal.com/division89/",
     "1417": "http://www.geocities.com/sneaky_panda_scan/index.html",
