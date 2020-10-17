@@ -126,6 +126,7 @@ var urlfix_grouplist = {
     "12896": "https://mangadex.org/group/14404/flower-pot",
     "12916": "https://mangadex.org/group/14622/lily-s-garden",
     "12936": "https://mangadex.org/group/7978/dra12345",
+    "12956": "https://sites.google.com/view/uselessbian-translations",
     "1296": "http://www.urakai.com/",
     "12976": "https://mangadex.org/group/14889/makiheilgh",
     "12996": "https://mukudorii.tumblr.com/",

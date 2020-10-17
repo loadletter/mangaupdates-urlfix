@@ -122,6 +122,8 @@ var urlfix_grouplist = {
     "12885": "https://mangadex.org/group/14617/wondermity",
     "12905": "https://mangadex.org/group/14703/toat-translations",
     "12925": "https://mangadex.org/group/14763/jobbposcans",
+    "12945": "https://mangadex.org/group/14818/rulan",
+    "12965": "https://mangadex.org/group/14832/cinnamoroll-army",
     "13005": "https://mangadex.org/group/14957/step-bro-scans",
     "13025": "https://mangadex.org/group/15049/ks-group",
     "13045": "https://mangadex.org/group/15082/insert-name-here-scanlations",

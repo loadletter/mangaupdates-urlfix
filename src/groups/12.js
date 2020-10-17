@@ -133,6 +133,8 @@ var urlfix_grouplist = {
     "12892": "https://mangadex.org/group/14563/801-scans",
     "1292": "http://covenantofdarkness.com/wp/",
     "12932": "https://mangadex.org/group/14785/prima-sakti-scans",
+    "12952": "https://mangadex.org/group/14821/wild-creature-scans",
+    "12972": "https://mangadex.org/group/10103/majingascans",
     "12992": "https://mangadex.org/group/14930/ultimate-grass-scanlations",
     "13012": "https://mangadex.org/group/14909/ebi-don",
     "13032": "https://mangadex.org/group/13301/lupin-trad",

@@ -120,6 +120,8 @@ var urlfix_grouplist = {
     "12914": "https://mangadex.org/group/14535/naisu-bodi-scans",
     "12934": "https://mangadex.org/group/14787/maouzenigame",
     "1294": "http://star.lucky-channel.net/",
+    "12954": "https://mangadex.org/group/14424/",
+    "12974": "https://mangadex.org/group/14879/natto-to-be-deleted",
     "12994": "https://twitter.com/TombaClub",
     "13014": "https://mangadex.org/group/14997/mrstealyouriq",
     "13034": "https://mangadex.org/group/15084/sunny-side-up",

@@ -123,6 +123,7 @@ var urlfix_grouplist = {
     "12899": "https://mangadex.org/group/14371/uprise-scanlations",
     "12919": "https://mangadex.org/group/14654/kareki-scans",
     "12939": "https://mangadex.org/group/14639/lazybastardscans",
+    "12979": "https://mangadex.org/group/12903/low-quality-scans",
     "1299": "http://www.mangashare.com/",
     "12999": "https://nyxtranslation.home.blog/",
     "13019": "https://mangadex.org/group/15010/unmotivated-boomerz",

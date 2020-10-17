@@ -130,6 +130,8 @@ var urlfix_grouplist = {
     "129": "https://mangadex.org/group/1969/blackout",
     "12909": "https://mangadex.org/group/14715/snax-scans",
     "12929": "https://hentaixuz.blogspot.com/",
+    "12949": "https://mangadex.org/group/14679/reign-of-ice-scans",
+    "12969": "https://mangadex.org/group/14842/jojo-s-bizarre-encyclopedia",
     "12989": "https://mangadex.org/group/14920/mip-scans",
     "13009": "https://mangadex.org/group/8318/soleil",
     "13029": "https://rainofsnow.com/",

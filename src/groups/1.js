@@ -127,6 +127,8 @@ var urlfix_grouplist = {
     "12861": "https://priconne.arcticpasserine.com/manga/c4/",
     "12881": "https://mangadex.org/group/14250/red-string-scans",
     "12921": "https://mangadex.org/group/14753/abnormal-cuisine-mobile",
+    "12941": "https://comickiba.com/",
+    "12961": "https://mangadex.org/group/14844/maitranslations",
     "12981": "https://mangadex.org/group/14824/lowki",
     "13001": "https://mangadex.org/group/14919/komekomeya",
     "1301": "http://malariousarea.livejournal.com/",

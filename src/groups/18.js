@@ -130,6 +130,8 @@ var urlfix_grouplist = {
     "12878": "https://mangadex.org/group/14589/bruh-central-scans",
     "12898": "https://mangadex.org/group/14662/sailorsagitarius101",
     "12938": "https://mangadex.org/group/14735/comicplus",
+    "12958": "https://mangadex.org/group/14789/frontier-outpost",
+    "12978": "https://alectronascans.tumblr.com/",
     "13038": "https://mangadex.org/group/15103/watermelonely-scans",
     "13058": "https://mangadex.org/group/14767/otomenashi-scans",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",

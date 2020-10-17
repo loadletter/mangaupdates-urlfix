@@ -121,6 +121,8 @@ var urlfix_grouplist = {
     "12871": "https://mangadex.org/group/13813/scarlet-blossom-scans",
     "12891": "https://mangadex.org/group/14598/ben-s-scans",
     "12931": "https://mangadex.org/group/14767/smiggy-scans",
+    "12951": "https://mangadex.org/group/14813/knox",
+    "12971": "https://mangadex.org/group/14689/haname-scans",
     "12991": "https://mmag-translations.tumblr.com/",
     "13011": "http://xaiomoge.com",
     "13031": "https://mangadex.org/group/14201/pastel-rhapsody",

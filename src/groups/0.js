@@ -131,6 +131,8 @@ var urlfix_grouplist = {
     "12900": "https://mangadex.org/group/14674/night-rose-scans",
     "12920": "https://mangadex.org/group/14744/dj-tile",
     "12940": "https://mangadex.org/group/14597/celestial-bamboo-scans",
+    "12960": "https://mangadex.org/group/14739/dotei-sama-scans",
+    "12980": "https://mangadex.org/group/14897/archaic-scans",
     "13000": "https://mangadex.org/group/9246/maru-chan",
     "13020": "https://mangadex.org/group/15020/xxx-scans",
     "13040": "https://mangadex.org/group/12419/raiho80",

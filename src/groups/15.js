@@ -125,6 +125,7 @@ var urlfix_grouplist = {
     "12795": "https://mangadex.org/group/8295/eljeks",
     "12815": "https://mangadex.org/group/14454/terribly-incompetent-scans",
     "12935": "https://mangadex.org/group/12507/strawberry-design",
+    "12955": "https://mangadex.org/group/14840/schimmelbande",
     "13015": "https://mangadex.org/group/14969/simp-it-scans",
     "13035": "https://mangadex.org/group/5712/un-team-a-caso",
     "13055": "https://mangadex.org/group/14856/lazy-egg-translations",

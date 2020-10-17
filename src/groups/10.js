@@ -125,6 +125,8 @@ var urlfix_grouplist = {
     "12830": "https://mangadex.org/group/5669/ras",
     "12870": "https://mangadex.org/group/14562/zaibatsu",
     "12930": "https://sleepytranslations.wordpress.com/",
+    "12950": "https://mangadex.org/group/14833/howdyho",
+    "12970": "https://mangadex.org/group/14864/infrequent-scans",
     "12990": "https://mangadex.org/group/11872/sol-azul",
     "130": "http://www.ma-trix.tk",
     "13010": "https://mangadex.org/group/14978/honey-jiejie-scans",
