@@ -81,6 +81,9 @@ def run(start_id):
 	invalid_count = 0
 	last_valid = None
 	for g in range(start_id, start_id + RUN_OFFSET):
+		sys.stderr.write("\r[%d]" % g)
+		sys.stderr.flush()
+
 		if invalid_count > LAST_OFFSET:
 			print "END:", last_valid
 			break
