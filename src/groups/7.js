@@ -129,6 +129,7 @@ var urlfix_grouplist = {
     "12887": "https://mangadex.org/group/14636/meh-translation",
     "12907": "https://mangadex.org/group/14714/atlantis-princess",
     "12927": "https://mangadex.org/group/14752/harem-kings",
+    "13007": "https://mangadex.org/group/14783/dark-angel-scans",
     "1327": "http://www.helz0ne-scans.com/",
     "1347": "http://darkichiruki.livejournal.com/",
     "1387": "http://jsisscans.wordpress.com/",

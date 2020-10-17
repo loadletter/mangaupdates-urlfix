@@ -125,6 +125,8 @@ var urlfix_grouplist = {
     "12939": "https://mangadex.org/group/14639/lazybastardscans",
     "1299": "http://www.mangashare.com/",
     "12999": "https://nyxtranslation.home.blog/",
+    "13019": "https://mangadex.org/group/15010/unmotivated-boomerz",
+    "13059": "https://mangadex.org/group/13941/fairyscans",
     "1359": "http://mangahelpers.com/s/fayte",
     "1379": "http://www.freewebs.com/celestialscans",
     "1399": "http://community.livejournal.com/chiisai_kedi/",
