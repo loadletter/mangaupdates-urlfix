@@ -135,6 +135,8 @@ var urlfix_grouplist = {
     "13021": "https://mangadex.org/group/15028/atrscans",
     "13041": "https://mangadex.org/group/15129/ymiaw",
     "13061": "https://kotonoha-translations.tumblr.com/",
+    "13081": "https://mangadex.org/group/15264/tadpole-scanlations",
+    "13101": "https://mangadex.org/group/15333/fathwine",
     "1321": "http://pote-scans.halcy.de/",
     "1341": "http://micro-earth.maverynthia.com/",
     "1381": "http://hamhamscans.wordpress.com/",

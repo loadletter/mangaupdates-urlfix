@@ -132,6 +132,8 @@ var urlfix_grouplist = {
     "13024": "https://mangadex.org/group/15006/lotus-world",
     "13044": "https://mangadex.org/group/15123/knights-of-baron",
     "13064": "https://mangadex.org/group/15146/liquid-knot-scanlations",
+    "13084": "https://mangadex.org/group/15187/puzzle-kings",
+    "13104": "https://manga18.fun/",
     "1324": "http://shoku-dan.org",
     "1344": "http://www.arigatomina.com/",
     "1364": "http://shoujokiss.blogspot.com",

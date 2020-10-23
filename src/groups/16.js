@@ -133,6 +133,8 @@ var urlfix_grouplist = {
     "13016": "https://mangadex.org/group/15000/opoanane",
     "13036": "https://mangadex.org/group/11360/dead-inside-team",
     "13056": "https://mangadex.org/group/15131/bk-scanlations",
+    "13076": "https://mangadex.org/group/15005/yurei",
+    "13096": "https://spiraclow.tumblr.com/",
     "1316": "http://community.livejournal.com/ying_kang/",
     "1336": "http://m1s4k0.livejournal.com/",
     "1356": "http://bunpitsu.wordpress.com/",

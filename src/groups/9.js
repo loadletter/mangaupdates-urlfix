@@ -137,6 +137,7 @@ var urlfix_grouplist = {
     "13029": "https://rainofsnow.com/",
     "13049": "https://mangadex.org/group/15152/plz-pick-this-up",
     "13069": "https://mangadex.org/group/13705/una-buona-lettura-e-passa-tutto",
+    "13089": "https://mangadex.org/group/15292/tilly",
     "1309": "http://www.quickmanga.com/",
     "1329": "http://desertwell.net/",
     "1389": "http://asnano.wordpress.com/",

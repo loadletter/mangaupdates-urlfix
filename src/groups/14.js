@@ -126,6 +126,8 @@ var urlfix_grouplist = {
     "13014": "https://mangadex.org/group/14997/mrstealyouriq",
     "13034": "https://mangadex.org/group/15084/sunny-side-up",
     "13054": "https://mangadex.org/group/15165/pref-uploader",
+    "13074": "https://mangadex.org/group/15246/seieki-scans",
+    "13094": "https://mangadex.org/group/15320/behind-the-ramen-shop-translations",
     "134": "http://terrad.wishing-blue.net",
     "1354": "http://community.livejournal.com/hitman_reborn",
     "1414": "http://leo-ueda.blogspot.com/",

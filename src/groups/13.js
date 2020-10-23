@@ -133,6 +133,8 @@ var urlfix_grouplist = {
     "13013": "https://mangadex.org/group/12737/",
     "13033": "https://mangadex.org/group/14741/magnos-scans",
     "13053": "https://mangadex.org/group/15159/magneto",
+    "13073": "https://mangadex.org/group/15247/capybara-scans",
+    "13093": "https://mangadex.org/group/15316/bored-corona-kids",
     "1313": "http://apathys.wordpress.com/",
     "133": "http://www.thehawks.org/",
     "1333": "http://www.redmadness.net/",

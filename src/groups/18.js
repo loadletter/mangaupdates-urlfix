@@ -134,6 +134,8 @@ var urlfix_grouplist = {
     "12978": "https://alectronascans.tumblr.com/",
     "13038": "https://mangadex.org/group/15103/watermelonely-scans",
     "13058": "https://mangadex.org/group/14767/otomenashi-scans",
+    "13078": "https://mangadex.org/group/14992/tribescan",
+    "13098": "https://mangadex.org/group/15219/a-singular-luhbuh",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",
     "1478": "http://osuwari.zoushea.com/",

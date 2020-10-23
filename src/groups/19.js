@@ -128,6 +128,8 @@ var urlfix_grouplist = {
     "12999": "https://nyxtranslation.home.blog/",
     "13019": "https://mangadex.org/group/15010/unmotivated-boomerz",
     "13059": "https://mangadex.org/group/13941/fairyscans",
+    "13079": "https://mangadex.org/group/8112/starry-night-scans",
+    "13099": "https://mangadex.org/group/15139/somewhatokaytranslations",
     "1359": "http://mangahelpers.com/s/fayte",
     "1379": "http://www.freewebs.com/celestialscans",
     "1399": "http://community.livejournal.com/chiisai_kedi/",

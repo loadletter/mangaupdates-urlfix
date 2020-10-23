@@ -133,6 +133,7 @@ var urlfix_grouplist = {
     "12967": "https://mangadex.org/group/14866/hand-of-vecna",
     "12987": "https://mangadex.org/group/14912/japari-park",
     "13007": "https://mangadex.org/group/14783/dark-angel-scans",
+    "13087": "https://mangadex.org/group/14578/len-and-rin-scans",
     "1327": "http://www.helz0ne-scans.com/",
     "1347": "http://darkichiruki.livejournal.com/",
     "1387": "http://jsisscans.wordpress.com/",

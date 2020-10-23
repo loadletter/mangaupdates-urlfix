@@ -133,6 +133,8 @@ var urlfix_grouplist = {
     "1303": "http://chocopai.net/index.php",
     "13043": "https://mangadex.org/group/15015/rice-paddle-scans",
     "13063": "https://mangadex.org/group/13813/bl-caf",
+    "13083": "https://mangadex.org/group/15273/zericiia",
+    "13103": "https://mangadex.org/group/15351/bl-bakery",
     "1383": "http://zorasdomainscanlations.awardspace.com/",
     "1403": "http://trippbear.wordpress.com/",
     "143": "http://eden.randomfandom.com",

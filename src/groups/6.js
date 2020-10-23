@@ -131,6 +131,7 @@ var urlfix_grouplist = {
     "13046": "https://mangadex.org/group/15137/vykron-scans",
     "1306": "http://delinquent-manga.nyaatorrents.org/",
     "13066": "https://mangadex.org/group/10936/",
+    "13086": "https://mangadex.org/group/15280/unexpecteduser",
     "1346": "http://haoscans.wordpress.com",
     "1386": "http://ff.yukizora.net",
     "1406": "http://offcourt.livejournal.com",

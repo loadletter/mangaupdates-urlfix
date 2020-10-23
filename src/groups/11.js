@@ -128,6 +128,7 @@ var urlfix_grouplist = {
     "13031": "https://mangadex.org/group/14201/pastel-rhapsody",
     "13051": "https://mangadex.org/group/15158/fairy-ring",
     "13071": "https://mangadex.org/group/15208/it-has-been-soo-long",
+    "13091": "https://mangadex.org/group/15228/mangakaroshi",
     "131": "http://shi-fa.cjb.net/",
     "1311": "http://midnightlove.freehostia.com/index.php",
     "1371": "http://www.livejournal.com/~milkcandymakers",

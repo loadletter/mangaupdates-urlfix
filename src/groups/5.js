@@ -128,6 +128,7 @@ var urlfix_grouplist = {
     "13025": "https://mangadex.org/group/15049/ks-group",
     "13045": "https://mangadex.org/group/15082/insert-name-here-scanlations",
     "13065": "https://mangadex.org/group/14779/bahamut-translations",
+    "13085": "https://mangadex.org/group/15175/mafbos-translations",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",
     "1345": "http://boredom64.wordpress.com/",
     "1365": "http://community.livejournal.com/supreme_sugar/",

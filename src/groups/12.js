@@ -140,6 +140,7 @@ var urlfix_grouplist = {
     "13032": "https://mangadex.org/group/13301/lupin-trad",
     "13052": "https://mangadex.org/group/14631/veiled-sagacity-famiglia-scans",
     "13072": "https://mangadex.org/group/15232/toti5292",
+    "13092": "https://mangadex.org/group/15141/brwonboys",
     "1312": "http://mintscans.wordpress.com/",
     "1332": "http://community.livejournal.com/raep_time/",
     "1372": "http://www.freewebs.com/freedwings/",
