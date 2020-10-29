@@ -135,6 +135,8 @@ var urlfix_grouplist = {
     "13056": "https://mangadex.org/group/15131/bk-scanlations",
     "13076": "https://mangadex.org/group/15005/yurei",
     "13096": "https://spiraclow.tumblr.com/",
+    "13116": "https://mangadex.org/group/15408/harawata-scans",
+    "13136": "https://mangadex.org/group/15462/noveltavern",
     "1316": "http://community.livejournal.com/ying_kang/",
     "1336": "http://m1s4k0.livejournal.com/",
     "1356": "http://bunpitsu.wordpress.com/",

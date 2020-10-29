@@ -134,6 +134,7 @@ var urlfix_grouplist = {
     "13050": "https://mangadex.org/group/14948/painful-nightz",
     "13070": "https://mangadex.org/group/15227/mimickee-translation",
     "13090": "https://mangadex.org/group/15301/oreo-translations",
+    "13130": "https://mangadex.org/group/15444/seejo-tri",
     "1330": "http://community.livejournal.com/olimoley/",
     "1370": "http://www.geocities.com/igarashim.geo/",
     "1470": "http://groups.yahoo.com/group/henshin_manga",

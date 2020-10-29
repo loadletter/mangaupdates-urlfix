@@ -134,6 +134,8 @@ var urlfix_grouplist = {
     "12987": "https://mangadex.org/group/14912/japari-park",
     "13007": "https://mangadex.org/group/14783/dark-angel-scans",
     "13087": "https://mangadex.org/group/14578/len-and-rin-scans",
+    "13107": "https://mangadex.org/group/15370/copypaste",
+    "13127": "https://mangadex.org/group/15419/the-manga-detective-agency",
     "1327": "http://www.helz0ne-scans.com/",
     "1347": "http://darkichiruki.livejournal.com/",
     "1387": "http://jsisscans.wordpress.com/",

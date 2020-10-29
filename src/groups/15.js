@@ -131,6 +131,7 @@ var urlfix_grouplist = {
     "13055": "https://mangadex.org/group/14856/lazy-egg-translations",
     "13075": "https://mangadex.org/group/15260/behelit-scans",
     "13095": "https://mangadex.org/group/15327/guyfromrandomtranslations",
+    "13115": "https://mangadex.org/group/15284/suni-scan",
     "1315": "http://onupdates.net/",
     "135": "http://shscans.wordpress.com/",
     "1355": "http://z11.invisionfree.com/We_Are_Fairy_Tail/index.php",

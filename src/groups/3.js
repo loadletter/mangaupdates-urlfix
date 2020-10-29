@@ -135,6 +135,8 @@ var urlfix_grouplist = {
     "13063": "https://mangadex.org/group/13813/bl-caf",
     "13083": "https://mangadex.org/group/15273/zericiia",
     "13103": "https://mangadex.org/group/15351/bl-bakery",
+    "13123": "https://mangadex.org/group/3791/celestial-scans",
+    "13143": "https://mangadex.org/group/15487/overblack-team",
     "1383": "http://zorasdomainscanlations.awardspace.com/",
     "1403": "http://trippbear.wordpress.com/",
     "143": "http://eden.randomfandom.com",

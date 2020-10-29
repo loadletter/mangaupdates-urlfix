@@ -139,6 +139,8 @@ var urlfix_grouplist = {
     "13069": "https://mangadex.org/group/13705/una-buona-lettura-e-passa-tutto",
     "13089": "https://mangadex.org/group/15292/tilly",
     "1309": "http://www.quickmanga.com/",
+    "13109": "https://mangadex.org/group/15373/acerathegreat",
+    "13129": "https://mangadex.org/group/15443/tjlax03",
     "1329": "http://desertwell.net/",
     "1389": "http://asnano.wordpress.com/",
     "1449": "http://rusalkaz.livejournal.com/",

@@ -131,6 +131,7 @@ var urlfix_grouplist = {
     "13091": "https://mangadex.org/group/15228/mangakaroshi",
     "131": "http://shi-fa.cjb.net/",
     "1311": "http://midnightlove.freehostia.com/index.php",
+    "13131": "https://mangadex.org/group/15157/7sins-team",
     "1371": "http://www.livejournal.com/~milkcandymakers",
     "1391": "http://community.livejournal.com/awakening_fire/",
     "1431": "http://quickmanga.com/",

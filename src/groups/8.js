@@ -139,6 +139,8 @@ var urlfix_grouplist = {
     "13048": "https://mangadex.org/group/15122/ntrconnoisseur",
     "13068": "https://auspizien.livejournal.com/",
     "1308": "http://sleepystudio.livejournal.com/",
+    "13108": "https://mangadex.org/group/14436/universal-scans",
+    "13128": "https://mangadex.org/group/15125/hisaku-scans",
     "1328": "http://soullypass.livejournal.com/",
     "1348": "http://www.ninjabuzz.com/",
     "1368": "http://www.celestial-delinquent.com/",

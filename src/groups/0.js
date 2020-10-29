@@ -139,6 +139,8 @@ var urlfix_grouplist = {
     "13060": "https://stellarscans.carrd.co/",
     "13080": "https://mangadex.org/group/15211/bl-haven",
     "13100": "https://mangadex.org/group/15345/kuroi-raven-scans",
+    "13120": "https://mangadex.org/group/12074/doutei-rangers",
+    "13140": "https://mangadex.org/group/15168/rm-chan",
     "1320": "http://community.livejournal.com/maleshoppe/",
     "1360": "http://pawprints.reverein.net/",
     "1380": "http://nuynait.multiply.com/",

@@ -134,6 +134,7 @@ var urlfix_grouplist = {
     "13064": "https://mangadex.org/group/15146/liquid-knot-scanlations",
     "13084": "https://mangadex.org/group/15187/puzzle-kings",
     "13104": "https://manga18.fun/",
+    "13124": "https://mangadex.org/group/15423/vasegiatta",
     "1324": "http://shoku-dan.org",
     "1344": "http://www.arigatomina.com/",
     "1364": "http://shoujokiss.blogspot.com",
