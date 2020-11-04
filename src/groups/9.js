@@ -141,6 +141,7 @@ var urlfix_grouplist = {
     "1309": "http://www.quickmanga.com/",
     "13109": "https://mangadex.org/group/15373/acerathegreat",
     "13129": "https://mangadex.org/group/15443/tjlax03",
+    "13169": "https://mangadex.org/group/15050/joysisi-scans",
     "1329": "http://desertwell.net/",
     "1389": "http://asnano.wordpress.com/",
     "1449": "http://rusalkaz.livejournal.com/",

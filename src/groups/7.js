@@ -136,6 +136,8 @@ var urlfix_grouplist = {
     "13087": "https://mangadex.org/group/14578/len-and-rin-scans",
     "13107": "https://mangadex.org/group/15370/copypaste",
     "13127": "https://mangadex.org/group/15419/the-manga-detective-agency",
+    "13147": "https://mangadex.org/group/15143/rutaboggly",
+    "13167": "https://mangadex.org/group/15575/majesty-heart",
     "1327": "http://www.helz0ne-scans.com/",
     "1347": "http://darkichiruki.livejournal.com/",
     "1387": "http://jsisscans.wordpress.com/",

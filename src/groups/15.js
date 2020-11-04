@@ -133,6 +133,8 @@ var urlfix_grouplist = {
     "13095": "https://mangadex.org/group/15327/guyfromrandomtranslations",
     "13115": "https://mangadex.org/group/15284/suni-scan",
     "1315": "http://onupdates.net/",
+    "13155": "https://mangadex.org/group/15206/fap-it-scans",
+    "13175": "https://mangadex.org/group/15616/bring-back-crystal-pepsi",
     "135": "http://shscans.wordpress.com/",
     "1355": "http://z11.invisionfree.com/We_Are_Fairy_Tail/index.php",
     "1375": "http://zan-hentai.thumblogger.com/home/",

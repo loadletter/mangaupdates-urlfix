@@ -132,6 +132,7 @@ var urlfix_grouplist = {
     "13097": "https://mangadex.org/group/15326/last-man-scans",
     "13117": "https://mangadex.org/group/15238/super-secret-rainbow-translation-team",
     "13137": "https://mangadex.org/group/15358/danshilations",
+    "13157": "https://mangadex.org/group/15521/bakana-inu-scans",
     "137": "https://mangadex.org/group/4056/memory-for-you",
     "1397": "http://community.livejournal.com/division89/",
     "1417": "http://www.geocities.com/sneaky_panda_scan/index.html",

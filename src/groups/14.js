@@ -129,6 +129,8 @@ var urlfix_grouplist = {
     "13074": "https://mangadex.org/group/15246/seieki-scans",
     "13094": "https://mangadex.org/group/15320/behind-the-ramen-shop-translations",
     "13134": "https://mangadex.org/group/15457/genericscans",
+    "13154": "https://mangadex.org/group/15206/fap-it-scans",
+    "13174": "https://mangadex.org/group/15577/shaved-ice",
     "134": "http://terrad.wishing-blue.net",
     "1354": "http://community.livejournal.com/hitman_reborn",
     "1414": "http://leo-ueda.blogspot.com/",

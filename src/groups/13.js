@@ -137,6 +137,8 @@ var urlfix_grouplist = {
     "13093": "https://mangadex.org/group/15316/bored-corona-kids",
     "1313": "http://apathys.wordpress.com/",
     "13133": "https://mangadex.org/group/15454/subl",
+    "13153": "https://mangadex.org/group/15536/pepopep",
+    "13173": "https://panatl.wordpress.com/",
     "133": "http://www.thehawks.org/",
     "1333": "http://www.redmadness.net/",
     "1373": "http://katscradle.freehostia.com",

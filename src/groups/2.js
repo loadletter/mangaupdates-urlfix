@@ -133,6 +133,7 @@ var urlfix_grouplist = {
     "13102": "https://mangadex.org/group/15349/iamaraccoon321",
     "13122": "https://mangadex.org/group/15424/comfy-scans",
     "13142": "https://mangadex.org/group/15249/toxic-scans",
+    "13162": "https://mangadex.org/group/15564/drunkscan",
     "1342": "http://orange-kun.blogspot.com/",
     "1362": "http://bangaqua.com/",
     "1402": "http://www.red-balloons.net/",

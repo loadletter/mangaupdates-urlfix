@@ -131,6 +131,7 @@ var urlfix_grouplist = {
     "13085": "https://mangadex.org/group/15175/mafbos-translations",
     "13105": "https://mangadex.org/group/15275/kitsunico",
     "13125": "https://mangadex.org/group/13193/roxy-club",
+    "13145": "https://mangadex.org/group/15364/cooky-scans",
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",
     "1345": "http://boredom64.wordpress.com/",
     "1365": "http://community.livejournal.com/supreme_sugar/",

@@ -138,6 +138,7 @@ var urlfix_grouplist = {
     "13098": "https://mangadex.org/group/15219/a-singular-luhbuh",
     "13118": "https://mangadex.org/group/15398/levana-scans",
     "13138": "https://mangadex.org/group/15297/wdweebtoons",
+    "13158": "https://mangadex.org/group/15552/penguin-logistics",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",
     "1478": "http://osuwari.zoushea.com/",
