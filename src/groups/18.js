@@ -144,6 +144,7 @@ var urlfix_grouplist = {
     "13218": "https://mangadex.org/group/13922/mangallama",
     "13238": "https://mangadex.org/group/15817/horse-deer-scans",
     "13258": "https://mangadex.org/group/15714/pizza-hut",
+    "13278": "https://mangadex.org/group/9853/kazu-works",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",
     "1478": "http://osuwari.zoushea.com/",

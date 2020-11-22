@@ -136,6 +136,7 @@ var urlfix_grouplist = {
     "13177": "https://mangadex.org/group/15642/culturedcommissions",
     "13217": "https://idolishtranslations.tumblr.com/",
     "13257": "https://mangadex.org/group/15878/doot-squad",
+    "13277": "https://manhuaes.com/",
     "137": "https://mangadex.org/group/4056/memory-for-you",
     "1397": "http://community.livejournal.com/division89/",
     "1417": "http://www.geocities.com/sneaky_panda_scan/index.html",
