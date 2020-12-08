@@ -139,6 +139,8 @@ var urlfix_grouplist = {
     "13206": "https://mangadex.org/group/14426/zaloga-bombowca",
     "13246": "https://mangadex.org/group/8487/dulce-veneno-yaoi-fansub",
     "13266": "https://mangadex.org/group/12833/a-goblin-s-dream",
+    "13326": "https://mangadex.org/group/16148/lazybones-scans",
+    "13366": "https://mangadex.org/group/14349/flightless-bird-scans",
     "1346": "http://haoscans.wordpress.com",
     "1386": "http://ff.yukizora.net",
     "1406": "http://offcourt.livejournal.com",

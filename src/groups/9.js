@@ -147,6 +147,8 @@ var urlfix_grouplist = {
     "13249": "https://fudido-scanlator.blogspot.com/",
     "13269": "https://mangadex.org/group/15938/onegarbagegal",
     "1329": "http://desertwell.net/",
+    "13309": "https://mangadex.org/group/16079/vovo-scans",
+    "13369": "https://mangadex.org/group/5893/ligma-scans",
     "1389": "http://asnano.wordpress.com/",
     "1449": "http://rusalkaz.livejournal.com/",
     "1469": "http://www.mangalounge.com/",
