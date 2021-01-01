@@ -149,6 +149,8 @@ var urlfix_grouplist = {
     "13422": "https://mangadex.org/group/16458/ikemen4life",
     "13442": "https://mangadex.org/group/5797/uchuujin",
     "13462": "https://mangadex.org/group/16550/safetyshark-coloring",
+    "13482": "https://mangadex.org/group/14251/dianthus-scans",
+    "13502": "https://mangadex.org/group/5895/impulse-scans",
     "1362": "http://bangaqua.com/",
     "1402": "http://www.red-balloons.net/",
     "1422": "http://www.freewebs.com/skyangelko",

@@ -152,6 +152,7 @@ var urlfix_grouplist = {
     "13423": "https://mangadex.org/group/16493/bakemono-scans",
     "13443": "https://mangadex.org/group/14160/manga-hits-different-when-it-s-darker",
     "13463": "https://mangadex.org/group/16600/smol_scans",
+    "13503": "https://mangadex.org/group/11785/flamerscan",
     "1383": "http://zorasdomainscanlations.awardspace.com/",
     "1403": "http://trippbear.wordpress.com/",
     "143": "http://eden.randomfandom.com",

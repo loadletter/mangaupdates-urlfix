@@ -145,6 +145,8 @@ var urlfix_grouplist = {
     "13414": "https://mangadex.org/group/16398/kofitaye-scans",
     "13434": "https://mangadex.org/group/16525/piime",
     "13454": "https://mangadex.org/group/16569/jane-miller-s-horrible-translations",
+    "13494": "https://mangadex.org/group/16710/abandoned-crown-scans",
+    "13514": "https://mangadex.org/group/16776/sub-scans",
     "1354": "http://community.livejournal.com/hitman_reborn",
     "1414": "http://leo-ueda.blogspot.com/",
     "1514": "http://utm.yaoi-island.com/",

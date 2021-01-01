@@ -149,6 +149,8 @@ var urlfix_grouplist = {
     "13445": "https://mangadex.org/group/16562/nil",
     "1345": "http://boredom64.wordpress.com/",
     "13465": "https://mangadex.org/group/16583/kuhaku_scans",
+    "13485": "https://mangadex.org/group/16672/nike",
+    "13505": "https://mangadex.org/group/16732/butterfly-scans",
     "1365": "http://community.livejournal.com/supreme_sugar/",
     "1405": "http://www.z3.invisionfree.com/Josui_9",
     "1425": "http://vongola.freehyperspace.com/",

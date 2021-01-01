@@ -158,6 +158,7 @@ var urlfix_grouplist = {
     "13432": "https://mangadex.org/group/16512/myths",
     "13452": "https://mangadex.org/group/16359/lemon-ade-scans",
     "13472": "https://mangadex.org/group/16523/dk-scans",
+    "13512": "https://mangadex.org/group/16759/bobscans",
     "1372": "http://www.freewebs.com/freedwings/",
     "1392": "http://rallamajoop.lisa-rye.com/guiltygear/",
     "1432": "http://www.mangapimps.com",

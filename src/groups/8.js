@@ -158,6 +158,7 @@ var urlfix_grouplist = {
     "13448": "https://mangadex.org/group/15394/mochiii-scans",
     "13468": "https://room-for-milk.blogspot.com/",
     "1348": "http://www.ninjabuzz.com/",
+    "13488": "https://mangadex.org/group/16576/indra-scans",
     "1368": "http://www.celestial-delinquent.com/",
     "1408": "http://enrai.zxq.net/",
     "1448": "http://emitly.livejournal.com/",

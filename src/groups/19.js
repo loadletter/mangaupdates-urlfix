@@ -149,6 +149,7 @@ var urlfix_grouplist = {
     "13439": "https://mangadex.org/group/16520/kurosagi-scanlation-service",
     "13459": "https://mangadex.org/group/16584/casualcity",
     "13479": "https://mangadex.org/group/16625/manga-raider",
+    "13499": "https://mangadex.org/group/15571/afternoon-pulp",
     "1359": "http://mangahelpers.com/s/fayte",
     "1379": "http://www.freewebs.com/celestialscans",
     "1399": "http://community.livejournal.com/chiisai_kedi/",

@@ -152,6 +152,8 @@ var urlfix_grouplist = {
     "13430": "https://mangadex.org/group/16524/momocchi-fansubs",
     "13450": "https://mangadex.org/group/16578/ballsiver-scans",
     "13470": "https://mangadex.org/group/13984/kingdom",
+    "13490": "https://mangadex.org/group/16614/supremacy-translates",
+    "13510": "https://magicalgirlelsatranslations.tumblr.com/",
     "1370": "http://www.geocities.com/igarashim.geo/",
     "1470": "http://groups.yahoo.com/group/henshin_manga",
     "1490": "http://rabbitrepublic.wordpress.com/",

@@ -146,6 +146,8 @@ var urlfix_grouplist = {
     "13446": "https://mangadex.org/group/16564/aloalivn",
     "1346": "http://haoscans.wordpress.com",
     "13466": "https://mangadex.org/group/15925/ura",
+    "13486": "https://mangadex.org/group/10776/umairuem-scans",
+    "13506": "https://mangadex.org/group/16322/sicc-fucc-scans",
     "1386": "http://ff.yukizora.net",
     "1406": "http://offcourt.livejournal.com",
     "1446": "http://nenekoscanlations.wordpress.com/",

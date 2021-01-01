@@ -154,6 +154,8 @@ var urlfix_grouplist = {
     "13416": "https://mangadex.org/group/16469/moka-scans",
     "13436": "https://mangadex.org/group/16436/blacksmith-scans",
     "13456": "https://mangadex.org/group/16544/panda-mint-scans",
+    "13496": "https://mangadex.org/group/16567/orchid-of-the-moon",
+    "13516": "https://blankspacetranslations.wordpress.com/",
     "1356": "http://bunpitsu.wordpress.com/",
     "136": "http://www.zeonic-republic.net/",
     "1416": "http://mangahelpers.com/s/basementscans",

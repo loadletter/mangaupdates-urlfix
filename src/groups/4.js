@@ -149,6 +149,8 @@ var urlfix_grouplist = {
     "13404": "https://mangadex.org/group/16122/machinetl",
     "1344": "http://www.arigatomina.com/",
     "13464": "https://mangadex.org/group/8817/numbuh1",
+    "13484": "https://mangadex.org/group/16673/broken-hearts",
+    "13504": "https://mangadex.org/group/14817/go-with-the-flow",
     "1364": "http://shoujokiss.blogspot.com",
     "1384": "http://gekkoukanhigh.ongakusai.net/",
     "1424": "http://www.naruto-s.net.tf/",

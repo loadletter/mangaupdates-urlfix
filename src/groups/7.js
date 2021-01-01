@@ -151,6 +151,8 @@ var urlfix_grouplist = {
     "13447": "https://mushokuji.wordpress.com/",
     "13467": "https://mangadex.org/group/14521/akuyaku-scans",
     "1347": "http://darkichiruki.livejournal.com/",
+    "13487": "https://mangadex.org/group/16101/phoenix-walk",
+    "13507": "https://mangadex.org/group/16748/pulpi-s-team",
     "1387": "http://jsisscans.wordpress.com/",
     "1407": "http://www.csimi.org/",
     "1447": "http://www.geocities.com/lilwhisper22/",

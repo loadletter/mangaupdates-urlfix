@@ -156,6 +156,8 @@ var urlfix_grouplist = {
     "13433": "https://mangadex.org/group/16511/luffyminati",
     "13453": "https://mangadex.org/group/16300/ricey-bowl-scans",
     "13473": "https://mangadex.org/group/16602/1-v-9-team-diff-scans",
+    "13493": "https://sites.google.com/view/rudytudysubs/",
+    "13513": "https://mangadex.org/group/16742/high-tea-scans",
     "1373": "http://katscradle.freehostia.com",
     "1393": "http://scan.mangafever.net/",
     "1413": "http://eternalsorrow.blog.fc2.com/",

@@ -154,6 +154,8 @@ var urlfix_grouplist = {
     "13429": "https://24hromance.com/",
     "13449": "https://badmachinetranslations.blogspot.com/",
     "13469": "https://mangadex.org/group/16621/granto",
+    "13489": "https://mangadex.org/group/16690/fries",
+    "13509": "https://mangadex.org/group/16753/the-freaklings",
     "1389": "http://asnano.wordpress.com/",
     "1449": "http://rusalkaz.livejournal.com/",
     "1469": "http://www.mangalounge.com/",

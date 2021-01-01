@@ -157,6 +157,7 @@ var urlfix_grouplist = {
     "13440": "https://mangadex.org/group/16522/moon-pack-scans",
     "13460": "https://mangadex.org/group/16585/namescans",
     "13480": "https://mangadex.org/group/16648/ididdisonmyown",
+    "13500": "https://mangadex.org/group/15775/borny-scans",
     "1360": "http://pawprints.reverein.net/",
     "1380": "http://nuynait.multiply.com/",
     "140": "http://www.sugar-oasis.net/",

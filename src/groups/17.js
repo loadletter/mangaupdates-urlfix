@@ -147,6 +147,7 @@ var urlfix_grouplist = {
     "13437": "https://mangadex.org/group/16538/worldstar",
     "13457": "https://mangadex.org/group/16554/projektscans",
     "13477": "https://mangadex.org/group/12878/the-degenerate-s",
+    "13497": "https://mangadex.org/group/16081/empire-scans",
     "137": "https://mangadex.org/group/4056/memory-for-you",
     "1397": "http://community.livejournal.com/division89/",
     "1417": "http://www.geocities.com/sneaky_panda_scan/index.html",

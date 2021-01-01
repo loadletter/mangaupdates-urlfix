@@ -157,6 +157,7 @@ var urlfix_grouplist = {
     "13441": "https://mangadex.org/group/14728/brave-hearts",
     "13461": "https://mangadex.org/group/16346/relaxed-pace-scans",
     "13481": "https://mangadex.org/group/16616/sugar-s-serendipity",
+    "13501": "https://mangadex.org/group/16637/the-butterfly-effect-s",
     "1381": "http://hamhamscans.wordpress.com/",
     "1401": "http://waltz-alone.livejournal.com/",
     "141": "http://groups.msn.com/AngelsAdolescence/home.htm",
