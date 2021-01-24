@@ -162,6 +162,8 @@ var urlfix_grouplist = {
     "13576": "https://mangadex.org/group/16952/asagariscans",
     "13596": "https://mangadex.org/group/16901/inked-galaxy",
     "136": "http://www.zeonic-republic.net/",
+    "13636": "https://mangadex.org/group/17146/prince-s-fan",
+    "13656": "https://mangadex.org/group/17229/yodacar-scanlations",
     "1416": "http://mangahelpers.com/s/basementscans",
     "1456": "http://www.pink-panzer.com/",
     "1496": "http://community.livejournal.com/hiiro_reiichi/",

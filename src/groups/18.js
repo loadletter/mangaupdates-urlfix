@@ -158,6 +158,7 @@ var urlfix_grouplist = {
     "13518": "https://mangadex.org/group/16784/platinum-crown",
     "13538": "https://mangadex.org/group/16714/bookwyrm-scans",
     "13578": "https://mangadex.org/group/16930/yoroz-translation",
+    "13618": "https://mangadex.org/group/16792/scn-scans",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",
     "1478": "http://osuwari.zoushea.com/",
