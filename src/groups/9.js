@@ -156,6 +156,8 @@ var urlfix_grouplist = {
     "13469": "https://mangadex.org/group/16621/granto",
     "13489": "https://mangadex.org/group/16690/fries",
     "13509": "https://mangadex.org/group/16753/the-freaklings",
+    "13529": "https://mangadex.org/group/16815/pika-scans",
+    "13569": "https://secluded-yoruhi.tumblr.com/",
     "1389": "http://asnano.wordpress.com/",
     "1449": "http://rusalkaz.livejournal.com/",
     "1469": "http://www.mangalounge.com/",

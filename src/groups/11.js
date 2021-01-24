@@ -149,6 +149,8 @@ var urlfix_grouplist = {
     "13471": "https://mangadex.org/group/16622/lucky-volleyball-club",
     "13491": "https://mangadex.org/group/16706/ragtag",
     "13511": "https://mangadex.org/group/16772/a-nonysaurus",
+    "13571": "https://mangadex.org/group/16458/flowerikemenscans",
+    "13591": "https://mangadex.org/group/15319/war-queen-scan",
     "1371": "http://www.livejournal.com/~milkcandymakers",
     "1391": "http://community.livejournal.com/awakening_fire/",
     "1431": "http://quickmanga.com/",

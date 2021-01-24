@@ -151,6 +151,8 @@ var urlfix_grouplist = {
     "13462": "https://mangadex.org/group/16550/safetyshark-coloring",
     "13482": "https://mangadex.org/group/14251/dianthus-scans",
     "13502": "https://mangadex.org/group/5895/impulse-scans",
+    "13522": "https://mangadex.org/group/16809/snow-tiger-scans",
+    "13542": "https://mangadex.org/group/16824/cadre-scans",
     "1362": "http://bangaqua.com/",
     "1402": "http://www.red-balloons.net/",
     "1422": "http://www.freewebs.com/skyangelko",
