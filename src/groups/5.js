@@ -161,6 +161,8 @@ var urlfix_grouplist = {
     "13685": "https://mangadex.org/group/17364/yakusitemiru",
     "13705": "https://mangadex.org/group/16398/palace-of-pooches",
     "13725": "https://mangadex.org/group/17469/b-s",
+    "13765": "https://mangadex.org/group/17555/red-star-creative-collective-rscc",
+    "13785": "https://makeruna-tl.blogspot.com/",
     "1405": "http://www.z3.invisionfree.com/Josui_9",
     "1425": "http://vongola.freehyperspace.com/",
     "1465": "http://trine.sodasexy.org/",

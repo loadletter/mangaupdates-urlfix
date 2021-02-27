@@ -161,6 +161,8 @@ var urlfix_grouplist = {
     "137": "https://mangadex.org/group/4056/memory-for-you",
     "13717": "https://mangadex.org/group/6573/totoro-fansub",
     "13757": "https://mangadex.org/group/17534/senbonzakura-scans",
+    "13777": "https://mangadex.org/group/17625/handsonfire",
+    "13797": "https://mangadex.org/group/6001/roaringshiva",
     "1397": "http://community.livejournal.com/division89/",
     "1417": "http://www.geocities.com/sneaky_panda_scan/index.html",
     "1437": "http://angelicpowder.onigiri.nu",

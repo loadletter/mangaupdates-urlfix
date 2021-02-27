@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "13701": "https://mojibake-scans.tumblr.com/",
     "13721": "https://mangadex.org/group/17462/netascans",
     "13741": "https://mangadex.org/group/17400/ko-skanz",
+    "13781": "https://mangadex.org/group/17433/not-a-filler-episode",
     "1381": "http://hamhamscans.wordpress.com/",
     "1401": "http://waltz-alone.livejournal.com/",
     "141": "http://groups.msn.com/AngelsAdolescence/home.htm",

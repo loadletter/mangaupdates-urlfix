@@ -164,6 +164,8 @@ var urlfix_grouplist = {
     "1370": "http://www.geocities.com/igarashim.geo/",
     "13730": "https://shadowcatkin16.livejournal.com/",
     "13750": "https://mangadex.org/group/17467/poopycrappyscans",
+    "13770": "https://mangadex.org/group/17596/juche-necromancy",
+    "13790": "https://mangadex.org/group/17662/zero-form-translations",
     "1470": "http://groups.yahoo.com/group/henshin_manga",
     "1490": "http://rabbitrepublic.wordpress.com/",
     "150": "http://www.reimu.net/",

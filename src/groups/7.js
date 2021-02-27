@@ -164,6 +164,8 @@ var urlfix_grouplist = {
     "13707": "https://mangadex.org/group/16278/anitation-arts",
     "13727": "https://vmanhua.org/",
     "13747": "https://dragontea.ink/",
+    "13767": "https://mangadex.org/group/17554/cloutaku-scans",
+    "13787": "https://mangadex.org/group/15554/one-meh-scans",
     "1387": "http://jsisscans.wordpress.com/",
     "1407": "http://www.csimi.org/",
     "1447": "http://www.geocities.com/lilwhisper22/",

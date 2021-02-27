@@ -165,6 +165,7 @@ var urlfix_grouplist = {
     "13683": "https://mangadex.org/group/17329/caffeine-overload",
     "13723": "https://mangadex.org/group/17451/siblingscans",
     "13743": "https://mangadex.org/group/17487/u-onigkkwgn",
+    "13783": "https://mangadex.org/group/17636/moon-scrolls-scans",
     "1383": "http://zorasdomainscanlations.awardspace.com/",
     "1403": "http://trippbear.wordpress.com/",
     "143": "http://eden.randomfandom.com",

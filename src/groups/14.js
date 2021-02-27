@@ -159,6 +159,8 @@ var urlfix_grouplist = {
     "13694": "https://mangadex.org/group/17176/amore-translations",
     "13714": "https://mangadex.org/group/17296/not-fine-translations",
     "13754": "https://mangadex.org/group/6928/seekingeyes",
+    "13774": "https://mangadex.org/group/16713/the-lilacs",
+    "13794": "https://mangadex.org/group/17674/freshly-baked-scans",
     "1414": "http://leo-ueda.blogspot.com/",
     "1514": "http://utm.yaoi-island.com/",
     "1534": "http://www.ouran-koukou.org/",

@@ -161,6 +161,8 @@ var urlfix_grouplist = {
     "13618": "https://mangadex.org/group/16792/scn-scans",
     "13698": "https://mangadex.org/group/17372/shanxi-scans",
     "13738": "https://tomoe-daeva.livejournal.com/",
+    "13778": "https://polinsesiscans.wordpress.com/",
+    "13798": "https://translationteam.tumblr.com/",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",
     "1478": "http://osuwari.zoushea.com/",

@@ -171,6 +171,7 @@ var urlfix_grouplist = {
     "13688": "https://mangadex.org/group/16711/legion",
     "13708": "https://mangadex.org/group/11011/reset-scans",
     "13748": "https://mangadex.org/group/17489/pick-it-up-scans",
+    "13788": "https://mangadex.org/group/17624/ramyun-scans",
     "1408": "http://enrai.zxq.net/",
     "1448": "http://emitly.livejournal.com/",
     "1468": "http://miirache.wordpress.com/",

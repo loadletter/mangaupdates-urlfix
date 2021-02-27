@@ -164,6 +164,7 @@ var urlfix_grouplist = {
     "13689": "https://mangadex.org/group/17368/otaku-chocolate",
     "13709": "https://mangadex.org/group/11074/midnight-mess-scans",
     "13749": "https://mangadex.org/group/17526/salaryman-scans",
+    "13789": "https://mangadex.org/group/17658/ensemble-scans",
     "1389": "http://asnano.wordpress.com/",
     "1449": "http://rusalkaz.livejournal.com/",
     "1469": "http://www.mangalounge.com/",

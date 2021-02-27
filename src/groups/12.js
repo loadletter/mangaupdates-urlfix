@@ -172,6 +172,8 @@ var urlfix_grouplist = {
     "1372": "http://www.freewebs.com/freedwings/",
     "13732": "http://doujinshi-tards.blogspot.com/",
     "13752": "https://mangadex.org/group/17324/bobo-blowns",
+    "13772": "https://mangadex.org/group/16379/scrimps-scanlations",
+    "13792": "https://www.wattpad.com/user/EredNayami",
     "1392": "http://rallamajoop.lisa-rye.com/guiltygear/",
     "1432": "http://www.mangapimps.com",
     "1532": "http://pythongwordpress.blogspot.com/",

@@ -158,6 +158,8 @@ var urlfix_grouplist = {
     "13686": "https://mangadex.org/group/14431/kurotronic-scans",
     "13706": "https://mangadex.org/group/17166/lranger9000",
     "13726": "https://mangadex.org/group/17436/zebby-scans",
+    "13766": "https://mangadex.org/group/14670/illiterate-bitches",
+    "13786": "https://mangadex.org/group/17623/chapter-filler-senpai",
     "1386": "http://ff.yukizora.net",
     "1406": "http://offcourt.livejournal.com",
     "1446": "http://nenekoscanlations.wordpress.com/",

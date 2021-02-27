@@ -165,6 +165,8 @@ var urlfix_grouplist = {
     "13715": "https://mangadex.org/group/17447/sayonar-non",
     "1375": "http://zan-hentai.thumblogger.com/home/",
     "13755": "https://mangadex.org/group/14514/inister",
+    "13775": "https://mangadex.org/group/15302/biblical-love",
+    "13795": "https://mangadex.org/group/17673/ultralight-scans",
     "1435": "http://etoviafma.googlepages.com/home",
     "1455": "http://potatoland.jp.pn/",
     "15": "http://bato.to/group/_/m/mangarchive-r2359",

@@ -167,6 +167,8 @@ var urlfix_grouplist = {
     "13676": "https://mangadex.org/group/14032/practi-scan",
     "13696": "https://mangadex.org/group/15790/thousand-lilies",
     "13736": "https://sasusaku.livejournal.com/",
+    "13776": "https://mangadex.org/group/17611/drifters-project",
+    "13796": "https://mangadex.org/group/17676/omomoian",
     "1416": "http://mangahelpers.com/s/basementscans",
     "1456": "http://www.pink-panzer.com/",
     "1496": "http://community.livejournal.com/hiiro_reiichi/",

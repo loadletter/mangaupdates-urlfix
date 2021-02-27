@@ -170,6 +170,7 @@ var urlfix_grouplist = {
     "13700": "https://buffmescans.tumblr.com/",
     "13720": "https://mangadex.org/group/12459/tnt",
     "13740": "https://mangadex.org/group/17478/p-f-chan-s",
+    "13780": "https://mangadex.org/group/17604/tropser",
     "1380": "http://nuynait.multiply.com/",
     "140": "http://www.sugar-oasis.net/",
     "1400": "http://btrmanga.livejournal.com/",

@@ -163,6 +163,7 @@ var urlfix_grouplist = {
     "13704": "https://mangadex.org/group/16570/please-pick-this-up",
     "13724": "https://mangadex.org/group/17395/vi-nine",
     "13744": "https://mangadex.org/group/17502/skull-scans",
+    "13784": "https://mangadex.org/group/17638/swinging-jazz",
     "1384": "http://gekkoukanhigh.ongakusai.net/",
     "1424": "http://www.naruto-s.net.tf/",
     "1444": "http://silversoulscans.livejournal.com/",

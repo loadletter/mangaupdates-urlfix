@@ -169,6 +169,8 @@ var urlfix_grouplist = {
     "13713": "https://mangadex.org/group/17439/purple-cress",
     "1373": "http://katscradle.freehostia.com",
     "13753": "https://mangadex.org/group/13738/macaron-scans",
+    "13773": "https://mangadex.org/group/17602/plus-thinking-team",
+    "13793": "https://mangadex.org/group/10895/tcb-scans",
     "1393": "http://scan.mangafever.net/",
     "1413": "http://eternalsorrow.blog.fc2.com/",
     "1453": "http://jshojo.atspace.com",
