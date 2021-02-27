@@ -162,6 +162,8 @@ var urlfix_grouplist = {
     "13650": "https://mangadex.org/group/17195/phloup",
     "13670": "https://mangadex.org/group/17277/nyam-nyam-scans",
     "1370": "http://www.geocities.com/igarashim.geo/",
+    "13730": "https://shadowcatkin16.livejournal.com/",
+    "13750": "https://mangadex.org/group/17467/poopycrappyscans",
     "1470": "http://groups.yahoo.com/group/henshin_manga",
     "1490": "http://rabbitrepublic.wordpress.com/",
     "150": "http://www.reimu.net/",

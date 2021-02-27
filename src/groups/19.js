@@ -156,6 +156,8 @@ var urlfix_grouplist = {
     "13599": "https://mangadex.org/group/16365/taniguchi-scanlations",
     "13619": "https://mangadex.org/group/16911/shit-google-translate-scans",
     "13659": "https://mangadex.org/group/17023/zetsubou-translations",
+    "13679": "https://mangadex.org/group/17331/strawberry-scans",
+    "13719": "https://mangadex.org/group/17122/boba-witchcraft",
     "1379": "http://www.freewebs.com/celestialscans",
     "1399": "http://community.livejournal.com/chiisai_kedi/",
     "1439": "http://torrentfreak.livejournal.com/",
