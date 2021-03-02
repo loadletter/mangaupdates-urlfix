@@ -171,6 +171,8 @@ var urlfix_grouplist = {
     "13753": "https://mangadex.org/group/13738/macaron-scans",
     "13773": "https://mangadex.org/group/17602/plus-thinking-team",
     "13793": "https://mangadex.org/group/10895/tcb-scans",
+    "13813": "https://mangadex.org/group/15895/revolution-no-fansub",
+    "13833": "https://mangadex.org/group/17560/the-yurihouse",
     "1393": "http://scan.mangafever.net/",
     "1413": "http://eternalsorrow.blog.fc2.com/",
     "1453": "http://jshojo.atspace.com",

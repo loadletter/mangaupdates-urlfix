@@ -161,6 +161,7 @@ var urlfix_grouplist = {
     "13779": "https://mangadex.org/group/17612/morning-choco-squad-tbd",
     "1379": "http://www.freewebs.com/celestialscans",
     "13799": "https://mangadex.org/group/17282/cygnet-scans",
+    "13839": "https://mangadex.org/group/17801/thonk-scans",
     "1399": "http://community.livejournal.com/chiisai_kedi/",
     "1439": "http://torrentfreak.livejournal.com/",
     "1459": "http://kiarin.livejournal.com/",

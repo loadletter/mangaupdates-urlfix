@@ -161,6 +161,7 @@ var urlfix_grouplist = {
     "13702": "https://mangadex.org/group/17412/vulture-scans",
     "13742": "https://mangadex.org/group/17351/no-banana-scans",
     "13782": "https://mangadex.org/group/17597/smirked-scans",
+    "13822": "https://slimegang.wordpress.com/",
     "1402": "http://www.red-balloons.net/",
     "1422": "http://www.freewebs.com/skyangelko",
     "1482": "http://hyuugalegacy-scans.blogspot.com/",

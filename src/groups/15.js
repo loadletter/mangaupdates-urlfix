@@ -167,6 +167,8 @@ var urlfix_grouplist = {
     "13755": "https://mangadex.org/group/14514/inister",
     "13775": "https://mangadex.org/group/15302/biblical-love",
     "13795": "https://mangadex.org/group/17673/ultralight-scans",
+    "13815": "https://mangadex.org/group/17726/fyir-s-chair",
+    "13835": "https://mangadex.org/group/17805/trash-boi",
     "1435": "http://etoviafma.googlepages.com/home",
     "1455": "http://potatoland.jp.pn/",
     "15": "http://bato.to/group/_/m/mangarchive-r2359",

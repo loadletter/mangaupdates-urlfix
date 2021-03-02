@@ -163,6 +163,7 @@ var urlfix_grouplist = {
     "13738": "https://tomoe-daeva.livejournal.com/",
     "13778": "https://polinsesiscans.wordpress.com/",
     "13798": "https://translationteam.tumblr.com/",
+    "13818": "https://mangadex.org/group/17600/orbital-scans",
     "1418": "http://www.livejournal.com/users/zuzu_tricia/",
     "1458": "http://fan.vnmanga.com/",
     "1478": "http://osuwari.zoushea.com/",

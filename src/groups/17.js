@@ -163,6 +163,8 @@ var urlfix_grouplist = {
     "13757": "https://mangadex.org/group/17534/senbonzakura-scans",
     "13777": "https://mangadex.org/group/17625/handsonfire",
     "13797": "https://mangadex.org/group/6001/roaringshiva",
+    "13817": "https://mangadex.org/group/17681/thepervertedscanner",
+    "13837": "https://mangadex.org/group/17819/hahashit",
     "1397": "http://community.livejournal.com/division89/",
     "1417": "http://www.geocities.com/sneaky_panda_scan/index.html",
     "1437": "http://angelicpowder.onigiri.nu",

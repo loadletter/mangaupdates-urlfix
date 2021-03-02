@@ -162,6 +162,8 @@ var urlfix_grouplist = {
     "13751": "https://mangadex.org/group/17504/morshu",
     "13771": "https://mangadex.org/group/15810/refurbished-translations",
     "13791": "https://mangadex.org/group/17650/moshi-scans",
+    "13811": "https://mangadex.org/group/17622/pudding",
+    "13831": "https://mangadex.org/group/17562/akari-sumire-scans",
     "1391": "http://community.livejournal.com/awakening_fire/",
     "1431": "http://quickmanga.com/",
     "1451": "http://badoscans.pezyuan.net/",
