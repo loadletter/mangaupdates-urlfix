@@ -5,7 +5,7 @@
 // @match       *://www.mangaupdates.com/groups.html*
 // @match       *://www.mangaupdates.com/mylist.html*
 // @match       *://www.mangaupdates.com/releases.html*
-// @version     1.9
+// @version     1.10
 // @downloadURL https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @updateURL   https://github.com/loadletter/mangaupdates-urlfix/raw/master/mangaupdates_urlfix.user.js
 // @grant       none
