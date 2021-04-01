@@ -76,7 +76,7 @@ function get_query_params() {
 }
 
 function set_redirection() {
-    var prev_el = document.querySelector('a[href="groups.html?active=false"]');
+    var prev_el = document.querySelector('a[href="https://www.mangaupdates.com/groups.html?active=false"]');
     if (!prev_el) {
         return;
     }
