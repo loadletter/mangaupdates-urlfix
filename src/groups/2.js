@@ -59,7 +59,7 @@ var urlfix_grouplist = {
     "11382": "https://mangadex.org/group/10830/quack-scans",
     "1142": "http://www.unc.edu/~achao/sdmanga.html",
     "11422": "https://mangadex.org/group/10988/zilocybn",
-    "11442": "https://mangadex.org/group/11022/midnight-bruisers",
+    "11442": "https://midnight-bruisers.blogspot.com/",
     "11522": "https://mangadex.org/group/11111/kyuusarii",
     "11542": "https://mangadex.org/group/8056/tetsuscans",
     "11582": "https://mangadex.org/group/11327/reaper_claw-scans",

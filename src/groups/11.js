@@ -419,7 +419,7 @@ var urlfix_grouplist = {
     "8331": "https://mangadex.org/group/2276/whb",
     "8391": "http://hikkinomori.wordpress.com",
     "8411": "http://nagittos.tumblr.com",
-    "8431": "http://kudouusagi.livejournal.com/",
+    "8431": "https://kudouusagi.tumblr.com/",
     "8451": "http://straydog12.tumblr.com",
     "8471": "http://1sqftoffluffle.tumblr.com/",
     "8491": "http://haihaihaikyuu.tumblr.com/",

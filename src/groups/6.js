@@ -164,6 +164,7 @@ var urlfix_grouplist = {
     "13826": "https://e-hentai.org/uploader/naoki1048",
     "13846": "https://mangadex.org/group/17855/i-just-like-the-rocks",
     "1386": "http://ff.yukizora.net",
+    "14046": "https://lynxscans.com/",
     "1406": "http://offcourt.livejournal.com",
     "1446": "http://nenekoscanlations.wordpress.com/",
     "1526": "http://community.livejournal.com/dr_ten_tenshi/",
