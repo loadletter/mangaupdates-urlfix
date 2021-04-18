@@ -136,7 +136,7 @@ var urlfix_grouplist = {
     "12968": "https://mangadex.org/group/13606/yaoi-pl-scan",
     "12988": "https://mangadex.org/group/14911/initial-freak",
     "13008": "https://mangadex.org/group/14684/cursed-xcalibr",
-    "13028": "https://mangadex.org/group/14927/the-guild",
+    "13028": "https://genkan.io/groups/1665792999-the-guild",
     "13048": "https://mangadex.org/group/15122/ntrconnoisseur",
     "13068": "https://auspizien.livejournal.com/",
     "1308": "http://sleepystudio.livejournal.com/",

@@ -48,7 +48,7 @@ var urlfix_grouplist = {
     "10981": "https://mangadex.org/group/9957/notosolo-scans",
     "11001": "https://mangadex.org/group/731/tjincit",
     "11081": "https://mangadex.org/group/10202/neph-scans-stuff",
-    "11101": "Mangadex dead",
+    "11101": "https://twitter.com/DfLmanga",
     "11141": "https://mangadex.org/group/10463/chewbaca-scans",
     "11161": "https://mangadex.org/group/10095/the-empire-scans",
     "11181": "https://mangadex.org/group/10566/loli-appreciation-bureau",
