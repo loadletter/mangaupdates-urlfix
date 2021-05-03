@@ -32,7 +32,7 @@ var urlfix_grouplist = {
     "10621": "https://peaceofmindscans.home.blog/",
     "10641": "https://mangadex.org/group/8590/owls-nest",
     "10661": "https://mangadex.org/group/7467/a-p-t-s",
-    "10681": "https://mangadex.org/group/8802/black-cat-scanlations",
+    "10681": "https://catmanga.org/",
     "10701": "https://mangadex.org/group/7836/magnos-scalation",
     "10721": "https://mangadex.org/group/9006/spirit-griffon",
     "10741": "https://mangadex.org/group/8971/council-of-scans",
