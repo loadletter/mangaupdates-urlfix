@@ -149,7 +149,7 @@ var urlfix_grouplist = {
     "13435": "https://mangadex.org/group/16534/skellyscans",
     "13455": "https://mangadex.org/group/16324/solohzz",
     "13475": "https://mangadex.org/group/16528/chef-s-kitchen",
-    "13495": "https://mangadex.org/group/16283/white-cat-scanlations",
+    "13495": "https://catmanga.org/",
     "135": "http://shscans.wordpress.com/",
     "13515": "https://mangadex.org/group/16765/nyan-scans",
     "13535": "https://mangadex.org/group/16786/a-few-hidden-gems",

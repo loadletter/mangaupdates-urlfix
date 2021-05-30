@@ -463,6 +463,7 @@ var urlfix_grouplist = {
     "90": "https://www.mangaupdates.com/groups.html?id=90",
     "9030": "http://www.h-konbini.net/",
     "9050": "https://lullingreverie.wordpress.com/",
+    "9070": "https://dear-mr-dante.tumblr.com/",
     "9090": "https://sodascans.me/",
     "910": "http://www.sweetcream.org/",
     "9110": "http://tresbienscanlations.tumblr.com/",

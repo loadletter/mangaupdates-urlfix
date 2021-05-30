@@ -442,7 +442,7 @@ var urlfix_grouplist = {
     "8332": "https://dayment.mangadex.com/",
     "8352": "http://users.livejournal.com/-deru/profile",
     "8372": "http://alcnolien.livejournal.com/",
-    "8392": "http://cocktalehours.tumblr.com/",
+    "8392": "https://cocktalehours-blog.tumblr.com/",
     "8412": "https://sites.google.com/site/casvalsubs/",
     "8452": "http://exaltxd.tumblr.com",
     "8472": "http://tattahitori.tumblr.com/",

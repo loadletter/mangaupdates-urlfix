@@ -91,7 +91,7 @@ var urlfix_grouplist = {
     "12145": "https://krakenscans.com/home",
     "12165": "https://mangadex.org/group/12692/oh-heckin-lurkers",
     "12185": "https://mangadex.org/group/12743/baccanale-scans",
-    "12225": "https://mangadex.org/group/12109/the-fluffy-hangout-group",
+    "12225": "https://www.fluffyhangout.club/",
     "12245": "https://mangadex.org/group/12876/snacc-scans",
     "1225": "http://community.livejournal.com/keith_ltd/",
     "12265": "https://mangadex.org/group/12930/legacy-scans",

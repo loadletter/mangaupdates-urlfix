@@ -233,7 +233,7 @@ var urlfix_grouplist = {
     "3123": "http://sidoohproject.wordpress.com/",
     "3143": "http://lazyfag.wordpress.com/",
     "3163": "http://manjuubuns.boards.net/",
-    "3183": "https://chillockscans.com/",
+    "3183": "https://chillockscans.tumblr.com/",
     "323": "http://www.kakyoku.org/fctranslations",
     "3263": "http://community.livejournal.com/moy_moe_scans/",
     "3283": "http://pearsehillock.blogspot.com/",
