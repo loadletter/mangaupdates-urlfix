@@ -168,6 +168,7 @@ var urlfix_grouplist = {
     "13824": "https://mangadex.org/group/17718/eritzuscans",
     "1384": "http://gekkoukanhigh.ongakusai.net/",
     "13844": "https://mangadex.org/group/16424/mt-manga-translator",
+    "14224": "https://www.luminousscans.com/",
     "1424": "http://www.naruto-s.net.tf/",
     "1444": "http://silversoulscans.livejournal.com/",
     "1524": "http://isuzuchan44.livejournal.com/",

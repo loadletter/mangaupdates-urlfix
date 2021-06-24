@@ -139,7 +139,7 @@ var urlfix_grouplist = {
     "1325": "http://www.freewebs.com/vkcrossacademy/index.htm",
     "13265": "https://mangadex.org/group/15926/evergreen-scans",
     "13285": "https://mangadex.org/group/6496/ara-ara-scans",
-    "13305": "https://mangadex.org/group/16104/mmscans",
+    "13305": "https://mm-scans.com/",
     "13325": "https://mangadex.org/group/16139/lionize",
     "13345": "https://mangadex.org/group/15810/avancier-scans",
     "13365": "https://mangadex.org/group/16293/gaijin",
